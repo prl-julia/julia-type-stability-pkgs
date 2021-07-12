@@ -1,0 +1,16 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+Matte,argument_names,1,1.0,0.0,1,0,0,247,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/reflection.jl,42
+Matte,reverse_dependency_tree,1,1.0,0.0,1,0,0,548,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/reflection.jl,2
+Matte,#matte_example#55,1,1.0,1.0,1,0,0,210,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/usethis.jl,12
+Matte,included_file_path,1,1.0,1.0,1,0,0,57,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/static.jl,1
+Matte,sanitycheck,1,0.0,0.0,1,0,0,263,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/sanity.jl,1
+Matte,matte_example,1,1.0,1.0,1,0,0,55,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/usethis.jl,12
+Matte,create_sessions,1,1.0,0.0,1,0,0,220,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/session.jl,40
+Matte,dependency_tree,1,1.0,1.0,1,0,0,371,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/reflection.jl,20
+Matte,module_functions,1,1.0,1.0,1,0,0,208,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/reflection.jl,35
+Matte,#run_app#42,1,1.0,0.0,1,0,0,423,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/run.jl,22
+Matte,get_handler,1,0.0,0.0,1,0,0,212,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/reflection.jl,49
+Matte,#new_matte_app#56,1,1.0,1.0,1,0,0,103,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/usethis.jl,35
+Matte,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/Matte.jl,1
+Matte,is_user_defined,1,1.0,1.0,1,0,0,105,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/reflection.jl,31
+Matte,genie_config,1,1.0,1.0,1,0,0,220,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Matte/depot/packages/Matte/DjYGg/src/run.jl,1

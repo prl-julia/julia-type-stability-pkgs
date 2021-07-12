@@ -1,0 +1,23 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[GZip]]
+deps = ["Libdl"]
+git-tree-sha1 = "039be665faf0b8ae36e089cd694233f5dee3f7d6"
+uuid = "92fee26a-97fe-5a0c-ad85-20a5f3185b63"
+version = "0.5.1"
+
+[[Libdl]]
+uuid = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[[LinearAlgebra]]
+deps = ["Libdl"]
+uuid = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[[PiCraft]]
+deps = ["GZip", "LinearAlgebra", "Sockets"]
+git-tree-sha1 = "ce9cfbcf2373410d0d23f14b28fdf07bfd372341"
+uuid = "6cc4b21d-cec8-58d5-a373-5cd579ce5971"
+version = "0.3.0"
+
+[[Sockets]]
+uuid = "6462fe0b-24de-5631-8697-dd941f90decc"

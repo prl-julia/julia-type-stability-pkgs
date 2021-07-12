@@ -1,0 +1,23 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+MySQL.API,mysql_options,true,true,0,1,Int32,"Ptr{Nothing},MySQL.API.mysql_option,Ptr{Nothing}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/ccalls.jl,362
+MySQL.API,mysql_real_connect,true,true,0,1,Ptr{Nothing},"Ptr{Nothing},String,String,String,String,Int64,String,UInt64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/ccalls.jl,401
+MySQL.API,@c,true,false,1,1,Expr,"LineNumberNode,Module,Any,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/ccalls.jl,1
+MySQL,#setoptions!#4,true,true,34,1,Nothing,"Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Nothing,Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(MySQL.setoptions!),MySQL.API.MYSQL",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/MySQL.jl,103
+MySQL.API,setoption,true,true,6,1,Int32,"MySQL.API.MYSQL,MySQL.API.mysql_option,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/capi.jl,964
+MySQL,clientflags,true,true,0,1,UInt64,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/MySQL.jl,74
+MySQL.API,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/API.jl,1
+MySQL.API,mysql_close,true,true,0,1,Nothing,Ptr{Nothing},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/ccalls.jl,72
+MySQL.API,init,true,true,0,1,MySQL.API.MYSQL,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/capi.jl,573
+MySQL.API,@checknull,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/capi.jl,9
+MySQL.API,@c,true,false,1,1,Expr,"LineNumberNode,Module,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/ccalls.jl,1
+MySQL.API,connect,true,true,1,1,MySQL.API.MYSQL,"MySQL.API.MYSQL,String,String,String,String,Int64,String,UInt64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/capi.jl,1132
+MySQL.API,@checkstmtsuccess,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/papi.jl,1
+MySQL,setoptions!,true,true,0,1,Nothing,MySQL.API.MYSQL,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/MySQL.jl,103
+MySQL.API,mysql_errno,true,true,0,1,UInt32,Ptr{Nothing},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/ccalls.jl,102
+MySQL,#connect#5,true,true,0,1,MySQL.Connection,"String,Int64,String,Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(DBInterface.connect),Type{MySQL.Connection},String,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/MySQL.jl,284
+MySQL.API,mysql_error,true,true,0,1,Ptr{UInt8},Ptr{Nothing},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/ccalls.jl,110
+MySQL,#clientflags#3,true,true,13,1,UInt64,"Bool,Bool,Bool,Bool,Bool,Bool,Bool,Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(MySQL.clientflags)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/MySQL.jl,74
+MySQL.API,@c,true,false,1,1,Expr,"LineNumberNode,Module,Any,Any,Any,Symbol,Vararg{Symbol,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/ccalls.jl,1
+MySQL,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/MySQL.jl,1
+MySQL.API,@checksuccess,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/capi.jl,1
+MySQL.API,mysql_init,true,true,0,1,Ptr{Nothing},Ptr{Nothing},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MySQL/depot/packages/MySQL/pLoSZ/src/api/ccalls.jl,293

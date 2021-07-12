@@ -1,0 +1,26 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[AbstractLattices]]
+git-tree-sha1 = "f35684b7349da49fcc8a9e520e30e45dbb077166"
+uuid = "398f06c4-4d28-53ec-89ca-5b2656b7603d"
+version = "0.2.1"
+
+[[AbstractTensors]]
+deps = ["AbstractLattices", "LinearAlgebra", "Random"]
+git-tree-sha1 = "34de5c9aa9b1ee234f52c77f10f21ea9d735202d"
+uuid = "a8e43f4a-99b7-5565-8bf1-0165161caaea"
+version = "0.6.5"
+
+[[Libdl]]
+uuid = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[[LinearAlgebra]]
+deps = ["Libdl"]
+uuid = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[[Random]]
+deps = ["Serialization"]
+uuid = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+[[Serialization]]
+uuid = "9e88b42a-f829-5b0c-bbe9-9e923198166b"

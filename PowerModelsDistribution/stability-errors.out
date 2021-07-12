@@ -1,0 +1,35 @@
+ERROR: TypeError: in <:, expected Type, got a value of type TypeVar
+Stacktrace:
+ [1] ⊑(::Any, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [2] tmerge(::Any, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [3] getfield_tfunc(::Any, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [4] builtin_tfunction(::Any, ::Array{Any,1}, ::Union{Nothing, Core.Compiler.InferenceState}, ::Core.Compiler.Params) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [5] builtin_tfunction at ./compiler/tfuncs.jl:1342 [inlined]
+ [6] abstract_call_known(::Any, ::Array{Any,1}, ::Array{Any,1}, ::Array{Any,1}, ::Core.Compiler.InferenceState, ::Int64) at ./compiler/abstractinterpretation.jl:720
+ [7] abstract_call(::Array{Any,1}, ::Array{Any,1}, ::Array{Any,1}, ::Core.Compiler.InferenceState, ::Int64) at ./compiler/abstractinterpretation.jl:926
+ [8] abstract_call(::Array{Any,1}, ::Array{Any,1}, ::Array{Any,1}, ::Core.Compiler.InferenceState) at ./compiler/abstractinterpretation.jl:911
+ [9] abstract_eval(::Any, ::Array{Any,1}, ::Core.Compiler.InferenceState) at ./compiler/abstractinterpretation.jl:1005
+ [10] typeinf_local(::Core.Compiler.InferenceState) at ./compiler/abstractinterpretation.jl:1270
+ [11] typeinf_nocycle(::Core.Compiler.InferenceState) at ./compiler/abstractinterpretation.jl:1326
+ [12] typeinf(::Core.Compiler.InferenceState) at ./compiler/typeinfer.jl:12
+ [13] typeinf_edge(::Method, ::Any, ::Core.SimpleVector, ::Core.Compiler.InferenceState) at ./compiler/typeinfer.jl:484
+ [14] abstract_call_method(::Method, ::Any, ::Core.SimpleVector, ::Bool, ::Core.Compiler.InferenceState) at ./compiler/abstractinterpretation.jl:419
+ [15] abstract_call_gf_by_type(::Any, ::Array{Any,1}, ::Any, ::Core.Compiler.InferenceState, ::Int64) at ./compiler/abstractinterpretation.jl:111
+ [16] abstract_call_known(::Any, ::Array{Any,1}, ::Array{Any,1}, ::Array{Any,1}, ::Core.Compiler.InferenceState, ::Int64) at ./compiler/abstractinterpretation.jl:904
+ ... (the last 10 lines are repeated 3 more times)
+ [47] abstract_call(::Array{Any,1}, ::Array{Any,1}, ::Array{Any,1}, ::Core.Compiler.InferenceState, ::Int64) at ./compiler/abstractinterpretation.jl:926
+ [48] abstract_call(::Array{Any,1}, ::Array{Any,1}, ::Array{Any,1}, ::Core.Compiler.InferenceState) at ./compiler/abstractinterpretation.jl:911
+ [49] abstract_eval(::Any, ::Array{Any,1}, ::Core.Compiler.InferenceState) at ./compiler/abstractinterpretation.jl:1005
+ [50] typeinf_local(::Core.Compiler.InferenceState) at ./compiler/abstractinterpretation.jl:1270
+ [51] typeinf_nocycle(::Core.Compiler.InferenceState) at ./compiler/abstractinterpretation.jl:1326
+ [52] typeinf(::Core.Compiler.InferenceState) at ./compiler/typeinfer.jl:12
+ [53] typeinf_code(::Method, ::Any, ::Core.SimpleVector, ::Bool, ::Core.Compiler.Params) at ./compiler/typeinfer.jl:511
+ [54] code_typed(::Any, ::Any; optimize::Bool, debuginfo::Symbol, world::UInt64, params::Core.Compiler.Params) at ./reflection.jl:1117
+ [55] run_type_inference at /data/artem/stability/repo/Stability/src/Stability.jl:61 [inlined]
+ [56] module_stats(::Module, ::IOStream) at /data/artem/stability/repo/Stability/src/Stability.jl:248
+ [57] (::var"#160#164")(::IOStream) at ./none:36
+ [58] open(::var"#160#164", ::String, ::Vararg{String,N} where N; kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at ./io.jl:325
+ [59] open(::Function, ::String, ::String) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [60] top-level scope at none:35
+ [61] eval(::Module, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [62] exec_options(::Base.JLOptions) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?

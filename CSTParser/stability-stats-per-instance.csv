@@ -1,0 +1,386 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+CSTParser,assign_prec,true,true,3,4,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,461
+CSTParser,disallowednumberjuxt,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,692
+CSTParser,parse_importexport_item,true,true,0,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,337
+CSTParser,parse_array,true,true,48,8,EXPR,"ParseState,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/lists.jl,56
+CSTParser,is_pairarrow,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,109
+CSTParser,parse_block,true,false,8,1,"Array{EXPR,1}","ParseState,Array{EXPR,1},Any,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,7
+CSTParser,parse_compound_recur,true,true,1,2,EXPR,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/CSTParser.jl,79
+CSTParser,defines_function,true,true,2,3,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,154
+CSTParser.Iterating,_braces,true,true,8,7,EXPR,"EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,356
+CSTParser,read_comment,true,true,15,3,Bool,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,145
+CSTParser,parse_call,true,true,0,1,EXPR,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,108
+CSTParser,sized_uint_literal,false,false,5,6,Any,"String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,31
+CSTParser,accept_rbrace,true,true,1,2,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/recovery.jl,19
+CSTParser,can_become_comparison,true,true,9,6,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,738
+CSTParser.Iterating,_abstract,true,true,3,4,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,260
+CSTParser,defines_macro,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,155
+CSTParser,parse_iterator,true,true,3,1,EXPR,"ParseState,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,34
+CSTParser,@closer,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,55
+CSTParser,@closeparen,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,80
+CSTParser,parse_iterator,true,true,3,1,EXPR,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,34
+CSTParser,rem_subtype,true,true,1,2,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,135
+CSTParser,isbinarycall,true,true,2,3,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,23
+CSTParser,norm_ast,true,true,1,1,Expr,QuoteNode,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,isdotted,true,true,5,4,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,167
+CSTParser.Iterating,_vect,true,true,2,3,EXPR,"EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,684
+CSTParser,accept_comma,true,true,0,1,"Array{EXPR,1}","ParseState,Array{EXPR,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/recovery.jl,44
+CSTParser,is_lparen,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,119
+CSTParser,loop_check,true,true,2,1,Int64,"Base.GenericIOBuffer{Array{UInt8,1}},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,757
+CSTParser,norm_ast,true,true,4,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,is_dot,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,106
+CSTParser,@cst_str,true,false,0,1,"Union{Nothing, EXPR, Tuple{Union{Nothing, EXPR},ParseState}}","LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,749
+CSTParser,parse_operator_dot,true,true,28,1,EXPR,"ParseState,EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,363
+CSTParser.Iterating,taat,true,true,4,5,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,209
+CSTParser,is_minus,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,103
+CSTParser,is_eq,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,105
+CSTParser,is_getfield_w_quotenode,true,true,2,3,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,53
+CSTParser,@closebrace,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,99
+CSTParser,errorof,false,false,0,1,Any,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,212
+CSTParser.Iterating,_quotenode,true,true,4,5,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,336
+CSTParser,comp,true,true,0,1,Bool,"Symbol,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,459
+CSTParser,Expr_char,true,true,3,2,Char,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,109
+CSTParser,errorof,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,213
+CSTParser,remlineinfo!,true,true,1,1,Float32,Float32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,iscomma,true,true,0,1,Bool,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,187
+CSTParser,check_file,true,false,3,3,"Union{Nothing, Array{Any,1}}","String,Array{Any,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,303
+CSTParser,Expr_int,false,false,12,4,Any,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,83
+CSTParser.Iterating,ta,true,true,2,3,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,192
+CSTParser,accept_end,true,true,1,2,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/recovery.jl,28
+CSTParser,loop_check,true,false,2,1,Int64,"Base.GenericIOBuffer{Array{UInt8,1}},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,757
+CSTParser,norm_ast,true,true,4,1,Int64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,parse_primitive,true,true,2,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,139
+CSTParser,parse_blockexpr_sig,true,true,35,10,"Union{Nothing, EXPR}","ParseState,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,222
+CSTParser,lex_ws_comment,true,true,4,1,Tokenize.Tokens.RawToken,"Tokenize.Lexers.Lexer{Base.GenericIOBuffer{Array{UInt8,1}},Tokenize.Tokens.RawToken},Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,129
+CSTParser,isbinarysyntax,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,25
+CSTParser,ischar,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,11
+CSTParser,isdeclaration,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,39
+CSTParser,is_in,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,110
+CSTParser,kindof,true,true,0,1,Tokenize.Tokens.Kind,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,210
+CSTParser,mErrorToken,true,true,0,1,EXPR,"ParseState,EXPR,CSTParser.ErrorKind",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,200
+CSTParser,is_dddot,true,true,1,1,Bool,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,108
+CSTParser,parse_doc,true,true,14,3,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/CSTParser.jl,181
+CSTParser,skip_to_nl,false,false,5,2,Any,"Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/strings.jl,9
+CSTParser,is_rparen,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,120
+CSTParser,read_ws_comment,true,true,16,1,"Tuple{Bool,Bool}","Base.GenericIOBuffer{Array{UInt8,1}},Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,106
+CSTParser,parse_call,true,false,35,1,EXPR,"ParseState,EXPR,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,108
+CSTParser.Iterating,_where,true,true,8,5,EXPR,"EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,785
+CSTParser,isprefixableliteral,true,true,3,4,Bool,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,181
+CSTParser,issyntaxcall,true,true,25,14,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,170
+CSTParser,mLITERAL,true,true,17,4,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,83
+CSTParser,requires_ws,true,true,1,2,EXPR,"EXPR,ParseState",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/recovery.jl,46
+CSTParser,is_func_call,true,true,10,7,"Union{Nothing, Bool}",EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,74
+CSTParser,check_span,true,true,0,1,"Array{Any,1}",EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,524
+CSTParser,comp,true,true,0,1,Bool,"Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,459
+CSTParser,parse_outer,true,true,5,2,"Union{Nothing, EXPR}",ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,65
+CSTParser,valid_escaped_seq,true,true,74,4,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,633
+CSTParser,_kw_convert,true,true,0,1,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,711
+CSTParser,INSTANCE,true,true,6,7,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,177
+CSTParser,parse_block,true,true,0,1,"Array{EXPR,1}","ParseState,Array{EXPR,1},Tuple{Tokenize.Tokens.Kind,Bool}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,7
+CSTParser,is_where,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,115
+CSTParser,firstdiff,true,true,4,2,Int64,"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,417
+CSTParser,hastrivia,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,219
+CSTParser.Iterating,_typed_vcat,true,true,3,4,EXPR,"EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,704
+CSTParser,is_import,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,128
+CSTParser,parse_iterator,true,true,0,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,34
+CSTParser,parse_string_or_cmd,true,false,126,8,EXPR,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/strings.jl,24
+CSTParser,parse_unary,true,true,14,1,EXPR,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,207
+CSTParser,parse_kw,true,true,43,32,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,6
+CSTParser.Iterating,_macrocall,true,true,10,9,EXPR,"EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,656
+CSTParser,_unescape_string,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,574
+CSTParser.Iterating,_struct,true,true,12,9,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,282
+CSTParser,flisp_parsefile,false,false,8,2,"Tuple{Any,Bool}","String,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,264
+CSTParser,remlineinfo!,true,true,1,1,Float64,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,defines_mutable,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,158
+CSTParser,rem_curly,true,true,1,2,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,137
+CSTParser.Iterating,_try,true,true,20,21,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,741
+CSTParser,remlineinfo!,true,true,1,1,Symbol,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser.Iterating,_primitive,true,true,4,5,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,270
+CSTParser,ismacroname,true,true,9,4,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,30
+CSTParser,norm_ast,true,true,4,1,Bool,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,parse_if,true,true,11,1,EXPR,"ParseState,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,342
+CSTParser,wstype,true,true,3,4,String,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,67
+CSTParser,parse_block,true,false,0,1,"Array{EXPR,1}","ParseState,Array{EXPR,1},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,7
+CSTParser,longest_common_prefix,true,true,3,2,String,"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/strings.jl,1
+CSTParser,remlineinfo!,true,false,18,1,Expr,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,get_sig,true,true,11,4,"Union{Nothing, EXPR}",EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,172
+CSTParser,closer,true,true,129,28,Bool,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,7
+CSTParser,normalize_julia_identifier,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,25
+CSTParser,isassignment,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,38
+CSTParser,remlineinfo!,true,true,1,1,UInt32,UInt32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,skip_to_nl,false,false,5,2,Any,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/strings.jl,9
+CSTParser,LtoR,true,true,3,2,Bool,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,199
+CSTParser,is_nothing,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,15
+CSTParser,parse_operator_colon,true,true,7,1,EXPR,"ParseState,EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,320
+CSTParser,defines_module,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,161
+CSTParser,read_comment,true,true,15,3,Bool,"Tokenize.Lexers.Lexer{Base.GenericIOBuffer{Array{UInt8,1}},Tokenize.Tokens.RawToken}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,145
+CSTParser,next,true,true,6,1,ParseState,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,71
+CSTParser,#parse_comma_sep#4,true,false,41,1,Nothing,"Int64,typeof(CSTParser.parse_comma_sep),ParseState,Array{EXPR,1},Array{EXPR,1},Bool,Bool,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,146
+CSTParser,parse,false,false,0,1,"Tuple{Union{Nothing, EXPR},ParseState}",ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/CSTParser.jl,199
+CSTParser,#minimal_reparse#3,false,false,19,6,"Union{Tuple{UnitRange{Int64},UnitRange{Int64},UnitRange{Int64}}, EXPR}","Bool,typeof(CSTParser.minimal_reparse),String,String,EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,469
+CSTParser,minimal_reparse,true,false,0,1,"Union{Nothing, EXPR, Tuple{Any,Any,Any}}","Any,String,Union{Nothing, EXPR, Tuple{Union{Nothing, EXPR},ParseState}},Union{Nothing, EXPR}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,469
+CSTParser,parse_paren,true,true,12,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/CSTParser.jl,146
+CSTParser,loop_check,true,true,3,1,Int64,"ParseState,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,757
+CSTParser,parse_block,true,true,0,1,"Array{EXPR,1}","ParseState,Array{EXPR,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,7
+CSTParser,rem_call,true,true,1,2,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,138
+CSTParser,precedence,true,true,21,22,Int64,Tokenize.Tokens.Kind,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,19
+CSTParser,get_name,true,true,16,9,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,182
+CSTParser,parse,false,false,39,2,"Tuple{Union{Nothing, EXPR},ParseState}","ParseState,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/CSTParser.jl,199
+CSTParser,is_colon,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,112
+CSTParser,defines_primitive,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,160
+CSTParser,remlineinfo!,true,true,1,1,UInt16,UInt16,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,parse_macrocall,true,true,23,5,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,258
+CSTParser,longest_common_prefix,false,false,3,2,Any,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/strings.jl,1
+CSTParser,parse_operator_where,true,true,0,1,EXPR,"ParseState,EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,351
+CSTParser,@closesquare,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,90
+CSTParser,isassignmentop,true,true,1,2,Bool,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,182
+CSTParser,read_ws,true,true,6,1,"Tuple{Bool,Bool}","Base.GenericIOBuffer{Array{UInt8,1}},Bool,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,136
+CSTParser,julia_normalization_map,true,true,2,3,Int32,"Int32,Ptr{Nothing}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,4
+CSTParser,remlineinfo!,true,true,1,1,UInt64,UInt64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,defines_struct,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,157
+CSTParser,isstringliteral,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,8
+CSTParser.Iterating,odda_event,true,true,1,2,EXPR,"EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,230
+CSTParser,issubtypedecl,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,133
+CSTParser,should_negate_number_literal,true,true,7,4,Bool,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,729
+CSTParser,parse_macroname,true,true,3,2,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,237
+CSTParser,headof,false,false,0,1,"Union{EXPR, Symbol}",EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,208
+CSTParser,str_value,false,false,5,4,Any,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,562
+CSTParser,accept_rbrace,true,true,0,1,"Array{EXPR,1}","ParseState,Array{EXPR,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/recovery.jl,26
+CSTParser,tokenkindtoheadmap,true,true,56,56,Symbol,Tokenize.Tokens.Kind,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,263
+CSTParser,is_ddot,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,107
+CSTParser,isidentifier,true,true,0,1,Bool,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,184
+CSTParser,norm_ast,false,false,25,13,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,rem_invis,true,true,1,2,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,145
+CSTParser.Iterating,_colon_in_using,false,false,3,4,"Union{EXPR, Symbol}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,404
+CSTParser.Iterating,oddt_evena,true,true,1,2,EXPR,"EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,222
+CSTParser,is_prime,true,true,1,1,Bool,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,113
+CSTParser.Iterating,_tuple,true,true,13,10,EXPR,"EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,500
+CSTParser,istuple,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,28
+CSTParser,_do_kw_convert,true,true,1,2,Bool,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,704
+CSTParser,parse_parameters,true,true,0,1,Nothing,"ParseState,Array{EXPR,1},Array{EXPR,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,205
+CSTParser,is_rbrace,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,122
+CSTParser,ispunctuation,true,true,8,9,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,7
+CSTParser,minimal_reparse,false,false,0,1,"Union{Tuple{UnitRange{Int64},UnitRange{Int64},UnitRange{Int64}}, EXPR}","String,String,EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,469
+CSTParser,literalmap,true,true,12,13,"Union{Nothing, Symbol}",Tokenize.Tokens.Kind,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,233
+CSTParser,wrapwithcmdmacro,true,true,0,1,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/strings.jl,261
+CSTParser,is_issubt,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,98
+CSTParser,is_lbrace,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,121
+CSTParser,parse_mutable,true,true,2,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,152
+CSTParser,isendoflinews,true,true,1,2,Bool,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,178
+CSTParser,update_from_tmp!,true,true,0,1,Int64,"CSTParser.Closer,CSTParser.Closer_TMP",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,157
+CSTParser,utf8proc_map_custom,true,true,3,1,String,"String,Int64,typeof(CSTParser.julia_normalization_map)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,11
+CSTParser,isajuxtaposition,true,true,31,6,Bool,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,205
+CSTParser,read_ws_comment,true,true,16,1,"Tuple{Bool,Bool}","Tokenize.Lexers.Lexer{Base.GenericIOBuffer{Array{UInt8,1}},Tokenize.Tokens.RawToken},Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,106
+CSTParser,is_comma,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,118
+CSTParser,remove_at,false,false,6,3,Any,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,181
+CSTParser,errorof,true,true,0,1,CSTParser.ErrorKind,CSTParser.ErrorKind,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,213
+CSTParser,parse_operator_cond,true,true,1,2,EXPR,"ParseState,EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,281
+CSTParser,issuffixableliteral,true,true,5,6,Bool,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,753
+CSTParser,has_error,true,true,0,1,Bool,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,220
+CSTParser,iscolon,true,true,0,1,Bool,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,188
+CSTParser,_precompile,true,true,0,1,Bool,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/precompile.jl,1
+CSTParser,parse_dot_mod,true,true,0,1,EXPR,"ParseState,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,360
+CSTParser,dropleadlingnewline,true,true,0,1,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/strings.jl,259
+CSTParser,parse_abstract,true,true,2,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,127
+CSTParser,parse_imports,true,true,12,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,165
+CSTParser,parse_block,true,true,8,1,"Array{EXPR,1}","ParseState,Array{EXPR,1},Tuple{Tokenize.Tokens.Kind},Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,7
+CSTParser,tostr,true,true,0,1,String,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/strings.jl,16
+CSTParser.Iterating,_kw,true,true,3,4,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,490
+CSTParser,compare,true,true,7,5,"Union{Nothing, Bool, Tuple{Any,Any}}","Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,389
+CSTParser,check_base,true,false,12,1,"Array{Any,1}","String,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,332
+CSTParser,pushtotrivia!,true,true,0,1,"Array{EXPR,1}","EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,135
+CSTParser,parse_block,true,true,0,1,"Array{EXPR,1}","ParseState,Array{EXPR,1},Tuple{Tokenize.Tokens.Kind,Tokenize.Tokens.Kind}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,7
+CSTParser,isnumber,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,14
+CSTParser,is_decl,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,97
+CSTParser,sized_uint_oct_literal,false,false,26,7,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,44
+CSTParser,_literal_expr,false,false,18,11,Any,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,57
+CSTParser.Iterating,_if,true,true,14,15,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,550
+CSTParser,errorof,true,true,0,1,Nothing,Nothing,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,213
+CSTParser,parse_tuple,true,true,20,1,EXPR,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/lists.jl,11
+CSTParser,update_span!,true,true,24,2,Nothing,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,102
+CSTParser,parse_operator_power,true,true,2,1,EXPR,"ParseState,EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,337
+CSTParser,unwrapbracket,true,true,1,2,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,149
+CSTParser,defines_datatype,true,true,2,3,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,156
+CSTParser,isbinaryop,true,true,9,2,Bool,Tokenize.Tokens.Kind,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,140
+CSTParser,is_decl,true,true,1,1,Bool,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,97
+CSTParser,parse_blockexpr,true,true,12,9,EXPR,"ParseState,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,308
+CSTParser,remlineinfo!,true,true,1,1,Bool,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,parse_curly,true,true,0,1,EXPR,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/lists.jl,196
+CSTParser.Iterating,tat,true,true,3,4,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,199
+CSTParser.Iterating,count_continuous,true,true,0,0,Union{},"CSTParser.Iterating.var""#1#2"",Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,416
+CSTParser.Iterating,_elseif,true,true,10,9,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,582
+CSTParser,isnewlinews,true,true,0,1,Bool,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,177
+CSTParser,get_prec,true,true,0,1,Int64,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,467
+CSTParser,accept_rparen,true,true,0,1,"Array{EXPR,1}","ParseState,Array{EXPR,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/recovery.jl,8
+CSTParser.Iterating,_filter,true,true,2,3,EXPR,"EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,731
+CSTParser,unquotenode,true,true,0,1,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,55
+CSTParser.Iterating,_string,true,true,47,5,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,604
+CSTParser,parse_comp_operator,true,true,8,1,EXPR,"ParseState,EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,299
+CSTParser,isunarysyntax,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,22
+CSTParser,iswhere,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,27
+CSTParser.Iterating,_const,true,true,4,5,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,239
+CSTParser,isunaryop,true,true,0,1,Bool,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,74
+CSTParser,is_elof,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,111
+CSTParser,isemptyws,true,true,0,1,Bool,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,176
+CSTParser,check_span,true,false,23,2,"Array{Any,1}","EXPR,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,524
+CSTParser,parentof,true,true,0,1,"Union{Nothing, EXPR}",EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,211
+CSTParser,utf8proc_map_custom,true,false,3,1,String,"String,Int64,Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,11
+CSTParser.Iterating,_getindex,true,false,97,69,"Union{Nothing, EXPR, Symbol}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,18
+CSTParser,remlineinfo!,true,true,1,1,GlobalRef,GlobalRef,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,norm_ast,false,false,20,10,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,remlineinfo!,true,true,1,1,Char,Char,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,norm_ast,true,true,4,1,Char,Char,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,is_range,true,true,3,4,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,63
+CSTParser,update_to_default!,true,true,0,1,Int64,CSTParser.Closer,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,173
+CSTParser,@default,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,194
+CSTParser,get_prec,true,true,0,0,Union{},Nothing,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,467
+CSTParser,parse_local_global,true,true,10,2,EXPR,"ParseState,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,98
+CSTParser,norm_ast,true,true,4,1,LineNumberNode,LineNumberNode,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,norm_ast,true,true,4,1,UInt64,UInt64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,isbinaryop,true,true,0,1,Bool,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,139
+CSTParser,unescape_prefixed,true,true,18,2,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/strings.jl,291
+CSTParser,issyntaxunarycall,true,true,7,8,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,192
+CSTParser,is_star,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,104
+CSTParser,Expr_tcmd,true,true,0,1,Expr,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,194
+CSTParser,parse_braces,true,true,0,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/lists.jl,204
+CSTParser,issplat,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,41
+CSTParser,ispunctuation,true,true,5,4,Bool,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,191
+CSTParser,is_cond,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,114
+CSTParser,isunarycall,true,true,3,4,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,21
+CSTParser,maybe_strip_suffix,true,true,4,2,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,469
+CSTParser,parse_block,true,true,0,1,"Array{EXPR,1}",ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,7
+CSTParser,rhs_getfield,true,true,0,1,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,54
+CSTParser,is_eventually_some_call,true,true,4,3,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,152
+CSTParser,parse_generator,true,false,2,2,EXPR,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,308
+CSTParser,parse_parameters,true,true,0,1,Nothing,"ParseState,Array{EXPR,1},Array{EXPR,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,205
+CSTParser,parse_barray,true,true,41,5,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/lists.jl,209
+CSTParser,parse_block,true,true,0,1,"Array{EXPR,1}","ParseState,Array{EXPR,1},Tuple{Tokenize.Tokens.Kind,Tokenize.Tokens.Kind,Tokenize.Tokens.Kind}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,7
+CSTParser,parse_block,true,true,8,1,"Array{EXPR,1}","ParseState,Array{EXPR,1},Tuple{Tokenize.Tokens.Kind,Bool},Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,7
+CSTParser,is_anon_func,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,116
+CSTParser,isbool,true,true,1,2,Bool,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,186
+CSTParser,isidentifier,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,2
+CSTParser,parse_ref,true,true,15,4,EXPR,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/lists.jl,157
+CSTParser.Iterating,count_continuous,true,true,5,1,Int64,"CSTParser.Iterating.var""#1#2"",Array{EXPR,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,416
+CSTParser,is_not,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,101
+CSTParser,requires_no_ws,true,true,7,2,EXPR,"EXPR,ParseState",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/recovery.jl,54
+CSTParser,@precedence,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,115
+CSTParser,is_some_call,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,151
+CSTParser,isinstance,true,true,3,4,Bool,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,190
+CSTParser,accept_rparen,true,true,1,2,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/recovery.jl,1
+CSTParser,parse_expression,true,true,0,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/CSTParser.jl,41
+CSTParser,has_error,true,true,5,4,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,217
+CSTParser.Iterating,_using,true,true,0,1,EXPR,"EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,400
+CSTParser,skip_to_nl,true,true,5,2,Int64,"String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/strings.jl,9
+CSTParser,create_tmp,true,true,0,1,CSTParser.Closer_TMP,CSTParser.Closer,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,142
+CSTParser,is_exor,true,true,1,1,Bool,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,96
+CSTParser,is_getfield,true,true,3,4,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,52
+CSTParser,compare,true,true,7,5,"Union{Nothing, Bool, Tuple{Any,Any}}","Expr,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,391
+CSTParser,norm_ast,true,true,4,1,GlobalRef,GlobalRef,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,parse,true,true,0,1,"Union{Nothing, EXPR}","String,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/CSTParser.jl,170
+CSTParser,is_dddot,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,108
+CSTParser,parse_array,true,true,0,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/lists.jl,56
+CSTParser,is_lsquare,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,123
+CSTParser.Iterating,_curly,true,true,8,7,EXPR,"EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,378
+CSTParser,norm_ast,false,false,4,2,"Union{Float32, Symbol}",Float32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser.Iterating,_module,true,true,5,6,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,717
+CSTParser,firstdiff,false,false,4,2,Any,"AbstractString,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,417
+CSTParser,isunaryop,true,true,14,15,Bool,Tokenize.Tokens.Kind,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,91
+CSTParser,both_symbol_and_op,true,true,2,3,Bool,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,180
+CSTParser,parse_string_or_cmd,true,true,0,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/strings.jl,24
+CSTParser.Iterating,_global,true,true,5,2,EXPR,"EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,252
+CSTParser,iserrorwrapped,true,true,3,4,Bool,"EXPR,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/lists.jl,9
+CSTParser,parse_operator_anon_func,true,true,1,1,EXPR,"ParseState,EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,410
+CSTParser,val,true,true,0,1,String,"Tokenize.Tokens.RawToken,ParseState",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,179
+CSTParser,Expr_float,false,false,3,2,"Union{Float32, Float64}",EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,103
+CSTParser,mErrorToken,true,true,0,1,EXPR,"ParseState,CSTParser.ErrorKind",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,196
+CSTParser,read_ws,true,true,6,1,"Tuple{Bool,Bool}","Tokenize.Lexers.Lexer{Base.GenericIOBuffer{Array{UInt8,1}},Tokenize.Tokens.RawToken},Bool,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,136
+CSTParser,remlineinfo!,true,true,1,1,Nothing,Nothing,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,parse_block,true,true,8,1,"Array{EXPR,1}","ParseState,Array{EXPR,1},Tuple{Tokenize.Tokens.Kind,Tokenize.Tokens.Kind,Tokenize.Tokens.Kind},Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,7
+CSTParser,remlineinfo!,false,false,18,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,parse_importexport_item,true,true,14,6,EXPR,"ParseState,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,337
+CSTParser,docable,true,true,3,4,Bool,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,726
+CSTParser,is_plus,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,102
+CSTParser,is_rsquare,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,124
+CSTParser.Iterating,_function,true,true,1,2,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,348
+CSTParser,@nocloser,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,70
+CSTParser,adjust_iter,true,true,1,2,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,49
+CSTParser,cst_parsefile,false,false,3,1,"Tuple{Any,Bool,Array{Any,1}}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,289
+CSTParser,quick_comp,true,true,5,6,Bool,"EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,512
+CSTParser,isinteger,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,12
+CSTParser,parse_const,true,true,7,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,88
+CSTParser,ismacrocall,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,29
+CSTParser,parse_compound,true,true,44,1,EXPR,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/CSTParser.jl,86
+CSTParser,precedence,true,true,0,1,Int64,Tokenize.Tokens.RawToken,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,42
+CSTParser,is_either_id_op_interp,true,true,2,3,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,16
+CSTParser,norm_ast,true,true,4,1,Nothing,Nothing,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/CSTParser.jl,1
+CSTParser,isunaryop,true,true,26,27,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,50
+CSTParser,is_prime,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,113
+CSTParser,convertsigtotuple,true,true,5,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,718
+CSTParser,#parse_parameters#5,true,true,20,1,Nothing,"Bool,typeof(CSTParser.parse_parameters),ParseState,Array{EXPR,1},Array{EXPR,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,205
+CSTParser,isbeginorblock,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,44
+CSTParser,parse_comma_sep,true,true,0,1,Nothing,"ParseState,Array{EXPR,1},Array{EXPR,1},Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,146
+CSTParser,isinterpolant,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,40
+CSTParser,parse_block,true,true,8,1,"Array{EXPR,1}","ParseState,Array{EXPR,1},Tuple{Tokenize.Tokens.Kind,Tokenize.Tokens.Kind},Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,7
+CSTParser,accept_comma,true,true,1,2,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/recovery.jl,37
+CSTParser,norm_ast,true,true,4,1,UInt32,UInt32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,norm_ast,true,true,4,1,Symbol,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,remlineinfo!,true,true,1,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,comp,true,true,0,1,Bool,"EXPR,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,459
+CSTParser,parse_do,true,true,6,1,EXPR,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,282
+CSTParser,parse_operator_eq,true,true,5,1,EXPR,"ParseState,EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,264
+CSTParser,rem_wheres,true,true,1,2,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,140
+CSTParser,parse_iterators,true,true,1,2,Nothing,"ParseState,Array{EXPR,1},Array{EXPR,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,77
+CSTParser,norm_ast,true,true,4,1,UInt8,UInt8,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,parse,true,true,0,1,"Union{Nothing, EXPR}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/CSTParser.jl,170
+CSTParser,parse_comma_sep,true,true,0,1,Nothing,"ParseState,Array{EXPR,1},Array{EXPR,1},Bool,Bool,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,146
+CSTParser.Iterating,_dot,true,true,8,9,"Union{Nothing, EXPR, Symbol}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,425
+CSTParser,parse_expression,true,true,41,1,EXPR,"ParseState,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/CSTParser.jl,41
+CSTParser,setparent!,true,true,0,1,EXPR,"EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,215
+CSTParser,norm_ast,false,false,4,2,"Union{Float64, Symbol}",Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,find_arg_at,true,false,6,1,Int64,"EXPR,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,447
+CSTParser.Iterating,_call,true,true,17,14,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,454
+CSTParser,is_wrapped_assignment,true,true,2,3,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,71
+CSTParser,flisp_parsefile,false,false,0,1,"Tuple{Any,Bool}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,264
+CSTParser,parse_unary_colon,true,true,37,1,EXPR,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,228
+CSTParser.Iterating,_vcat,true,true,2,3,EXPR,"EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,694
+CSTParser,revfirstdiff,false,false,4,2,"Tuple{Any,Any}","AbstractString,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,432
+CSTParser,comp_prec,true,true,3,4,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,462
+CSTParser,isbracketed,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,35
+CSTParser,rem_decl,true,true,1,2,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,136
+CSTParser,remlineinfo!,true,true,1,1,Int64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,defines_abstract,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,159
+CSTParser,remlineinfo!,true,true,1,1,QuoteNode,QuoteNode,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,_continue_doc_parse,true,true,3,4,Bool,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/CSTParser.jl,270
+CSTParser,parse_operator_where,true,true,2,1,EXPR,"ParseState,EXPR,EXPR,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,351
+CSTParser,norm_ast,true,true,4,1,UInt16,UInt16,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,224
+CSTParser,Expr_cmd,true,true,0,1,Expr,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,193
+CSTParser,parse_export,true,true,2,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,200
+CSTParser.Iterating,_quote,true,true,9,5,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,320
+CSTParser,is_and,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,100
+CSTParser,parse_string_or_cmd,true,false,126,8,EXPR,"ParseState,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/strings.jl,24
+CSTParser,adjustspan,true,true,0,1,EXPR,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/strings.jl,254
+CSTParser,parse_operator,true,true,41,1,EXPR,"ParseState,EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/operators.jl,418
+CSTParser,revfirstdiff,true,true,4,2,"Tuple{Int64,Int64}","String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,432
+CSTParser,lastchildistrivia,true,true,3,4,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,221
+CSTParser,comp,true,true,5,6,Bool,"EXPR,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,460
+CSTParser,is_issupt,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,99
+CSTParser,parse_dot_mod,true,true,22,1,EXPR,"ParseState,Bool,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,360
+CSTParser,_unescape_string,true,true,67,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,575
+CSTParser,parse_return,true,true,2,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,118
+CSTParser,parse_prefixed_string_cmd,true,true,19,4,EXPR,"ParseState,EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/strings.jl,268
+CSTParser,remlineinfo!,true,true,1,1,UInt8,UInt8,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/conversion.jl,219
+CSTParser,isfloat,true,true,0,1,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,13
+CSTParser,check_base,true,true,0,1,"Array{Any,1}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,332
+CSTParser,parse_local_global,true,true,0,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,98
+CSTParser,accept_rsquare,true,true,1,2,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/recovery.jl,10
+CSTParser,find_arg_at,true,true,6,1,Int64,"EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,447
+CSTParser,is_exor,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,96
+CSTParser,parse_try,true,true,13,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,369
+CSTParser.Iterating,_block,true,true,8,7,"Union{Nothing, EXPR}","EXPR,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/iterate.jl,302
+CSTParser,valof,true,true,0,1,"Union{Nothing, String}",EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/spec.jl,209
+CSTParser,parse_block,true,true,0,1,"Array{EXPR,1}","ParseState,Array{EXPR,1},Tuple{Tokenize.Tokens.Kind}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/internals.jl,7
+CSTParser,parse_if,true,true,0,1,EXPR,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/components/keywords.jl,342
+CSTParser,#minimal_reparse#3,true,false,19,6,"Union{Nothing, EXPR, Tuple{Any,Any,Any}}","Bool,typeof(CSTParser.minimal_reparse),Any,String,Union{Nothing, EXPR, Tuple{Union{Nothing, EXPR},ParseState}},Union{Nothing, EXPR}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/utils.jl,469
+CSTParser,iscmd,true,true,1,2,Bool,EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/interface.jl,10
+CSTParser,current_line,true,true,0,1,Int64,ParseState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CSTParser/depot/packages/CSTParser/UXyPj/src/lexer.jl,99

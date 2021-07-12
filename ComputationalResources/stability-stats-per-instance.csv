@@ -1,0 +1,4 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+ComputationalResources,addresource,true,true,0,1,Set{Type},Type{ArrayFireLibs},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputationalResources/depot/packages/ComputationalResources/vook9/src/ComputationalResources.jl,175
+ComputationalResources,haveresource,true,true,0,1,Bool,Type{ArrayFireLibs},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputationalResources/depot/packages/ComputationalResources/vook9/src/ComputationalResources.jl,208
+ComputationalResources,rmresource,true,true,0,1,Set{Type},Type{ArrayFireLibs},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputationalResources/depot/packages/ComputationalResources/vook9/src/ComputationalResources.jl,184

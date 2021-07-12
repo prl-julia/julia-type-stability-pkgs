@@ -1,0 +1,45 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+MIDI,readtrack,true,false,12,1,MIDITrack,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,28
+MIDI,addevent_hint!,true,false,7,1,"Tuple{Int64,Int64}","MIDITrack,Int64,TrackEvent,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,161
+MIDI,readMIDIevent,true,true,2,1,MIDIEvent,"Int64,IOStream,UInt8",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,88
+MIDI,name_to_pitch,false,false,5,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/note.jl,159
+MIDI,getnotes,true,true,0,1,Notes{Note},"MIDIFile,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/midifile.jl,164
+MIDI,addevent_hint!,true,false,7,1,"Tuple{Int64,Int64}","MIDITrack,Int64,MIDIEvent,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,161
+MIDI,readsysexevent,true,true,4,1,SysexEvent,"Int64,Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,140
+MIDI,readvariablelength,true,true,3,2,Int64,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/variablelength.jl,8
+MIDI,addnotes!,true,true,6,1,Nothing,"MIDITrack,Notes{Note}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,233
+MIDI,addnotes!,true,true,6,1,Nothing,"MIDITrack,Array{Note,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,233
+MIDI,pitch_to_name,true,true,0,1,String,UInt8,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/note.jl,136
+MIDI,findtrackname,true,false,7,1,Int64,MIDITrack,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/findevents.jl,62
+MIDI,writeevent,true,true,2,1,Int64,"Base.GenericIOBuffer{Array{UInt8,1}},MIDIEvent,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,107
+MIDI,writeMIDIFile,true,true,5,1,MIDIFile,"String,MIDIFile",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/midifile.jl,86
+MIDI,writeevent,true,true,0,1,Int64,"Base.GenericIOBuffer{Array{UInt8,1}},MIDIEvent",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,120
+MIDI,readtrack,true,false,12,1,MIDITrack,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,28
+MIDI,pitch_to_name,true,true,0,1,String,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/note.jl,136
+MIDI,isstatusbyte,true,true,0,1,Bool,UInt8,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,72
+MIDI,readmetaevent,true,true,0,1,MetaEvent,"Int64,IOStream",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,37
+MIDI,writetrack,true,false,11,1,Int64,"Base.GenericIOBuffer{Array{UInt8,1}},MIDITrack",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,84
+MIDI,ismetaevent,true,true,0,1,Bool,UInt8,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,35
+MIDI,addevent!,true,false,6,2,"Union{Nothing, Array{TrackEvent,1}}","MIDITrack,Int64,MetaEvent",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,121
+MIDI,programchange,true,false,4,1,"Union{Nothing, Array{TrackEvent,1}}","MIDITrack,UInt64,UInt8,UInt8",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,312
+MIDI,getnotes,true,false,21,1,Notes{Note},"MIDITrack,Int16",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,281
+MIDI,addtrackname!,true,true,4,1,"Union{Nothing, Array{TrackEvent,1}}","MIDITrack,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/findevents.jl,45
+MIDI,issysexevent,true,true,0,1,Bool,UInt8,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,138
+MIDI,getnotes,true,true,0,1,Notes{Note},MIDITrack,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,281
+MIDI,isdatabyte,true,true,0,1,Bool,UInt8,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,76
+MIDI,writeevent,true,true,1,1,Int64,"Base.GenericIOBuffer{Array{UInt8,1}},SysexEvent",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,161
+MIDI,readsysexevent,true,true,4,1,SysexEvent,"Int64,IOStream",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,140
+MIDI,readmetaevent,true,true,0,1,MetaEvent,"Int64,Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,37
+MIDI,writevariablelength,true,true,9,2,"Union{Nothing, Int64}","Base.GenericIOBuffer{Array{UInt8,1}},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/variablelength.jl,36
+MIDI,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/MIDI.jl,4
+MIDI,addevent!,true,false,6,2,"Union{Nothing, Array{TrackEvent,1}}","MIDITrack,UInt64,MIDIEvent",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,121
+MIDI,addevent!,true,false,6,2,"Union{Nothing, Array{TrackEvent,1}}","MIDITrack,Int64,MIDIEvent",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,121
+MIDI,getnotes,true,false,21,1,Notes{Note},"MIDITrack,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,281
+MIDI,readMIDIFile,true,true,4,1,MIDIFile,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/midifile.jl,48
+MIDI,isMIDIevent,true,true,1,2,Bool,UInt8,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,80
+MIDI,writeevent,true,true,1,1,Int64,"Base.GenericIOBuffer{Array{UInt8,1}},MetaEvent",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,47
+MIDI,writetrack,true,false,11,1,Int64,"IOStream,MIDITrack",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,84
+MIDI,readMIDIevent,true,true,2,1,MIDIEvent,"Int64,Base.GenericIOBuffer{Array{UInt8,1}},UInt8",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/trackevent.jl,88
+MIDI,addevents!,true,false,5,1,Nothing,"MIDITrack,Array{Int64,1},Array{TrackEvent,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/miditrack.jl,209
+MIDI,trackname,false,false,5,3,Any,MIDITrack,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/findevents.jl,17
+MIDI,readvariablelength,true,true,3,2,Int64,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MIDI/depot/packages/MIDI/V3ZmO/src/variablelength.jl,8

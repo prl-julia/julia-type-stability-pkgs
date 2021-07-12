@@ -1,0 +1,8 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+BinDeps,@build_steps,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BinDeps/depot/packages/BinDeps/5xsHU/src/BinDeps.jl,307
+BinDeps,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BinDeps/depot/packages/BinDeps/5xsHU/src/BinDeps.jl,3
+BinDeps,meta_lower,true,false,12,2,"Union{Nothing, Array{Any,1}}","Expr,Expr,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BinDeps/depot/packages/BinDeps/5xsHU/src/BinDeps.jl,262
+BinDeps,__init__,true,false,2,2,"Union{Nothing, Bool}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BinDeps/depot/packages/BinDeps/5xsHU/src/BinDeps.jl,594
+BinDeps,@dependent_steps,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BinDeps/depot/packages/BinDeps/5xsHU/src/BinDeps.jl,301
+BinDeps,meta_lower,true,true,0,1,"Array{Any,1}","Symbol,Expr,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BinDeps/depot/packages/BinDeps/5xsHU/src/BinDeps.jl,295
+BinDeps,glibc_version,true,true,3,3,"Union{Nothing, VersionNumber}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BinDeps/depot/packages/BinDeps/5xsHU/src/BinDeps.jl,575

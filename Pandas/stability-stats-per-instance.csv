@@ -1,0 +1,78 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Pandas,#join#152,false,false,1,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(join),DataFrame,String,Vararg{String,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,fix_arg,false,false,0,1,Any,UnitRange{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,125
+Pandas,should_offset,true,true,0,1,Bool,"Iloc,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,268
+Pandas,should_offset,true,true,1,1,Bool,"Series,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,270
+Pandas,iloc,false,false,0,1,Any,Series,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,query,false,false,3,1,Any,"DataFrame,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,336
+Lazy,first,false,false,0,1,Any,Lazy.LazyList,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Lazy/9Xnd3/src/Lazy.jl,94
+Pandas,should_offset,true,true,0,1,Bool,"DataFrame,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,267
+Pandas,pandas_wrap,true,true,0,1,Bool,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,122
+Pandas,loc,false,false,0,1,Any,DataFrame,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,#get#315,false,false,1,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(get),HDFStore",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Lazy,first,false,false,0,1,Any,Lazy.LinkedList,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Lazy/9Xnd3/src/Lazy.jl,66
+Pandas,fix_arg,true,true,1,1,String,"String,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,129
+Pandas,join,false,false,0,1,Any,"Series,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pkg.Resolve,abs,true,true,0,1,Pkg.Resolve.FieldValue,Pkg.Resolve.FieldValue,/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/Resolve/fieldvalues.jl,61
+Pandas,values,false,false,1,2,"Union{Array{_A,_B} where _A where _B, DataValueArray{_A,1} where _A}",Series,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,93
+Pandas,join,false,false,0,1,Any,"DataFrame,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,should_offset,true,true,0,1,Bool,"Loc,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,267
+Pandas,#join#152,false,false,1,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(join),DataFrame,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,named_index,false,false,0,1,Any,Series,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,470
+Pandas,pyattr,true,true,0,1,Expr,"Symbol,Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,141
+Pandas,has_named_attr,false,false,0,1,Any,"Index,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,465
+Pandas,fix_arg,false,false,0,1,Any,"StepRange{Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,124
+Pandas,fix_arg,false,false,1,2,Any,"UnitRange{Int64},Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,129
+Pandas,named_index,false,false,0,1,Any,DataFrame,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,469
+Pandas,_construct_pandas_from_iterabletable,true,false,25,2,"Union{Nothing, DataFrame}","Array{NamedTuple{(:a, :b, :c),Tuple{Int64,DataValue{String},Float64}},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/tabletraits.jl,27
+Pandas,#mean#105,false,false,1,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(mean),Rolling",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,__init__,true,false,3,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,24
+Pandas,#read_csv#359,false,false,1,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(read_csv),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,310
+Pandas,@pyattr,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,152
+Pandas,pyattr,true,false,0,1,Expr,"Type{T} where T,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,139
+Pandas,read_csv,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,310
+Pandas,pandas_wrap,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,122
+Pandas,#iloc#247,false,false,1,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(iloc),Series",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,join,false,false,0,1,Any,"DataFrame,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,_construct_pandas_from_iterabletable,true,true,0,1,Nothing,"Dict{Symbol,Array{T,1} where T}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/tabletraits.jl,27
+Pandas,should_offset,true,true,0,1,Bool,"Iloc,UnitRange{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,268
+Pandas,fix_arg,true,true,0,1,Symbol,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,127
+Pandas,quot,true,true,0,1,Expr,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,77
+Pandas,_construct_pandas_from_iterabletable,true,false,25,2,"Union{Nothing, DataFrame}","Array{NamedTuple{(:a, :b, :c),Tuple{DataValue{Int64},String,DataValue{Float64}}},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/tabletraits.jl,27
+Pandas,should_offset,true,false,0,1,Bool,"DataFrame,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,267
+Pandas,should_offset,true,true,0,1,Bool,"HDFStore,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,267
+Lazy,first,true,true,0,1,Nothing,Lazy.EmptyList,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Lazy/9Xnd3/src/Lazy.jl,51
+Lazy,filter,true,true,0,1,Lazy.LazyList,"typeof(Lazy.isprime),Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Lazy/9Xnd3/src/liblazy.jl,152
+Pandas,fix_arg,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,127
+Pandas,pyattr_set,true,false,6,1,Nothing,"Array{DataType,1},Symbol,Vararg{Symbol,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,167
+Pandas,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,2
+Pandas,pyattr,true,false,0,1,Expr,"Type{T} where T,Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,141
+Pandas,#join#152,false,false,1,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(join),DataFrame,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,fix_arg,true,true,0,1,Int64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,127
+Pandas,@pyattr,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,156
+Pandas,_construct_pandas_from_iterabletable,true,true,0,1,Nothing,"Dict{Symbol,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/tabletraits.jl,27
+Pandas,#rolling#311,false,false,1,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(rolling),Series,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,mean,false,false,0,1,Any,Rolling,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,version,false,false,0,1,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,38
+Pandas,columns,false,false,0,1,Any,DataFrame,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,280
+Pandas,fix_arg,true,true,0,1,Char,Char,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,127
+Pandas,loc,false,false,0,1,Any,Series,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,rolling,false,false,0,1,Any,"Series,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,#loc#155,false,false,1,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(loc),DataFrame",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,@pytype,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,50
+Pandas,#loc#252,false,false,1,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(loc),Series",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,should_offset,true,true,0,1,Bool,"Loc,Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,267
+Pandas,should_offset,true,true,0,1,Bool,"DataFrame,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,267
+Pandas,sum,false,false,0,1,Any,Series,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,fix_arg,true,true,1,2,Int64,"Int64,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,129
+Pandas,index,false,false,0,1,Any,Series,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,280
+Pkg.Resolve,abs,true,true,0,1,Pkg.Resolve.VersionWeight,Pkg.Resolve.VersionWeight,/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/Resolve/versionweights.jl,36
+Pandas,#sum#281,false,false,1,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(sum),Series",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,pandas_wrap,false,false,6,2,Any,PyCall.PyObject,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,110
+Pandas,should_offset,true,true,2,2,Bool,"Series,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,270
+Pandas,fix_arg,false,false,0,1,Any,"Colon,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,137
+Pandas,fix_arg,true,true,1,1,Symbol,"Symbol,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,129
+Pandas,@pyasvec,true,false,2,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,175
+Pandas,_construct_pandas_from_iterabletable,true,false,25,2,"Union{Nothing, DataFrame}","Array{NamedTuple{(:a, :b, :c),Tuple{Int64,String,Float64}},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/tabletraits.jl,27
+Pandas,join,false,false,0,1,Any,"Series,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,143
+Pandas,query,false,false,0,1,Any,"DataFrame,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pandas/depot/packages/Pandas/rAPmB/src/Pandas.jl,332

@@ -1,0 +1,1 @@
+Stability.ModuleStatsPerMethodRecord[Stability.ModuleStatsPerMethodRecord("MiniFB", "include", 1, 0.0, 0.0, 1, 0, 0, 48, "/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MiniFB/depot/packages/MiniFB/KIWw2/src/MiniFB.jl", 1)]

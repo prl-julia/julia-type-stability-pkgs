@@ -1,0 +1,59 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+LispSyntax,@lisp_str,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,157
+LispSyntax,codegen,false,false,36,13,Any,"Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,66
+LispSyntax,construct_sexpr,true,false,0,1,"Array{Any,1}","Symbol,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,36
+LispSyntax,lisp_eval_helper,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,152
+LispSyntax,desx,false,false,0,1,Any,LispSyntax.s_expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,15
+LispSyntax,codegen,false,false,38,18,Any,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,66
+LispSyntax,quote_it,false,false,2,3,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,56
+LispSyntax,desx,false,false,1,1,"Dict{_A,_B} where _B where _A","Dict{LispSyntax.s_expr,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,15
+LispSyntax,quasiquote,false,false,8,3,Any,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,42
+LispSyntax,codegen,true,true,5,1,Bool,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,66
+LispSyntax,sx,true,false,0,1,LispSyntax.s_expr,"Symbol,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,11
+LispSyntax,codegen,true,false,2,1,Expr,Set{Any},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,66
+LispSyntax,sx,true,false,0,1,LispSyntax.s_expr,"Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,11
+LispSyntax,quote_it,false,false,0,1,Any,"Array{Array{Symbol,1},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,56
+LispSyntax,desx,true,true,3,1,Symbol,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,15
+LispSyntax,include_lisp,false,false,3,1,Any,"Module,IOStream",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,174
+LispSyntax,sx,true,false,0,1,LispSyntax.s_expr,"Float32,Vararg{Float32,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,11
+LispSyntax,quasiquote,true,true,6,1,Int64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,42
+LispSyntax,sx,true,true,0,1,LispSyntax.s_expr,"Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,11
+LispSyntax,read,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/parser.jl,42
+LispSyntax,codegen,true,true,0,1,Symbol,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,66
+LispSyntax,desx,true,true,3,1,Float32,Float32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,15
+LispSyntax,quote_it,true,true,2,1,Int64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,56
+LispSyntax,sx,true,true,0,1,LispSyntax.s_expr,"Symbol,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,11
+LispSyntax,construct_sexpr,true,false,0,1,"Array{Any,1}","Symbol,Vararg{Symbol,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,36
+LispSyntax,codegen,true,true,5,1,Int64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,66
+LispSyntax,desx,false,false,2,1,Set{_A} where _A,Set{Any},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,15
+LispSyntax,quote_it,false,false,0,1,Any,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,56
+LispSyntax,codegen,false,false,39,23,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,66
+LispSyntax,sx,true,true,0,1,LispSyntax.s_expr,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,11
+LispSyntax,quasiquote,false,false,8,3,Any,"Array{Array{Symbol,1},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,42
+LispSyntax,quasiquote,true,true,5,1,Expr,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,42
+LispSyntax,quote_it,true,true,1,1,QuoteNode,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,56
+LispSyntax,assign_reader_dispatch,false,false,0,1,Function,"Symbol,Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,38
+LispSyntax,desx,true,true,3,1,Int64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,15
+LispSyntax,codegen,false,false,1,1,Any,"Dict{Int64,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,66
+LispSyntax,quote_it,false,false,0,1,Any,"Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,56
+LispSyntax,construct_sexpr,true,false,0,1,"Array{Any,1}","Int64,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,36
+LispSyntax,sx,true,false,0,1,LispSyntax.s_expr,"Symbol,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,11
+LispSyntax,sx,true,true,0,1,LispSyntax.s_expr,Float32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,11
+LispSyntax,desx,false,false,1,1,Dict,"Dict{Int64,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,15
+LispSyntax,codegen,true,true,5,1,SubString{String},SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,66
+LispSyntax,desx,true,true,3,1,SubString{String},SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,15
+LispSyntax,construct_sexpr,true,false,0,1,"Array{Any,1}","Array{Any,1},Vararg{Array{Any,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,36
+LispSyntax,sx,true,false,0,1,LispSyntax.s_expr,"Int64,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,11
+LispSyntax,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,1
+LispSyntax,construct_sexpr,true,false,0,1,"Array{Any,1}","Int64,Vararg{Int64,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,36
+LispSyntax,codegen,true,true,5,1,Float32,Float32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,66
+LispSyntax,codegen,true,true,5,2,Expr,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,66
+LispSyntax,quasiquote,false,false,8,3,Any,"Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,42
+LispSyntax,include_lisp,false,false,0,1,Any,"Module,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,168
+LispSyntax,desx,false,false,3,4,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,15
+LispSyntax,sx,true,false,0,1,LispSyntax.s_expr,"Int64,Vararg{Int64,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,11
+LispSyntax,sx,true,true,0,1,LispSyntax.s_expr,"Symbol,LispSyntax.s_expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,11
+LispSyntax,codegen,false,false,1,1,Any,"Dict{Array{Symbol,1},Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,66
+LispSyntax,desx,true,true,3,1,Bool,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,15
+LispSyntax,quote_it,false,false,0,1,Any,"Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,56
+LispSyntax,quasiquote,false,false,12,5,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LispSyntax/depot/packages/LispSyntax/ykFIL/src/LispSyntax.jl,42

@@ -1,0 +1,36 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+ODBC.API,getdrivers,true,false,30,1,"Dict{String,String}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,582
+ODBC.API,#setupenv#6,true,true,6,1,Nothing,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(ODBC.API.setupenv)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,184
+ODBC.API,SQLGetDiagRec,true,false,19,1,Int16,"Int16,Ptr{Nothing},Int64,Array{_A,1} where _A,Base.RefValue{Int32},Array{_A,1} where _A,Base.RefValue{Int16}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,537
+ODBC.API,setdebug,true,true,4,2,Int16,"Bool,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,208
+ODBC.API,str,true,true,0,1,String,"Array{UInt16,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,57
+ODBC.API,str,true,true,0,1,String,"Array{UInt32,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,58
+ODBC.API,swapsqlwchar,true,true,4,1,Expr,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,61
+ODBC,setdebug,true,false,10,1,Nothing,"Bool,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/ODBC.jl,29
+ODBC.API,SQLSetConnectAttr,true,true,19,1,Int16,"Ptr{Nothing},Int32,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,256
+ODBC.API,diagnostics,true,false,2,1,String,ODBC.API.Handle,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,543
+ODBC.API,sqlwcharsize,false,false,1,2,"Union{Type{UInt16}, Type{UInt32}}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,51
+ODBC.API,getptr,true,true,0,1,Ptr{Nothing},Ptr{Nothing},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,174
+ODBC.API,SQLAllocHandle,true,true,19,1,Int16,"Int16,Ptr{Nothing},Base.RefValue{Ptr{Nothing}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,126
+ODBC,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/ODBC.jl,1
+ODBC.API,SQLSetEnvAttr,true,true,19,1,Int16,"Ptr{Nothing},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,141
+ODBC.API,@odbc,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any,Symbol,Vararg{Symbol,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,70
+ODBC.API,getptr,true,true,1,1,Ptr{Nothing},ODBC.API.Handle,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,173
+ODBC,setdebug,true,true,0,1,Nothing,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/ODBC.jl,29
+ODBC,drivers,true,true,0,1,"Dict{String,String}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/ODBC.jl,111
+ODBC.API,@checksuccess,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,108
+ODBC.API,@odbc,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any,Symbol,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,70
+ODBC.API,@odbc,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any,Expr,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,70
+ODBC.API,str,true,true,0,1,String,"Array{UInt8,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,56
+ODBC.API,str,true,true,0,1,String,"Array{UInt16,1},Int16",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,57
+ODBC.API,getdsns,true,false,30,1,"Dict{String,String}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,616
+ODBC.API,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,1
+ODBC,dsns,true,true,0,1,"Dict{String,String}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/ODBC.jl,132
+ODBC.API,setupenv,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,184
+ODBC.API,__init__,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,223
+ODBC.API,str,true,true,0,1,String,"Array{UInt32,1},Int16",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,58
+ODBC.API,@checkinst,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,557
+ODBC.API,SQLSetConnectAttr,true,true,19,1,Int16,"Ptr{Nothing},Int32,UInt32",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,248
+ODBC.API,gettype,true,true,0,1,Int16,ODBC.API.Handle,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,172
+ODBC.API,str,true,true,0,1,String,"Array{UInt8,1},Int16",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,56
+ODBC.API,@odbcinst,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any,Symbol,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ODBC/depot/packages/ODBC/qhwMX/src/API.jl,96

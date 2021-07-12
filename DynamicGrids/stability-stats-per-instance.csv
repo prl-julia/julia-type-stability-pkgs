@@ -1,0 +1,13 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+DynamicGrids,__init__,false,false,2,2,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DynamicGrids/GYyOx/src/DynamicGrids.jl,74
+DimensionalData,@dim,true,true,0,1,Expr,"LineNumberNode,Module,Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DimensionalData/DGSeY/src/dimension.jl,336
+DimensionalData,dimmacro,true,true,0,1,Expr,"Symbol,Symbol,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DimensionalData/DGSeY/src/dimension.jl,340
+DynamicGrids,rules,false,false,0,1,"Union{Tuple{}, Tuple{Union{var""#s86"", var""#s85""} where var""#s85""<:CellRule where var""#s86""<:NeighborhoodRule,Vararg{CellRule,N} where N}}","Chain{R,W,T} where T<:Union{Tuple{}, Tuple{Union{var""#s86"", var""#s85""} where var""#s85""<:CellRule where var""#s86""<:NeighborhoodRule,Vararg{CellRule,N} where N}} where W where R",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DynamicGrids/GYyOx/src/chain.jl,26
+DimensionalData,@dim,true,true,0,1,Expr,"LineNumberNode,Module,Symbol,Symbol,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DimensionalData/DGSeY/src/dimension.jl,336
+DynamicGrids,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DynamicGrids/GYyOx/src/DynamicGrids.jl,1
+DynamicGrids,eval,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DynamicGrids/GYyOx/src/DynamicGrids.jl,1
+ModelParameters,withunits,false,false,0,1,Any,"AbstractParam,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/ModelParameters/slent/src/param.jl,14
+DimensionalData,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DimensionalData/DGSeY/src/DimensionalData.jl,1
+ModelParameters,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/ModelParameters/slent/src/ModelParameters.jl,1
+ModelParameters,withunits,false,false,0,1,Any,AbstractParam,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/ModelParameters/slent/src/param.jl,14
+DimensionalData,dimmacro,true,true,0,1,Expr,"Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DimensionalData/DGSeY/src/dimension.jl,340

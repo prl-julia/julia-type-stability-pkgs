@@ -1,0 +1,8 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+Reel,writeframe,2,1.0,0.5,1,0,0,101,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,33
+Reel,#Frames#5,2,0.5,0.5,2,0,0,100,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,26
+Reel,#roll#8,1,0.0,0.0,1,0,0,246,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,94
+Reel,#write#6,1,1.0,1.0,1,0,0,410,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,64
+Reel,bestmime,3,1.0,0.0,1,0,0,191,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,56
+Reel,extension,1,1.0,1.0,1,0,0,38,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,28
+Reel,#roll#7,4,0.0,0.0,1,0,0,454,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,77

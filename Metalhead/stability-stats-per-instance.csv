@@ -1,0 +1,57 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Metalhead,__init__,false,false,1,2,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/Metalhead.jl,22
+Metalhead,trainimgs,true,true,0,1,Metalhead.TrainData{Metalhead.CIFAR10.BinPackedFS},Metalhead.CIFAR10.BinPackedFS,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/datasets/utils.jl,32
+Metalhead,eval,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/Metalhead.jl,2
+Metalhead,load_img,false,false,0,1,Any,AbstractString,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,25
+Metalhead,topk,false,false,0,1,Any,"AbstractArray{T,1} where T,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,73
+Metalhead,load_img,false,false,0,1,Any,Metalhead.ValidationImage,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,26
+Metalhead,center_crop,true,true,2,1,"Array{ColorTypes.RGB{Float64},2}","Array{ColorTypes.RGB{Float64},2},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,44
+Metalhead,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/Metalhead.jl,2
+Metalhead,resize_smallest_dimension,false,false,1,1,Any,"AbstractArray{var""#s21"",2} where var""#s21""<:ColorTypes.AbstractRGB,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,29
+Metalhead,ground_truth,false,false,2,3,"Tuple{Metalhead.ObjectClass,Any}","VGG19,Metalhead.ValidationImage,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,81
+Metalhead,_make_dense_layers,false,false,3,1,Flux.Chain,"Type{T} where T,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/densenet.jl,18
+Metalhead,densenet_layers,false,false,15,1,Flux.Chain,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/densenet.jl,51
+Metalhead,valimgs,false,false,0,1,Metalhead.ValData,Metalhead.DataSet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/datasets/utils.jl,15
+Metalhead,weights,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,19
+Metalhead,vgg19_layers,false,false,0,1,Flux.Chain,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/vgg19.jl,1
+Metalhead,_densenet,false,false,0,1,Flux.Chain,"Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/densenet.jl,27
+Metalhead,topk,false,false,0,1,Any,"Any,AbstractArray{T,1} where T,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,74
+Metalhead,datasets,true,true,10,1,"Array{Any,1}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/datasets/autodetect.jl,1
+Metalhead,trainimgs,false,false,0,1,Metalhead.TrainData,Module,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/datasets/autodetect.jl,41
+Metalhead,predict,true,false,0,1,Metalhead.PredictionFrame,"VGG19,Metalhead.ValidationImage,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,91
+Metalhead,_densenet,false,false,0,1,Flux.Chain,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/densenet.jl,27
+Metalhead,topk,true,true,0,1,"Array{Tuple{Int64,Float32},1}","Array{Float32,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,73
+FileIO,load,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/FileIO/JA3Vl/src/loadsave.jl,109
+Metalhead,forward,false,false,0,1,Any,"VGG19,Array{ColorTypes.RGB{FixedPointNumbers.Normed{UInt8,8}},2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,71
+Metalhead,testimgs,true,false,0,0,Union{},Metalhead.DataSet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/datasets/utils.jl,20
+FileIO,load,false,false,0,1,Any,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/FileIO/JA3Vl/src/loadsave.jl,109
+Metalhead,forward,false,false,0,1,Any,"VGG19,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,71
+Metalhead,#_densenet#90,false,false,3,1,Flux.Chain,"Type{Metalhead.Bottleneck},Int64,Float64,Int64,typeof(Metalhead._densenet),Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/densenet.jl,27
+Metalhead,download,true,true,4,2,"Union{Nothing, Base.Process}",Module,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/datasets/autodetect.jl,43
+Metalhead,valimgs,true,true,0,1,Metalhead.ValData{Metalhead.CIFAR10.BinPackedFS},Metalhead.CIFAR10.BinPackedFS,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/datasets/utils.jl,15
+Metalhead,#_densenet#90,false,false,3,1,Flux.Chain,"Type{T} where T,Int64,Float64,Int64,typeof(Metalhead._densenet),Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/densenet.jl,27
+Metalhead,predict,true,true,0,1,Metalhead.PredictionFrame,"VGG19,Metalhead.ValidationImage",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,91
+Metalhead,getweights,false,false,0,1,"Union{Bool, String}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,7
+Metalhead,resize_smallest_dimension,false,false,1,1,"Union{Array{ColorTypes.RGB{Float64},2}, Array{ColorTypes.RGB{FixedPointNumbers.Normed{UInt8,8}},2}}","Array{ColorTypes.RGB{FixedPointNumbers.Normed{UInt8,8}},2},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,29
+Metalhead,_googlenet,false,false,0,1,Flux.Chain,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/googlenet.jl,29
+Metalhead,center_crop,false,false,2,1,Any,"Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,44
+Metalhead,trainimgs,false,false,0,1,Metalhead.TrainData,Metalhead.DataSet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/datasets/utils.jl,32
+Metalhead,_make_dense_layers,false,false,3,1,Flux.Chain,"Type{Metalhead.Bottleneck},Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/densenet.jl,18
+FileIO,load,false,false,0,1,Any,FileIO.Formatted,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/FileIO/JA3Vl/src/loadsave.jl,116
+Metalhead,ground_truth,false,false,2,3,"Tuple{Metalhead.ObjectClass,Any}","VGG19,Metalhead.ValidationImage,Array{Float32,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,81
+Metalhead,preprocess,true,false,0,1,"Array{Float32,4}","Array{ColorTypes.RGB{FixedPointNumbers.Normed{UInt8,8}},2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,50
+Metalhead,googlenet_layers,false,false,6,1,Flux.Chain,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/googlenet.jl,50
+Metalhead,dataset,false,false,4,2,Any,Module,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/datasets/autodetect.jl,22
+Metalhead,Transition,false,false,0,1,Flux.Chain,"Pair{Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/densenet.jl,14
+Metalhead,make_fname,true,true,0,1,String,Metalhead.ValidationImage,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,78
+FileIO,load,false,false,0,1,Any,AbstractString,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/FileIO/JA3Vl/src/loadsave.jl,109
+Metalhead,topk,true,true,0,1,"Array{Tuple{Int64,Float32},1}","UnitRange{Int64},Array{Float32,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,74
+Metalhead.CIFAR10,bytes_to_image,false,false,0,1,Any,"Array{UInt8,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/datasets/cifar10.jl,30
+Metalhead,valimgs,false,false,0,1,Metalhead.ValData,Module,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/datasets/autodetect.jl,39
+Metalhead,center_crop,true,true,2,1,"Array{ColorTypes.RGB{FixedPointNumbers.Normed{UInt8,8}},2}","Array{ColorTypes.RGB{FixedPointNumbers.Normed{UInt8,8}},2},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,44
+Metalhead,load_img,false,false,0,1,"AbstractArray{var""#s21"",2} where var""#s21""<:ColorTypes.Color","AbstractArray{var""#s21"",2} where var""#s21""<:ColorTypes.Color",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,24
+Metalhead,testimgs,false,false,0,1,Metalhead.TestData,Module,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/datasets/autodetect.jl,40
+Metalhead,squeezenet_layers,false,false,3,1,Flux.Chain,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/squeezenet.jl,1
+Metalhead,load_img,true,true,0,1,"Array{ColorTypes.RGB{FixedPointNumbers.Normed{UInt8,8}},2}","Array{ColorTypes.RGB{FixedPointNumbers.Normed{UInt8,8}},2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,24
+Metalhead.CIFAR10,testimgs,true,false,0,0,Union{},Metalhead.CIFAR10.DataSet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/datasets/cifar10.jl,28
+Metalhead,preprocess,false,false,0,1,Any,"AbstractArray{var""#s21"",2} where var""#s21""<:ColorTypes.AbstractRGB",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Metalhead/depot/packages/Metalhead/A1JUu/src/utils.jl,50

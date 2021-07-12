@@ -1,0 +1,4 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+CmdStan,__init__,1,0.0,0.0,1,0,0,967,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CmdStan/depot/packages/CmdStan/0wjTa/src/CmdStan.jl,19
+CmdStan,eval,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CmdStan/depot/packages/CmdStan/0wjTa/src/CmdStan.jl,1
+CmdStan,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CmdStan/depot/packages/CmdStan/0wjTa/src/CmdStan.jl,1

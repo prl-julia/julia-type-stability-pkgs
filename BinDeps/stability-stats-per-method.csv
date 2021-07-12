@@ -1,0 +1,8 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+BinDeps,@build_steps,1,1.0,0.0,1,4,0,273,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BinDeps/depot/packages/BinDeps/5xsHU/src/BinDeps.jl,307
+BinDeps,glibc_version,1,1.0,1.0,1,0,0,361,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BinDeps/depot/packages/BinDeps/5xsHU/src/BinDeps.jl,575
+BinDeps,meta_lower,1,1.0,0.0,1,0,0,883,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BinDeps/depot/packages/BinDeps/5xsHU/src/BinDeps.jl,262
+BinDeps,meta_lower,1,1.0,1.0,1,0,0,142,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BinDeps/depot/packages/BinDeps/5xsHU/src/BinDeps.jl,295
+BinDeps,__init__,1,1.0,0.0,1,0,0,219,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BinDeps/depot/packages/BinDeps/5xsHU/src/BinDeps.jl,594
+BinDeps,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BinDeps/depot/packages/BinDeps/5xsHU/src/BinDeps.jl,3
+BinDeps,@dependent_steps,1,1.0,0.0,1,4,0,94,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BinDeps/depot/packages/BinDeps/5xsHU/src/BinDeps.jl,301

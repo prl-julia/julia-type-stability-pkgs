@@ -1,0 +1,6 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+LaTeXStrings,latexstring,11,1.0,0.6363636363636364,1,0,1,61,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LaTeXStrings/depot/packages/LaTeXStrings/YQ4GM/src/LaTeXStrings.jl,42
+LaTeXStrings,@L_str,1,1.0,0.0,1,0,0,990,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LaTeXStrings/depot/packages/LaTeXStrings/YQ4GM/src/LaTeXStrings.jl,68
+LaTeXStrings,_maybe_wrap_equation,1,1.0,1.0,1,0,0,75,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LaTeXStrings/depot/packages/LaTeXStrings/YQ4GM/src/LaTeXStrings.jl,35
+LaTeXStrings,#parseatom#1,1,0.0,0.0,1,0,0,107,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LaTeXStrings/depot/packages/LaTeXStrings/YQ4GM/src/LaTeXStrings.jl,51
+LaTeXStrings,latexstring,1,1.0,1.0,1,0,0,53,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LaTeXStrings/depot/packages/LaTeXStrings/YQ4GM/src/LaTeXStrings.jl,43

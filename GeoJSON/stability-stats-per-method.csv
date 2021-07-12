@@ -1,0 +1,17 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+GeoJSON,geo2dict,1,1.0,1.0,1,0,0,38,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,169
+GeoJSON,geo2dict,2,0.0,0.0,1,0,0,106,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,133
+GeoJSON,parse,2,0.0,0.0,1,0,1,124,deprecated.jl,45
+GeoJSON,parsefile,1,0.0,0.0,1,0,0,126,deprecated.jl,70
+GeoJSON,write,1,0.0,0.0,1,0,0,58,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,40
+GeoJSON,geo2dict,5,0.0,0.0,2,0,0,97,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,128
+GeoJSON,dict2geo,1,1.0,1.0,1,0,0,38,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,79
+GeoJSON,geojson,1,0.0,0.0,1,0,1,124,deprecated.jl,45
+GeoJSON,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,1
+GeoJSON,geo2dict,1,0.0,0.0,1,0,0,484,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,138
+GeoJSON,parseFeature,6,1.0,0.6666666666666666,1,0,0,395,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,84
+GeoJSON,parseFeatureCollection,6,0.0,0.0,1,0,0,311,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,99
+GeoJSON,parseGeometryCollection,6,1.0,0.6666666666666666,1,0,0,79,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,81
+GeoJSON,dict2geo,6,0.0,0.0,1,0,0,618,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,56
+GeoJSON,read,3,0.0,0.0,1,0,0,56,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,21
+GeoJSON,geo2dict,1,0.0,0.0,1,0,0,280,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,157

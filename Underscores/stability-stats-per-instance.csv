@@ -1,0 +1,26 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Underscores,replace_,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,62
+Underscores,_replacesyms,true,true,2,1,String,"Underscores.var""#4#8""{String,Regex},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,12
+Underscores,lower_underscores,false,false,14,4,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,71
+Underscores,lower_underscores,true,true,1,1,Symbol,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,71
+Underscores,_replacesyms,true,true,0,1,Symbol,"Underscores.var""#4#8""{String,Regex},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,12
+Underscores,isquoted,true,true,0,1,Bool,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,10
+Underscores,_replacesyms,true,true,2,1,Bool,"Underscores.var""#4#8""{String,Regex},Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,12
+Underscores,add_closures,false,false,17,3,Any,"Any,String,Regex",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,26
+Underscores,replace_,false,false,0,1,"Union{Expr, Symbol}",Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,62
+Underscores,_replacesyms,false,false,2,2,Any,"Underscores.var""#4#8""{String,Regex},Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,12
+Underscores,add_closures,false,false,14,2,"Union{Expr, QuoteNode}","QuoteNode,String,Regex",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,26
+Underscores,replace_,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,62
+Underscores,_replacesyms,false,false,3,4,Any,"Underscores.var""#4#8""{String,Regex},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,12
+Underscores,replace_,false,false,0,1,"Union{Expr, QuoteNode}",QuoteNode,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,62
+Underscores,add_closures,false,false,14,2,"Union{Bool, Expr}","Bool,String,Regex",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,26
+Underscores,lower_underscores,false,false,15,5,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,71
+Underscores,@_,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,166
+Underscores,add_closures,false,false,16,3,Any,"Expr,String,Regex",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,26
+Underscores,_replacesyms,true,true,2,1,Float64,"Underscores.var""#4#8""{String,Regex},Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,12
+Underscores,_replacesyms,true,true,2,1,LineNumberNode,"Underscores.var""#4#8""{String,Regex},LineNumberNode",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,12
+Underscores,_replacesyms,true,true,2,1,Int64,"Underscores.var""#4#8""{String,Regex},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,12
+Underscores,_replacesyms,true,true,2,1,QuoteNode,"Underscores.var""#4#8""{String,Regex},QuoteNode",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,12
+Underscores,add_closures,false,false,14,2,"Union{Expr, Symbol}","Symbol,String,Regex",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,26
+Underscores,replace__,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,63
+Underscores,replace__,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Underscores/depot/packages/Underscores/4m9R6/src/Underscores.jl,63

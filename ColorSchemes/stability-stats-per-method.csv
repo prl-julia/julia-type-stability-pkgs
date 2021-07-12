@@ -1,0 +1,13 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+ColorSchemes,get,2,1.0,1.0,1,0,0,67,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ColorSchemes/depot/packages/ColorSchemes/yqEvG/src/ColorSchemes.jl,230
+ColorSchemes,get,6,1.0,0.8333333333333334,3,0,0,589,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ColorSchemes/depot/packages/ColorSchemes/yqEvG/src/ColorSchemes.jl,205
+ColorSchemes,get,1,1.0,1.0,1,0,0,236,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ColorSchemes/depot/packages/ColorSchemes/yqEvG/src/ColorSchemes.jl,195
+ColorSchemes,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ColorSchemes/depot/packages/ColorSchemes/yqEvG/src/ColorSchemes.jl,11
+ColorSchemes,loadcolorscheme,24,0.0,0.0,1,0,0,143,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ColorSchemes/depot/packages/ColorSchemes/yqEvG/src/ColorSchemes.jl,52
+ColorSchemes,get,6,1.0,1.0,3,0,0,62,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ColorSchemes/depot/packages/ColorSchemes/yqEvG/src/ColorSchemes.jl,205
+ColorSchemes,loadcolorscheme,14,0.0,0.0,1,0,0,57,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ColorSchemes/depot/packages/ColorSchemes/yqEvG/src/ColorSchemes.jl,52
+ColorSchemes,loadallschemes,1,1.0,1.0,1,0,0,564,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ColorSchemes/depot/packages/ColorSchemes/yqEvG/src/ColorSchemes.jl,81
+ColorSchemes,remap,5,1.0,1.0,4,0,0,142,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ColorSchemes/depot/packages/ColorSchemes/yqEvG/src/ColorSchemes.jl,160
+ColorSchemes,defaultrange,3,1.0,1.0,3,0,0,63,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ColorSchemes/depot/packages/ColorSchemes/yqEvG/src/ColorSchemes.jl,165
+ColorSchemes,get,1,1.0,1.0,1,0,0,153,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ColorSchemes/depot/packages/ColorSchemes/yqEvG/src/ColorSchemes.jl,220
+ColorSchemes,defaultrange,3,1.0,1.0,1,0,0,77,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ColorSchemes/depot/packages/ColorSchemes/yqEvG/src/ColorSchemes.jl,166

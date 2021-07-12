@@ -1,0 +1,200 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+SymEngine,lambdify,false,false,0,1,Any,"Basic,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,124
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Basic}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,31
+SymEngine,done,true,true,0,1,Bool,"SymEngine.CVecBasic,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/ctypes.jl,71
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Complex{Float64}},Tuple{Basic,Rational{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Complex{Int64}},Tuple{Basic,Rational{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,dense_matrix_cols,true,true,0,1,Int64,SymEngine.CDenseMatrix,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/dense-matrix.jl,4
+SymEngine,##258,true,true,0,1,Complex{Float64},Complex{Float64},none,0
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Complex{Int64}},Pair{Basic,Complex{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,true,true,0,1,Basic,"Basic,Basic,Rational{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,19
+SymEngine,subs,true,false,0,1,Basic,"Basic,Basic,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,19
+SymEngine,subs,true,false,0,0,Union{},"T<:Union{Basic, SymEngine.BasicType},Tuple{S<:Union{Basic, SymEngine.BasicType},Any},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,free_symbols,true,true,0,1,"Array{Basic,1}",Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,238
+SymEngine,N,false,false,6,5,"Union{Int64, UInt64, BigInt}",SymEngine.BasicType{Val{:Integer}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,113
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Int64},Tuple{Basic,Complex{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Rational{Int64}},Vararg{Tuple{Basic,Rational{Int64}},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,subs,true,false,0,1,Basic,"Basic,Dict",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,30
+SymEngine,subs,true,false,0,1,Basic,"T<:Union{Basic, SymEngine.BasicType},S<:Union{Basic, SymEngine.BasicType},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,19
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Float64},Tuple{Basic,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,#lambdify#27,false,false,5,2,Any,"Bool,typeof(lambdify),Basic,Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,124
+SymEngine,N,false,false,0,1,Any,SymEngine.BasicType{Val{:Constant}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,142
+SymEngine,##254,true,true,0,1,Float64,Int64,none,0
+SymEngine,_flat,true,true,0,1,"Array{Basic,1}","Array{Array{Basic,1},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,244
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Float64},Tuple{Basic,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,dense_matrix_LU_solve,true,true,0,1,SymEngine.CDenseMatrix,"SymEngine.CDenseMatrix,SymEngine.CDenseMatrix",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/dense-matrix.jl,116
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Complex{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,31
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Float64},Tuple{Basic,Rational{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,dense_matrix_det,true,true,0,1,Basic,SymEngine.CDenseMatrix,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/dense-matrix.jl,26
+SymEngine,@vars,true,false,7,1,Expr,"LineNumberNode,Module,Symbol,Vararg{Symbol,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,157
+SymEngine,symbols,false,false,1,2,"Union{Tuple{Vararg{Basic,N} where N}, Basic}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,137
+SymEngine,subs,true,false,0,1,Basic,"Basic,Tuple{S,Any} where S<:Union{Basic, SymEngine.BasicType}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,31
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Complex{Float64}},Pair{Basic,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,lambdify,false,false,0,1,Any,"SymEngine.BasicType,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,142
+SymEngine,subs,true,true,0,1,Basic,"Basic,Basic,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,19
+SymEngine,N,false,false,0,1,Any,Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,111
+SymEngine,_lambdify,false,false,0,1,"SymEngine.var""#28#29""{_A} where _A","Expr,Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,154
+SymEngine,dense_matrix_rows,true,true,0,1,Int64,SymEngine.CDenseMatrix,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/dense-matrix.jl,3
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Rational{Int64}},Tuple{Basic,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Complex{Int64}},Tuple{Basic,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,CMapBasicBasic_free,true,true,1,2,"Union{Nothing, Ptr{Nothing}}",SymEngine.CMapBasicBasic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/ctypes.jl,97
+SymEngine,dense_matrix_LU,true,true,0,1,"Tuple{SymEngine.CDenseMatrix,SymEngine.CDenseMatrix}",SymEngine.CDenseMatrix,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/dense-matrix.jl,83
+SymEngine,get_error,false,false,5,5,"Union{DivideError, ErrorException, Base.Meta.ParseError}","UInt32,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/exceptions.jl,9
+SymEngine,free_symbols,false,false,0,1,"Array{_A,1} where _A","Array{Basic,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,245
+SymEngine,_lambdify,false,false,0,1,"SymEngine.var""#28#29""{_A} where _A","Expr,Array{Basic,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,154
+SymEngine,##259,true,true,0,1,Int64,Int64,none,0
+SymEngine,start,true,true,0,1,Int64,SymEngine.CVecBasic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/ctypes.jl,70
+SymEngine,lambdify,false,false,0,1,Any,Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,124
+SymEngine,@funs,true,false,9,1,Expr,"LineNumberNode,Module,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/mathfuns.jl,136
+SymEngine,function_symbols,true,true,0,1,"Array{Basic,1}",Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,249
+SymEngine,#IMPLEMENT_TWO_ARG_FUNC#22,false,false,0,1,Any,"Symbol,typeof(SymEngine.IMPLEMENT_TWO_ARG_FUNC),Expr,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/mathfuns.jl,13
+SymEngine,_flat,false,false,0,1,Any,"Array{Array{Basic,1},2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,244
+SymEngine,subs,true,true,0,1,Basic,"Basic,Basic,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,19
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Rational{Int64}},Pair{Basic,Complex{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,IMPLEMENT_ONE_ARG_FUNC,false,false,0,1,Any,"Expr,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/mathfuns.jl,3
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Int64},Tuple{Basic,Complex{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Rational{Int64}},Pair{Basic,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Complex{Float64}},Tuple{Basic,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,CVecBasic_free,true,true,1,2,"Union{Nothing, Ptr{Nothing}}",SymEngine.CVecBasic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/ctypes.jl,48
+SymEngine,dense_matrix_set_basic,true,true,0,1,Basic,"SymEngine.CDenseMatrix,Basic,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/dense-matrix.jl,17
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Int64},Pair{Basic,Rational{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,get_type,true,true,0,1,UInt64,Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,101
+SymEngine,have_component,true,true,3,4,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/utils.jl,24
+SymEngine,coeff,true,true,0,1,Basic,"Basic,Basic,Basic",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,279
+SymEngine,N,true,true,0,1,BigFloat,SymEngine.BasicType{Val{:RealMPFR}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,134
+SymEngine,CSetBasic_free,true,true,1,2,"Union{Nothing, Ptr{Nothing}}",SymEngine.CSetBasic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/ctypes.jl,13
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Complex{Float64}},Pair{Basic,Rational{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Int64},Tuple{Basic,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,N,true,false,2,2,Basic,SymEngine.BasicType{Val{:Symbol}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,145
+SymEngine,dense_matrix_get_basic,true,true,0,1,Basic,"SymEngine.CDenseMatrix,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/dense-matrix.jl,10
+SymEngine,#lambdify#27,false,false,5,2,Any,"Bool,typeof(lambdify),Basic,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,124
+SymEngine,subs,true,true,0,1,Basic,"Basic,SymEngine.CMapBasicBasic",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,24
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Rational{Int64}},Pair{Basic,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,get_symbol,true,true,1,2,Ptr{Nothing},Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/utils.jl,2
+SymEngine,N,false,false,0,1,Rational,SymEngine.BasicType{Val{:Rational}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,132
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Complex{Int64}},Tuple{Basic,Complex{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,N,true,false,2,2,Basic,SymEngine.BasicType{Val{:Abs}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,145
+SymEngine,subs,false,false,0,1,Any,"Basic,Vararg{Union{},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,init_constants,true,true,0,1,Basic,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/mathops.jl,64
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Complex{Int64}},Tuple{Basic,Complex{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,evalf,true,true,0,1,Basic,Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,6
+SymEngine,subs,true,true,0,1,Basic,"Basic,Basic,Complex{Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,19
+SymEngine,subs,true,true,0,1,Basic,"Basic,Dict{Basic,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,30
+SymEngine,#IMPLEMENT_ONE_ARG_FUNC#21,false,false,0,1,Any,"Symbol,typeof(SymEngine.IMPLEMENT_ONE_ARG_FUNC),Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/mathfuns.jl,3
+SymEngine,get_class_from_id,true,true,0,1,String,UInt64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,102
+SymEngine,lambdify,false,false,0,1,Any,"Basic,Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,124
+SymEngine,_convert,false,false,4,3,Any,"Type{Expr},Basic",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,62
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Float64},Vararg{Tuple{Basic,Float64},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,subs,true,false,0,1,Basic,"Basic,SymEngine.BasicType,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,19
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Complex{Float64}},Pair{Basic,Complex{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,get_symengine_class,true,true,0,1,Symbol,Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,110
+SymEngine,N,true,true,0,1,Int64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,108
+SymEngine,##262,true,true,0,1,"Array{Int64,2}",Int64,none,0
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Complex{Float64}},Pair{Basic,Complex{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Complex{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,map_fn,false,false,1,2,Any,"Symbol,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,60
+SymEngine,subs,true,true,0,1,Basic,"Basic,Dict{Basic,Complex{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,30
+SymEngine,IMPLEMENT_TWO_ARG_FUNC,false,false,0,1,Any,"Expr,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/mathfuns.jl,13
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Float64},Pair{Basic,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,dense_matrix_inv,true,true,0,1,SymEngine.CDenseMatrix,SymEngine.CDenseMatrix,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/dense-matrix.jl,31
+SymEngine,subs,true,true,0,1,Basic,"Basic,Dict{Basic,Rational{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,30
+SymEngine,as_numer_denom,true,true,0,1,"Tuple{Basic,Basic}",Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,157
+SymEngine,subs,true,true,0,1,Basic,"Basic,Dict{Basic,Complex{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,30
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Complex{Float64}},Tuple{Basic,Complex{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,subs,true,true,0,1,Basic,"Basic,Basic,Irrational{:π}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,19
+SymEngine,lambdify,false,false,0,1,Any,"SymEngine.BasicType,Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,142
+SymEngine,__init__,true,true,0,1,Basic,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/SymEngine.jl,35
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Complex{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,lambdify,false,false,1,2,Any,"Expr,Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,144
+SymEngine,lambdify,false,false,1,1,Any,"Array{Basic,2},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,116
+SymEngine,eval,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/SymEngine.jl,1
+SymEngine,N,false,false,0,1,"Union{ChainRulesCore.ZeroTangent, Complex}",SymEngine.BasicType{Val{:ComplexDouble}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,144
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Rational{Int64}},Pair{Basic,Rational{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,31
+SymEngine,@vars,true,true,6,1,Expr,"LineNumberNode,Module,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,157
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Basic},Vararg{Tuple{Basic,Basic},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Rational{Int64}},Tuple{Basic,Complex{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,@init_constant,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/mathops.jl,52
+SymEngine,##261,true,true,0,1,"Array{Int64,2}",Int64,none,0
+SymEngine,subs,true,true,0,1,Basic,"Basic,Basic,Complex{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,19
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Int64},Pair{Basic,Complex{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,lambdify,false,false,0,1,Any,"Array{Basic,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,116
+SymEngine,_symbol,true,true,0,1,Basic,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,115
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Rational{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Rational{Int64}},Tuple{Basic,Rational{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,##256,true,true,0,1,Complex{Float64},Complex{Int64},none,0
+SymEngine,##260,true,true,0,1,"Array{Int64,2}",Int64,none,0
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Int64},Vararg{Tuple{Basic,Int64},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,series,true,false,6,2,Basic,"Basic,Basic,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/calculus.jl,43
+SymEngine,@vars,true,false,9,1,Expr,"LineNumberNode,Module,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,157
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Complex{Int64}},Pair{Basic,Complex{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,IMPLEMENT_ONE_ARG_FUNC,false,false,0,1,Any,"Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/mathfuns.jl,3
+SymEngine,subs,true,true,0,1,Basic,"Basic,Dict{Basic,Basic}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,30
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Rational{Int64}},Tuple{Basic,Complex{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Complex{Float64}},Vararg{Tuple{Basic,Complex{Float64}},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,symbols,true,true,0,1,Basic,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,136
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Float64},Pair{Basic,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,dense_matrix_transpose,true,true,0,1,SymEngine.CDenseMatrix,SymEngine.CDenseMatrix,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/dense-matrix.jl,38
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Complex{Int64}},Vararg{Tuple{Basic,Complex{Int64}},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Complex{Int64}},Pair{Basic,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,N,true,true,0,1,Float64,SymEngine.BasicType{Val{:RealDouble}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,133
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Rational{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,31
+SymEngine,##255,true,true,0,1,Float64,Rational{Int64},none,0
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Int64},Pair{Basic,Complex{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Complex{Int64}},Pair{Basic,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,evalf,true,true,11,1,Basic,"Basic,Int64,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,6
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Rational{Int64}},Tuple{Basic,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,cse,true,true,0,1,"Tuple{SymEngine.CVecBasic,SymEngine.CVecBasic,SymEngine.CVecBasic}",Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/simplify.jl,4
+SymEngine,dense_matrix_eye,true,true,0,1,SymEngine.CDenseMatrix,"Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/dense-matrix.jl,138
+SymEngine,as_numer_denom,true,true,0,1,"Tuple{Basic,Basic}",SymEngine.BasicType{Val{:Rational}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,163
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Float64},Tuple{Basic,Complex{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,next,true,true,0,1,"Tuple{Basic,Int64}","SymEngine.CVecBasic,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/ctypes.jl,72
+SymEngine,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/SymEngine.jl,1
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Complex{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,31
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Rational{Int64}},Pair{Basic,Complex{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,true,false,0,1,Basic,"SymEngine.BasicType,SymEngine.BasicType,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,19
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,basic_free,true,true,0,1,Nothing,Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,28
+SymEngine,subs,true,false,0,1,Basic,"SymEngine.BasicType,Basic,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,19
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Complex{Float64}},Pair{Basic,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,##257,true,true,0,1,Float64,Float64,none,0
+SymEngine,#IMPLEMENT_ONE_ARG_FUNC#21,false,false,0,1,Any,"Symbol,typeof(SymEngine.IMPLEMENT_ONE_ARG_FUNC),Expr,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/mathfuns.jl,3
+SymEngine,lambdify,false,false,1,2,Any,"Expr,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,144
+SymEngine,CDenseMatrix_free,true,true,1,2,"Union{Nothing, Ptr{Nothing}}",SymEngine.CDenseMatrix,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/ctypes.jl,131
+SymEngine,get_args,true,true,0,1,"Array{Basic,1}",Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,267
+SymEngine,N,false,false,0,1,"Union{ChainRulesCore.ZeroTangent, Complex}",SymEngine.BasicType{Val{:Complex}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/numerics.jl,144
+SymEngine,expand,true,true,0,1,Basic,Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/mathfuns.jl,5
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Complex{Float64}},Tuple{Basic,Complex{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,subs,false,false,0,1,Any,Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Float64},Pair{Basic,Rational{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Float64},Tuple{Basic,Complex{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,toString,true,true,1,1,String,Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/display.jl,2
+SymEngine,_flat,true,true,0,1,"Array{Basic,1}","Array{Basic,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,244
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Int64},Tuple{Basic,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,get_name,true,true,0,1,String,Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,259
+SymEngine,subs,true,true,0,1,Basic,"Basic,Dict{Basic,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,30
+SymEngine,free_symbols,true,true,0,1,"Array{Basic,1}","Array{Basic,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,245
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Int64},Tuple{Basic,Rational{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Complex{Float64}},Tuple{Basic,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,get_libversion,true,true,1,2,VersionNumber,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/utils.jl,12
+SymEngine,basic_hash,true,true,0,1,UInt64,Basic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,274
+SymEngine,lambdify,false,false,1,2,Any,"Expr,Array{Basic,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,144
+SymEngine,subs,true,false,0,1,Basic,"SymEngine.BasicType,Tuple{S,Any} where S<:Union{Basic, SymEngine.BasicType}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,31
+SymEngine,toString,true,false,1,1,String,SymEngine.BasicType{Val{:Constant}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/display.jl,2
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Complex{Int64}},Pair{Basic,Rational{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Complex{Int64}},Tuple{Basic,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,32
+SymEngine,_lambdify,false,false,0,1,"SymEngine.var""#28#29""{_A} where _A","Expr,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,154
+SymEngine,##253,true,true,0,1,Float64,Int64,none,0
+SymEngine,subs,true,true,0,1,Basic,"Basic,Tuple{Basic,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,31
+SymEngine,map_fn,true,true,1,2,Symbol,"Symbol,Dict{Symbol,Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,60
+SymEngine,##263,true,true,0,1,"Array{Int64,2}",Int64,none,0
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Float64},Pair{Basic,Complex{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Int64},Pair{Basic,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,_symbol,true,true,0,1,Basic,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/types.jl,120
+SymEngine,throw_if_error,true,true,1,1,Nothing,"UInt32,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/exceptions.jl,1
+SymEngine,lambdify,false,false,1,1,Any,"Array{Basic,2},Array{Basic,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,116
+SymEngine,subs,true,true,0,1,Basic,"Basic,Basic,Basic",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,19
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Int64},Pair{Basic,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33
+SymEngine,subs,false,false,0,1,Any,"Basic,Pair{Basic,Float64},Pair{Basic,Complex{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SymEngine/depot/packages/SymEngine/Qs90w/src/subs.jl,33

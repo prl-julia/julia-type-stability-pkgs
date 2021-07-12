@@ -1,0 +1,138 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Mjolnir,#591#f,false,false,0,1,Any,"Const{typeof(getindex)},Partial{var""#s45""} where var""#s45""<:Array,Const{_A} where _A",none,0
+Mjolnir,inferbranch!,true,false,0,1,IRTools.Inner.WorkQueue{Any},"Inference,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,165
+Mjolnir,_issubtype,true,false,0,0,Union{},"Bool,Type",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,50
+Mjolnir,inline!,true,true,12,1,Nothing,"IRTools.Inner.IR,IRTools.Inner.IR,BitArray{1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,116
+Mjolnir,traceblock!,true,false,30,1,Nothing,"Mjolnir.Trace,Dict{Any,Any},IRTools.Inner.Block",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,168
+Mjolnir,return_type,false,false,0,1,"Union{Type{T}, Const{T}, Mjolnir.Node{T}, Partial{T}, Mjolnir.Shape{T}} where T","IRTools.Inner.IR,Any,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,246
+Mjolnir,tracecall!,false,false,1,1,Any,"Mjolnir.Trace,Any,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,225
+Mjolnir,exprtype,false,false,0,1,Const{_A} where _A,"Any,GlobalRef",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,146
+Mjolnir,exprtype,false,false,0,1,Const{_A} where _A,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,145
+Mjolnir,cleanup!,true,false,0,1,IRTools.Inner.IR,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/cleanup.jl,91
+Mjolnir,abstract,false,false,0,1,Const{_A} where _A,"Mjolnir.Numeric,Union{Const{typeof(+)}, Mjolnir.Node{typeof(+)}, Type{typeof(+)}, Partial{typeof(+)}, Mjolnir.Shape{typeof(+)}},Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,10
+Mjolnir,getir,false,false,3,2,Any,"Mjolnir.Trace,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,12
+Mjolnir,ptuple,true,true,0,1,Const{Tuple{}},,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,41
+Mjolnir,something,true,false,5,2,"Union{Nothing, Tuple{Any,Tuple{DataType,Any,Any,Vararg{Any,N} where N}}}","Mjolnir.var""#1#2""{_A,_B} where _B where _A,Tuple",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,17
+Mjolnir,instead,true,false,0,1,"Union{Nothing, Tuple{Any,Tuple{DataType,Any,Any,Vararg{Any,N} where N}}}","Mjolnir.Multi,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,30
+Mjolnir,something,true,false,4,1,Nothing,"Mjolnir.var""#1#2""{Array{Any,1},Tuple{Const{typeof(f)},Const{Int64},Const{Int64}}},Tuple",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,17
+Mjolnir,node!,true,false,0,1,Nothing,"Mjolnir.Trace,Mjolnir.Shape,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,21
+Mjolnir,partials!,true,false,17,1,IRTools.Inner.IR,IRTools.Inner.IR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/cleanup.jl,48
+Mjolnir,_issubtype,true,false,0,1,Bool,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,51
+Mjolnir,inline_consts!,true,true,16,1,IRTools.Inner.IR,IRTools.Inner.IR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/cleanup.jl,5
+Mjolnir,typeless,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,25
+Mjolnir,instead,true,false,0,1,"Union{Nothing, Tuple{Any,Tuple{DataType,Any,Any,Vararg{Any,N} where N}}}","Any,Array{T,N} where T where N,Any,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,12
+Mjolnir,instrument,false,false,2,3,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,53
+Mjolnir,node!,true,false,0,1,Nothing,"Mjolnir.Trace,Partial,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,21
+Mjolnir,@abstract,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,65
+Mjolnir,abstract!,true,false,6,1,Int64,"Mjolnir.Trace,IRTools.Inner.Block,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,131
+Mjolnir,inline_bbs!,true,true,10,1,Nothing,Mjolnir.Frame,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,106
+Mjolnir,replacement,false,false,1,2,"Tuple{Any,Tuple{Any,Vararg{Any,N} where N}}","Any,Array{T,N} where T where N,Tuple{Any,Vararg{Any,N} where N}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,162
+Mjolnir,widen,true,true,0,1,Type{Float64},Const{Float64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,29
+Mjolnir,_union,true,true,0,1,Bool,"Type{Union{}},Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,46
+Mjolnir,ptuple,true,true,0,1,Const{Tuple{}},"Vararg{Const,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,42
+Mjolnir,something,false,false,5,2,Any,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,17
+Mjolnir,abstractm,true,false,27,1,Expr,"Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,35
+Mjolnir,to_type_level,true,true,0,1,Expr,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,272
+Mjolnir,wraptype,false,false,1,2,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,28
+Mjolnir,inline_bbs!,true,false,10,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,106
+Mjolnir,blockargs!,true,true,6,2,Bool,"IRTools.Inner.Block,BitArray{1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,71
+Mjolnir,abstract,false,false,0,1,Const{_A} where _A,"Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,13
+Mjolnir,extract_group,false,false,15,1,"Tuple{IRTools.Inner.IR,Array{Any,1},Any}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,91
+Mjolnir,abstract!,false,false,6,1,Any,"Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,131
+Mjolnir,cleanup!,true,true,0,1,IRTools.Inner.IR,IRTools.Inner.IR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/cleanup.jl,91
+Mjolnir,deadcode!,true,true,9,1,IRTools.Inner.IR,IRTools.Inner.IR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/cleanup.jl,31
+Mjolnir,instead,true,false,0,1,"Union{Nothing, Tuple{Any,Tuple{DataType,Any,Any,Vararg{Any,N} where N}}}","Any,Any,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,12
+Mjolnir,infercall!,false,false,7,2,Any,"Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,148
+Mjolnir,prepare_ir!,false,false,6,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,59
+Mjolnir,trace!,false,false,5,1,Any,"Mjolnir.Trace,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,202
+Mjolnir,openbranches,true,false,9,1,"Array{Any,1}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,172
+Mjolnir,mutate,false,false,0,1,Any,"Any,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,15
+Mjolnir,effectful,true,false,0,1,Bool,"Any,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/cleanup.jl,27
+Mjolnir,exprtype,false,false,0,1,Const{_A} where _A,"IRTools.Inner.IR,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,145
+Mjolnir,frame,true,false,0,1,Mjolnir.Frame,"IRTools.Inner.IR,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,100
+Mjolnir,instead,true,false,0,1,Nothing,"Mjolnir.Multi,Array{Any,1},Const{typeof(f)},Const{Int64},Const{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,30
+Mjolnir,instead,true,false,0,1,"Union{Nothing, Tuple{Any,Tuple{DataType,Any,Any,Vararg{Any,N} where N}}}","Mjolnir.Multi,Array{T,N} where T where N,Any,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,30
+Mjolnir,instead,true,false,0,1,"Union{Nothing, Tuple{Any,Tuple{DataType,Any,Any,Vararg{Any,N} where N}}}","Any,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,12
+Mjolnir,uninline!,false,false,0,1,Any,"Mjolnir.Frame,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,96
+Mjolnir,widen,false,false,0,1,Any,"Union{Type{T}, Const{T}, Mjolnir.Node{T}, Partial{T}, Mjolnir.Shape{T}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,29
+Mjolnir,isvararg,true,false,1,2,Bool,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,26
+Mjolnir,partial,false,false,0,1,Any,"Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,14
+Mjolnir,#591#f,false,false,0,1,Any,"Union{Type{var""#s542""}, Const{var""#s542""}, Mjolnir.Node{var""#s542""}, Partial{var""#s542""}, Mjolnir.Shape{var""#s542""}} where var""#s542""<:typeof(getindex),Partial{var""#s46""} where var""#s46""<:Array,Const",none,0
+Mjolnir,rename,true,true,0,1,IRTools.Inner.Branch,"Dict{Any,Any},IRTools.Inner.Branch",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,39
+Mjolnir,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/Mjolnir.jl,1
+Mjolnir,_union,false,false,0,1,Any,"Type{Union{}},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,46
+Mjolnir,to_type_level,false,false,3,2,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,272
+Mjolnir,copyblock!,true,false,9,1,IRTools.Inner.Block,"IRTools.Inner.IR,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,67
+Mjolnir,partial,false,false,0,1,Any,"Mjolnir.Basic,Const{typeof(getindex)},Partial{var""#s45""} where var""#s45""<:Array,Const{_A} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,55
+Mjolnir,_issubtype,true,false,0,0,Union{},"Bool,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,51
+Mjolnir,infercall!,false,false,7,2,Any,"Inference,NTuple{4,Any},IRTools.Inner.Block,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,148
+Mjolnir,partial,false,false,0,1,Any,"Mjolnir.Multi,Const{typeof(length)},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,32
+Mjolnir,@pure,false,false,1,2,Any,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,15
+Mjolnir,something,false,false,5,2,Any,"Mjolnir.var""#7#8""{_A,_B} where _B where _A,Tuple",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,17
+Mjolnir,getir,false,false,3,2,Any,"Mjolnir.Trace,Any,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,12
+Mjolnir,traceblock!,true,false,30,1,Nothing,"Mjolnir.Trace,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,168
+Mjolnir,wraptypes,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,29
+Mjolnir,partial,false,false,0,1,Any,"Mjolnir.Multi,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,32
+Mjolnir,@partial,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,69
+Mjolnir,effectful,true,false,0,1,Bool,"Union{Const{typeof(setindex!)}, Mjolnir.Node{typeof(setindex!)}, Type{typeof(setindex!)}, Partial{typeof(setindex!)}, Mjolnir.Shape{typeof(setindex!)}},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/lib/base.jl,41
+Mjolnir,rename,true,true,0,1,IRTools.Inner.Branch,"Dict{Any,Bool},IRTools.Inner.Branch",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,39
+Mjolnir,widen,false,false,0,1,Any,DataType,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,29
+Mjolnir,blockargs!,true,false,6,2,Bool,"IRTools.Inner.Block,Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,71
+Mjolnir,widen,true,true,0,1,Type{Float64},Type{Float64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,29
+Mjolnir,abstract,false,false,0,1,Const{_A} where _A,"Mjolnir.Numeric,Union{Const{typeof(+)}, Mjolnir.Node{typeof(+)}, Type{typeof(+)}, Partial{typeof(+)}, Mjolnir.Shape{typeof(+)}},Const,Const",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,8
+Mjolnir,inline!,true,false,12,1,Nothing,"Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,116
+Mjolnir,_issubtype,true,false,0,1,Bool,"Any,Type",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,50
+Mjolnir,replacement,false,false,1,2,"Tuple{Any,Any}","Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,162
+Mjolnir,openbranches,true,false,11,1,"Array{Any,1}","IRTools.Inner.IR,Dict{Any,Any},IRTools.Inner.Block",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,144
+Mjolnir,purem,true,false,0,1,Expr,"Symbol,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,6
+Mjolnir,tracecall!,false,false,1,1,Any,"Mjolnir.Trace,Any,Any,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,225
+Mjolnir,widen,true,true,0,1,Type{Int64},Type{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,29
+Mjolnir,Defaults,true,true,0,1,"Mjolnir.Multi{Tuple{Mjolnir.Basic,Mjolnir.Numeric}}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,35
+Mjolnir,const_kw,true,true,0,1,Nothing,Nothing,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,31
+Mjolnir,effectful,true,false,0,1,Bool,"Union{Const{typeof(print)}, Mjolnir.Node{typeof(print)}, Type{typeof(print)}, Partial{typeof(print)}, Mjolnir.Shape{typeof(print)}},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/lib/base.jl,39
+Mjolnir,openbranches,true,false,9,1,"Array{Any,1}",IRTools.Inner.Block,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,172
+Mjolnir,widen,true,true,0,1,Type{typeof(f)},Const{typeof(f)},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,29
+Mjolnir,blockargs!,true,false,6,2,Bool,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,71
+Mjolnir,extract_group,true,false,15,1,"Tuple{IRTools.Inner.IR,Array{Any,1},Int64}",IRTools.Inner.Block,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,91
+Mjolnir,istrivial,true,true,0,1,Bool,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/cleanup.jl,1
+Mjolnir,to_type_level,true,true,0,1,Expr,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,272
+Mjolnir,widen,true,true,0,1,Type{Int64},Const{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,29
+Mjolnir,openbranches,true,false,11,1,"Array{Any,1}","Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,144
+Mjolnir,instead,true,false,0,1,Nothing,"Any,Array{Any,1},Const{typeof(f)},Const{Int64},Const{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,12
+Mjolnir,copyblock!,true,false,9,1,IRTools.Inner.Block,"IRTools.Inner.IR,IRTools.Inner.Block",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,67
+Mjolnir,abstract_group,false,false,2,1,"Tuple{Array{Int64,1},Any}","Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,82
+Mjolnir,infer!,true,true,5,1,Inference,Inference,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,223
+Mjolnir,inline!,true,false,12,1,Nothing,"IRTools.Inner.IR,IRTools.Inner.IR,Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,116
+Mjolnir,widen,false,false,0,1,Any,Type{T} where T,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,29
+Mjolnir,istrivial,true,false,0,1,Bool,Type,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/cleanup.jl,2
+Mjolnir,ptuple,true,true,0,1,Const{Tuple{}},"Vararg{Type,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,43
+Mjolnir,tracem,false,false,4,1,Any,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,279
+Mjolnir,const_kw,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,31
+Mjolnir,instead,false,false,0,1,"Tuple{Any,Tuple{DataType,Any,Any,Vararg{Any,N} where N}}","Mjolnir.Basic,Any,Union{Type{Mjolnir.KwFunc{F}}, Const{Mjolnir.KwFunc{F}}, Mjolnir.Node{Mjolnir.KwFunc{F}}, Partial{Mjolnir.KwFunc{F}}, Mjolnir.Shape{Mjolnir.KwFunc{F}}},Any,Any,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/lib/base.jl,55
+Mjolnir,node!,true,false,0,1,Nothing,"Mjolnir.Trace,Union{Partial, Mjolnir.Shape},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,21
+Mjolnir,prepare_ir!,true,true,6,1,IRTools.Inner.IR,IRTools.Inner.IR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,59
+Mjolnir,wraptypes,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,29
+Mjolnir,effectful,true,false,0,1,Bool,"Union{Const{typeof(println)}, Mjolnir.Node{typeof(println)}, Type{typeof(println)}, Partial{typeof(println)}, Mjolnir.Shape{typeof(println)}},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/lib/base.jl,40
+Mjolnir,@trace,false,false,0,1,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,310
+Mjolnir,trace,true,false,7,1,IRTools.Inner.IR,"Any,Any,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,250
+Mjolnir,abstract_group,true,false,2,1,"Tuple{Array{Int64,1},Int64}","IRTools.Inner.CFG,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,82
+Mjolnir,unapply!,false,false,14,2,"Tuple{Array{_A,1} where _A,Array{_A,1} where _A}","Mjolnir.Trace,Array{Any,1},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,45
+Mjolnir,step!,true,false,20,2,Nothing,Inference,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,184
+Mjolnir,wraptypes,true,true,0,1,Symbol,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,29
+Mjolnir,something,false,false,5,2,Any,"Mjolnir.var""#5#6""{_A} where _A,Tuple",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,17
+Mjolnir,inferbranch!,false,false,0,1,Any,"Any,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,165
+Mjolnir,rename,true,true,0,1,IRTools.Inner.Statement,"Dict{Any,Any},IRTools.Inner.Statement",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,39
+Mjolnir,unapply!,false,false,14,2,"Tuple{Any,Any}","Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,45
+Mjolnir,istrivial,true,true,0,1,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/cleanup.jl,3
+Mjolnir,getblock,false,false,1,2,"Tuple{IRTools.Inner.Block,Any}","Mjolnir.Frame,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,91
+Mjolnir,rename,false,false,0,1,Any,"Dict{Any,Any},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,39
+Mjolnir,rename,true,false,0,1,IRTools.Inner.Branch,"Dict,IRTools.Inner.Branch",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,39
+Mjolnir,_union,true,true,0,1,Bool,"Any,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,49
+Mjolnir,unapply!,false,false,14,2,"Tuple{Any,Any}","Mjolnir.Trace,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,45
+Mjolnir,instead,true,false,0,1,"Union{Nothing, Tuple{Any,Tuple{DataType,Any,Any,Vararg{Any,N} where N}}}","Mjolnir.Multi,Any,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,30
+Mjolnir,rename,false,false,0,1,Any,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/trace.jl,39
+Mjolnir,exprtype,false,false,0,1,Const{_A} where _A,"IRTools.Inner.IR,GlobalRef",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,146
+Mjolnir,mutate,false,false,0,1,Any,"Mjolnir.Multi,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/context.jl,33
+Mjolnir,purem,true,false,0,1,Expr,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,6
+Mjolnir,frame,true,false,0,1,Mjolnir.Frame,"IRTools.Inner.IR,Any,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/infer.jl,100
+Mjolnir,named,false,false,3,2,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Mjolnir/depot/packages/Mjolnir/7FUVN/src/macros.jl,23

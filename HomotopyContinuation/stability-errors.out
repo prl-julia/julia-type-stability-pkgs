@@ -1,0 +1,22 @@
+ERROR: Stability.TypeInferenceError(MultivariatePolynomials.promote_rule_constant, svec(Type{Int64}, Type{Union{}}))
+Stacktrace:
+ [1] run_type_inference(::Any, ::Any) at /data/artem/stability/repo/Stability/src/Stability.jl:63
+ [2] module_stats(::Module, ::IOStream) at /data/artem/stability/repo/Stability/src/Stability.jl:248
+ [3] (::var"#222#226")(::IOStream) at ./none:36
+ [4] open(::var"#222#226", ::String, ::Vararg{String,N} where N; kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at ./io.jl:325
+ [5] open(::Function, ::String, ::String) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [6] top-level scope at none:35
+ [7] eval(::Module, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [8] exec_options(::Base.JLOptions) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [9] _start() at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ERROR: Stability.TypeInferenceError(MultivariatePolynomials.promote_rule_constant, svec(Type{Symbol}, Type{Union{}}))
+Stacktrace:
+ [1] run_type_inference(::Any, ::Any) at /data/artem/stability/repo/Stability/src/Stability.jl:63
+ [2] module_stats(::Module, ::IOStream) at /data/artem/stability/repo/Stability/src/Stability.jl:248
+ [3] (::var"#222#226")(::IOStream) at ./none:36
+ [4] open(::var"#222#226", ::String, ::Vararg{String,N} where N; kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at ./io.jl:325
+ [5] open(::Function, ::String, ::String) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [6] top-level scope at none:35
+ [7] eval(::Module, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [8] exec_options(::Base.JLOptions) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [9] _start() at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?

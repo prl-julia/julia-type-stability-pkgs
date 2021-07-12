@@ -1,0 +1,11 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+ClearStacktrace,expandbasepath,1,1.0,1.0,1,0,0,248,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ClearStacktrace/depot/packages/ClearStacktrace/Tu4rG/src/ClearStacktrace.jl,10
+ClearStacktrace,getmodule,2,0.5,0.5,2,0,0,125,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ClearStacktrace/depot/packages/ClearStacktrace/Tu4rG/src/ClearStacktrace.jl,44
+ClearStacktrace,print_frame,4,1.0,0.0,1,0,0,1599,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ClearStacktrace/depot/packages/ClearStacktrace/Tu4rG/src/ClearStacktrace.jl,116
+ClearStacktrace,getline,2,1.0,1.0,2,0,0,49,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ClearStacktrace/depot/packages/ClearStacktrace/Tu4rG/src/ClearStacktrace.jl,31
+ClearStacktrace,printtrace,2,1.0,0.0,1,0,0,1193,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ClearStacktrace/depot/packages/ClearStacktrace/Tu4rG/src/ClearStacktrace.jl,92
+ClearStacktrace,getsigtypes,2,0.5,0.5,2,0,0,143,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ClearStacktrace/depot/packages/ClearStacktrace/Tu4rG/src/ClearStacktrace.jl,46
+ClearStacktrace,getfunc,2,1.0,1.0,2,0,0,55,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ClearStacktrace/depot/packages/ClearStacktrace/Tu4rG/src/ClearStacktrace.jl,43
+ClearStacktrace,convert_trace,3,0.3333333333333333,0.3333333333333333,2,0,0,914,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ClearStacktrace/depot/packages/ClearStacktrace/Tu4rG/src/ClearStacktrace.jl,49
+ClearStacktrace,getfile,2,1.0,1.0,2,0,0,171,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ClearStacktrace/depot/packages/ClearStacktrace/Tu4rG/src/ClearStacktrace.jl,32
+ClearStacktrace,replaceuserpath,2,1.0,1.0,2,0,0,117,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ClearStacktrace/depot/packages/ClearStacktrace/Tu4rG/src/ClearStacktrace.jl,25

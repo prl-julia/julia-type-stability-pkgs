@@ -1,0 +1,45 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+GeoJSON,read,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,21
+GeoJSON,dict2geo,false,false,9,10,Any,JSON3.Object,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,56
+GeoJSON,geo2dict,true,true,0,1,Nothing,Nothing,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,169
+GeoJSON,geo2dict,false,false,3,1,"Dict{_A,_B} where _B where _A",Feature,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,138
+GeoJSON,parseFeatureCollection,false,false,2,1,FeatureCollection,"AbstractDict{var""#s12"",Any} where var""#s12""<:Union{String, Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,99
+GeoJSON,parseFeatureCollection,false,false,2,1,FeatureCollection,"JSON3.Object{Base.CodeUnits{UInt8,String},Array{UInt64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,99
+GeoJSON,geo2dict,false,false,0,1,Dict,LineString,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,128
+GeoJSON,parseFeature,true,true,3,1,Feature,"JSON3.Object{Base.CodeUnits{UInt8,String},SubArray{UInt64,1,Array{UInt64,1},Tuple{UnitRange{Int64}},true}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,84
+GeoJSON,parseGeometryCollection,true,false,0,1,GeometryCollection,JSON3.Object,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,81
+GeoJSON,dict2geo,false,false,9,10,Any,"AbstractDict{var""#s12"",Any} where var""#s12""<:Union{String, Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,56
+GeoJSON,geo2dict,false,false,0,1,"Dict{_A,_B} where _B where _A",AbstractGeometry,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,128
+GeoJSON,parseGeometryCollection,true,false,0,1,GeometryCollection,"AbstractDict{var""#s12"",Any} where var""#s12""<:Union{String, Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,81
+GeoJSON,parse,false,false,0,1,Any,String,deprecated.jl,45
+GeoJSON,parseGeometryCollection,true,true,0,1,GeometryCollection,"JSON3.Object{Array{UInt8,1},Array{UInt64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,81
+GeoJSON,dict2geo,false,false,9,10,Any,"JSON3.Object{Base.CodeUnits{UInt8,String},SubArray{UInt64,1,Array{UInt64,1},Tuple{UnitRange{Int64}},true}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,56
+GeoJSON,dict2geo,true,true,0,1,Nothing,Nothing,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,79
+GeoJSON,geo2dict,false,false,2,1,"Dict{_A,_B} where _B where _A",FeatureCollection{Feature},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,157
+GeoJSON,dict2geo,false,false,9,10,Any,"JSON3.Object{Base.CodeUnits{UInt8,String},Array{UInt64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,56
+GeoJSON,geojson,false,false,0,1,Any,FeatureCollection{Feature},deprecated.jl,45
+GeoJSON,parseFeature,true,true,3,1,Feature,"JSON3.Object{Array{UInt8,1},SubArray{UInt64,1,Array{UInt64,1},Tuple{UnitRange{Int64}},true}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,84
+GeoJSON,parseFeatureCollection,false,false,2,1,FeatureCollection,"JSON3.Object{Array{UInt8,1},Array{UInt64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,99
+GeoJSON,geo2dict,false,false,0,1,"Dict{_A,_B} where _B where _A",AbstractGeometryCollection,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,133
+GeoJSON,parse,false,false,0,1,Any,Any,deprecated.jl,45
+GeoJSON,parsefile,false,false,0,1,Any,String,deprecated.jl,70
+GeoJSON,geo2dict,false,false,0,1,Dict,MultiPolygon,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,128
+GeoJSON,dict2geo,false,false,9,10,Any,"JSON3.Object{Array{UInt8,1},Array{UInt64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,56
+GeoJSON,parseFeatureCollection,false,false,2,1,FeatureCollection,"JSON3.Object{Base.CodeUnits{UInt8,String},SubArray{UInt64,1,Array{UInt64,1},Tuple{UnitRange{Int64}},true}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,99
+GeoJSON,read,false,false,0,1,Any,"Array{UInt8,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,21
+GeoJSON,geo2dict,false,false,0,1,Dict,Polygon,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,128
+GeoJSON,geo2dict,false,false,0,1,"Dict{_A,_B} where _B where _A",GeometryCollection,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,133
+GeoJSON,dict2geo,false,false,9,10,Any,"JSON3.Object{Array{UInt8,1},SubArray{UInt64,1,Array{UInt64,1},Tuple{UnitRange{Int64}},true}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,56
+GeoJSON,parseFeatureCollection,false,false,2,1,FeatureCollection,JSON3.Object,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,99
+GeoJSON,parseGeometryCollection,true,true,0,1,GeometryCollection,"JSON3.Object{Array{UInt8,1},SubArray{UInt64,1,Array{UInt64,1},Tuple{UnitRange{Int64}},true}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,81
+GeoJSON,parseFeature,true,false,3,1,Feature,"AbstractDict{var""#s12"",Any} where var""#s12""<:Union{String, Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,84
+GeoJSON,parseFeature,true,true,3,1,Feature,"JSON3.Object{Base.CodeUnits{UInt8,String},Array{UInt64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,84
+GeoJSON,parseFeatureCollection,false,false,2,1,FeatureCollection,"JSON3.Object{Array{UInt8,1},SubArray{UInt64,1,Array{UInt64,1},Tuple{UnitRange{Int64}},true}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,99
+GeoJSON,parseGeometryCollection,true,true,0,1,GeometryCollection,"JSON3.Object{Base.CodeUnits{UInt8,String},SubArray{UInt64,1,Array{UInt64,1},Tuple{UnitRange{Int64}},true}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,81
+GeoJSON,read,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,21
+GeoJSON,geo2dict,false,false,0,1,Dict,Point,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,128
+GeoJSON,parseGeometryCollection,true,true,0,1,GeometryCollection,"JSON3.Object{Base.CodeUnits{UInt8,String},Array{UInt64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,81
+GeoJSON,parseFeature,true,true,3,1,Feature,"JSON3.Object{Array{UInt8,1},Array{UInt64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,84
+GeoJSON,write,false,false,0,1,Any,FeatureCollection{Feature},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,40
+GeoJSON,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,1
+GeoJSON,parseFeature,true,false,3,1,Feature,JSON3.Object,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoJSON/depot/packages/GeoJSON/JVqvX/src/GeoJSON.jl,84

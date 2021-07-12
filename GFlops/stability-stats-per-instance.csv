@@ -1,0 +1,15 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+GFlops,gen_count,true,true,3,1,Expr,"Tuple{Tuple{Symbol,Core.IntrinsicFunction,Int64}},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GFlops/depot/packages/GFlops/VnA8Y/src/overdub.jl,28
+GFlops,count_ops,true,false,0,1,Expr,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GFlops/depot/packages/GFlops/VnA8Y/src/count_ops.jl,20
+GFlops,flop,true,false,6,1,Int64,GFlops.Counter,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GFlops/depot/packages/GFlops/VnA8Y/src/Counter.jl,8
+GFlops,@count_ops,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GFlops/depot/packages/GFlops/VnA8Y/src/count_ops.jl,34
+GFlops,prepare_call!,true,true,0,1,Float64,"Array{Any,1},Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GFlops/depot/packages/GFlops/VnA8Y/src/count_ops.jl,1
+GFlops,prepare_call!,false,false,2,2,Any,"Array{Any,1},Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GFlops/depot/packages/GFlops/VnA8Y/src/count_ops.jl,4
+GFlops,prepare_call!,true,true,0,1,Expr,"Array{Any,1},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GFlops/depot/packages/GFlops/VnA8Y/src/count_ops.jl,1
+GFlops,prepare_call!,true,true,0,1,Float32,"Array{Any,1},Float32",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GFlops/depot/packages/GFlops/VnA8Y/src/count_ops.jl,1
+GFlops,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GFlops/depot/packages/GFlops/VnA8Y/src/GFlops.jl,1
+GFlops,prepare_call,false,false,0,1,"Tuple{Array{Any,1},Any}",Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GFlops/depot/packages/GFlops/VnA8Y/src/count_ops.jl,12
+GFlops,gen_count,true,true,3,1,Expr,"NTuple{4,Tuple{Symbol,Core.IntrinsicFunction,Int64}},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GFlops/depot/packages/GFlops/VnA8Y/src/overdub.jl,28
+GFlops,@gflops,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GFlops/depot/packages/GFlops/VnA8Y/src/count_ops.jl,41
+GFlops,prepare_call!,true,true,0,1,Expr,"Array{Any,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GFlops/depot/packages/GFlops/VnA8Y/src/count_ops.jl,2
+GFlops,#CounterCtx#1,true,true,1,1,"Cassette.Context{nametype(CounterCtx),GFlops.Counter,Nothing,Cassette.var""##PassType#255"",Nothing,Nothing}","Base.Iterators.Pairs{Symbol,GFlops.Counter,Tuple{Symbol},NamedTuple{(:metadata,),Tuple{GFlops.Counter}}},Type{Cassette.Context{nametype(CounterCtx),M,T,P,B,H} where H<:Union{Cassette.DisableHooks, Nothing} where B<:Union{Nothing, IdDict{Module,Dict{Symbol,Cassette.BindingMeta}}} where P<:Cassette.AbstractPass where T<:Union{Nothing, Cassette.Tag} where M}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GFlops/depot/packages/Cassette/N5kbV/src/context.jl,256

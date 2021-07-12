@@ -1,0 +1,96 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Gnuplot,gpmargins,false,false,0,1,"NamedTuple{(:l, :r, :b, :t),_A} where _A<:Tuple",Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,2279
+Gnuplot,#driver#18,true,false,39,1,Gnuplot.SessionID,"Bool,typeof(Gnuplot.driver),Symbol,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,add_plot,false,false,0,1,Any,"Gnuplot.Session,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,839
+Gnuplot,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1
+Gnuplot,#parseKeywords#4,true,false,56,1,String,"Base.Iterators.Pairs{Symbol,String,Tuple{Symbol},NamedTuple{(:mar,),Tuple{String}}},typeof(Gnuplot.parseKeywords)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,252
+Gnuplot,palette_names,true,true,0,1,"Array{Symbol,1}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1645
+Gnuplot,parseArguments,false,false,122,1,"Tuple{Any,Bool,Bool,Array{Gnuplot.PlotElement,1}}",UnitRange{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1025
+Gnuplot,@gp,true,false,6,1,Expr,"LineNumberNode,Module,Expr,Vararg{Expr,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1456
+Gnuplot,execall,true,true,0,1,Nothing,Gnuplot.DrySession,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,908
+Gnuplot,gpexec,true,false,7,1,String,"Gnuplot.GPSession,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,887
+Gnuplot,gpvars,false,false,9,1,NamedTuple,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,2242
+Gnuplot,arrays2datablock,true,true,21,1,"Array{String,1}","Array{Int64,1},Array{Int64,1},Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,314
+Gnuplot,arrays2datablock,true,true,19,1,"Array{String,1}",UnitRange{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,314
+Gnuplot,arrays2datablock,true,true,21,1,"Array{String,1}","Array{Int64,1},Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,314
+Gnuplot,#execall#11,true,true,0,1,Nothing,"String,String,typeof(Gnuplot.execall),Gnuplot.DrySession",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,908
+Gnuplot,quit,true,true,0,1,Int64,Gnuplot.DrySession,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,855
+Gnuplot,parseKeywords,true,true,0,1,String,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,252
+Gnuplot,arrays2datablock,true,false,69,5,"Union{Nothing, Array{String,1}}","Array{Int64,1},Array{Int64,1},Array{Int64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,314
+Gnuplot,#execall#12,true,true,15,1,Nothing,"String,String,typeof(Gnuplot.execall),Gnuplot.GPSession",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,909
+Gnuplot,delete_binaries,true,false,6,1,Nothing,Gnuplot.DrySession,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,845
+Gnuplot,driver,true,true,0,1,Gnuplot.SessionID,"Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,gpvars,false,false,0,1,NamedTuple,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,2241
+Gnuplot,quit,true,true,2,2,Int64,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1367
+Gnuplot,parseArguments,false,false,122,1,"Tuple{Any,Bool,Bool,Array{Gnuplot.PlotElement,1}}","String,Vararg{String,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1025
+Gnuplot,writeread,true,true,0,1,"Array{String,1}","Gnuplot.DrySession,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,626
+Gnuplot,arrays2datablock,true,true,26,1,"Array{String,1}","Array{Int64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,314
+Gnuplot,#driver#18,true,false,39,1,Gnuplot.SessionID,"Bool,typeof(Gnuplot.driver),Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,driver,true,true,0,1,Gnuplot.SessionID,"Symbol,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,writeread,true,true,4,1,"Array{String,1}","Gnuplot.GPSession,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,627
+Gnuplot,getsession,false,false,0,1,Gnuplot.Session,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,557
+Gnuplot,@gsp,true,true,0,1,Expr,"LineNumberNode,Module,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1478
+Gnuplot,arrays2datablock,true,false,72,6,"Union{Nothing, Array{String,1}}","Vararg{AbstractArray,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,314
+Gnuplot,#driver#18,true,false,39,1,Gnuplot.SessionID,"Bool,typeof(Gnuplot.driver),UnitRange{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,setmulti,true,false,4,1,Int64,"Gnuplot.Session,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,784
+Gnuplot,@gp,true,false,7,1,Expr,"LineNumberNode,Module,Expr,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1456
+Gnuplot,quit,true,true,0,1,Int64,Gnuplot.GPSession,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,861
+Gnuplot,driver,true,true,0,1,Gnuplot.SessionID,UnitRange{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,newDatasetName,true,false,0,1,String,Gnuplot.Session,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,794
+Gnuplot,@gp,true,false,7,1,Expr,"LineNumberNode,Module,QuoteNode,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1456
+Gnuplot,@gp,true,false,5,1,Expr,"LineNumberNode,Module,String,Vararg{String,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1456
+Gnuplot,parseArguments,false,false,122,1,"Tuple{Any,Bool,Bool,Array{Gnuplot.PlotElement,1}}","Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1025
+Gnuplot,quitall,true,true,3,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1377
+Gnuplot,getsession,false,false,3,1,Gnuplot.Session,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,557
+Gnuplot,#linetypes#27,true,false,7,1,"Union{Missing, Regex, String}","Float64,Int64,Bool,Bool,typeof(linetypes),ColorSchemes.ColorScheme",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1659
+Gnuplot,#parseKeywords#4,true,false,57,1,String,"Base.Iterators.Pairs{_A,_B,_C,_D} where _D where _C where _B where _A,typeof(Gnuplot.parseKeywords)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,252
+Gnuplot,#driver#18,true,false,39,1,Gnuplot.SessionID,"Bool,typeof(Gnuplot.driver),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,#palette#29,true,true,7,1,String,"Bool,Bool,typeof(palette),ColorSchemes.ColorScheme{StaticArrays.SArray{Tuple{5},ColorTypes.RGB{Float64},1,5},String,String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1686
+Gnuplot,arrays2datablock,true,false,21,1,"Array{String,1}","UnitRange{Int64},UnitRange{Int64},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,314
+Gnuplot,#driver#18,true,false,39,1,Gnuplot.SessionID,"Bool,typeof(Gnuplot.driver),Symbol,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,gpexec,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1406
+Gnuplot,driver,true,true,0,1,Gnuplot.SessionID,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,__init__,true,false,6,1,"Union{Missing, Bool, Base.var""#64#65""{_A} where _A}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,238
+Gnuplot,add_plot,false,false,0,1,Any,"Gnuplot.Session,Missing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,839
+Gnuplot,delete_binaries,true,false,6,1,Nothing,Gnuplot.Session,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,845
+Gnuplot,#driver#18,true,false,39,1,Gnuplot.SessionID,"Bool,typeof(Gnuplot.driver),String,Vararg{String,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,arrays2datablock,true,true,68,5,"Union{Nothing, Array{String,1}}","Array{Int64,2},Array{Int64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,314
+Gnuplot,#Options#3,true,true,0,1,Gnuplot.Options,"Bool,String,Symbol,String,Dict{DataType,String},Bool,Array{String,1},Bool,Symbol,Type{Gnuplot.Options}",util.jl,438
+Gnuplot,gpversion,false,false,7,2,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1334
+Gnuplot,@gp,true,false,5,1,Expr,"LineNumberNode,Module,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1456
+Gnuplot,driver,true,false,0,1,Gnuplot.SessionID,"String,Vararg{String,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,@gp,true,true,4,1,Expr,"LineNumberNode,Module,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1456
+Gnuplot,#driver#18,true,false,39,1,Gnuplot.SessionID,"Bool,typeof(Gnuplot.driver),Tuple{Symbol,String},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,gpmargins,false,false,0,1,"NamedTuple{(:l, :r, :b, :t),_A} where _A<:Tuple",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,2278
+Gnuplot,#driver#18,true,false,39,1,Gnuplot.SessionID,"Bool,typeof(Gnuplot.driver),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,parseArguments,false,false,122,1,"Tuple{Any,Bool,Bool,Array{Gnuplot.PlotElement,1}}","Symbol,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1025
+Gnuplot,terminals,true,true,0,1,"Array{String,1}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1706
+Gnuplot,newDatasetName,true,true,0,1,String,Gnuplot.DrySession,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,794
+Gnuplot,#palette#29,true,false,7,1,String,"Bool,Bool,typeof(palette),ColorSchemes.ColorScheme",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1686
+Gnuplot,palette,true,true,0,1,String,"ColorSchemes.ColorScheme{StaticArrays.SArray{Tuple{5},ColorTypes.RGB{Float64},1,5},String,String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1686
+Gnuplot,terminal,true,true,0,1,String,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1716
+Gnuplot,#linetypes#26,true,true,1,1,"Union{Missing, Regex, String}","Base.Iterators.Pairs{Symbol,Real,Tuple{Symbol,Symbol},NamedTuple{(:lw, :ps),Tuple{Float64,Int64}}},typeof(linetypes),Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1658
+Gnuplot,delete_binaries,true,false,6,1,Nothing,Gnuplot.GPSession,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,845
+Gnuplot,driver,true,false,0,1,Gnuplot.SessionID,"Tuple{Symbol,String},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,parseArguments,false,false,122,1,"Tuple{Any,Bool,Bool,Array{Gnuplot.PlotElement,1}}","Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1025
+Gnuplot,useBinaryMethod,true,true,9,1,Bool,UnitRange{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,798
+Gnuplot,parseArguments,false,false,122,1,"Tuple{Any,Bool,Bool,Array{Gnuplot.PlotElement,1}}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1025
+Gnuplot,setmulti,true,true,4,1,Int64,"Gnuplot.DrySession,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,784
+Gnuplot,palette,true,false,0,1,String,ColorSchemes.ColorScheme,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1686
+Gnuplot,add_cmd,true,false,4,1,Nothing,"Gnuplot.Session,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,831
+Gnuplot,add_plot,true,true,0,1,"Array{String,1}","Gnuplot.DrySession,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,839
+Gnuplot,palette,true,true,0,1,String,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1685
+Gnuplot,parseArguments,false,false,122,1,"Tuple{Any,Bool,Bool,Array{Gnuplot.PlotElement,1}}","Symbol,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1025
+Gnuplot,#linetypes#27,true,true,7,1,String,"Float64,Int64,Bool,Bool,typeof(linetypes),ColorSchemes.ColorScheme{StaticArrays.SArray{Tuple{5},ColorTypes.RGB{Float64},1,5},String,String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1659
+Gnuplot,#parseKeywords#4,true,false,56,1,String,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(Gnuplot.parseKeywords)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,252
+Gnuplot,terminal,true,true,0,1,String,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1716
+Gnuplot,@gsp,true,false,0,1,Expr,"LineNumberNode,Module,Expr,Vararg{Expr,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1478
+Gnuplot,add_cmd,true,true,4,1,Nothing,"Gnuplot.DrySession,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,831
+Gnuplot,parseArguments,false,false,122,1,"Tuple{Any,Bool,Bool,Array{Gnuplot.PlotElement,1}}","Tuple{Symbol,String},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1025
+Gnuplot,arrays2datablock,true,true,19,1,"Array{String,1}","Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,314
+Gnuplot,useBinaryMethod,true,false,11,1,Bool,"Vararg{AbstractArray,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,798
+Gnuplot,#palette#28,true,true,0,1,String,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(palette),Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1685
+Gnuplot,driver,true,false,0,1,Gnuplot.SessionID,"Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1235
+Gnuplot,version,true,true,0,1,VersionNumber,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,1324
+Gnuplot,gpexec,true,true,0,1,String,"Gnuplot.DrySession,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,886
+Gnuplot,execall,true,true,0,1,Nothing,Gnuplot.GPSession,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Gnuplot/depot/packages/Gnuplot/7y0ez/src/Gnuplot.jl,909

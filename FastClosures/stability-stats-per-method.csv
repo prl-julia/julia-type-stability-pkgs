@@ -1,0 +1,8 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+FastClosures,find_var_uses!,14,1.0,0.07142857142857142,1,0,0,120,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FastClosures/depot/packages/FastClosures/3LNoZ/src/FastClosures.jl,153
+FastClosures,find_var_uses_lhs!,15,0.5333333333333333,0.06666666666666667,4,0,0,446,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FastClosures/depot/packages/FastClosures/3LNoZ/src/FastClosures.jl,158
+FastClosures,makelet,1,1.0,0.0,1,0,0,230,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FastClosures/depot/packages/FastClosures/3LNoZ/src/FastClosures.jl,12
+FastClosures,find_var_uses_lhs!,14,1.0,0.07142857142857142,1,0,0,120,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FastClosures/depot/packages/FastClosures/3LNoZ/src/FastClosures.jl,174
+FastClosures,find_var_uses!,12,1.0,0.4166666666666667,2,0,0,1794,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FastClosures/depot/packages/FastClosures/3LNoZ/src/FastClosures.jl,98
+FastClosures,@closure,1,1.0,0.0,1,4,0,60,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FastClosures/depot/packages/FastClosures/3LNoZ/src/FastClosures.jl,84
+FastClosures,wrap_closure,1,1.0,0.0,1,0,0,1425,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FastClosures/depot/packages/FastClosures/3LNoZ/src/FastClosures.jl,21

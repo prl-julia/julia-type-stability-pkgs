@@ -1,0 +1,812 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+FileIO,loadstreaming,false,false,0,1,Any,File,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{32,UInt8},Symbol},Tuple{UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{Tuple{},Symbol},NTuple{5,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,true,true,2,1,Bool,"Tuple{UInt8,UInt8},Pair{Tuple{UInt8,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,del_magic,true,true,10,1,Nothing,"Tuple{},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,156
+FileIO,handle_error,true,false,12,2,Bool,"FileIO.NotInstalledError,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/error_handling.jl,84
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:DOT}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:WPG}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,savestreaming,false,false,0,1,Any,"Function,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,add_format,true,false,4,1,Type{DataFormat{:JP2}},"Type{DataFormat{:JP2}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,hasmagic,true,false,0,1,Bool,"Array{T,1} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,96
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{20,UInt8},Symbol},NTuple{10,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:AVI}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{9,UInt8},Pair{NTuple{20,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:WMF}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,skipmagic,true,false,0,1,Nothing,"IOStream,Type{DataFormat{:AmbigExt2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,magic_cmp,true,true,0,1,Bool,"Tuple{UInt8,UInt8},Pair{NTuple{5,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Array{UInt8,1},String,Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:PLY_BINARY},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,magic_cmp,false,false,2,3,Any,"NTuple{10,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,Tuple{Vararg{UInt8,N} where N}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:FLAC}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,file!,true,false,1,1,File{DataFormat{:GZIP}},"Stream{DataFormat{:GZIP},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,formatname,true,true,0,1,Symbol,"Stream{DataFormat{:BROKEN},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,iter_eq,true,true,11,3,Bool,"Array{UInt8,1},NTuple{8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:GZIP}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,add_format,false,false,1,1,Type{DataFormat{sym}} where sym,"Type{T} where T,Function,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,canonicalize_magic,true,true,0,1,Tuple{},Tuple{},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,47
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{8,UInt8},Symbol},NTuple{6,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:GZIP},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{32,UInt8},Symbol},NTuple{4,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,add_format,true,false,4,1,Type{DataFormat{:GZIP}},"Type{DataFormat{:GZIP}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,add_format,true,false,4,1,Type{DataFormat{:MAGIC}},"Type{DataFormat{:MAGIC}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,checked_import,true,true,0,1,Module,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,19
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:NotInstalled}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,#load#30,false,false,12,3,Any,"Base.Iterators.Pairs{Symbol,Array{UInt8,1},Tuple{Symbol},NamedTuple{(:extra,),Tuple{Array{UInt8,1}}}},typeof(load),Formatted",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:PDF}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,applicable_savers,true,false,1,1,"Array{Symbol,1}",Formatted,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,42
+FileIO,iter_eq,true,true,11,3,Bool,"Array{UInt8,1},NTuple{38,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,add_format,false,false,4,1,Type{DataFormat{sym}} where sym,"Type{T} where T,Base.CodeUnits{UInt8,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,skipmagic,false,false,0,1,"Stream{DataFormat{:STL_BINARY},_A} where _A<:IO","Stream{DataFormat{:STL_BINARY},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:GZIP}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,#savestreaming#34,false,false,10,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(savestreaming),File",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{Tuple{},Symbol},Tuple{UInt8,UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,del_extension,true,true,0,1,"Dict{String,Union{Array{Symbol,1}, Symbol}}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,200
+FileIO,detecthdf5,true,true,8,3,Bool,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,284
+FileIO,add_format,true,false,4,1,Type{DataFormat{:NRRD}},"Type{DataFormat{:NRRD}},String,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{6,UInt8},Symbol},NTuple{5,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,detectavi,true,true,2,2,Bool,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,270
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:RGB}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{5,UInt8},Symbol},NTuple{13,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:NRRD}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:Stata}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_format,false,false,4,1,Type{DataFormat{sym}} where sym,"Type{DataFormat{sym}},Base.CodeUnits{UInt8,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,detect_noometiff,true,true,3,2,Bool,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,259
+FileIO,handle_error,true,true,0,0,Union{},"ErrorException,File{DataFormat{:MultiError}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/error_handling.jl,82
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{32,UInt8},Symbol},NTuple{20,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PNG}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{sym}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,save,false,false,0,1,Any,"PosixPath,MimeSaveTestType",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,file!,true,false,1,1,File{DataFormat{:PLY_ASCII}},"Stream{DataFormat{:PLY_ASCII},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:HTML}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,hasmagic,true,true,0,1,Bool,"NTuple{4,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,98
+FileIO,filename,false,false,0,1,Any,File{DataFormat{:AmbigExt2}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,37
+FileIO,add_format,true,false,1,1,Type{DataFormat{:STL_ASCII}},"Type{DataFormat{:STL_ASCII}},Function,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,132
+FileIO,add_format,true,false,4,1,Type{DataFormat{:PGMText}},"Type{DataFormat{:PGMText}},Base.CodeUnits{UInt8,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,add_format,true,false,7,1,Type{DataFormat{:JLD}},"Type{DataFormat{:JLD}},Tuple{Array{UInt8,1},Array{UInt8,1}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,114
+FileIO,del_format,true,false,0,1,Nothing,Type{DataFormat{:AmbigExt1}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,143
+FileIO,magic_cmp,false,false,2,3,Any,"Tuple{Vararg{UInt8,N} where N},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:Parquet}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,query,false,false,0,1,"Stream{_A,Base.GenericIOBuffer{Array{UInt8,1}}} where _A<:DataFormat","Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,110
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:HDF5}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,NTuple{35,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:MultiError}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,info,false,false,0,1,Any,Type{DataFormat{:CSV}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,19
+FileIO,add_format,false,false,1,1,Type{DataFormat{sym}} where sym,"Type{T} where T,Function,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:PBMBinary}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,hasmagic,true,false,0,1,Bool,Function,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,99
+FileIO,add_format,false,false,7,1,Type{DataFormat{sym}} where sym,"Type{DataFormat{sym}},Tuple{Array{UInt8,1},Array{UInt8,1}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,114
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{Tuple{UInt8,UInt8},Symbol},NTuple{4,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,stream,false,false,0,1,IO,"Stream{DataFormat{:RData},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,iter_eq,true,true,11,3,Bool,"Array{UInt8,1},NTuple{30,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Base.CodeUnits{UInt8,String},String,Array{Symbol,1},Vararg{Array{Symbol,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Array{UInt8,1},String,Array{Symbol,1},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,skipmagic,false,false,0,1,"Stream{DataFormat{:DUMMY},_A} where _A<:IO","Stream{DataFormat{:DUMMY},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,hasfunction,true,false,0,1,Bool,Function,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,103
+FileIO,add_format,false,false,3,1,Type{DataFormat{sym}} where sym,"Type{T} where T,Tuple{},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PDB}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Array{UInt8,1},Array{String,1},Array{Any,1},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,save,false,false,0,1,Any,"String,Array{UInt8,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,del_format,true,false,0,1,Nothing,Type{DataFormat{:FUNCTION_FOR_MAGIC_BYTES}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,143
+FileIO,file!,true,false,1,1,File{DataFormat{:STL_BINARY}},"Stream{DataFormat{:STL_BINARY},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,del_magic,true,true,3,1,Nothing,"NTuple{9,UInt8},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,156
+FileIO,hasmagic,true,true,0,1,Bool,"NTuple{9,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,98
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:HDF5}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,add_format,true,true,3,1,Type{DataFormat{:vegalite}},"Type{DataFormat{:vegalite}},Tuple{},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,file!,true,false,1,1,File{DataFormat{:PLY_BINARY}},"Stream{DataFormat{:PLY_BINARY},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:AmbigExt2},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:AndorSIF}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:CUR}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,NTuple{8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,stream,true,true,0,1,IOStream,"Stream{DataFormat{:STL_BINARY},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,stream,true,true,0,1,IOStream,"Stream{DataFormat{:RData},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{20,UInt8},Pair{NTuple{32,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,add_format,true,true,3,1,Type{DataFormat{:MSH}},"Type{DataFormat{:MSH}},Tuple{},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,applies_to_os,true,true,1,2,Bool,"Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,16
+FileIO,save,false,false,0,1,Any,"Type{DataFormat{:AmbigExt2}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,146
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:MultiError}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,loadstreaming,false,false,0,1,Any,"Function,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,add_format,true,false,4,1,Type{DataFormat{:CRW}},"Type{DataFormat{:CRW}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,#save#21,true,true,0,1,"FileIO.var""#22#23""{Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},String}","Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,143
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{35,UInt8},Symbol},NTuple{38,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,applies_to_os,true,true,0,1,Bool,Type{FileIO.Windows},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,20
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{35,UInt8},Symbol},NTuple{32,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,file!,false,false,1,1,File,"Stream{_A,IOStream} where _A<:DataFormat",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,save,false,false,0,1,Any,"String,MimeSaveTestType",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,add_loader,true,true,0,1,"Array{Symbol,1}","Type{DataFormat{:PBMBinary}},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,49
+FileIO,add_format,true,false,4,1,Type{DataFormat{:AmbigExt2}},"Type{DataFormat{:AmbigExt2}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/FileIO.jl,1
+FileIO,del_magic,true,false,3,1,Nothing,"Tuple{NTuple{4,UInt8},Tuple{UInt8,UInt8,UInt8}},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,152
+FileIO,filename,false,false,0,1,Any,File{DataFormat{:bedGraph}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,37
+FileIO,add_format,true,true,3,1,Type{DataFormat{:OBJ}},"Type{DataFormat{:OBJ}},Tuple{},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,skipmagic,true,true,0,1,"Stream{DataFormat{:bedGraph},IOStream}","Stream{DataFormat{:bedGraph},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,stream,false,false,0,1,IO,"Stream{DataFormat{:MultiLib},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{8,UInt8},Pair{NTuple{35,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,detect_bedgraph,true,true,33,2,Bool,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,174
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:GSLIB}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:AmbigExt2}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,#loadstreaming#28,false,false,3,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(loadstreaming),Function,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,NTuple{20,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,loadstreaming,false,false,0,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","var""#51#65"",IOStream",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Array{UInt8,1},String,Array{Any,1},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,magic_cmp,false,false,2,3,Any,"Tuple{UInt8,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,hasfunction,true,true,0,1,Bool,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,101
+FileIO,#save#19,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,add_format,true,false,1,1,Type{DataFormat{:RData}},"Type{DataFormat{:RData}},Function,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,132
+FileIO,#load#16,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(load),PosixPath",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,136
+FileIO,hasmagic,true,true,0,1,Bool,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,95
+FileIO,hasmagic,true,true,0,1,Bool,"NTuple{8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,98
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{6,UInt8},Pair{NTuple{7,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,load,false,false,0,1,Any,PosixPath,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,136
+FileIO,magic_cmp,true,true,0,1,Bool,"Tuple{UInt8,UInt8},Pair{NTuple{35,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,add_format,true,false,4,1,Type{DataFormat{:DCX}},"Type{DataFormat{:DCX}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PBMText}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_format,true,false,4,1,Type{DataFormat{:AmbigExt1}},"Type{DataFormat{:AmbigExt1}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{7,UInt8},Symbol},NTuple{8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,applicable_savers,true,true,1,1,"Array{Symbol,1}",Type{DataFormat{:DUMMY}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,42
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:MultiLib}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,info,false,false,0,1,Any,Type{DataFormat{:DUMMY}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,19
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,NTuple{38,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO.MimeWriter,save,false,false,1,1,Any,"File{DataFormat{:SVG}},MimeSaveTestType",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/mimesave.jl,15
+FileIO,hasmagic,true,true,0,1,Bool,"Tuple{UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,98
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:TGA}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_cmp,true,true,2,1,Bool,"Pair{NTuple{35,UInt8},Symbol},NTuple{35,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,skipmagic,true,true,0,1,IOStream,"IOStream,Tuple{UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,36
+FileIO,lensym,true,true,0,1,Int64,"Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,93
+FileIO,add_format,true,false,1,1,Type{DataFormat{:bedGraph}},"Type{DataFormat{:bedGraph}},Function,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,132
+FileIO,file!,true,false,1,1,File{DataFormat{:PBMBinary}},"Stream{DataFormat{:PBMBinary},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:JLPROF}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,loadstreaming,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,136
+FileIO,add_format,true,false,4,1,Type{DataFormat{:PGM}},"Type{DataFormat{:PGM}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO.MimeWriter,save,false,false,1,1,Any,"File{DataFormat{:PDF}},MimeSaveTestType",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/mimesave.jl,25
+FileIO,detect_bedgraph,true,true,33,2,Bool,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,174
+FileIO,skipmagic,true,false,0,1,Nothing,"IO,Type{DataFormat{:DUMMY}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,add_format,false,false,7,1,Type{DataFormat{sym}} where sym,"Type{T} where T,Tuple{Array{UInt8,1},Array{UInt8,1}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{5,UInt8},Pair{NTuple{6,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,add_format,true,false,4,1,Type{DataFormat{:JUNK2}},"Type{DataFormat{:JUNK2}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{5,UInt8},Symbol},NTuple{4,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{Tuple{UInt8,UInt8},Symbol},NTuple{8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,add_extension,true,false,3,1,Nothing,"Array{String,1},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,194
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:STL_BINARY},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,stream,true,true,0,1,IOStream,"Stream{DataFormat{:DOUBLE_MAGIC},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:JLSO}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO.MimeWriter,save,false,false,2,2,Any,"File{DataFormat{:HTML}},MimeSaveTestType",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/mimesave.jl,45
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{4,UInt8},Symbol},Tuple{UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,savestreaming,false,false,0,1,Any,Formatted,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,add_format,true,true,3,1,Type{DataFormat{:SVG}},"Type{DataFormat{:SVG}},Tuple{},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,del_magic,true,true,3,1,Nothing,"NTuple{5,UInt8},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,156
+FileIO,query,false,false,15,4,"Stream{_A,Base.GenericIOBuffer{Array{UInt8,1}}} where _A<:DataFormat","Base.GenericIOBuffer{Array{UInt8,1}},Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,110
+FileIO,detect_stlascii,true,true,7,2,Bool,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,305
+FileIO,savestreaming,true,false,0,0,Union{},Function,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,iter_eq,true,true,11,3,Bool,"Array{UInt8,1},NTuple{35,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,detectwav,true,true,2,2,Bool,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,152
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{7,UInt8},Symbol},NTuple{4,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,NTuple{9,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,add_format,true,false,4,1,Type{DataFormat{:FCS}},"Type{DataFormat{:FCS}},String,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,2,1,Bool,"Pair{NTuple{8,UInt8},Symbol},NTuple{8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{20,UInt8},Symbol},NTuple{30,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{4,UInt8},Symbol},NTuple{32,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{Tuple{UInt8,UInt8},Symbol},NTuple{35,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:Feather}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:PATHERROR}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,add_format,true,false,4,1,Type{DataFormat{:CUR}},"Type{DataFormat{:CUR}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{8,UInt8},Symbol},NTuple{10,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:JP2}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,stream,true,true,0,1,IOStream,"Stream{DataFormat{:DUMMY},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:PNG}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,filename,false,false,0,1,Any,"Stream{_A,IOStream} where _A<:DataFormat",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,add_format,true,true,3,1,Type{DataFormat{:CSV}},"Type{DataFormat{:CSV}},Tuple{},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:AmbigExt2}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:JLD}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,magic_cmp,true,true,2,1,Bool,"Pair{Tuple{},Symbol},Tuple{}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{35,UInt8},Symbol},NTuple{30,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,file!,true,false,1,1,File{DataFormat{:DUMMY}},"Stream{DataFormat{:DUMMY},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{20,UInt8},Symbol},NTuple{8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,add_format,true,true,3,1,Type{DataFormat{:PATHERROR}},"Type{DataFormat{:PATHERROR}},Tuple{},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{32,UInt8},Pair{NTuple{35,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{4,UInt8},Symbol},NTuple{5,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{Tuple{UInt8,UInt8,UInt8},Symbol},NTuple{4,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PGM}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,#savestreaming#25,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(savestreaming),Type{DataFormat{:DUMMY}},IOStream",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,152
+FileIO,stream,false,false,0,1,IO,"Stream{DataFormat{:STL_BINARY},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,del_format,true,false,0,1,Nothing,Type{DataFormat{:CSV}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,143
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{4,UInt8},Pair{NTuple{32,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:SVG}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,add_format,true,false,7,1,Type{DataFormat{:PCX}},"Type{DataFormat{:PCX}},Tuple{Array{UInt8,1},Array{UInt8,1}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,114
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:FITS}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,skipmagic,true,false,0,1,Nothing,"IO,Type{DataFormat{:bedGraph}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:EPS}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,add_format,false,false,3,1,Type{DataFormat{sym}} where sym,"Type{T} where T,Tuple{},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PLY_BINARY}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,iter_eq,true,true,11,3,Bool,"Array{UInt8,1},NTuple{9,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,String,String,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,file!,false,false,1,1,File,Stream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PLY_ASCII}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,canonicalize_magic,false,false,0,1,"Tuple{Vararg{UInt8,N} where N}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,49
+FileIO,del_extension,true,true,3,1,Nothing,"Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,201
+FileIO,magic_cmp,true,false,2,3,"Union{Missing, Bool}","Tuple{},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,stream,false,false,0,1,IO,Stream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,add_format,true,false,4,1,Type{DataFormat{:PLY_ASCII}},"Type{DataFormat{:PLY_ASCII}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{35,UInt8},Symbol},Tuple{}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,skipmagic,true,true,0,1,IOStream,"IOStream,NTuple{5,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,36
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:PBMText}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,add_format,true,false,4,1,Type{DataFormat{:WMF}},"Type{DataFormat{:WMF}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:MultiError}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{8,UInt8},Pair{NTuple{30,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,Tuple{UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:CRW}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:FUNCTION_FOR_MAGIC_BYTES}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,hasfunction,true,true,0,1,Bool,"Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,102
+FileIO,handle_error,true,true,0,0,Union{},"FileIO.WriterError,Stream{DataFormat{:BROKEN},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/error_handling.jl,82
+FileIO,detecttiff,true,true,0,1,Bool,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,252
+FileIO,#query#11,false,false,13,4,File,"Bool,typeof(query),PosixPath",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,72
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{4,UInt8},Pair{NTuple{7,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,add_format,true,false,1,1,Type{DataFormat{:STL_BINARY}},"Type{DataFormat{:STL_BINARY}},Function,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,132
+FileIO,add_format,false,false,3,1,Type{DataFormat{sym}} where sym,"Type{DataFormat{sym}},Tuple{},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{6,UInt8},Symbol},NTuple{7,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:PNG}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,unknown,true,true,0,1,Bool,"Stream{DataFormat{:BROKEN},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,10
+FileIO,query,false,false,0,1,"Stream{_A,IOStream} where _A<:DataFormat",IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,110
+FileIO,skipmagic,false,false,0,1,"Stream{DataFormat{:TIFF},_A} where _A<:IO","Stream{DataFormat{:TIFF},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PPMBinary}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:SPSS}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_format,true,true,3,1,Type{DataFormat{:ABAQUS_INP}},"Type{DataFormat{:ABAQUS_INP}},Tuple{},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,_precompile_,true,false,72,3,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/precompile.jl,1
+FileIO,skipmagic,true,true,0,1,IOStream,"IOStream,Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,35
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Function,Array{String,1},Array{Any,1},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,del_magic,true,false,10,1,Nothing,"Tuple{Vararg{UInt8,N}},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,156
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Function,Array{String,1},Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,magic_cmp,true,true,2,1,Bool,"Pair{Tuple{UInt8,UInt8},Symbol},Tuple{UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,#savestreaming#29,true,false,0,0,Union{},"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(savestreaming),Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:UNKNOWN}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,6
+FileIO,add_format,true,false,7,1,Type{DataFormat{:DOUBLE_MAGIC}},"Type{DataFormat{:DOUBLE_MAGIC}},Tuple{Array{UInt8,1},Array{UInt8,1}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,114
+FileIO,iter_eq,true,false,11,3,Bool,"Array{UInt8,1},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,hasfunction,true,false,0,1,Bool,Tuple,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,104
+FileIO,unknown,true,false,0,1,Bool,"Stream{DataFormat{:DUMMY},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,10
+FileIO,applicable_savers,true,false,1,1,"Array{Symbol,1}",File,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,42
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:PBMText}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:TSV}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_format,false,false,4,1,Type{DataFormat{sym}} where sym,"Type{T} where T,String,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:PLY_ASCII},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,formatname,false,false,0,1,Any,Formatted,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,add_format,true,true,3,1,Type{DataFormat{:vega}},"Type{DataFormat{:vega}},Tuple{},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Tuple{},Array{String,1},Array{Symbol,1},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,iter_eq,true,true,11,3,Bool,"Array{UInt8,1},Tuple{UInt8,UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,add_format,true,false,4,1,Type{DataFormat{:Parquet}},"Type{DataFormat{:Parquet}},String,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:PBMText}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,add_format,true,false,4,1,Type{DataFormat{:FITS}},"Type{DataFormat{:FITS}},Array{UInt8,1},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Function,String,Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,filename,false,false,0,1,Any,Stream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{Tuple{},Symbol},NTuple{4,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,save,false,false,0,1,Any,"Formatted,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,#load#30,false,false,12,3,Any,"Base.Iterators.Pairs{Symbol,Array{UInt8,1},Tuple{Symbol},NamedTuple{(:extra,),Tuple{Array{UInt8,1}}}},typeof(load),File",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,skipmagic,true,false,0,1,Nothing,"IOStream,Type{DataFormat{:AmbigExt1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,skipmagic,true,true,0,1,"Stream{DataFormat{:DOUBLE_MAGIC},IOStream}","Stream{DataFormat{:DOUBLE_MAGIC},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{8,UInt8},Symbol},NTuple{30,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,false,false,0,1,Any,Type{DataFormat{sym}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,getmodule,true,true,0,1,Module,Method,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,253
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{4,UInt8},Pair{NTuple{35,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,skipmagic,true,false,0,1,Nothing,"IO,Type{DataFormat{:AmbigExt1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,skipmagic,true,true,0,1,IOStream,"IOStream,typeof(FileIO.detect_noometiff)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,267
+FileIO,iter_eq,true,true,11,3,Bool,"Array{UInt8,1},NTuple{5,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,skipmagic,false,false,0,1,"Stream{DataFormat{:bedGraph},_A} where _A<:IO","Stream{DataFormat{:bedGraph},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:RDataSingle}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_loadsave,true,false,7,3,"Union{Nothing, Array{Symbol,1}}","Type{T} where T,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,57
+FileIO,skipmagic,true,true,0,1,"Stream{DataFormat{:MultiLib},IOStream}","Stream{DataFormat{:MultiLib},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{Tuple{UInt8,UInt8},Symbol},NTuple{32,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:WAV}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,NTuple{30,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,applies_to_os,true,true,1,2,"Union{Missing, Bool}","Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,16
+FileIO,#savestreaming#20,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(savestreaming),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,add_format,true,true,3,1,Type{DataFormat{:BAD}},"Type{DataFormat{:BAD}},Tuple{},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{20,UInt8},Symbol},NTuple{35,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,add_format,true,true,3,1,Type{DataFormat{:GLSLShader}},"Type{DataFormat{:GLSLShader}},Tuple{},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,load,false,false,0,1,Any,File,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,#metadata#18,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(metadata),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,136
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,String,Array{String,1},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,add_format,true,false,1,1,Type{DataFormat{:TIFF}},"Type{DataFormat{:TIFF}},Function,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,132
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:Excel}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{20,UInt8},Pair{NTuple{35,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{30,UInt8},Pair{NTuple{32,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{8,UInt8},Pair{NTuple{32,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PSD}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,topimport,false,false,0,1,Any,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,13
+FileIO,magic_cmp,true,false,2,3,"Union{Missing, Bool}","Pair,Tuple{}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,add_saver,true,false,0,1,"Array{Symbol,1}","Type{var""#s31""} where var""#s31""<:DataFormat,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,49
+FileIO,add_format,true,false,4,1,Type{DataFormat{:PSD}},"Type{DataFormat{:PSD}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:MultiLib}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,save,false,false,0,1,Any,"String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,magic_cmp,false,false,2,3,Any,"NTuple{8,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,hasmagic,true,true,0,1,Bool,"Tuple{NTuple{4,UInt8},Tuple{UInt8,UInt8,UInt8}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,98
+FileIO,add_format,true,false,4,1,Type{DataFormat{:AndorSIF}},"Type{DataFormat{:AndorSIF}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,add_format,true,false,4,1,Type{DataFormat{:Imagine}},"Type{DataFormat{:Imagine}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,handle_exceptions,true,false,12,1,Nothing,"Array{Any,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/error_handling.jl,60
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{35,UInt8},Pair{NTuple{38,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:TIFF},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,#savestreaming#29,false,false,3,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(savestreaming),Function,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,#loadstreaming#31,false,false,10,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(loadstreaming),File",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,magic_cmp,false,false,2,3,Any,"NTuple{32,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,add_format,false,false,4,1,Type{DataFormat{sym}} where sym,"Type{DataFormat{sym}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,stream,true,true,0,1,IOStream,"Stream{DataFormat{:bedGraph},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,skipmagic,true,false,0,1,Nothing,"IOStream,Type{DataFormat{:TIFF}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:FCS}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,split_predicates,true,true,0,1,"Tuple{Array{Any,1},Array{Any,1}}","Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,15
+FileIO,iter_eq,true,true,11,3,Bool,"Array{UInt8,1},NTuple{6,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,magic_cmp,true,true,2,1,Bool,"Pair{NTuple{5,UInt8},Symbol},NTuple{5,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:MultiLib}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,add_format,true,true,3,1,Type{DataFormat{:Stata}},"Type{DataFormat{:Stata}},Tuple{},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:MultiLib},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{8,UInt8},Symbol},NTuple{20,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,NTuple{4,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Tuple{},String,Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:DCX}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,load,false,false,0,1,Any,"Stream{DataFormat{:DUMMY},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,seekable,true,true,0,1,Bool,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,147
+FileIO,add_format,true,false,1,1,Type{DataFormat{:HDF5}},"Type{DataFormat{:HDF5}},Function,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,132
+FileIO,add_format,true,false,4,1,Type{DataFormat{:PPMBinary}},"Type{DataFormat{:PPMBinary}},Base.CodeUnits{UInt8,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:DOUBLE_1},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,save,false,false,0,1,Any,"File,MimeSaveTestType",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,hasmagic,true,true,0,1,Bool,"NTuple{5,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,98
+FileIO,add_format,true,false,1,1,Type{DataFormat{:AVI}},"Type{DataFormat{:AVI}},Function,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,132
+FileIO,add_format,true,false,4,1,Type{DataFormat{:MetaImage}},"Type{DataFormat{:MetaImage}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PDF}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,skipmagic,true,true,0,1,"Stream{DataFormat{:AmbigExt2},IOStream}","Stream{DataFormat{:AmbigExt2},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,#save#33,false,false,10,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),File,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,loadstreaming,false,false,0,1,Any,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,136
+FileIO,applicable_savers,true,true,1,1,"Array{Symbol,1}",Type{DataFormat{:AmbigExt2}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,42
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:ABAQUS_INP}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,#savestreaming#34,false,false,10,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(savestreaming),Formatted",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,save,false,false,0,1,Any,"File,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,detect_rdata,true,true,6,7,Bool,"Stream{DataFormat{:RData},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,13
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:AmbigExt1}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,add_extension,false,false,3,2,Any,"String,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,182
+FileIO,magic_equal,true,true,4,2,Bool,"NTuple{4,UInt8},Array{UInt8,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,55
+FileIO,#load#16,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(load),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,136
+FileIO,metadata,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,136
+FileIO,#loadstreaming#28,false,false,3,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(loadstreaming),var""#51#65"",IOStream",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,add_format,true,false,4,1,Type{DataFormat{:EPS}},"Type{DataFormat{:EPS}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,unknown,true,true,0,1,Bool,"Stream{DataFormat{:JUNK},Base.GenericIOBuffer{Array{UInt8,1}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,10
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PATHERROR}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,#loadstreaming#28,true,false,0,0,Union{},"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(loadstreaming),Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,magic_cmp,false,false,2,3,Any,"NTuple{35,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{4,UInt8},Symbol},NTuple{8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:JLD}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,add_format,true,false,4,1,Type{DataFormat{:PNG}},"Type{DataFormat{:PNG}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,add_format,true,false,1,1,Type{DataFormat{:WAV}},"Type{DataFormat{:WAV}},Function,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,132
+FileIO,unknown,true,false,0,1,Bool,"Stream{_A,IOStream} where _A<:DataFormat",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,10
+FileIO,add_format,true,true,3,1,Type{DataFormat{:GSLIB}},"Type{DataFormat{:GSLIB}},Tuple{},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,detectavi,true,true,2,2,Bool,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,270
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:BROKEN}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,del_magic,true,true,3,1,Nothing,"NTuple{4,UInt8},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,156
+FileIO,#save#33,false,false,10,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),Formatted,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,applicable_savers,true,false,1,1,"Array{Symbol,1}","Type{var""#s32""} where var""#s32""<:DataFormat",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,42
+FileIO,add_format,true,false,4,1,Type{DataFormat{:JUNK}},"Type{DataFormat{:JUNK}},String,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:INFO}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:JPEG}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{7,UInt8},Symbol},NTuple{6,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,skipmagic,true,true,0,1,"Stream{DataFormat{:STL_BINARY},IOStream}","Stream{DataFormat{:STL_BINARY},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,file!,true,false,1,1,File{DataFormat{:DOUBLE_MAGIC}},"Stream{DataFormat{:DOUBLE_MAGIC},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,#save#24,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),Type{DataFormat{:AmbigExt2}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,146
+FileIO,file!,true,false,1,1,File{DataFormat{:JUNK}},"Stream{DataFormat{:JUNK},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,#load#30,false,false,10,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(load),Formatted",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:HTML}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,applicable_loaders,true,false,1,1,"Array{Symbol,1}","Union{Type{var""#s32""} where var""#s32""<:DataFormat, Formatted}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,42
+FileIO.MimeWriter,save,false,false,1,1,Any,"File{DataFormat{:EPS}},MimeSaveTestType",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/mimesave.jl,35
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{32,UInt8},Symbol},NTuple{8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:DUMMY}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,save,true,true,0,1,"FileIO.var""#22#23""{Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},String}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,143
+FileIO,magic_cmp,false,false,2,3,Any,"NTuple{30,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,add_format,true,false,4,1,Type{DataFormat{:JPEG}},"Type{DataFormat{:JPEG}},Array{UInt8,1},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Array{UInt8,1},Array{String,1},Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,seekable,true,true,0,1,Bool,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,148
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:STL_ASCII}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{32,UInt8},Symbol},NTuple{30,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,detect_ometiff,true,true,2,3,Bool,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,262
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:RawArray}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:vega}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{4,UInt8},Symbol},NTuple{35,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,#savestreaming#29,false,false,3,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(savestreaming),Function,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,skipmagic,true,true,0,1,"Stream{DataFormat{:DUMMY},IOStream}","Stream{DataFormat{:DUMMY},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:EPS}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,magic_cmp,true,true,0,1,Bool,"Tuple{UInt8,UInt8},Pair{NTuple{4,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,true,true,2,1,Bool,"NTuple{35,UInt8},Pair{NTuple{35,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,true,true,0,1,Bool,"Tuple{UInt8,UInt8,UInt8},Pair{NTuple{4,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,query,false,false,15,4,"Stream{_A,IOStream} where _A<:DataFormat","IOStream,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,110
+FileIO,split_predicates,true,true,0,1,"Tuple{Array{Symbol,1},Array{Symbol,1}}","Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,15
+FileIO,add_loader,true,false,0,1,"Array{Symbol,1}","Type{var""#s31""} where var""#s31""<:DataFormat,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,49
+FileIO,add_format,true,false,4,1,Type{DataFormat{:GIF}},"Type{DataFormat{:GIF}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Tuple{},String,Array{Any,1},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,savestreaming,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:AmbigExt1},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,skipmagic,true,false,0,1,Nothing,"IO,Type{DataFormat{:STL_BINARY}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,savestreaming,false,false,0,1,Any,"var""#53#67"",Type{DataFormat{:DUMMY}},IOStream",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:SAS}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_format,true,false,4,1,Type{DataFormat{:ICO}},"Type{DataFormat{:ICO}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:PNG}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{4,UInt8},Symbol},NTuple{10,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Tuple{},Array{String,1},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:JUNK},Base.GenericIOBuffer{Array{UInt8,1}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,skipmagic,true,true,0,1,"Stream{DataFormat{:TIFF},IOStream}","Stream{DataFormat{:TIFF},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:CSV}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,#save#33,false,false,10,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),File,Array{UInt8,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,add_extension,true,false,3,2,"Union{Nothing, Symbol}","String,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,182
+FileIO,file!,true,false,1,1,File{DataFormat{:PBMText}},"Stream{DataFormat{:PBMText},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,add_format,true,false,4,1,Type{DataFormat{:OFF}},"Type{DataFormat{:OFF}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,2,1,Bool,"Pair{NTuple{9,UInt8},Symbol},NTuple{9,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:DUMMY}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,add_format,true,false,4,1,Type{DataFormat{:RawArray}},"Type{DataFormat{:RawArray}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,2,1,Bool,"Tuple{UInt8,UInt8,UInt8},Pair{Tuple{UInt8,UInt8,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{30,UInt8},Symbol},NTuple{8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic,false,false,0,1,Any,Type{DataFormat{:MultiLib}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,22
+FileIO,skipmagic,true,true,0,1,IOStream,"IOStream,NTuple{9,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,36
+FileIO,file!,true,false,1,1,File{DataFormat{:TIFF}},"Stream{DataFormat{:TIFF},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,#metadata#32,false,false,10,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(metadata),File",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,hasfunction,true,false,0,1,Bool,"Array{T,1} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,102
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:AmbigExt1}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,add_format,true,false,4,1,Type{DataFormat{:SPSS}},"Type{DataFormat{:SPSS}},String,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,add_format,true,false,4,1,Type{DataFormat{:PDB}},"Type{DataFormat{:PDB}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,hasmagic,true,true,0,1,Bool,Tuple{},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,98
+FileIO,add_format,true,false,4,1,Type{DataFormat{:DOT}},"Type{DataFormat{:DOT}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,file!,true,false,1,1,File{DataFormat{:UNKNOWN}},"Stream{DataFormat{:UNKNOWN},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,NTuple{32,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,detect_ometiff,true,true,1,1,Bool,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,262
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{Tuple{UInt8,UInt8},Symbol},Tuple{}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,add_format,true,false,4,1,Type{DataFormat{:PBMBinary}},"Type{DataFormat{:PBMBinary}},Base.CodeUnits{UInt8,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:CSV}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Function,Array{String,1},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,detect_stlbinary,true,true,3,4,Bool,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,320
+FileIO,add_format,true,false,4,1,Type{DataFormat{:PBMText}},"Type{DataFormat{:PBMText}},Base.CodeUnits{UInt8,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,#save#19,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),String,MimeSaveTestType",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,detect_rdata_single,true,true,6,1,Bool,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,24
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Tuple{Array{UInt8,1},Array{UInt8,1}},String,Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,add_format,true,false,4,1,Type{DataFormat{:SAS}},"Type{DataFormat{:SAS}},Array{UInt8,1},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{4,UInt8},Symbol},NTuple{6,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,stream,false,false,0,1,IO,"Stream{DataFormat{:AmbigExt2},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,add_format,true,false,4,1,Type{DataFormat{:CSV}},"Type{DataFormat{:CSV}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,add_format,true,true,3,1,Type{DataFormat{:JLSO}},"Type{DataFormat{:JLSO}},Tuple{},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:HDF5}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,add_format,false,false,4,1,Type{DataFormat{sym}} where sym,"Type{DataFormat{sym}},Array{UInt8,1},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,hasmagic,true,true,0,1,Bool,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,99
+FileIO,#save#19,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{4,UInt8},Pair{NTuple{5,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,lensym,true,true,0,1,Int64,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,92
+FileIO,add_loadsave,true,false,7,3,"Union{Nothing, Array{Symbol,1}}","Type{T} where T,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,57
+FileIO,applicable_loaders,true,false,1,1,"Array{Symbol,1}","Stream{DataFormat{:DUMMY},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,42
+FileIO,add_loadsave,true,false,7,3,"Union{Nothing, Array{Symbol,1}}","Type{T} where T,Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,57
+FileIO,magic_equal,true,false,4,2,Bool,"Tuple{UInt8,UInt8,UInt8,Vararg{UInt8,N} where N},Array{UInt8,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,55
+FileIO,skipmagic,false,false,0,1,"Stream{DataFormat{:AmbigExt1},_A} where _A<:IO","Stream{DataFormat{:AmbigExt1},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,magic_cmp,true,true,0,1,Bool,"Tuple{},Pair{Tuple{UInt8,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,#save#33,false,false,10,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),File,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:JUNK}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,savestreaming,false,false,0,1,Any,File,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:JLD}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{6,UInt8},Pair{NTuple{8,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,stream,true,true,0,1,IOStream,"Stream{DataFormat{:AmbigExt2},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{8,UInt8},Symbol},NTuple{5,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PGMBinary}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,skipmagic,true,false,0,1,Nothing,"IOStream,Type{DataFormat{:DUMMY}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,del_format,true,false,0,1,Nothing,Type{DataFormat{:DOUBLE_MAGIC}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,143
+FileIO,skipmagic,true,false,0,1,Nothing,"IOStream,Type{DataFormat{:DOUBLE_MAGIC}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{4,UInt8},Symbol},Tuple{}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,filename,false,false,0,1,Any,File,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,37
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:GZIP}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{4,UInt8},Symbol},NTuple{20,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,skipmagic,true,false,0,1,Nothing,"IOStream,Type{DataFormat{:bedGraph}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,file_extension,true,false,0,1,String,File,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,43
+FileIO,applies_to_os,true,true,0,1,Bool,Type{FileIO.Linux},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,22
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:HDF5}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{Tuple{UInt8,UInt8},Symbol},Tuple{UInt8,UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,stream,true,true,0,1,IOStream,"Stream{DataFormat{:TIFF},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{8,UInt8},Symbol},NTuple{9,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,add_loader,true,true,0,1,"Array{Symbol,1}","Type{DataFormat{:GZIP}},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,49
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:GZIP}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:OBJ}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:bedGraph}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:Imagine}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,false,false,0,1,Any,"Stream{_A,IOStream} where _A<:DataFormat",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,#query#11,false,false,13,4,File,"Bool,typeof(query),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,72
+FileIO,loadstreaming,true,false,0,0,Union{},Function,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:MetaImage}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,#metadata#32,false,false,10,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(metadata),Formatted",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,load,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,136
+FileIO,iter_eq,true,true,11,3,Bool,"Array{UInt8,1},NTuple{10,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:UNKNOWN}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:JLD2}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_format,true,true,3,1,Type{DataFormat{:TGA}},"Type{DataFormat{:TGA}},Tuple{},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,save,false,false,0,1,Any,"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,del_format,true,false,0,1,Nothing,Type{DataFormat{:JUNK}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,143
+FileIO,add_format,true,false,4,1,Type{DataFormat{:DUMMY}},"Type{DataFormat{:DUMMY}},Base.CodeUnits{UInt8,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{7,UInt8},Symbol},NTuple{20,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{8,UInt8},Symbol},NTuple{7,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{4,UInt8},Symbol},NTuple{30,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:AmbigExt1}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,#save#24,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),Type{DataFormat{:PATHERROR}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,146
+FileIO,magic_cmp,false,false,2,3,Any,"NTuple{4,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:PATHERROR}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:EPS}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,skipmagic,true,true,0,1,"Stream{DataFormat{:AmbigExt1},IOStream}","Stream{DataFormat{:AmbigExt1},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{10,UInt8},Symbol},NTuple{9,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,iter_eq,true,true,11,3,Bool,"Array{UInt8,1},NTuple{32,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,add_format,true,false,4,1,Type{DataFormat{:RGB}},"Type{DataFormat{:RGB}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO.MimeWriter,save,false,false,1,1,Any,"File{DataFormat{:PNG}},MimeSaveTestType",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/mimesave.jl,5
+FileIO,file!,true,false,1,1,File{DataFormat{:JUNK}},"Stream{DataFormat{:JUNK},Base.GenericIOBuffer{Array{UInt8,1}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:BMP}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:PDF}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,add_format,true,true,3,1,Type{DataFormat{:TSV}},"Type{DataFormat{:TSV}},Tuple{},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,filename,false,false,0,1,Any,File{DataFormat{:TIFF}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,37
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{4,UInt8},Symbol},Tuple{UInt8,UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,canonicalize_magic,false,false,0,1,"Tuple{Vararg{UInt8,N} where N}","Base.CodeUnits{UInt8,String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,48
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{38,UInt8},Symbol},NTuple{35,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,add_loader,true,true,0,1,"Array{Symbol,1}","Type{DataFormat{:HDF5}},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,49
+FileIO,add_format,true,true,3,1,Type{DataFormat{:BSON}},"Type{DataFormat{:BSON}},Tuple{},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,#load#16,false,false,1,1,Any,"Base.Iterators.Pairs{Symbol,Array{UInt8,1},Tuple{Symbol},NamedTuple{(:extra,),Tuple{Array{UInt8,1}}}},typeof(load),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,136
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Tuple{},Array{String,1},Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:DUMMY},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,file!,true,false,1,1,File{DataFormat{:STL_ASCII}},"Stream{DataFormat{:STL_ASCII},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,filename,false,false,0,1,Any,File{DataFormat{:DUMMY}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,37
+FileIO,skipmagic,false,false,0,1,"Stream{DataFormat{:MultiLib},_A} where _A<:IO","Stream{DataFormat{:MultiLib},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,del_format,true,false,0,1,Nothing,Type{DataFormat{:AmbigExt2}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,143
+FileIO,unknown,true,false,0,1,Bool,File{F<:DataFormat},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,unknown,true,true,0,1,Bool,"Stream{DataFormat{:UNKNOWN},Base.GenericIOBuffer{Array{UInt8,1}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,10
+FileIO,unknown,true,true,0,1,Bool,"Stream{DataFormat{:DUMMY},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,10
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,NTuple{6,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PPMText}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_format,true,false,4,1,Type{DataFormat{:Feather}},"Type{DataFormat{:Feather}},String,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,#savestreaming#27,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(savestreaming),Type{DataFormat{:DUMMY}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,164
+FileIO,iter_eq,true,true,11,3,Bool,"Array{UInt8,1},NTuple{7,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:SVG}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:STL_BINARY}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,savestreaming,false,false,0,1,Any,"Function,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:BROKEN}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,#loadstreaming#17,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(loadstreaming),IOStream",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,136
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:OMETIFF}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,Tuple{UInt8,UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,info,false,false,0,1,Any,Type{DataFormat{:OOPS}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,19
+FileIO,add_format,true,true,3,1,Type{DataFormat{:FOO}},"Type{DataFormat{:FOO}},Tuple{},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,2,1,Bool,"NTuple{5,UInt8},Pair{NTuple{5,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:DOUBLE_MAGIC},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,magic_cmp,false,false,2,3,Any,"NTuple{6,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{10,UInt8},Pair{NTuple{20,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,hasmagic,true,true,0,1,Bool,"Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,96
+FileIO,add_format,true,false,4,1,"Type{DataFormat{Symbol(""2DM"")}}","Type{DataFormat{Symbol(""2DM"")}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,applicable_savers,true,true,1,1,"Array{Symbol,1}",Type{DataFormat{:PATHERROR}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,42
+FileIO,stream,false,false,0,1,IO,"Stream{DataFormat{:bedGraph},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,query,false,false,15,4,"Stream{_A,IOStream} where _A<:DataFormat","IOStream,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,110
+FileIO,skipmagic,true,false,0,1,Nothing,"IO,Type{DataFormat{:AmbigExt2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,query,false,false,0,1,File,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,72
+FileIO,skipmagic,true,false,0,1,Nothing,"IOStream,Type{DataFormat{:STL_BINARY}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,add_format,true,true,3,1,Type{DataFormat{:HTML}},"Type{DataFormat{:HTML}},Tuple{},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,add_format,true,false,4,1,Type{DataFormat{:BMP}},"Type{DataFormat{:BMP}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,iter_eq,true,true,11,3,Bool,"Array{UInt8,1},NTuple{4,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,query,false,false,15,4,Stream,"IO,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,110
+FileIO,#query#11,false,false,13,4,File,"Bool,typeof(query),Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,72
+FileIO,magic,false,false,0,1,Any,Type{DataFormat{:DUMMY}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,22
+FileIO,skipmagic,true,false,0,1,Nothing,"IO,Type{DataFormat{:MultiLib}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,iter_eq,true,true,11,3,Bool,"Array{UInt8,1},NTuple{20,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:TIFF}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_format,true,false,4,1,Type{DataFormat{:HDR}},"Type{DataFormat{:HDR}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,#save#33,false,false,10,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),File,MimeSaveTestType",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,del_format,true,false,0,1,Nothing,Type{DataFormat{:FOO}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,143
+FileIO,@format_str,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,13
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:STL_ASCII},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,applies_to_os,true,true,0,1,Bool,Type{FileIO.OSX},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,21
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,NTuple{13,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:NotInstalled}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,add_format,true,false,4,1,Type{DataFormat{:INFO}},"Type{DataFormat{:INFO}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,loadstreaming,false,false,0,1,Any,"Stream{_A,IOStream} where _A<:DataFormat",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:PBMBinary},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:JUNK},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:ICO}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,handle_error,true,true,0,0,Union{},"ArgumentError,File{DataFormat{:NotInstalled}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/error_handling.jl,82
+FileIO,#loadstreaming#31,false,false,10,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(loadstreaming),Formatted",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,#save#33,false,false,10,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),File,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,add_loader,true,true,0,1,"Array{Symbol,1}","Type{DataFormat{:JLD}},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,49
+FileIO,add_format,true,false,7,1,Type{DataFormat{:JLD2}},"Type{DataFormat{:JLD2}},Tuple{Array{UInt8,1},Array{UInt8,1}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,114
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:vegalite}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:MultiError}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,add_format,false,false,3,1,Type{DataFormat{sym}} where sym,"Type{DataFormat{sym}},Tuple{},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,#save#19,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),String,Array{UInt8,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,add_format,true,false,1,1,Type{DataFormat{:FUNCTION_FOR_MAGIC_BYTES}},"Type{DataFormat{:FUNCTION_FOR_MAGIC_BYTES}},Function,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,132
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{4,UInt8},Symbol},NTuple{7,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:BSON}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_format,true,true,3,1,Type{DataFormat{:MultiError}},"Type{DataFormat{:MultiError}},Tuple{},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,hasmagic,true,false,0,1,Bool,Tuple,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,98
+FileIO,filename,false,false,0,1,Any,File{DataFormat{:MultiLib}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,37
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{9,UInt8},Pair{NTuple{10,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,filename,false,false,0,1,Any,File{DataFormat{:AmbigExt1}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,37
+FileIO,magic_cmp,false,false,2,3,Any,"Tuple{UInt8,UInt8,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,query,false,false,0,1,Stream,IO,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,110
+FileIO,loadstreaming,false,false,0,1,Any,Formatted,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,detecthdf5,true,true,8,3,Bool,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,284
+FileIO,del_magic,true,true,3,1,Nothing,"Tuple{UInt8,UInt8,UInt8},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,156
+FileIO,file!,true,false,1,1,File{DataFormat{:AmbigExt1}},"Stream{DataFormat{:AmbigExt1},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,detect_stlascii,true,true,7,2,Bool,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,305
+FileIO,add_format,false,false,4,1,Type{DataFormat{sym}} where sym,"Type{T} where T,Array{UInt8,1},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,String,String,Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,filename,false,false,0,1,Any,File{DataFormat{:RData}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,37
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{32,UInt8},Symbol},NTuple{35,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,savestreaming,false,false,0,1,Any,"Type{DataFormat{:DUMMY}},IOStream",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,152
+FileIO,applicable_loaders,true,false,1,1,"Array{Symbol,1}","Type{var""#s32""} where var""#s32""<:DataFormat",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,42
+FileIO,magic_cmp,true,true,2,1,Bool,"Pair{NTuple{4,UInt8},Symbol},NTuple{4,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:RData}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,filename,false,false,0,1,Any,File{DataFormat{:RDataSingle}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,37
+FileIO,applicable_savers,true,false,1,1,"Array{Symbol,1}","Union{Type{var""#s32""} where var""#s32""<:DataFormat, Formatted}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,42
+FileIO,detect_stlbinary,true,true,3,4,Bool,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,320
+FileIO,seekable,true,true,0,1,Bool,IO,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,149
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{4,UInt8},Symbol},NTuple{13,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,hasmagic,true,true,0,1,Bool,"NTuple{13,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,98
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:EPS}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,add_format,true,false,4,1,Type{DataFormat{:FLAC}},"Type{DataFormat{:FLAC}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,query,false,false,0,1,Stream,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,72
+FileIO,file_extension,true,false,1,2,"Union{Nothing, String}",Stream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,78
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{7,UInt8},Pair{NTuple{8,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{4,UInt8},Pair{NTuple{6,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{20,UInt8},Symbol},NTuple{9,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,#save#33,false,false,12,3,Any,"Base.Iterators.Pairs{Symbol,Array{UInt8,1},Tuple{Symbol},NamedTuple{(:extra,),Tuple{Array{UInt8,1}}}},typeof(save),File,Array{UInt8,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,add_format,false,false,1,1,Type{DataFormat{sym}} where sym,"Type{DataFormat{sym}},Function,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,132
+FileIO,add_format,true,true,3,1,Type{DataFormat{:Excel}},"Type{DataFormat{:Excel}},Tuple{},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:PBMBinary}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,stream,false,false,0,1,IO,"Stream{DataFormat{:TIFF},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,magic_cmp,true,true,2,1,Bool,"NTuple{9,UInt8},Pair{NTuple{9,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:DUMMY}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,NTuple{10,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,stream,true,true,0,1,IOStream,"Stream{DataFormat{:AmbigExt1},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{8,UInt8},Pair{NTuple{20,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PBMBinary}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_cmp,false,false,2,3,Any,"NTuple{13,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,add_format,true,false,4,1,Type{DataFormat{:PPMText}},"Type{DataFormat{:PPMText}},Base.CodeUnits{UInt8,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,#load#30,false,false,7,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(load),Stream{DataFormat{:DUMMY},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,detect_noometiff,true,true,1,1,Bool,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,259
+FileIO,add_format,false,false,4,1,Type{DataFormat{sym}} where sym,"Type{DataFormat{sym}},String,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:JLD},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,file!,true,false,1,1,File{DataFormat{:AmbigExt2}},"Stream{DataFormat{:AmbigExt2},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:HDR}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_format,true,false,4,1,Type{DataFormat{:PGMBinary}},"Type{DataFormat{:PGMBinary}},Base.CodeUnits{UInt8,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{5,UInt8},Symbol},Tuple{UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:NotInstalled}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,#save#19,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),PosixPath,MimeSaveTestType",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PGMText}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,del_magic,true,false,10,1,Nothing,"Tuple,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,152
+FileIO,has_method_from,true,true,4,2,Bool,"Base.MethodList,Module",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,244
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:AmbigExt2}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,file!,true,false,1,1,File{DataFormat{:JLD}},"Stream{DataFormat{:JLD},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{10,UInt8},Pair{NTuple{30,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,query,false,false,0,1,File,PosixPath,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,72
+FileIO,magic_cmp,false,false,2,3,Any,"NTuple{5,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,del_magic,true,false,0,1,Nothing,"Function,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,175
+FileIO,handle_error,true,false,12,2,Bool,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/error_handling.jl,82
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{35,UInt8},Symbol},NTuple{8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,load,false,false,0,1,Any,Formatted,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Tuple{},String,Array{Symbol,1},Vararg{Array{Symbol,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,skipmagic,true,false,0,1,Nothing,"IOStream,Type{DataFormat{:MultiLib}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,split_predicates,false,false,0,1,"Tuple{Any,Any}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,15
+FileIO,add_format,false,false,4,1,Type{DataFormat{sym}} where sym,"Type{T} where T,Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,hasmagic,true,true,0,1,Bool,"NTuple{20,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,98
+FileIO,filename,false,false,0,1,Any,File{DataFormat{:STL_BINARY}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,37
+FileIO,stream,true,true,0,1,IOStream,"Stream{DataFormat{:RDataSingle},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,del_format,true,false,0,1,Nothing,Type{DataFormat{:DUMMY}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,143
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{8,UInt8},Symbol},NTuple{35,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,skipmagic,true,false,0,1,Nothing,"IO,Type{DataFormat{:TIFF}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,30
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:PBMText},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,del_extension,true,false,3,1,Nothing,"Union{Tuple, Array}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,201
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:DUMMY},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,#savestreaming#29,false,false,3,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(savestreaming),var""#53#67"",Type{DataFormat{:DUMMY}},IOStream",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,handle_error,true,true,0,0,Union{},"FileIO.LoaderError,Stream{DataFormat{:BROKEN},Base.PipeEndpoint}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/error_handling.jl,82
+FileIO,add_format,true,false,4,1,Type{DataFormat{:DOUBLE_1}},"Type{DataFormat{:DOUBLE_1}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{NTuple{4,UInt8},Symbol},NTuple{9,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{6,UInt8},Symbol},NTuple{4,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,#load#30,false,false,10,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(load),File",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,add_format,false,false,4,1,Type{DataFormat{sym}} where sym,"Type{T} where T,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:GLSLShader}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,stream,false,false,0,1,IO,"Stream{DataFormat{:RDataSingle},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,magic_cmp,true,true,2,1,Bool,"NTuple{4,UInt8},Pair{NTuple{4,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,unknown,true,true,0,1,Bool,File{DataFormat{:PATHERROR}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,9
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{5,UInt8},Pair{NTuple{8,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,add_format,true,false,4,1,Type{DataFormat{:DOUBLE_2}},"Type{DataFormat{:DOUBLE_2}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,0,1,Bool,"Tuple{},Pair{NTuple{4,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{35,UInt8},Symbol},NTuple{4,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,"Stream{DataFormat{:DUMMY},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,detect_rdata_single,false,false,6,1,Any,"Stream{DataFormat{:RDataSingle},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,24
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:MultiLib}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,file!,true,false,1,1,File{DataFormat{:DOUBLE_1}},"Stream{DataFormat{:DOUBLE_1},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:MSH}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_cmp,true,true,2,1,Bool,"Tuple{},Pair{Tuple{},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,skipmagic,false,false,0,1,"Stream{DataFormat{:AmbigExt2},_A} where _A<:IO","Stream{DataFormat{:AmbigExt2},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,29
+FileIO,stream,false,false,0,1,IO,"Stream{DataFormat{:DUMMY},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,magic_cmp,true,true,2,1,Bool,"NTuple{8,UInt8},Pair{NTuple{8,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,detect_rdata,true,true,6,7,Bool,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,13
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:NotInstalled}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_cmp,false,false,2,3,Any,"NTuple{20,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:SVG}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,formatname,true,true,0,1,Symbol,"Type{DataFormat{Symbol(""2DM"")}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:HTML}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,query,false,false,15,4,Stream,"IO,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,110
+FileIO,hasmagic,true,true,0,1,Bool,"Tuple{NTuple{35,UInt8},NTuple{35,UInt8}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,98
+FileIO,applicable_loaders,true,false,1,1,"Array{Symbol,1}",File,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,42
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:PBMBinary}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{8,UInt8},Symbol},NTuple{4,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{30,UInt8},Pair{NTuple{35,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,true,true,0,1,Bool,"Pair{Tuple{},Symbol},Tuple{UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,#savestreaming#29,false,false,3,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(savestreaming),Function,Any,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,172
+FileIO,iter_eq,true,true,11,3,Bool,"Array{UInt8,1},Tuple{UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,151
+FileIO,add_format,true,false,4,1,Type{DataFormat{:PDF}},"Type{DataFormat{:PDF}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,add_format,false,false,4,1,Type{DataFormat{sym}} where sym,"Type{DataFormat{sym}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,save,false,false,0,1,Any,"File,Array{UInt8,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,add_format,true,false,4,1,Type{DataFormat{:WPG}},"Type{DataFormat{:WPG}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,file!,true,false,1,1,File{DataFormat{:MultiLib}},"Stream{DataFormat{:MultiLib},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,91
+FileIO,add_format,false,false,1,1,Type{DataFormat{sym}} where sym,"Type{DataFormat{sym}},Function,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,132
+FileIO,add_loader,true,true,0,1,"Array{Symbol,1}","Type{DataFormat{:PBMText}},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,49
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:JLD}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,stream,false,false,0,1,IO,"Stream{DataFormat{:AmbigExt1},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,info,false,false,0,1,Any,Type{DataFormat{:MultiLib}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,19
+FileIO,#loadstreaming#17,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(loadstreaming),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,136
+FileIO,hasfunction,true,true,0,1,Bool,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,103
+FileIO,#save#19,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(save),String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{35,UInt8},Symbol},Tuple{UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,NTuple{7,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,magic_cmp,true,true,2,1,Bool,"Pair{Tuple{UInt8,UInt8,UInt8},Symbol},Tuple{UInt8,UInt8,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:AmbigExt1}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_format,true,true,3,1,Type{DataFormat{:BROKEN}},"Type{DataFormat{:BROKEN}},Tuple{},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,applicable_loaders,true,false,1,1,"Array{Symbol,1}",Formatted,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,42
+FileIO,canonicalize_magic,false,false,0,1,"Tuple{Vararg{UInt8,N} where N}","Array{UInt8,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,48
+FileIO,info,false,false,0,1,Any,Type{DataFormat{:JUNK}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,19
+FileIO,add_format,true,true,3,1,Type{DataFormat{:NotInstalled}},"Type{DataFormat{:NotInstalled}},Tuple{},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:HTML}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,magic_equal,true,true,4,2,Bool,"Tuple{UInt8,UInt8,UInt8},Array{UInt8,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,55
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{30,UInt8},Symbol},NTuple{10,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:GIF}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Array{UInt8,1},Array{String,1},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,magic_cmp,true,true,1,1,Bool,"Pair{NTuple{35,UInt8},Symbol},NTuple{20,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,query,false,false,15,4,"Stream{_A,IOStream} where _A<:DataFormat","IOStream,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,110
+FileIO,magic_cmp,false,false,2,3,Any,"NTuple{7,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,save,false,false,0,1,Any,"File,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,add_extension,true,true,3,1,Nothing,"Array{String,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,194
+FileIO,add_format,true,false,4,1,Type{DataFormat{:JLPROF}},"Type{DataFormat{:JLPROF}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,formatname,true,true,0,1,Symbol,File{DataFormat{:PDF}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,detect_rdata_single,true,true,6,1,Bool,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,24
+FileIO,detecttiff,true,true,0,1,Bool,IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,252
+FileIO,query,false,false,15,4,"Stream{_A,IOStream} where _A<:DataFormat","IOStream,PosixPath",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,110
+FileIO,formatname,false,false,0,1,Any,File,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,applies_to_os,true,true,0,1,Bool,Type{FileIO.Unix},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,19
+FileIO,magic_cmp,true,true,0,1,Bool,"NTuple{4,UInt8},Pair{NTuple{8,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,detect_rdata,false,false,6,7,Any,"Stream{DataFormat{:RData},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,13
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:AmbigExt2}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,add_format,true,false,1,1,Type{DataFormat{:RDataSingle}},"Type{DataFormat{:RDataSingle}},Function,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,132
+FileIO,filename,false,false,0,1,Any,File{DataFormat{:DOUBLE_MAGIC}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,37
+FileIO,#save#19,false,false,1,1,Any,"Base.Iterators.Pairs{Symbol,Array{UInt8,1},Tuple{Symbol},NamedTuple{(:extra,),Tuple{Array{UInt8,1}}}},typeof(save),String,Array{UInt8,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,add_format,true,false,4,1,Type{DataFormat{:MultiLib}},"Type{DataFormat{:MultiLib}},Array{UInt8,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,magic_cmp,true,true,0,1,Bool,"Tuple{},Pair{NTuple{35,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,formatname,true,false,0,1,Symbol,"Stream{DataFormat{:DUMMY},_A} where _A<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,_findmod,true,true,4,2,"Union{Nothing, Base.PkgId}",Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,7
+FileIO,magic_cmp,true,true,0,1,Bool,"Tuple{UInt8,UInt8},Pair{NTuple{32,UInt8},Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,savestreaming,false,false,0,1,Any,"Type{DataFormat{:DUMMY}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,164
+FileIO,unknown,true,false,0,1,Bool,"Stream{F<:DataFormat,IOtype} where IOtype<:IO",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,10
+FileIO,magic_cmp,false,false,2,3,Any,"Pair,NTuple{5,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,stream,true,true,0,1,IOStream,"Stream{DataFormat{:MultiLib},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,67
+FileIO,filename,false,false,0,1,Any,"Stream{DataFormat{:UNKNOWN},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,71
+FileIO,unknown,true,true,0,1,Bool,"Stream{DataFormat{:BROKEN},Base.PipeEndpoint}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,10
+FileIO,save,false,false,0,1,Any,"String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,139
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,Base.CodeUnits{UInt8,String},String,Array{Symbol,1},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,add_format,true,false,4,1,Type{DataFormat{:PLY_BINARY}},"Type{DataFormat{:PLY_BINARY}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,100
+FileIO,unknown,true,true,0,1,Bool,Type{DataFormat{:DUMMY}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,7
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:PCX}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,save,false,false,0,1,Any,"Type{DataFormat{:PATHERROR}},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,146
+FileIO,formatname,true,true,0,1,Symbol,"Stream{DataFormat{:BROKEN},Base.PipeEndpoint}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,22
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:SVG}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,detect_rdata_single,true,true,6,1,Bool,"Stream{DataFormat{:RDataSingle},IOStream}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,24
+FileIO,magic_cmp,false,false,2,3,Any,"NTuple{9,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,magic_cmp,true,true,2,1,Bool,"Pair{NTuple{6,UInt8},Symbol},NTuple{6,UInt8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,32
+FileIO,skipmagic,true,false,5,2,"Union{Nothing, IOStream}","IOStream,Tuple{NTuple{4,UInt8},Tuple{UInt8,UInt8,UInt8}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/query.jl,37
+FileIO,save,false,false,0,1,Any,"File,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,magic_cmp,false,false,2,3,Any,"NTuple{38,UInt8},Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,39
+FileIO,detect_rdata,true,true,6,7,Bool,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,13
+FileIO,applicable_loaders,true,false,1,1,"Array{Symbol,1}","Stream{_A,IOStream} where _A<:DataFormat",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,42
+FileIO,#save#33,false,false,12,3,Any,"Base.Iterators.Pairs{Symbol,Array{UInt8,1},Tuple{Symbol},NamedTuple{(:extra,),Tuple{Array{UInt8,1}}}},typeof(save),Formatted,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,216
+FileIO,add_format,false,false,3,1,Type{T} where T,"Type{T} where T,String,Array{String,1},Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,72
+FileIO,formatname,true,true,0,1,Symbol,Type{DataFormat{:OFF}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/types.jl,17
+FileIO,add_format,true,false,1,1,Type{DataFormat{:OMETIFF}},"Type{DataFormat{:OMETIFF}},Function,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry_setup.jl,132
+FileIO,metadata,false,false,0,1,Any,File,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,#loadstreaming#31,false,false,9,3,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(loadstreaming),Stream{_A,IOStream} where _A<:DataFormat",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/loadsave.jl,186
+FileIO,detectwav,true,true,2,2,Bool,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FileIO/depot/packages/FileIO/TyKdX/src/registry.jl,152

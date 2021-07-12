@@ -1,0 +1,5 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+COBRA,checkSysConfig,1,1.0,1.0,1,0,0,865,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/COBRA/depot/packages/COBRA/o1SnO/src/checkSetup.jl,64
+COBRA,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/COBRA/depot/packages/COBRA/o1SnO/src/COBRA.jl,17
+COBRA,checkPackage,1,1.0,1.0,1,0,0,246,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/COBRA/depot/packages/COBRA/o1SnO/src/checkSetup.jl,30
+COBRA,eval,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/COBRA/depot/packages/COBRA/o1SnO/src/COBRA.jl,17

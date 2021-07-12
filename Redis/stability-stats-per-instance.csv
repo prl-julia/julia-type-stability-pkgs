@@ -1,0 +1,55 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Redis,parse_array,true,false,3,1,"Array{Any,1}","Sockets.TCPSocket,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,33
+Redis,pack_command,true,true,3,1,Int64,"Sockets.TCPSocket,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,80
+Redis,convert_response,true,true,0,1,Float64,"Type{Float64},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,34
+Redis,write_token,true,false,0,1,Int64,"Sockets.TCPSocket,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,72
+Redis,flatten,false,false,0,1,"Array{_A,1} where _A","Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,6
+Redis,convert_response,true,true,0,1,Float64,"Type{Float64},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,33
+Redis,@redisfunction,true,false,0,1,Expr,"LineNumberNode,Module,String,Any,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,170
+Redis,flatten_command,false,false,0,1,"Array{_A,1} where _A","SubString{String},AbstractString",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,29
+Redis,@redisfunction,true,false,2,3,Expr,"LineNumberNode,Module,String,Any,Expr,Vararg{Expr,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,170
+Redis,@redisfunction,true,false,2,3,Expr,"LineNumberNode,Module,String,Any,Symbol,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,170
+Redis,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/Redis.jl,1
+Redis,parse_bulk_string,true,true,1,1,"Array{UInt8,1}","Sockets.TCPSocket,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,22
+Redis,flatten,true,false,3,1,"Array{Union{Array{UInt8,1}, String},1}","Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,11
+Redis,flatten_command,true,true,0,1,"Array{String,1}","SubString{String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,29
+Redis,on_connect,true,true,4,1,RedisConnection,RedisConnection,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/connection.jl,103
+Redis,write_token,true,false,0,1,Int64,"Sockets.TCPSocket,Union{AbstractString, Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,69
+Redis,convert_response,true,true,5,1,"Dict{AbstractString,AbstractString}","Type{Dict{AbstractString,AbstractString}},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,40
+Redis,convert_reply,true,false,0,1,String,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,12
+Redis,is_connected,true,true,2,3,Bool,RedisConnection,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/connection.jl,113
+Redis,flatten_command,true,false,0,1,"Array{String,1}","SubString{String},Integer",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,29
+Redis,flatten,false,false,0,1,"Array{_A,1} where _A",Set{Any},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,7
+Redis,convert_reply,true,false,0,1,String,"Array{UInt8,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,10
+Redis,flatten_command,false,false,0,1,Any,"SubString{String},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,29
+Redis,#RedisConnection#1,true,true,0,1,RedisConnection,"String,Int64,String,Int64,Type{RedisConnection}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/connection.jl,49
+Redis,parse_error,true,true,0,0,Union{},SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,20
+Redis,convert_response,true,true,3,2,Bool,"Type{Bool},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,35
+Redis,flatten,true,true,0,1,String,AbstractString,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,3
+Redis,@redisfunction,true,false,2,2,Expr,"LineNumberNode,Module,String,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,170
+Redis,convert_reply,true,false,0,1,String,Array,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,11
+Redis,read_reply,false,false,0,1,Any,RedisConnection,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,14
+Redis,@sentinelfunction,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,220
+Redis,flatten_command,false,false,0,1,Any,"Int64,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,29
+Redis,pack_command,true,false,3,1,Int64,"Sockets.TCPSocket,Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,80
+Redis,select,false,false,0,1,Any,"RedisConnection,Integer",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,178
+Redis,write_token,true,true,0,1,Int64,"Sockets.TCPSocket,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,69
+Redis,getline,true,true,2,1,SubString{String},Sockets.TCPSocket,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,4
+Redis,@sentinelfunction,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any,Symbol,Vararg{Symbol,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,220
+Redis,auth,false,false,0,1,Any,"RedisConnection,AbstractString",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,178
+Redis,execute_command_without_reply,true,true,2,1,Int64,"RedisConnection,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,89
+Redis,flatten,true,true,0,1,String,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,3
+Redis,flatten,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,5
+Redis,flatten,true,true,0,1,String,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,3
+Redis,convert_response,true,true,1,2,Bool,"Type{Bool},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,36
+Redis,@redisfunction,true,false,0,1,Expr,"LineNumberNode,Module,String,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,170
+Redis,execute_command_without_reply,true,false,2,1,Int64,"RedisConnection,Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,89
+Redis,flatten,true,true,0,1,String,SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,3
+Redis,flatten,true,false,0,1,String,Integer,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,3
+Redis,parseline,false,false,7,7,Any,"SubString{String},Sockets.TCPSocket",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,43
+Redis,@redisfunction,true,false,2,3,Expr,"LineNumberNode,Module,String,Any,Symbol,Vararg{Symbol,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,170
+Redis,execute_command,false,false,0,1,Any,"RedisConnection,Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,94
+Redis,convert_response,true,true,5,1,"Dict{AbstractString,AbstractString}","Type{Dict{AbstractString,AbstractString}},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,40
+Redis,convert_response,false,false,0,1,Any,"Type{AbstractString},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,60
+Redis,auth,false,false,0,1,Any,"RedisConnection,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/client.jl,178
+Redis,execute_command,false,false,0,1,Any,"RedisConnection,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Redis/depot/packages/Redis/KsyS4/src/parser.jl,94

@@ -1,0 +1,11 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+Memoization,memoize_per_instance,7,1.0,0.8571428571428571,2,0,0,60,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoization/depot/packages/Memoization/2twyX/src/Memoization.jl,18
+Memoization,_get!,28,0.0,0.0,1,0,1,55,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoization/depot/packages/Memoization/2twyX/src/Memoization.jl,119
+Memoization,find_caches,3,1.0,0.0,1,0,0,89,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoization/depot/packages/Memoization/2twyX/src/Memoization.jl,47
+Memoization,get_cache,8,0.375,0.375,2,0,0,49,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoization/depot/packages/Memoization/2twyX/src/Memoization.jl,24
+Memoization,memoize_per_instance,2,1.0,0.0,1,0,0,35,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoization/depot/packages/Memoization/2twyX/src/Memoization.jl,19
+Memoization,@memoize,2,1.0,0.0,1,4,0,1831,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoization/depot/packages/Memoization/2twyX/src/Memoization.jl,70
+Memoization,empty_cache!,3,0.0,0.0,1,0,0,62,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoization/depot/packages/Memoization/2twyX/src/Memoization.jl,44
+Memoization,find_caches,4,1.0,0.5,1,0,0,98,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoization/depot/packages/Memoization/2twyX/src/Memoization.jl,45
+Memoization,#s12#1,1,1.0,0.0,1,15,0,348,none,0
+Memoization,@memoize,1,1.0,0.0,1,4,0,60,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoization/depot/packages/Memoization/2twyX/src/Memoization.jl,70

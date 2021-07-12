@@ -1,0 +1,16 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Sockets,connect,true,true,0,1,Sockets.TCPSocket,"Sockets.TCPSocket,Sockets.IPv6,UInt16",/build/source/usr/share/julia/stdlib/v1.5/Sockets/src/Sockets.jl,558
+Sockets,connect,true,false,0,1,Sockets.TCPSocket,"String,Integer",/build/source/usr/share/julia/stdlib/v1.5/Sockets/src/Sockets.jl,545
+Distributed,manage,true,true,1,2,Nothing,"Distributed.LocalManager,Int64,WorkerConfig,Symbol",/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,392
+Sockets,connect,true,false,0,1,Sockets.TCPSocket,"Sockets.TCPSocket,String,Integer",/build/source/usr/share/julia/stdlib/v1.5/Sockets/src/Sockets.jl,558
+ClusterManagers,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ClusterManagers/depot/packages/ClusterManagers/Mq0H0/src/ClusterManagers.jl,1
+Distributed,kill,true,true,0,1,Nothing,"Distributed.LocalManager,Int64,WorkerConfig",/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,597
+Distributed,kill,true,true,0,1,Nothing,"Distributed.SSHManager,Int64,WorkerConfig",/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,602
+Sockets,connect,true,true,0,1,Sockets.TCPSocket,"Sockets.TCPSocket,Sockets.IPv4,UInt16",/build/source/usr/share/julia/stdlib/v1.5/Sockets/src/Sockets.jl,558
+ClusterManagers,get_private_ip,true,false,1,1,Sockets.IPv4,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ClusterManagers/depot/packages/ClusterManagers/Mq0H0/src/elastic.jl,138
+Distributed,manage,true,false,11,4,Nothing,"Distributed.SSHManager,Integer,WorkerConfig,Symbol",/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,271
+Distributed,manage,true,false,11,4,Nothing,"Distributed.SSHManager,Int64,WorkerConfig,Symbol",/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,271
+Distributed,launch,true,false,5,1,Int64,"Distributed.LocalManager,Dict{Symbol,Any},Array{WorkerConfig,1},Base.GenericCondition{Base.AlwaysLockedST}",/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,371
+Distributed,connect,false,false,14,2,"Tuple{Union{Sockets.TCPSocket, Array{_A,1} where _A},Union{Sockets.TCPSocket, Array{_A,1} where _A}}","Distributed.LocalManager,Int64,WorkerConfig",/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,439
+Distributed,kill,true,true,0,1,Nothing,"ClusterManager,Int64,WorkerConfig",/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,597
+Distributed,manage,true,false,1,2,Nothing,"Distributed.LocalManager,Integer,WorkerConfig,Symbol",/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,392

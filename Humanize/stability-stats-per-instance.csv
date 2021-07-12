@@ -1,0 +1,8 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Humanize,timedelta,true,true,0,1,String,Dates.Day,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Humanize/depot/packages/Humanize/sxPlF/src/Humanize.jl,87
+Humanize,timedelta,true,true,16,15,String,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Humanize/depot/packages/Humanize/sxPlF/src/Humanize.jl,60
+Humanize,timedelta,true,true,0,1,String,Dates.Second,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Humanize/depot/packages/Humanize/sxPlF/src/Humanize.jl,85
+Humanize,digitsep,true,true,0,1,String,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Humanize/depot/packages/Humanize/sxPlF/src/Humanize.jl,100
+Humanize,#datasize#1,true,true,5,1,String,"Symbol,String,typeof(Humanize.datasize),Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Humanize/depot/packages/Humanize/sxPlF/src/Humanize.jl,30
+Humanize,#digitsep#2,true,false,10,1,String,"String,Int64,typeof(Humanize.digitsep),Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Humanize/depot/packages/Humanize/sxPlF/src/Humanize.jl,100
+Humanize,timedelta,true,true,0,1,String,Dates.Millisecond,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Humanize/depot/packages/Humanize/sxPlF/src/Humanize.jl,86

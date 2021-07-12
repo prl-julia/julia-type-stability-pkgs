@@ -1,0 +1,7 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+LocalCoverage,generate_xml,1,1.0,0.0,1,0,0,714,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LocalCoverage/depot/packages/LocalCoverage/AoAgo/src/LocalCoverage.jl,82
+LocalCoverage,coverage_summary,1,1.0,0.0,1,0,0,596,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LocalCoverage/depot/packages/LocalCoverage/AoAgo/src/LocalCoverage.jl,72
+LocalCoverage,pkgdir,1,1.0,1.0,1,0,0,89,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LocalCoverage/depot/packages/LocalCoverage/AoAgo/src/LocalCoverage.jl,23
+LocalCoverage,generate_xml,1,1.0,1.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LocalCoverage/depot/packages/LocalCoverage/AoAgo/src/LocalCoverage.jl,82
+LocalCoverage,coverage_summary_string,1,1.0,0.0,1,0,0,162,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LocalCoverage/depot/packages/LocalCoverage/AoAgo/src/LocalCoverage.jl,64
+LocalCoverage,#generate_coverage#2,1,0.0,0.0,1,0,0,389,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LocalCoverage/depot/packages/LocalCoverage/AoAgo/src/LocalCoverage.jl,107

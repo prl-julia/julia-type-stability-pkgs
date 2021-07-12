@@ -1,0 +1,22 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Einsum,@einsimd,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,15
+Einsum,pushindex!,true,true,0,1,Nothing,"Int64,Symbol,Int64,Array{Symbol,1},Array{Symbol,1},Array{Expr,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,355
+Einsum,unquote_offsets!,true,true,8,1,Expr,"Expr,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,407
+Einsum,extractindices,true,false,0,1,"Tuple{Array{Symbol,1},Array{Symbol,1},Array{Expr,1}}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,304
+Einsum,extractindices!,true,true,0,1,"Tuple{Array{Symbol,1},Array{Symbol,1},Array{Expr,1}}","Symbol,Array{Symbol,1},Array{Symbol,1},Array{Expr,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,306
+Einsum,_einsum,true,true,0,1,Expr,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,32
+Einsum,_einsum,true,true,0,1,Expr,"Expr,Bool,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,32
+Einsum,pushindex!,true,false,16,3,"Union{Nothing, Array{Expr,1}}","Expr,Symbol,Int64,Array{Symbol,1},Array{Symbol,1},Array{Expr,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,360
+Einsum,check_index_occurrence,true,true,2,1,Nothing,"Array{Symbol,1},Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,222
+Einsum,nest_loop,true,true,2,3,Expr,"Expr,Symbol,Expr,Bool,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,275
+Einsum,unquote_offsets!,true,true,0,1,Expr,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,407
+Einsum,extractindices,true,true,0,1,"Tuple{Array{Symbol,1},Array{Symbol,1},Array{Expr,1}}",Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,304
+Einsum,pushindex!,true,true,0,1,"Array{Expr,1}","Symbol,Symbol,Int64,Array{Symbol,1},Array{Symbol,1},Array{Expr,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,349
+Einsum,@einsum,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,11
+Einsum,_einsum,true,false,40,1,Expr,"Expr,Bool,Bool,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,32
+Einsum,extractindices!,true,false,10,1,"Tuple{Array{Symbol,1},Array{Symbol,1},Array{Expr,1}}","Expr,Array{Symbol,1},Array{Symbol,1},Array{Expr,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,321
+Einsum,extractindices!,true,false,0,1,"Tuple{Array{Symbol,1},Array{Symbol,1},Array{Expr,1}}","Number,Array{Symbol,1},Array{Symbol,1},Array{Expr,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,314
+Einsum,nest_loops,true,true,8,2,Expr,"Expr,Array{Symbol,1},Array{Expr,1},Bool,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,256
+Einsum,@vielsum,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,19
+Einsum,extractindices,true,true,0,1,"Tuple{Array{Symbol,1},Array{Symbol,1},Array{Expr,1}}",Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,304
+Einsum,pushindex!,true,false,0,1,Nothing,"Number,Symbol,Int64,Array{Symbol,1},Array{Symbol,1},Array{Expr,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Einsum/depot/packages/Einsum/AVMOj/src/Einsum.jl,355

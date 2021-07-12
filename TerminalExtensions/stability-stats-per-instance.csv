@@ -1,0 +1,3 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+TerminalExtensions,__init__,true,false,12,3,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TerminalExtensions/depot/packages/TerminalExtensions/Uyyx3/src/TerminalExtensions.jl,114
+TerminalExtensions.iTerm2,shell_version_number,true,true,0,1,String,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TerminalExtensions/depot/packages/TerminalExtensions/Uyyx3/src/TerminalExtensions.jl,63

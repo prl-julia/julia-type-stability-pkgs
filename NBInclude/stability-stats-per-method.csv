@@ -1,0 +1,5 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+NBInclude,@nbinclude,3,0.0,0.0,1,0,1,601,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/NBInclude/depot/packages/NBInclude/mNhzW/src/NBInclude.jl,134
+NBInclude,my_include_string,2,0.0,0.0,1,0,0,353,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/NBInclude/depot/packages/NBInclude/mNhzW/src/NBInclude.jl,25
+NBInclude,#nbinclude#1,3,0.0,0.0,1,0,0,1159,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/NBInclude/depot/packages/NBInclude/mNhzW/src/NBInclude.jl,45
+NBInclude,nbinclude,1,0.0,0.0,1,0,0,78,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/NBInclude/depot/packages/NBInclude/mNhzW/src/NBInclude.jl,45

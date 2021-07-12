@@ -1,0 +1,14 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+StatsModels,@formula,1,0.0,0.0,1,4,0,193,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuantileRegressions/depot/packages/StatsModels/JZLpf/src/formula.jl,60
+QuantileRegressions,qreg_coef,2,0.5,0.5,2,0,0,5124,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuantileRegressions/depot/packages/QuantileRegressions/SvVn6/src/InteriorPoint.jl,30
+QuantileRegressions,qreg_coef,2,1.0,0.0,1,0,0,1356,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuantileRegressions/depot/packages/QuantileRegressions/SvVn6/src/IRLS.jl,7
+QuantileRegressions,qreg,2,0.0,0.0,1,0,0,301,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuantileRegressions/depot/packages/QuantileRegressions/SvVn6/src/QuantileRegressions.jl,40
+QuantileRegressions,qreg,2,0.0,0.0,1,0,0,58,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuantileRegressions/depot/packages/QuantileRegressions/SvVn6/src/QuantileRegressions.jl,49
+QuantileRegressions,bound!,3,0.3333333333333333,0.3333333333333333,2,0,0,343,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuantileRegressions/depot/packages/QuantileRegressions/SvVn6/src/InteriorPoint.jl,18
+QuantileRegressions,bandwidth_hall_sheather,2,0.5,0.5,2,0,0,332,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuantileRegressions/depot/packages/QuantileRegressions/SvVn6/src/Covariance.jl,7
+QuantileRegressions,#npqreg#2,3,1.0,1.0,1,0,0,1687,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuantileRegressions/depot/packages/QuantileRegressions/SvVn6/src/npqreg.jl,1
+QuantileRegressions,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuantileRegressions/depot/packages/QuantileRegressions/SvVn6/src/QuantileRegressions.jl,1
+QuantileRegressions,kernel_epanechnikov,2,0.5,0.5,2,0,0,85,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuantileRegressions/depot/packages/QuantileRegressions/SvVn6/src/Covariance.jl,26
+QuantileRegressions,qreg_vcov,3,0.3333333333333333,0.3333333333333333,2,0,0,969,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuantileRegressions/depot/packages/QuantileRegressions/SvVn6/src/Covariance.jl,32
+QuantileRegressions,kernel_epanechnikov!,2,1.0,0.5,1,0,0,403,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuantileRegressions/depot/packages/QuantileRegressions/SvVn6/src/Covariance.jl,15
+QuantileRegressions,#IRLS#1,1,1.0,1.0,1,0,0,57,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuantileRegressions/depot/packages/QuantileRegressions/SvVn6/src/QuantileRegressions.jl,22

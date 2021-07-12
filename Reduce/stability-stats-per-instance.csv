@@ -1,0 +1,196 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Reduce,bematch,true,true,4,1,"Tuple{Int64,Int64}","String,Array{SubString{String},1},UnitRange{Int64},Tuple{Int64,Int64},Char,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+Reduce,print_args,true,false,5,1,Nothing,"Base.GenericIOBuffer,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,555
+Reduce,becount,false,false,0,1,Any,"Any,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,9
+Reduce,show_expr,true,true,12,2,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,675
+Reduce,@R_str,false,false,0,1,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,71
+Reduce,#r_expr#49,false,false,0,1,Any,"Any,typeof(Reduce.r_expr),String,Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,388
+Reduce,==,false,false,4,2,Any,"RExpr,RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,520
+Reduce,rcall,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,505
+Pkg.TOML,error,true,true,0,1,"Array{Pkg.TOML.ParserError,1}","Pkg.TOML.Parser{Base.GenericIOBuffer{Array{UInt8,1}}},Int64,Int64,String",/build/source/usr/share/julia/stdlib/v1.5/Pkg/ext/TOML/src/parser.jl,53
+Reduce,#r_expr#48,false,false,0,1,Any,"Int64,typeof(Reduce.r_expr),String,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,387
+LinearAlgebra,convert,true,false,0,0,Union{},"Type{UnitRange{Int64}},LinearAlgebra.Factorization",/build/source/usr/share/julia/stdlib/v1.5/LinearAlgebra/src/factorization.jl,55
+Reduce,#r_switch#64,false,false,0,1,"Union{String, RExpr}","Int64,typeof(Reduce.r_switch),String,RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,388
+DelimitedFiles,show,true,true,0,1,Nothing,"IOContext{Base.GenericIOBuffer{Array{UInt8,1}}},MIME{Symbol(""text/tab-separated-values"")},SubString{String}",/build/source/usr/share/julia/stdlib/v1.5/DelimitedFiles/src/DelimitedFiles.jl,829
+Reduce,isinfix,true,true,0,1,Bool,SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,673
+Reduce,ReduceCheck,true,true,1,1,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,59
+Pkg.Types,==,true,true,7,8,Bool,"Pkg.Types.PackageSpec,Pkg.Types.PackageSpec",/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/Types.jl,105
+SentinelArrays,convert,true,true,0,1,"SentinelArrays.SentinelArray{Float64,1,Float64,Missing,Array{Float64,1}}","Type{SentinelArrays.SentinelArray{Float64,1,S,V,A} where A<:AbstractArray{Float64,1} where V where S},SentinelArrays.SentinelArray{Int64,1,Int64,Missing,Array{Int64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/SentinelArrays/Ubf17/src/SentinelArrays.jl,114
+Reduce,rcall,false,false,0,1,Any,"String,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,518
+LibGit2.Error,show,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},LibGit2.Error.GitError",/build/source/usr/share/julia/stdlib/v1.5/LibGit2/src/error.jl,78
+Reduce,rtrim,true,true,4,1,"Array{String,1}","Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,75
+Reduce,argrfun,true,true,2,3,Expr,"Symbol,Symbol,Expr,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,43
+Pkg.Resolve,==,true,true,3,4,Bool,"Pkg.Resolve.FieldValue,Pkg.Resolve.FieldValue",/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/Resolve/fieldvalues.jl,58
+Sockets,show,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Sockets.UDPSocket",/build/source/usr/share/julia/stdlib/v1.5/Sockets/src/Sockets.jl,203
+DelimitedFiles,show,true,true,0,1,Nothing,"IOContext{Base.GenericIOBuffer{Array{UInt8,1}}},MIME{Symbol(""text/csv"")},SubString{String}",/build/source/usr/share/julia/stdlib/v1.5/DelimitedFiles/src/DelimitedFiles.jl,828
+LibGit2,convert,true,true,0,1,"Array{String,1}","Type{Array{String,1}},LibGit2.StrArrayStruct",/build/source/usr/share/julia/stdlib/v1.5/LibGit2/src/strarray.jl,13
+Reduce,#r_expr#49,false,false,0,1,Any,"Int64,typeof(Reduce.r_expr),String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,388
+Reduce,convert,false,false,1,1,Any,"Type{Char},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,becount,true,true,0,1,Int64,"SubString{String},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,9
+Reduce,expand,false,false,0,1,"Union{String, RExpr}",RExpr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,437
+DelimitedFiles,show,true,true,0,1,Nothing,"IOContext{Base.GenericIOBuffer{Array{UInt8,1}}},MIME{Symbol(""text/tab-separated-values"")},String",/build/source/usr/share/julia/stdlib/v1.5/DelimitedFiles/src/DelimitedFiles.jl,829
+Reduce,rcall,false,false,0,1,Any,"RExpr,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,488
+Reduce.Algebra,bypass,false,false,3,2,Any,"Symbol,Symbol,Tuple{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,153
+Dates,==,true,true,0,1,Bool,"Dates.DateTime,Dates.DateTime",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,420
+AbstractTensors,convert,true,false,0,1,"Array{Method,1}","Type{Array{Method,1}},AbstractTensors.FixedVector{N,Method}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/AbstractTensors/f9LPE/src/FixedVector.jl,41
+Reduce,convert,true,true,0,1,"Array{String,1}","Type{Array{String,1}},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,419
+Reduce,PipeClogged,true,false,6,1,Nothing,"Bool,Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,72
+Pkg.Types,==,true,true,0,1,Bool,"Pkg.Types.VersionSpec,Pkg.Types.VersionSpec",/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/versions.jl,260
+Pkg.Types,==,false,false,0,1,Any,"Pkg.Types.Project,Pkg.Types.Project",/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/Types.jl,216
+Reduce,loopshift,false,false,11,1,"Tuple{Tuple{Int64,Int64},Array{_A,1} where _A}","String,String,String,Type{T} where T,Array{SubString{String},1},UnitRange{Int64},Tuple{Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,53
+Reduce,_subst,false,false,0,1,Any,"String,SubString{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,252
+Reduce,#r_expr#49,false,false,0,1,Any,"Any,typeof(Reduce.r_expr),String,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,388
+Reduce,convert,false,false,1,1,Any,"Type{Module},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,load_package,true,true,1,1,Nothing,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,296
+Pkg.Types,show,true,true,0,1,Nothing,"IOContext{Base.GenericIOBuffer{Array{UInt8,1}}},Pkg.Types.VersionSpec",/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/versions.jl,273
+Reduce,argrfun,true,true,0,1,Expr,"Symbol,Symbol,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,43
+Reduce,argrfun,true,true,2,3,Expr,"Symbol,Symbol,Expr,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,43
+Reduce,convert,false,false,1,1,Any,"Type{DataType},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,irr,false,false,1,2,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,539
+Reduce,convert,false,false,1,1,Any,"Type{Dict{Char,V} where V},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Pkg.GitTools,string,true,true,0,1,String,Pkg.GitTools.GitMode,/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/GitTools.jl,200
+Reduce,convert,true,true,0,1,RExpr,"Type{RExpr},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,418
+Distributed,==,true,true,1,2,Bool,"Distributed.RRID,Distributed.RRID",/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/messages.jl,16
+Reduce,loopshift,false,false,11,1,"Tuple{Tuple{Int64,Int64},Array{_A,1} where _A}","String,Char,Char,Type{T} where T,Array{String,1},UnitRange{Int64},Tuple{Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,53
+Reduce.Algebra,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,106
+Reduce,show,true,true,3,2,Nothing,"IOStream,MIME{Symbol(""text/plain"")},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,124
+Reduce,loopshift,true,true,10,1,"Tuple{Tuple{Int64,Int64},Array{String,1}}","String,Char,Char,Type{String},Array{String,1},UnitRange{Int64},Tuple{Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,53
+Reduce,convert,false,false,1,1,Any,"Type{UnitRange{Int64}},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,becount,true,true,0,1,Int64,"String,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,9
+Reduce,#rcall#41,false,false,1,2,Any,"Array{Symbol,1},Array{Symbol,1},typeof(rcall),Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,505
+Reduce,#r_expr#49,false,false,0,1,Any,"Any,typeof(Reduce.r_expr),String,SubString",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,388
+Reduce,loopshift,false,false,10,1,"Tuple{Tuple{Any,Any},Array{String,1}}","Any,Char,Char,Type{String},Array,UnitRange,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,53
+Reduce,#parse_switch#62,false,false,52,2,"Union{String, RExpr}","Int64,typeof(parse_switch),String,RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,102
+Reduce,bematch,true,true,4,1,"Tuple{Int64,Int64}","String,Array{String,1},UnitRange{Int64},Tuple{Int64,Int64},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+Reduce,__init__,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,325
+Reduce,convert,false,false,1,1,Any,"Type{WeakRef},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,bematch,true,true,0,0,Union{},"String,Array{SubString{String},1},UnitRange{Int64},Nothing,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+PooledArrays,convert,false,false,4,1,Array,"Type{Array{Method,1}},PooledArrays.PooledArray{T,R,1,RA} where RA",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/PooledArrays/yiLq3/src/PooledArrays.jl,293
+Reduce,#r_expr#49,false,false,0,1,Any,"Int64,typeof(Reduce.r_expr),String,SubString{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,388
+LibGit2,string,true,true,0,1,String,LibGit2.GitShortHash,/build/source/usr/share/julia/stdlib/v1.5/LibGit2/src/oid.jl,180
+Reduce,convert,false,false,1,1,Any,"Type{LineNumberNode},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Distributed,==,false,false,1,2,Any,"Distributed.RemoteChannel{Channel{Any}},Distributed.AbstractRemoteRef",/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/remotecall.jl,127
+Reduce,show_expr,false,false,46,19,Any,"Base.GenericIOBuffer{Array{UInt8,1}},Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,563
+Reduce,#parse_switch#62,false,false,52,2,"Union{String, RExpr}","Any,typeof(parse_switch),String,RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,102
+Reduce,unfoldgen,true,true,4,1,Expr,"Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,787
+Reduce,repl_init,true,true,2,3,"Union{Nothing, REPL.LineEdit.Prompt}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/repl.jl,57
+Reduce,bematch,true,false,0,0,Union{},"Any,Array{String,1},UnitRange{Int64},Nothing,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+Dates,==,true,true,0,1,Bool,"Dates.Time,Dates.Time",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,420
+Reduce,bematch,true,true,4,1,"Tuple{Int64,Int64}","String,Array{String,1},UnitRange{Int64},Tuple{Int64,Int64},Char,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+Reduce,convert,false,false,1,1,Any,"Type{Union{Core.CodeInfo, Core.MethodInstance}},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Random.DSFMT,string,true,true,0,1,String,Random.DSFMT.GF2X,/build/source/usr/share/julia/stdlib/v1.5/Random/src/DSFMT.jl,109
+Reduce,unparse_irrational,true,false,2,2,String,T<:Irrational,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,757
+Reduce,clear,true,true,0,1,"Array{UInt8,1}",Reduce.PSL,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,76
+Reduce,show_expr,false,false,46,19,Any,"Base.GenericIOBuffer,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,563
+Reduce,convert,false,false,1,1,Any,"Type{Stability.ModuleStatsPerMethodRecord},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,#r_expr#48,false,false,0,1,Any,"Any,typeof(Reduce.r_expr),String,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,387
+Reduce,#expand#130,false,false,0,1,"Union{String, RExpr}","Int64,typeof(expand),RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,437
+Pkg.REPLMode,show,true,true,2,1,Nothing,"IOContext{Base.GenericIOBuffer{Array{UInt8,1}}},Pkg.REPLMode.Option",/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/REPLMode/REPLMode.jl,145
+Reduce,bematch,true,true,4,1,"Tuple{Int64,Int64}","SubString{String},Array{SubString{String},1},UnitRange{Int64},Tuple{Int64,Int64},Char,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+Reduce,convert,false,false,1,1,Any,"Type{Method},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,bematch,true,true,4,1,"Tuple{Int64,Int64}","String,Array{SubString{String},1},UnitRange{Int64},Tuple{Int64,Int64},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+Reduce,show_expr,false,false,46,19,Any,"Base.GenericIOBuffer,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,675
+Distributed,==,false,false,1,2,Any,"Distributed.RemoteChannel,Distributed.AbstractRemoteRef",/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/remotecall.jl,127
+Reduce,eval,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,2
+Reduce,RSymReplace,true,true,0,1,String,SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,416
+Reduce,JSymReplace,false,false,6,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,382
+Reduce,linelength,false,false,1,1,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,112
+Reduce,#r_expr#49,false,false,0,1,Any,"Any,typeof(Reduce.r_expr),String,SubString{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,388
+Reduce,_syme,true,true,0,1,String,"Dict{String,String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,250
+Reduce,argrfun,true,true,2,3,Expr,"Symbol,Symbol,Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,43
+Reduce,becount,true,true,1,1,Int64,"SubString{String},Char,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,9
+Reduce,Reset,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,324
+DelimitedFiles,show,true,true,0,1,Nothing,"IOContext{Base.GenericIOBuffer{Array{UInt8,1}}},MIME{Symbol(""text/tab-separated-values"")},Dict{String,Any}",/build/source/usr/share/julia/stdlib/v1.5/DelimitedFiles/src/DelimitedFiles.jl,829
+Reduce,loopshift,true,false,11,1,"Tuple{Tuple{Int64,Int64},Array{Any,1}}","String,String,String,Type{Any},Array{SubString{String},1},UnitRange{Int64},Tuple{Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,53
+Dates,string,true,false,4,2,String,Dates.CompoundPeriod,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/periods.jl,330
+Reduce,#rcall#41,false,false,1,2,Any,"Array{Symbol,1},Array{Symbol,1},typeof(rcall),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,505
+Reduce,bematch,false,false,4,1,"Tuple{Any,Any}","Any,Array{String,1},UnitRange{Int64},Tuple{Any,Any},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+Reduce,#r_switch#64,false,false,0,1,"Union{String, RExpr}","Any,typeof(Reduce.r_switch),String,SubString",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,388
+Reduce,becount,true,true,1,1,Int64,"String,Char,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,9
+Reduce,eval,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,2
+Reduce.Algebra,eval,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,106
+Reduce,convert,false,false,1,1,Any,"Type{Expr},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Pkg.Resolve,==,true,true,0,1,Bool,"Pkg.Resolve.VersionWeight,Pkg.Resolve.VersionWeight",/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/Resolve/versionweights.jl,34
+Reduce,convert,false,false,1,1,Any,"Type{AbstractString},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,#r_switch#64,false,false,0,1,"Union{String, RExpr}","Int64,typeof(Reduce.r_switch),String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,388
+Reduce,show_expr,false,false,12,2,Any,"Base.GenericIOBuffer{Array{UInt8,1}},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,675
+Reduce,treecombine!,false,false,33,6,Any,"Expr,Array{Bool,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,446
+Reduce,#rcall#41,false,false,1,2,Any,"Array{A<:Union{String, Symbol},1},Array{Symbol,1},typeof(rcall),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,505
+Markdown,show,true,true,0,1,Nothing,"IOContext{REPL.Terminals.TTYTerminal},MIME{Symbol(""text/plain"")},Markdown.MD",/build/source/usr/share/julia/stdlib/v1.5/Markdown/src/render/terminal/render.jl,176
+Reduce,ReduceCheck,true,false,1,1,Bool,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,59
+DelimitedFiles,show,true,true,0,1,Nothing,"IOContext{Base.GenericIOBuffer{Array{UInt8,1}}},MIME{Symbol(""text/csv"")},Int64",/build/source/usr/share/julia/stdlib/v1.5/DelimitedFiles/src/DelimitedFiles.jl,828
+Reduce,show,true,true,0,1,Nothing,"IOContext{Base.GenericIOBuffer{Array{UInt8,1}}},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,99
+LibGit2,convert,true,true,1,1,LibGit2.GitSignature,"Type{LibGit2.GitSignature},LibGit2.Signature",/build/source/usr/share/julia/stdlib/v1.5/LibGit2/src/signature.jl,31
+Reduce,bematch,true,true,0,0,Union{},"SubString{String},Array{SubString{String},1},UnitRange{Int64},Nothing,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+Reduce,isinfix,true,true,0,1,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,673
+Reduce,bematch,true,false,0,0,Union{},"Any,Array,UnitRange,Nothing,Char,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+Reduce,#rcall#40,false,false,46,4,Any,"Union{Array{String,1}, Array{Symbol,1}},Union{Array{String,1}, Array{Symbol,1}},typeof(rcall),RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,435
+Reduce,ReduceWarn,true,false,5,2,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,63
+Reduce,bematch,true,true,4,1,"Tuple{Int64,Int64}","SubString{String},Array{SubString{String},1},UnitRange{Int64},Tuple{Int64,Int64},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+DelimitedFiles,show,true,true,0,1,Nothing,"IOContext{Base.GenericIOBuffer{Array{UInt8,1}}},MIME{Symbol(""text/csv"")},Dict{String,Any}",/build/source/usr/share/julia/stdlib/v1.5/DelimitedFiles/src/DelimitedFiles.jl,828
+SentinelArrays,convert,true,true,3,1,"SentinelArrays.SentinelArray{Float64,1,Float64,Missing,Array{Float64,1}}","Type{SentinelArrays.SentinelArray{Float64,N,S,V,A} where A<:AbstractArray{Float64,N} where V where S where N},SentinelArrays.SentinelArray{Int64,1,Int64,Missing,Array{Int64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/SentinelArrays/Ubf17/src/SentinelArrays.jl,105
+Reduce,convert,true,true,0,1,String,"Type{String},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,420
+Pkg.TOML,error,true,true,0,1,"Array{Pkg.TOML.ParserError,1}","Pkg.TOML.Parser{IOStream},Int64,Int64,String",/build/source/usr/share/julia/stdlib/v1.5/Pkg/ext/TOML/src/parser.jl,53
+Reduce,convert,false,false,1,1,Any,"Type{Core.MethodInstance},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,bematch,true,true,0,0,Union{},"String,Array{String,1},UnitRange{Int64},Nothing,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+Reduce,convert,false,false,1,1,Any,"Type{Core.MethodTable},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,#r_switch#63,false,false,0,1,"Union{String, RExpr}","Int64,typeof(Reduce.r_switch),String,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,387
+DelimitedFiles,show,true,true,0,1,Nothing,"IOContext{Base.GenericIOBuffer{Array{UInt8,1}}},MIME{Symbol(""text/tab-separated-values"")},Int64",/build/source/usr/share/julia/stdlib/v1.5/DelimitedFiles/src/DelimitedFiles.jl,829
+Reduce,#SubReplace#37,true,false,58,1,String,"Bool,typeof(Reduce.SubReplace),Symbol,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,335
+Reduce,convert,false,false,1,1,Any,"Type{Dict{Symbol,Any}},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,bematch,false,false,4,1,"Tuple{Any,Any}","Any,Array,UnitRange,Any,Char,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+CSV,convert,true,true,0,1,CSV.PosLen,"Type{CSV.PosLen},UInt64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/CSV/la2cd/src/utils.jl,102
+Reduce,#r_expr#49,false,false,0,1,Any,"Any,typeof(Reduce.r_expr),String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,388
+Reduce,bematch,false,false,4,1,"Tuple{Any,Any}","String,Array{String,1},UnitRange{Int64},Tuple{Any,Any},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+Reduce,convert,false,false,1,1,Any,"Type{SubString{String}},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,unparse,true,false,4,2,"Array{String,1}",Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,767
+ForceImport,@force,false,false,10,1,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/ForceImport/NrAJv/src/ForceImport.jl,15
+Reduce,string,true,true,0,1,String,RExpr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,96
+Reduce,argrfun,true,true,0,1,Expr,"Symbol,Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,43
+Reduce,loopshift,false,false,10,1,"Tuple{Tuple{Any,Any},Array{String,1}}","String,Char,Char,Type{String},Array,UnitRange,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,53
+Reduce,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,2
+Reduce,convert,true,true,0,1,RExpr,"Type,RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Distributed,==,true,true,1,2,Bool,"Distributed.RemoteChannel{Channel{Any}},Distributed.RemoteChannel{Channel{Any}}",/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/remotecall.jl,127
+Reduce,#parse_expr#46,false,false,102,3,Any,"Int64,typeof(parse_expr),String,RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,102
+Reduce,args_expr,true,false,10,1,"Array{Any,1}","String,String,Array{SubString{String},1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,391
+Reduce.Algebra,length,true,true,0,1,Int64,"Array{Stability.ModuleStatsPerMethodRecord,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/unary.jl,142
+Dates,string,true,false,11,1,String,Dates.Time,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,44
+Reduce,bematch,true,true,0,0,Union{},"String,Array{String,1},UnitRange{Int64},Nothing,Char,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+Reduce,detectinf,true,false,28,8,"Union{Nothing, Int64, Symbol}",Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,503
+Pkg.Types,==,true,true,6,7,Bool,"Pkg.Types.PackageEntry,Pkg.Types.PackageEntry",/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/Types.jl,230
+Reduce,convert,false,false,1,1,Any,"Type{Union{Function, String}},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,convert,false,false,1,1,Any,"Type{Core.SimpleVector},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+CSV,==,true,true,0,1,Bool,"CSV.PointerString,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/CSV/la2cd/src/utils.jl,31
+Reduce,_spawn,false,false,0,1,Any,"Cmd,Pipe,Pipe",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/deps/svn.jl,28
+Reduce,RSymReplace,true,true,17,3,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,389
+Reduce,#rcall#40,false,false,44,4,Any,"Array{Symbol,1},Array{Symbol,1},typeof(rcall),RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,435
+Reduce,convert,false,false,1,1,Any,"Type{Function},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,convert,true,true,0,1,RExpr,"Type{Any},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,422
+Reduce,#r_switch#64,false,false,0,1,"Union{String, RExpr}","Any,typeof(Reduce.r_switch),String,RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,388
+Reduce,bematch,false,false,4,1,"Tuple{Any,Any}","String,Array,UnitRange,Any,Char,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+Reduce,readsp,true,true,0,1,"Array{SubString{String},1}",Reduce.PSL,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,99
+Reduce,#parse#76,false,false,0,1,Any,"Int64,typeof(parse),RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,438
+Reduce,bematch,false,false,4,1,"Tuple{Any,Any}","Any,Array,UnitRange,Tuple{Any,Any},Char,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,21
+Reduce,show_expr,false,false,12,2,Any,"Base.GenericIOBuffer{Array{UInt8,1}},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,675
+Reduce,#r_switch#63,false,false,0,1,"Union{String, RExpr}","Any,typeof(Reduce.r_switch),String,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,387
+Reduce,parsegen,true,true,7,2,Expr,"Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,433
+Reduce,irr,false,false,1,2,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,539
+Reduce,Load,true,false,8,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,329
+Reduce.Algebra,bypass,false,false,3,2,Any,"Symbol,Symbol,Tuple{Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/Reduce.jl,153
+Reduce,convert,false,false,1,1,Any,"Type{Stability.ModuleStatsPerInstanceRecord},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,repl_init,true,false,0,1,REPL.LineEdit.Prompt,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/repl.jl,44
+Reduce,treecombine!,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,446
+Reduce,sub_list,true,true,5,1,String,"Dict{String,String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,237
+Pkg.Types,==,true,true,2,3,Bool,"Pkg.Types.GitRepo,Pkg.Types.GitRepo",/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/Types.jl,85
+Reduce,args_expr,true,false,10,1,"Array{Any,1}","String,String,Array{SubString{String},1},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,391
+Reduce.Algebra,length,true,true,0,1,Int64,"Array{Stability.ModuleStatsPerInstanceRecord,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/unary.jl,142
+Reduce,convert,false,false,1,1,Any,"Type{Symbol},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,rcall,false,false,0,1,Any,RExpr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,435
+CSV,==,true,true,1,2,Bool,"String,CSV.PointerString",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/CSV/la2cd/src/utils.jl,25
+DelimitedFiles,show,true,true,0,1,Nothing,"IOContext{Base.GenericIOBuffer{Array{UInt8,1}}},MIME{Symbol(""text/csv"")},String",/build/source/usr/share/julia/stdlib/v1.5/DelimitedFiles/src/DelimitedFiles.jl,828
+Reduce,#rcall#40,false,false,44,4,Any,"Array{String,1},Array{Symbol,1},typeof(rcall),RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,435
+Reduce,convert,false,false,1,1,Any,"Type{Base.Process},RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,421
+Reduce,print_args,true,false,5,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,555
+Reduce,becount,false,false,1,1,Any,"Any,Char,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,9
+Reduce,rcall,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/rexpr.jl,505
+Reduce,#parse_expr#46,false,false,102,3,Any,"Any,typeof(parse_expr),String,RExpr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reduce/depot/packages/Reduce/VT7mw/src/parser.jl,102

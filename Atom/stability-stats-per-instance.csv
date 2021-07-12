@@ -1,0 +1,659 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Atom,completiontext,true,true,0,1,String,FuzzyCompletions.ModuleCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,257
+Atom,isundefined,true,true,0,1,Bool,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,iscallexpr,true,true,0,1,Bool,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,20
+Atom,_collecttoplevelitems_loaded,true,false,7,1,"Dict{String,Array{Atom.GotoItem,1}}","String,Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,242
+Atom,render′,false,false,0,2,Any,"Juno.Inline,Atom.Undefined",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,117
+Atom,baselink,false,false,1,2,"Union{Juno.Link, Hiccup.Node{_A} where _A}","String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,106
+Atom,completiontext,true,true,0,1,SubString{String},REPL.REPLCompletions.DictCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,263
+Atom,basepath,true,true,0,1,String,SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,83
+Atom,completionmodule,true,true,0,1,String,"Module,FuzzyCompletions.FieldCompletion",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,295
+Atom,pushsnippet!,true,false,0,1,"Array{Any,1}","Array{Any,1},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,143
+Atom,regeneratesymbols,true,false,36,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,330
+Atom,completionurl,true,true,0,1,String,FuzzyCompletions.KeywordCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,289
+Atom,hascompactrepr,true,false,2,3,Bool,Function,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,109
+Atom,#_collecttoplevelitems_static#299,true,false,4,3,"Dict{String,Array{Atom.GotoItem,1}}","Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:inmod,),Tuple{Bool}}},typeof(Atom._collecttoplevelitems_static),Any,String,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,264
+Atom,getdocs,false,false,0,1,Any,"Module,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,224
+Atom,cangetdocs,true,false,0,1,Bool,"AbstractString,Union{AbstractString, Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,259
+Atom,md_hlines,true,false,9,2,MD,MD,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,113
+Atom,use_compiled_modules,true,true,0,1,Bool,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/modules.jl,78
+Atom,completiondetail!,true,true,5,2,"Dict{String,Any}","Dict{String,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,352
+Atom,completion,true,true,4,1,Atom.CompletionSuggestion,"Module,FuzzyCompletions.Completion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,179
+Atom,pkg_fileinfo,true,false,13,4,"Union{Nothing, Tuple{Union{Nothing, String},Union{Nothing, Array{Tuple{Module,String,Float64},1}}}}",Base.PkgId,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/modules.jl,115
+Atom,msg,true,true,2,2,Nothing,"Dict{Any,Any},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,128
+Atom,moduleinfo,false,false,0,1,"Dict{_A,_B} where _B where _A",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,92
+Atom,isundefined,true,true,0,1,Bool,"Dict{String,Dict{String,Array{Atom.GotoItem,1}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,modinfo,false,false,6,1,"Tuple{Hiccup.Node{_A} where _A,Array{DocSeeker.DocObj,1}}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,112
+Atom,msg,true,false,2,2,Nothing,"String,Integer,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,128
+Atom,completionurl,true,true,0,1,String,FuzzyCompletions.PathCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,277
+Atom,toplevelgotoitems,true,true,9,1,"Array{Atom.GotoItem,1}","String,Module,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,155
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Float16",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,49
+Atom,nativetype,true,true,0,1,String,"Module,Symbol,Atom.Undefined",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,30
+Atom,processdocs,false,false,2,1,"Dict{_A,_B} where _B where _A",Atom.EvalError{_A} where _A,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,47
+Atom,fullREPLpath,false,false,4,3,"Tuple{Union{SubString{String}, String},Int64}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/path_matching.jl,15
+Atom,_collecttoplevelitems_static,true,false,0,1,"Dict{String,Array{Atom.GotoItem,1}}","Any,Nothing,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,264
+Atom,isconstexpr,true,true,1,2,Bool,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,56
+Atom,shouldenter,true,true,9,2,Bool,"CSTParser.EXPR,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,100
+Atom,markiterbinding!,true,true,10,1,CSTParser.EXPR,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/bindings.jl,199
+Atom,localbindings,true,true,0,1,"Array{Union{Atom.LocalBinding, Atom.LocalScope},1}","CSTParser.EXPR,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/local.jl,52
+Atom,#_collecttoplevelitems_static#299,true,true,4,3,"Dict{String,Array{Atom.GotoItem,1}}","Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:inmod,),Tuple{Bool}}},typeof(Atom._collecttoplevelitems_static),Nothing,String,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,264
+Atom,completiondetailtype,true,true,0,1,String,REPL.REPLCompletions.ModuleCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,326
+Atom,completiondetailtype,true,true,0,1,String,REPL.REPLCompletions.PropertyCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,325
+Atom,actual_localbindings,true,true,0,1,"Array{Atom.ActualLocalBinding,1}","Array{Union{Atom.LocalBinding, Atom.LocalScope},1},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/local.jl,124
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Dict{String,Array{String,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,52
+Atom,search_up_file,true,true,4,3,"Union{Nothing, String}","String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,15
+Atom,completiontext,true,true,1,2,"Union{Nothing, SubString{String}, String}",REPL.REPLCompletions.MethodCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,258
+Atom,renderMD,true,true,0,1,"Union{Nothing, Hiccup.Node{_A} where _A}",Markdown.Header{1},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,18
+Atom,displayandrender,true,false,3,1,"Dict{Any,Any}",Module,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/showdisplay.jl,130
+Atom,getmodule,true,false,1,2,Module,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,203
+Atom.JunoDebugger,stacklength,true,true,0,1,Int64,Nothing,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/debugger/stepper.jl,26
+Atom,#_toplevelitems#154,true,false,26,1,"Array{Atom.ToplevelItem,1}","Any,Any,typeof(Atom._toplevelitems),String,CSTParser.EXPR,Array{Atom.ToplevelItem,1},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,52
+Atom,#_collecttoplevelitems_static#299,true,false,1,1,"Dict{String,Array{Atom.GotoItem,1}}","Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(Atom._collecttoplevelitems_static),Any,Nothing,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,264
+Atom,completionmodule,true,true,0,1,String,"Module,REPL.REPLCompletions.PathCompletion",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,297
+Atom,project_info,false,false,0,1,"NamedTuple{(:name, :path),_A} where _A<:Tuple",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/environments.jl,27
+Atom,aggregatemethods,true,true,0,1,"Array{Method,1}",Base.MethodList,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,396
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Irrational{:ℯ}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,49
+Atom,#toplevelitems#152,true,true,0,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(toplevelitems),String,CSTParser.EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,46
+Atom,renderMD,false,false,4,1,Hiccup.Node{_A} where _A,Markdown.List,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,62
+Atom,renderMDinline,false,false,2,1,Hiccup.Node{_A} where _A,Markdown.Code,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,88
+Atom,completionurl,true,true,0,1,String,REPL.REPLCompletions.MethodCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,287
+Atom,completiontext,true,true,0,1,SubString{String},FuzzyCompletions.PathCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,264
+Atom,mark_binding!,true,true,23,3,CSTParser.EXPR,"CSTParser.EXPR,CSTParser.EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/bindings.jl,161
+Atom,#CompletionSuggestion#274,true,true,0,0,Union{},"String,String,String,String,String,Type{Atom.CompletionSuggestion},String,Nothing,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,17
+Atom.JunoDebugger,active_frame,true,true,5,1,JuliaInterpreter.Frame,Atom.JunoDebugger.DebuggerState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/debugger/stepper.jl,16
+Atom,completiontext,true,true,0,1,SubString{String},FuzzyCompletions.DictCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,263
+Atom,@msg,false,false,4,1,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,16
+Atom,_collecttoplevelitems_static,true,true,0,1,"Dict{String,Array{Atom.GotoItem,1}}","String,String,String,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,271
+Atom,completion,true,true,0,1,Atom.CompletionSuggestion,"Module,REPL.REPLCompletions.ModuleCompletion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,179
+Atom,completionicon,true,true,0,1,String,REPL.REPLCompletions.MethodCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,315
+Atom,completiondetail_keyword!,true,true,0,1,String,"Dict{String,Any},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,395
+Atom,pluralize,true,true,2,1,String,"Int64,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,148
+Atom,completionicon,true,true,0,1,String,REPL.REPLCompletions.PathCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,323
+Atom,completiondetailtype,true,true,0,1,String,FuzzyCompletions.PropertyCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,325
+Atom,rpc,false,false,0,1,Any,"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,151
+Atom,urimoduleinfo,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,282
+Atom,completion,true,true,4,1,Atom.CompletionSuggestion,"Module,REPL.REPLCompletions.Completion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,179
+Atom,bindingof,true,true,1,2,"Union{Nothing, Atom.Binding}",CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/bindings.jl,29
+Atom,_toplevelitems,true,true,0,1,"Array{Atom.ToplevelItem,1}","String,CSTParser.EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,52
+Atom,localcompletion,true,false,6,1,Atom.CompletionSuggestion,"Atom.ActualLocalBinding,String,Array{SubString{String},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,334
+Atom,ends_with_semicolon,true,true,0,1,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/eval.jl,7
+Atom,processdocs,false,false,1,1,"Dict{_A,_B} where _B where _A",Array,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,47
+Atom,showmethod,true,true,0,1,Method,"Type{MIME{Symbol(""text/plain"")}},Type{Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,31
+Atom,pkgpath,true,true,1,2,"Union{Nothing, SubString{String}, String}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,88
+Atom,toplevelitems,true,true,0,1,"Array{Atom.ToplevelItem,1}","String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,50
+Atom,completiontext,true,true,0,1,String,REPL.REPLCompletions.PropertyCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,257
+Atom,_fieldlist,false,false,0,1,"Array{T,N} where T where N","Atom.EvalError{StackOverflowError},Tuple",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,64
+Atom,completion,true,true,0,1,Atom.CompletionSuggestion,"Module,FuzzyCompletions.KeywordCompletion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,179
+Atom,#toplevelitems#153,true,false,0,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,Any,Tuple{Symbol,Symbol},NamedTuple{(:mod, :inmod),Tuple{String,Bool}}},typeof(toplevelitems),AbstractString,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,50
+Atom,_globalgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}","Any,String,Module,String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,104
+Atom,modulesymbols,true,true,0,1,"Array{DocSeeker.DocObj,1}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,129
+Atom,showmethod,true,true,0,1,Method,Type{Atom.EvalError{StackOverflowError}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,31
+Atom,wsicon,true,false,1,2,String,"Module,Symbol,Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,46
+Atom,outlineitem,true,true,2,1,OutlineItem,Atom.ToplevelBinding,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/outline.jl,39
+Atom,iskeyword,true,false,0,1,Bool,AbstractString,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,265
+Atom,iswhereclause,true,true,2,3,Bool,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,50
+Atom,ismacro,true,false,1,2,"Union{Missing, Bool}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,269
+Atom,wstype,true,false,1,2,String,"Module,Symbol,Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,37
+Atom,restoredisplaystack,true,true,0,1,Nothing,"Array{AbstractDisplay,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/showdisplay.jl,155
+Atom,uridocs,true,true,0,1,String,"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,280
+Atom,completion,true,true,0,1,Atom.CompletionSuggestion,"Module,FuzzyCompletions.PropertyCompletion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,179
+Atom,highlights,true,true,0,1,"Array{Dict{Any,Any},1}","Array{Base.StackTraces.StackFrame,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,53
+Atom,getfield′,false,false,0,1,"Union{Atom.DisplayError, Array{Base.StackTraces.StackFrame,1}, HTML{String}}","Atom.EvalError{Atom.DisplayError},AbstractString,HTML{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,194
+Atom,ismacrocall,true,true,0,1,Bool,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,22
+Atom,completiondetail_method!,true,false,5,3,"Union{Nothing, NamedTuple{(:rt, :desc),Tuple{String,String}}}","Dict{String,Any},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,400
+Atom,isundefined,true,false,0,1,Bool,Type{T} where T,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,isfile′,true,true,0,1,Bool,Nothing,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,4
+Atom,getfield′,false,false,0,1,Any,"Module,Symbol,Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,192
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Base.EnvDict",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,52
+Atom,renderMDinline,false,false,0,1,"Array{_A,1} where _A","Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,84
+Atom,_globalgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}","Any,String,AbstractString,String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,104
+Atom,#CompletionSuggestion#274,true,false,0,0,Union{},"Any,Any,String,Any,Any,Type{Atom.CompletionSuggestion},String,Nothing,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,17
+Atom,getfield′,false,false,0,1,"Union{StackOverflowError, Array{Base.StackTraces.StackFrame,1}, HTML{String}}","Atom.EvalError{StackOverflowError},AbstractString,HTML{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,194
+Atom,_collecttoplevelitems_static,true,true,0,0,Union{},"Nothing,String,Nothing,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,271
+Atom,nativetype,true,false,0,1,String,"Any,Symbol,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,29
+Atom,completiontext,true,true,0,1,String,REPL.REPLCompletions.ModuleCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,257
+Atom,syntaxcolors,true,false,3,1,"Dict{String,UInt32}","Dict{String,Array{String,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/frontend.jl,51
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Dict{String,Dict{String,Array{Atom.GotoItem,1}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,52
+Atom,completionreturntype,true,true,0,1,String,REPL.REPLCompletions.DictCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,273
+Atom,getmethods,true,true,0,1,Base.MethodList,"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,212
+Atom,pushmarkdown!,true,true,3,2,"Union{Nothing, Array{Any,1}}","Array{Any,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,138
+Atom,ismacro,true,true,1,2,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,267
+Atom,globalgotoitems,true,false,3,2,"Array{Atom.GotoItem,1}","String,Module,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,83
+Atom,pluralize,true,true,0,1,String,"Array{Int64,1},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,149
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Irrational{:π}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,49
+Atom,toplevelitems,true,true,0,1,"Array{Atom.ToplevelItem,1}","String,CSTParser.EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,46
+Atom,getmethods,true,true,0,1,Base.MethodList,"Module,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,211
+Atom,strlimit,true,true,12,1,String,"String,Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,137
+Atom,#_collecttoplevelitems_static#300,true,false,8,1,"Dict{String,Array{Atom.GotoItem,1}}","Bool,typeof(Atom._collecttoplevelitems_static),String,String,String,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,271
+Atom,#_toplevelitems#154,true,false,25,1,"Array{Atom.ToplevelItem,1}","String,Bool,typeof(Atom._toplevelitems),AbstractString,CSTParser.EXPR,Array{Atom.ToplevelItem,1},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,52
+Atom,_collecttoplevelitems_static,true,true,0,1,"Dict{String,Array{Atom.GotoItem,1}}","String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,264
+Atom,isundefined,true,true,0,1,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,_globalgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}","Any,String,AbstractString,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,104
+Atom,methodgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}",Base.MethodList,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,393
+Atom,iskeyword,true,true,0,1,Bool,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,264
+Atom,eval,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/Atom.jl,4
+Atom,trim,true,true,1,2,"Array{Any,1}","Array{Float64,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,140
+Atom,completionicon,true,true,0,1,String,REPL.REPLCompletions.DictCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,322
+Atom.JunoDebugger,isdebugging,true,true,1,2,Bool,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/debugger/stepper.jl,39
+Atom,_globalgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}","Module,String,Module,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,103
+Atom,getfield′,false,false,0,1,Any,"Module,Symbol,Atom.Undefined",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,192
+Atom,uridocs,true,true,0,1,String,"Module,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,280
+Atom,_globalgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}","Any,String,String,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,104
+Atom,gotosymbol,false,false,0,1,"Union{NamedTuple{(:error,),Tuple{Bool}}, NamedTuple{(:error, :items),Tuple{Bool,Array{Atom.GotoItem,1}}}}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,22
+Atom,shortstr,true,false,0,1,String,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,154
+Atom,isimport,true,true,1,2,Bool,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,61
+Atom,renderMD,false,false,0,1,Hiccup.Node{_A} where _A,"Array{T,1} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,16
+Atom,completiontext,true,true,0,1,String,FuzzyCompletions.KeywordCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,257
+Atom,_globalgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}","Module,String,AbstractString,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,103
+Atom,modulefiles,false,false,12,3,"Union{Tuple{Nothing,Nothing}, Tuple{String,Array{String,1}}}",Module,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/modules.jl,26
+Atom,completionurl,true,false,5,2,String,FuzzyCompletions.ModuleCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,278
+Atom,completiontext,true,true,1,2,"Union{Nothing, SubString{String}, String}",REPL.REPLCompletions.Completion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,257
+Atom,_precompile_,true,false,1932,3,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/precompile.jl,54
+Atom,fixpath,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/modules.jl,43
+Atom,getmodule,true,false,1,2,Module,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,203
+Atom,ismacro,true,false,2,2,Bool,Function,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,269
+Atom,hideprompt,false,false,22,3,Any,"Atom.var""#200#205""{String,Int64,String,Bool}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/repl.jl,102
+Atom,msg,true,false,2,2,Nothing,"String,Dict",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,128
+Atom,cangetdocs,true,false,0,1,Bool,"Module,AbstractString",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,258
+Atom,isundefined,true,true,0,1,Bool,"Dict{Method,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,static_icon,true,true,0,1,String,Atom.ActualLocalBinding,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,159
+Atom,renderMD,false,false,0,1,Hiccup.Node{_A} where _A,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,14
+Atom,shortstr,true,false,0,1,String,Type{T} where T,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,154
+Atom,defaultrepr,false,false,0,1,"Union{Juno.LazyTree, Juno.Tree, Hiccup.Node{_A} where _A}","Atom.EvalError{StackOverflowError},Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,66
+Atom,#toplevelitems#153,true,true,0,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,String,Tuple{Symbol},NamedTuple{(:mod,),Tuple{String}}},typeof(toplevelitems),String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,50
+Atom,renderMD,false,false,0,1,Hiccup.Node{_A} where _A,Markdown.Footnote,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,42
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Complex{Bool}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,49
+Atom,description,true,false,5,3,String,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,372
+Atom,_collecttoplevelitems_static,true,true,0,1,"Dict{String,Array{Atom.GotoItem,1}}","Nothing,String,String,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,271
+Atom.JunoDebugger,localvars,true,false,13,1,"Array{Any,1}",JuliaInterpreter.Frame,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/debugger/workspace.jl,21
+Atom,#toplevelitems#152,true,true,1,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,Union{Nothing, Bool},Tuple{Symbol,Symbol},NamedTuple{(:mod, :inmod),Tuple{Nothing,Bool}}},typeof(toplevelitems),String,CSTParser.EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,46
+Atom,wstype,true,true,0,1,String,"Module,Symbol,Module",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,39
+Atom,basepath,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,83
+Atom,handle,true,true,0,1,"Atom.var""#5#16""","Atom.var""#5#16"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,140
+Atom,handlemsg,true,false,12,3,"Union{Nothing, Bool}","Dict{String,Any},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,164
+Atom,traverse_expr!,true,true,40,6,Nothing,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/bindings.jl,38
+Atom,get_main_mode,true,false,2,1,REPL.LineEdit.Prompt,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/repl.jl,15
+Atom,isundefined,true,true,0,1,Bool,Atom.Undefined,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,175
+Atom,sparams_from_method_signature,true,false,2,1,Core.SimpleVector,Method,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,465
+Atom,workspace,true,false,8,1,"Array{Dict{Any,Any},1}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,1
+Atom,completion_text,true,true,0,1,String,FuzzyCompletions.FieldCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,175
+Atom,displayandrender,false,false,3,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/showdisplay.jl,130
+Atom,localcompletions,true,true,0,1,"Array{Atom.CompletionSuggestion,1}","String,Int64,Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,329
+Atom,completion,true,true,0,1,Atom.CompletionSuggestion,"Module,FuzzyCompletions.PathCompletion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,179
+Atom,fuzzycompletionadapter,true,false,13,1,"Array{Atom.CompletionSuggestion,1}","String,String,String,Int64,Int64,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,114
+Atom,#toplevelitems#153,true,false,0,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{_A,_B,_C,_D} where _D where _C where _B where _A,typeof(toplevelitems),String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,50
+Atom,shouldentermodule,true,true,1,2,Bool,"CSTParser.EXPR,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,111
+Atom,localbindings,true,true,0,0,Union{},"Nothing,String,Array{Union{Atom.LocalBinding, Atom.LocalScope},1},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/local.jl,52
+Atom,shouldenter,true,true,9,2,Bool,"CSTParser.EXPR,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,100
+Atom,completion_text,true,true,0,1,String,REPL.REPLCompletions.KeywordCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,174
+Atom,completionurl,true,true,0,1,String,REPL.REPLCompletions.PathCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,277
+Atom,#_collecttoplevelitems_static#299,true,false,3,3,"Dict{String,Array{Atom.GotoItem,1}}","Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(Atom._collecttoplevelitems_static),Any,String,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,264
+Atom,#CompletionSuggestion#274,true,false,0,1,Atom.CompletionSuggestion,"String,String,String,String,String,Type{Atom.CompletionSuggestion},String,String,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,17
+Atom,str_value_verbatim,true,true,0,1,String,"Nothing,String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,133
+Atom,render′,false,false,0,2,Any,"Juno.Inline,Type",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,117
+Atom,isdebugging,true,true,0,1,Bool,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/debugger/debugger.jl,9
+Atom,getfield′,false,false,0,1,Any,"Module,String,Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,191
+Atom,toplevelgotoitems,true,true,8,2,"Array{Atom.GotoItem,1}","String,String,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,155
+Atom,completionicon,true,true,0,1,String,FuzzyCompletions.PropertyCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,315
+Atom,completionurl,true,true,0,1,String,REPL.REPLCompletions.PropertyCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,277
+Atom,render′,true,false,0,2,"Dict{Any,Any}","Juno.Editor,Module",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,117
+Atom,completiondetailtype,true,true,0,1,String,FuzzyCompletions.FieldCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,325
+Atom,str_value_verbatim,false,false,0,1,"Union{String, SubString}","CSTParser.EXPR,AbstractString,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,125
+Atom,defaultrepr,false,false,2,3,"Union{Juno.LazyTree, Juno.Tree, Hiccup.Node{_A} where _A}","Atom.EvalError{StackOverflowError},Bool,Type{T} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,66
+Atom,allprojects,false,false,8,2,"NamedTuple{(:projects, :active),_A} where _A<:Tuple",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/environments.jl,33
+Atom,renderMDinline,false,false,0,1,Hiccup.Node{_A} where _A,Markdown.Image,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,106
+Atom,static_type,true,true,0,1,String,Atom.Binding,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,139
+Atom,toplevelgotoitems,true,true,9,1,"Array{Atom.GotoItem,1}","String,Module,String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,155
+Atom,collecttoplevelitems,true,true,0,1,"Dict{String,Array{Atom.GotoItem,1}}","Module,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,219
+Atom,isundefined,true,true,0,1,Bool,"Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,completiondetailtype,true,true,0,1,String,FuzzyCompletions.ModuleCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,326
+Atom,completionreturntype,true,true,0,1,String,FuzzyCompletions.FieldCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,271
+Atom,completionicon,true,true,0,1,String,FuzzyCompletions.MethodCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,315
+Atom,completion_text,true,true,0,1,String,FuzzyCompletions.MethodCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,175
+Atom,searchdocs′,false,false,0,1,"Dict{_A,_B} where _B where _A","String,Bool,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,20
+Atom,#toplevelitems#151,true,true,0,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(toplevelitems),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,44
+Atom,_collecttoplevelitems,true,true,1,2,"Dict{String,Array{Atom.GotoItem,1}}",Module,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,230
+Atom,baselink,false,false,1,2,"Union{Juno.Link, Hiccup.Node{_A} where _A}","String,Int32",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,106
+Atom,expandpath,false,false,7,6,"Tuple{Union{Nothing, SubString{String}, String},String}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,93
+Atom,searchdocs′,false,false,0,1,"Dict{_A,_B} where _B where _A",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,20
+Atom,completiondetail_module!,true,false,2,2,"Union{Nothing, String}","Dict{String,Any},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,387
+Atom,searchcodeblocks,true,true,0,1,"Array{Any,1}",MD,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,99
+Atom,#CompletionSuggestion#274,true,false,0,1,Atom.CompletionSuggestion,"Any,Any,String,Any,Any,Type{Atom.CompletionSuggestion},String,String,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,17
+Atom,completionreturntype,true,true,0,1,String,REPL.REPLCompletions.FieldCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,271
+Atom,latex2katex,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,136
+Atom,finddevpackages,true,false,21,1,"OrderedCollections.OrderedDict{String,String}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,51
+Atom,packageinfo,false,false,4,1,"Tuple{Hiccup.Node{_A} where _A,Array{DocSeeker.DocObj,1}}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,101
+Atom,collecttoplevelitems,true,true,3,1,"Dict{String,Array{Atom.GotoItem,1}}","Module,String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,189
+Atom,str_value_verbatim,true,true,0,1,String,"CSTParser.EXPR,String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,125
+Atom,processmethods!,true,true,1,2,"Union{Nothing, Array{Any,1}}","Base.MethodList,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,124
+Atom,__lookup_kwbody__,false,false,20,1,Any,Method,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/precompile.jl,11
+Atom,modulefiles,true,true,0,1,Set{String},"String,String,Set{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/modules.jl,212
+Atom,getdocs,false,false,0,1,Any,"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,244
+Atom,isundefined,true,true,0,1,Bool,Base.RefValue{Bool},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,completionmodule,true,true,0,1,String,"Module,FuzzyCompletions.ModuleCompletion",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,292
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,49
+Atom,stripdotprefixes,false,false,0,1,Any,AbstractString,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,157
+Atom,processval!,false,false,1,2,"Union{Bool, Array{Any,1}}","Any,String,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,114
+Atom,isexport,true,true,0,1,Bool,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,62
+Atom,start_eval_backend,true,true,1,1,Task,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/eval.jl,33
+Atom,completionmodule,true,true,0,1,String,"Module,REPL.REPLCompletions.FieldCompletion",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,295
+Atom,gotosymbol,false,false,10,4,"Union{NamedTuple{(:error,),Tuple{Bool}}, NamedTuple{(:error, :items),Tuple{Bool,Array{Atom.GotoItem,1}}}}","String,Nothing,Int64,Int64,Int64,String,Bool,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,22
+Atom,completionicon,true,true,0,1,String,REPL.REPLCompletions.PropertyCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,315
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,50
+Atom,_globalgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}","Any,String,Module,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,104
+Atom,_globalgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}","Module,String,String,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,103
+Atom,msg,true,true,2,2,Nothing,"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,128
+Atom,wstype,true,true,0,1,String,"Module,Symbol,Atom.Undefined",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,43
+Atom,processval!,false,false,1,2,"Union{Bool, Array{Any,1}}","Function,String,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,118
+Atom,@ierrs,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,61
+Atom,defaultrepr,false,false,0,1,"Union{Juno.LazyTree, Juno.Tree, Hiccup.Node{_A} where _A}","Atom.EvalError{Atom.DisplayError},Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,66
+Atom,getfield′,false,false,0,1,Any,"Module,String,Atom.Undefined",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,191
+Atom,isactive,true,true,0,1,Bool,Nothing,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,47
+Atom,msg,true,true,2,2,Nothing,"Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,128
+Atom,renderMD,false,false,4,1,Hiccup.Node{_A} where _A,Markdown.Admonition,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,49
+Atom,getmoduleinfo,false,false,1,2,"Tuple{Hiccup.Node{_A} where _A,Array{DocSeeker.DocObj,1}}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,98
+Atom,#toplevelitems#153,true,true,0,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,Union{Nothing, Bool},Tuple{Symbol,Symbol},NamedTuple{(:mod, :inmod),Tuple{Nothing,Bool}}},typeof(toplevelitems),String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,50
+Atom,render′,false,false,0,2,Any,"Juno.Inline,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,117
+Atom.JunoDebugger,stacklength,true,true,0,1,Int64,Atom.JunoDebugger.DebuggerState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/debugger/stepper.jl,25
+Atom,_globalgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}","Any,String,String,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,104
+Atom,shouldentermodule,true,true,0,1,Bool,"CSTParser.EXPR,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,110
+Atom,appendline,true,true,1,2,"Union{Nothing, String}","Nothing,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,40
+Atom,docs,false,false,5,2,"Dict{_A,_B} where _B where _A","String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/eval.jl,207
+Atom,processdoc!,true,false,3,1,Nothing,"MD,String,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,80
+Atom,msg,true,true,2,2,Nothing,"Dict{Any,Any},Dict{String,Array{String,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,128
+Atom,completionurl,true,true,0,1,String,REPL.REPLCompletions.KeywordCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,289
+Atom,displayandrender,true,false,3,1,"Dict{Any,Any}",Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/showdisplay.jl,130
+Atom,toplevelgotoitems,true,true,9,2,"Array{Atom.GotoItem,1}","String,String,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,155
+Atom,completionicon,true,true,0,1,String,FuzzyCompletions.DictCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,322
+Atom,completionicon,false,false,1,2,Any,REPL.REPLCompletions.ModuleCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,316
+Atom,isundefined,true,true,0,1,Bool,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,wstype,true,false,0,1,String,"Module,Symbol,Type",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,38
+Atom,@errs,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,11
+Atom,cliptrace,true,true,3,1,"Array{Base.StackTraces.StackFrame,1}","Array{Base.StackTraces.StackFrame,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,41
+Atom,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/Atom.jl,4
+Atom,wstype,true,true,0,1,String,"Module,Symbol,ErrorException",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,42
+Atom,isundefined,true,true,0,1,Bool,"Base.RefValue{Tuple{String,Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,#toplevelitems#152,true,true,1,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,Any,Tuple{Symbol,Symbol},NamedTuple{(:mod, :inmod),Tuple{String,Bool}}},typeof(toplevelitems),String,CSTParser.EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,46
+Atom,msg,true,false,2,2,Nothing,"String,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,128
+Atom,#counteols_in_expr#163,true,true,2,1,Int64,"Char,typeof(Atom.counteols_in_expr),CSTParser.EXPR,String,Int64,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,67
+Atom,uridocs,true,true,0,1,String,"Module,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,280
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,OrderedCollections.OrderedDict{String,Union{NamedTuple{(:rt, :desc),Tuple{String,String}}, NamedTuple{(:f, :m, :tt),Tuple{Any,Method,Type}}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,52
+Atom,completionreturntype,true,true,0,1,String,REPL.REPLCompletions.PathCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,275
+Atom,#_collecttoplevelitems_static#300,true,false,8,1,"Dict{String,Array{Atom.GotoItem,1}}","Bool,typeof(Atom._collecttoplevelitems_static),Any,String,String,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,271
+Atom,isundefined,true,true,0,1,Bool,HTML{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,renderMDinline,false,false,0,1,Hiccup.Node{_A} where _A,Markdown.LaTeX,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,118
+Atom,getfield′,false,false,0,1,Any,"Module,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,192
+Atom,getfield′,false,false,0,1,Any,"Any,String,Atom.Undefined",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,194
+Atom,searchcodeblocks,true,false,6,1,Nothing,"Any,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,104
+Atom,fullpath,true,true,4,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,85
+Atom,isfile′,true,true,0,2,Bool,SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,4
+Atom,localbindings,true,true,0,0,Union{},"Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/local.jl,52
+Atom,strlimit,true,false,12,1,String,"AbstractString,Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,137
+Atom,renderMDinline,true,true,0,1,"Union{Nothing, Hiccup.Node{_A} where _A}",Markdown.Bold,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,98
+Atom,completionmodule,true,true,0,1,String,"Module,REPL.REPLCompletions.KeywordCompletion",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,296
+Atom,hideprompt,false,false,22,3,Any,"Atom.var""#214#219""{String,String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/repl.jl,102
+Atom,description,true,false,5,3,String,MD,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,373
+Atom,evalsimple,false,false,6,1,Any,"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/misc.jl,49
+Atom,parse_cache_header,true,false,18,1,"Tuple{Array{Pair{Base.PkgId,UInt64},1},Tuple{Array{Tuple{Module,String,Float64},1},Array{Pair{Module,Base.PkgId},1}}}",IOStream,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/modules.jl,149
+Atom,wstype,true,false,1,2,String,"Module,Symbol,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,36
+Atom,realpath′,true,false,2,2,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,42
+Atom,isundefined,true,true,0,1,Bool,Regex,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,msg,true,false,2,2,Nothing,"String,Int64,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,128
+Atom,toplevelgotoitems,true,false,9,2,"Array{Atom.GotoItem,1}","String,AbstractString,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,155
+Atom,render′,false,false,0,2,Any,"Juno.Editor,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,117
+Atom,mark_binding!,true,true,0,1,CSTParser.EXPR,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/bindings.jl,161
+Atom,completiontype,true,true,0,1,String,REPL.REPLCompletions.DictCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,311
+Atom,byteoffset,true,true,10,1,Int64,"String,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/local.jl,108
+Atom,#toplevelitems#152,true,false,1,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,Any,Tuple{Symbol,Symbol},NamedTuple{(:mod, :inmod),Tuple{String,Bool}}},typeof(toplevelitems),AbstractString,CSTParser.EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,46
+Atom,shortstr,true,true,0,1,String,Module,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,154
+Atom,isdoc,true,true,6,1,Bool,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,38
+Atom,_displayname,false,false,2,3,Any,Function,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,114
+Atom,completionurl,true,true,0,1,String,FuzzyCompletions.PropertyCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,277
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Module",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,48
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Dict{Method,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,52
+Atom,clearsymbols,true,true,3,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,380
+Atom,completiontype,true,true,0,1,String,FuzzyCompletions.PropertyCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,309
+Atom,parse_cache_header,true,true,3,1,"Tuple{Array{Pair{Base.PkgId,UInt64},1},Tuple{Array{Tuple{Module,String,Float64},1},Array{Pair{Module,Base.PkgId},1}}}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/modules.jl,191
+Atom,showmethod,true,true,0,1,Method,"Type{MIME{Symbol(""text/plain"")}},Type{Atom.EvalError{StackOverflowError}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,31
+Atom,completion,true,true,0,1,Atom.CompletionSuggestion,"Module,REPL.REPLCompletions.FieldCompletion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,179
+Atom,completionreturntype,true,true,0,1,String,FuzzyCompletions.PathCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,275
+Atom,appendline,true,true,1,2,String,"String,Int32",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,40
+Atom,render′,false,false,0,2,Any,"Juno.Inline,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,117
+Atom,toplevelitems,true,true,0,1,"Array{Atom.ToplevelItem,1}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,44
+Atom,showmethod,true,true,0,1,Method,Type{Atom.EvalError{Atom.DisplayError}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,31
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Regex",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,54
+Atom,_collecttoplevelitems_loaded,true,true,7,1,"Dict{String,Array{Atom.GotoItem,1}}","String,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,242
+Atom,isundefined,true,true,0,1,Bool,"Dict{String,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,_actual_localbindings,true,false,6,1,"Array{Atom.ActualLocalBinding,1}","Any,Int64,Int64,Any,Array{Atom.ActualLocalBinding,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/local.jl,131
+Atom,_collecttoplevelitems_static,true,false,0,1,"Dict{String,Array{Atom.GotoItem,1}}","Any,String,String,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,271
+Atom,getmodule,true,false,1,2,Module,AbstractString,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,203
+Atom,gen_new_cache,true,true,0,1,"Dict{String,Array{Atom.GotoItem,1}}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,153
+Atom,#_collecttoplevelitems_static#299,true,true,4,3,"Dict{String,Array{Atom.GotoItem,1}}","Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:inmod,),Tuple{Bool}}},typeof(Atom._collecttoplevelitems_static),String,String,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,264
+Atom,modulefiles,true,true,0,1,Set{String},"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/modules.jl,212
+Atom,outlineitem,true,true,1,2,"Union{Nothing, OutlineItem}",Atom.ToplevelMacroCall,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/outline.jl,55
+Atom,completion,true,true,0,1,Atom.CompletionSuggestion,"Module,REPL.REPLCompletions.PropertyCompletion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,179
+Atom,replcompletionadapter,true,false,17,1,"Array{Atom.CompletionSuggestion,1}","String,String,String,Int64,Int64,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,69
+Atom,completiondetailtype,true,true,0,1,String,REPL.REPLCompletions.FieldCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,325
+Atom,wsicon,true,false,0,1,String,"Module,Symbol,Type",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,47
+Atom,completiontype,true,true,0,1,String,FuzzyCompletions.KeywordCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,312
+Atom,isundefined,true,true,0,1,Bool,Module,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,isanon,true,false,0,1,Bool,Function,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,105
+Atom,#toplevelitems#151,true,false,1,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,String,Tuple{Symbol},NamedTuple{(:mod,),Tuple{String}}},typeof(toplevelitems),AbstractString",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,44
+Atom,completiontext,true,true,0,1,SubString{String},REPL.REPLCompletions.PathCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,264
+Atom,renderMDinline,true,true,0,1,"Union{Nothing, Hiccup.Node{_A} where _A}",Markdown.Italic,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,102
+Atom,showmethod,true,true,0,1,Method,"Type{MIME{Symbol(""text/plain"")}},Type{Atom.EvalError{Atom.DisplayError}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,31
+Atom,completion_text,true,true,0,1,String,REPL.REPLCompletions.FieldCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,174
+Atom,completionmodule,true,true,0,1,String,"Module,FuzzyCompletions.PropertyCompletion",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,294
+Atom,completion_text,true,true,0,1,String,REPL.REPLCompletions.PathCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,174
+Atom,completiondetailtype,true,true,0,1,String,REPL.REPLCompletions.KeywordCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,327
+Atom,getdocs,false,false,6,2,Any,"Module,String,Module",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,224
+Atom,shouldenter,true,true,9,2,Bool,"CSTParser.EXPR,Union{Nothing, AbstractString}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,100
+Atom,shortstr,true,false,0,1,String,Type,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,154
+Atom,mark_parameters,true,true,5,1,CSTParser.EXPR,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/bindings.jl,187
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,ErrorException",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,57
+Atom,completionurl,true,true,0,1,String,REPL.REPLCompletions.DictCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,277
+Atom,completionurl,true,true,0,1,String,FuzzyCompletions.MethodCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,287
+Atom,wsitem,true,false,0,1,"Dict{Any,Any}","Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,17
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,UInt32",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,49
+Atom,#toplevelitems#152,true,false,1,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,String,Tuple{Symbol},NamedTuple{(:mod,),Tuple{String}}},typeof(toplevelitems),AbstractString,CSTParser.EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,46
+Atom,withpath,false,false,3,1,Any,"Function,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/eval.jl,9
+Atom,#fixpath#168,true,true,10,2,String,"String,String,typeof(Atom.fixpath),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/modules.jl,43
+Atom,render′,false,false,0,2,Any,"Juno.Inline,Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,117
+Atom,static_type,true,true,0,1,String,Atom.ActualLocalBinding,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,140
+Atom,isfile′,true,true,0,2,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,4
+Atom,mark_sig_args!,true,true,28,6,"Union{Nothing, CSTParser.EXPR}",CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/bindings.jl,212
+Atom,completiontext,true,true,0,1,String,REPL.REPLCompletions.KeywordCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,257
+Atom,collecttoplevelitems,true,false,7,2,"Union{Nothing, Dict{String,Array{Atom.GotoItem,1}}}","AbstractString,String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,201
+Atom,completionreturntype,true,true,2,2,String,FuzzyCompletions.PropertyCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,267
+Atom,#toplevelitems#151,true,true,1,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,Union{Nothing, Bool},Tuple{Symbol,Symbol},NamedTuple{(:mod, :inmod),Tuple{Nothing,Bool}}},typeof(toplevelitems),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,44
+Atom,globalgotoitems,true,false,3,2,"Array{Atom.GotoItem,1}","String,Module,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,83
+Atom,evalsimple,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/misc.jl,49
+Atom,completiondetailtype,true,true,0,1,String,REPL.REPLCompletions.PathCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,325
+Atom,completionreturntype,true,true,0,1,String,REPL.REPLCompletions.ModuleCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,266
+Atom.JunoDebugger,stacklength,true,true,2,1,Int64,JuliaInterpreter.Frame,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/debugger/stepper.jl,27
+Atom,#toplevelitems#151,true,false,1,2,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,_A,Tuple{Symbol,Symbol},_B} where _B where _A,typeof(toplevelitems),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,44
+Atom,rpc,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,151
+Atom,rt_inf,true,false,4,3,String,"Any,Any,Type",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,438
+Atom,#toplevelitems#153,true,false,0,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,String,Tuple{Symbol},NamedTuple{(:mod,),Tuple{String}}},typeof(toplevelitems),AbstractString,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,50
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Dict{String,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,52
+Atom,fuzzycompletionadapter,true,true,0,1,"Array{Atom.CompletionSuggestion,1}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,114
+Atom,wsitem,true,false,0,1,"Dict{Any,Any}","Any,Symbol,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,21
+Atom,renderMD,true,true,0,1,"Union{Nothing, Hiccup.Node{_A} where _A}",Markdown.Header{2},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,18
+Atom,completion_text,true,false,0,1,String,FuzzyCompletions.Completion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,175
+Atom,_globalgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}","Module,String,AbstractString,String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,103
+Atom,globalgotoitems,true,false,3,2,"Array{Atom.GotoItem,1}","String,Module,String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,83
+Atom,static_icon,true,true,11,6,String,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,160
+Atom,isundefined,true,true,0,1,Bool,"OrderedCollections.OrderedDict{String,Union{NamedTuple{(:rt, :desc),Tuple{String,String}}, NamedTuple{(:f, :m, :tt),Tuple{Any,Method,Type}}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,_actual_localbindings,true,false,6,1,"Array{Atom.ActualLocalBinding,1}","Array{Union{Atom.LocalBinding, Atom.LocalScope},1},Int64,Int64,String,Array{Atom.ActualLocalBinding,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/local.jl,131
+Atom,completion,true,true,4,1,Atom.CompletionSuggestion,"Module,REPL.REPLCompletions.MethodCompletion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,223
+Atom,fixjunodisplays,true,false,4,1,"Array{AbstractDisplay,1}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/repl.jl,297
+Atom,counteols_in_expr,true,true,0,1,Int64,"CSTParser.EXPR,String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,67
+Atom,completiontype,true,true,0,1,String,REPL.REPLCompletions.PathCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,313
+Atom,displayinplotpane,true,false,40,6,Bool,Module,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/showdisplay.jl,30
+Atom,#_toplevelitems#154,true,true,25,1,"Array{Atom.ToplevelItem,1}","Nothing,Bool,typeof(Atom._toplevelitems),String,CSTParser.EXPR,Array{Atom.ToplevelItem,1},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,52
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Dict{String,String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,52
+Atom,completion_text,true,true,0,1,String,FuzzyCompletions.KeywordCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,175
+Atom.JunoDebugger,contexts,true,false,7,2,"Array{Any,1}",Atom.JunoDebugger.DebuggerState,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/debugger/workspace.jl,4
+Atom,completionmodule,true,true,0,1,String,"Module,FuzzyCompletions.KeywordCompletion",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,296
+Atom,localdatatip,false,false,4,1,Any,"String,Int64,Int64,Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,37
+Atom,completiondetailtype,true,true,0,1,String,FuzzyCompletions.PathCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,325
+Atom,completion,true,true,0,1,Atom.CompletionSuggestion,"Module,REPL.REPLCompletions.PathCompletion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,179
+Atom,wsitem,true,false,0,1,"Dict{Any,Any}","Module,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,17
+Atom,completiontype,true,true,0,1,String,REPL.REPLCompletions.KeywordCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,312
+Atom,hasbinding,true,true,0,1,Bool,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/bindings.jl,28
+Atom,locationshading,true,true,2,3,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,58
+Atom,ismultiplereturn,true,true,2,3,Bool,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,44
+Atom,collecttoplevelitems,true,false,4,1,Nothing,"String,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,224
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,45
+Atom,render′,false,false,0,2,Any,"Juno.Inline,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,117
+Atom,strlimit,true,true,0,1,String,"SubString{String},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,137
+Atom,strlimit,true,true,0,1,String,"String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,137
+Atom,evalall,false,false,10,1,Any,"String,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/eval.jl,160
+Atom,completiontype,true,true,0,1,String,FuzzyCompletions.FieldCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,310
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Float32",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,49
+Atom,plotpane_io_ctx,true,false,2,1,"IOContext{Base.GenericIOBuffer{Array{UInt8,1}}}","Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/showdisplay.jl,5
+Atom,wsitem,true,false,0,1,"Dict{Any,Any}","Module,Symbol,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,21
+Atom,outlineitem,true,true,2,3,"Union{Nothing, OutlineItem}",Atom.ToplevelCall,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/outline.jl,45
+Atom,processval!,false,false,1,2,Any,"Function,Any,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,118
+Atom,completiondetailtype,true,true,0,1,String,REPL.REPLCompletions.Completion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,325
+Atom,completiontype,true,true,0,1,String,REPL.REPLCompletions.FieldCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,310
+Atom,localgotoitem,true,true,0,1,"Array{Atom.GotoItem,1}","String,Nothing,Int64,Int64,Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,76
+Atom,completionurl,true,false,5,2,String,REPL.REPLCompletions.ModuleCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,278
+Atom,distance,true,false,4,1,Float64,"Int64,Int64,Int64,UnitRange{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/local.jl,142
+Atom,toplevelgotoitems,true,true,9,1,"Array{Atom.GotoItem,1}","String,Module,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,155
+Atom,_actual_localbindings,true,true,0,1,"Array{Atom.ActualLocalBinding,1}","Array{Union{Atom.LocalBinding, Atom.LocalScope},1},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/local.jl,131
+Atom,completiondetailtype,true,true,0,1,String,FuzzyCompletions.KeywordCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,327
+Atom,_searchdocs,false,false,8,2,"Tuple{Union{Atom.EvalError{_A} where _A, Array},Any}","String,Bool,Any,Bool,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,32
+Atom,#_collecttoplevelitems_static#300,true,false,8,1,"Dict{String,Array{Atom.GotoItem,1}}","Bool,typeof(Atom._collecttoplevelitems_static),Nothing,String,String,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,271
+Atom,_collecttoplevelitems_static,true,false,0,1,"Dict{String,Array{Atom.GotoItem,1}}","Any,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,264
+Atom,renderMD,false,false,0,1,Hiccup.Node{_A} where _A,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,16
+Atom,hideprompt,true,false,22,3,Nothing,"Atom.var""#46#48""{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/repl.jl,102
+Atom,strlimit,true,true,12,1,String,"SubString{String},Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,137
+Atom,completiondetail_keyword!,true,false,0,1,String,"Any,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,395
+Atom,completionreturntype,true,true,2,2,String,REPL.REPLCompletions.PropertyCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,267
+Atom,_globalgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}","Module,String,Module,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,103
+Atom,collecttoplevelitems,true,false,4,1,Nothing,"AbstractString,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,224
+Atom,isundefined,true,true,0,1,Bool,"Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,completion,true,true,0,1,Atom.CompletionSuggestion,"Module,FuzzyCompletions.FieldCompletion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,179
+Atom,completiontext,true,true,1,2,"Union{Nothing, SubString{String}, String}",FuzzyCompletions.MethodCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,258
+Atom,renderMDinline,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,94
+Atom,expandpath,true,true,0,0,Union{},Nothing,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,93
+Atom,counteols_in_expr,true,true,0,1,Int64,"CSTParser.EXPR,String,Int64,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,67
+Atom,stripdotprefixes,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,157
+Atom,msg,true,false,2,2,Nothing,"String,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,128
+Atom,processdocs,false,false,1,1,"Dict{_A,_B} where _B where _A","Array{Tuple{Float64,DocSeeker.DocObj},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,47
+Atom,getfield′,false,false,0,1,Any,"Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,193
+Atom,toplevelgotoitems,true,false,8,2,"Array{Atom.GotoItem,1}","String,AbstractString,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,155
+Atom,handlemsg,true,false,12,3,"Union{Nothing, Bool}","Dict{_A,_B} where _B where _A,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,164
+Atom,hideprompt,false,false,22,3,Any,"Atom.var""#188#193""{String,Int64,String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/repl.jl,102
+Atom,_globalgotoitems,true,false,0,1,"Array{Atom.GotoItem,1}","Any,String,AbstractString,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,104
+Atom,completion,true,true,0,1,Atom.CompletionSuggestion,"Module,REPL.REPLCompletions.DictCompletion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,179
+Atom,completionreturntype,true,true,0,1,String,FuzzyCompletions.DictCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,273
+Atom,_collecttoplevelitems_static,true,true,0,0,Union{},"Nothing,String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,271
+Atom,steal_stdout,true,false,2,1,String,typeof(Pkg.API.status),/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/environments.jl,3
+Atom,_collecttoplevelitems_static,true,true,0,1,"Dict{String,Array{Atom.GotoItem,1}}","Nothing,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,271
+Atom,#_toplevelitems#154,true,true,25,1,"Array{Atom.ToplevelItem,1}","String,Bool,typeof(Atom._toplevelitems),String,CSTParser.EXPR,Array{Atom.ToplevelItem,1},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,52
+Atom,globalgotoitems,true,false,0,1,"Array{Atom.GotoItem,1}","String,AbstractString,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,98
+Atom,#toplevelitems#153,true,true,0,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,Any,Tuple{Symbol,Symbol},NamedTuple{(:mod, :inmod),Tuple{String,Bool}}},typeof(toplevelitems),String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,50
+Atom,completiontype,true,true,0,1,String,FuzzyCompletions.MethodCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,307
+Atom,cangetdocs,true,true,1,2,Bool,"Module,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,255
+Atom,pkgpath,true,true,1,2,"Union{Nothing, SubString{String}, String}",SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,88
+Atom,render′,true,false,0,2,"Dict{Any,Any}","Juno.Editor,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,117
+Atom,_globalgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}","Module,String,String,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,103
+Atom,collecttoplevelitems,true,true,7,2,"Union{Nothing, Dict{String,Array{Atom.GotoItem,1}}}","String,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,201
+Atom,completiondetailtype,true,true,0,1,String,FuzzyCompletions.DictCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,325
+Atom,completiontext,true,true,0,1,String,FuzzyCompletions.FieldCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,257
+Atom,eval,false,false,0,1,Any,"String,Int64,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/eval.jl,112
+Atom,#toplevelitems#151,true,true,1,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,String,Tuple{Symbol},NamedTuple{(:mod,),Tuple{String}}},typeof(toplevelitems),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,44
+Atom,renderbt,false,false,0,1,Hiccup.Node{_A} where _A,"Array{Base.StackTraces.StackFrame,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,70
+Atom,isundefined,true,true,0,1,Bool,"Dict{String,Array{String,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,completion,true,true,4,1,Atom.CompletionSuggestion,"Module,FuzzyCompletions.MethodCompletion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,223
+Atom.JunoDebugger,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/debugger/debugger.jl,11
+Atom,project_info,false,false,0,1,"NamedTuple{(:name, :path),_A} where _A<:Tuple",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/environments.jl,27
+Atom,nativetype,true,false,0,1,String,"Any,Symbol,Atom.Undefined",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,30
+Atom,rt_inf,true,false,4,3,String,"Any,Method,Type",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,438
+Atom,replcompletionadapter,true,true,0,1,"Array{Atom.CompletionSuggestion,1}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,69
+Atom,completionicon,true,true,0,1,String,REPL.REPLCompletions.KeywordCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,315
+Atom,completionurl,true,true,0,1,String,REPL.REPLCompletions.FieldCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,277
+Atom,completionmodule,true,true,0,1,String,"Module,REPL.REPLCompletions.MethodCompletion",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,293
+Atom,toplevelgotoitems,true,false,9,2,"Array{Atom.GotoItem,1}","String,AbstractString,String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,155
+Atom,str_value,true,true,26,21,String,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,81
+Atom,completiontext,true,true,0,1,String,REPL.REPLCompletions.FieldCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,257
+Atom,completion_text,true,true,0,1,String,REPL.REPLCompletions.DictCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,174
+Atom,updatesymbols,true,true,0,1,Nothing,"String,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,310
+Atom,completionurl,true,true,0,1,String,FuzzyCompletions.FieldCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,277
+Atom,isREPL,true,true,0,1,Bool,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/repl.jl,21
+Atom,_globalgotoitems,true,false,0,1,"Array{Atom.GotoItem,1}","Module,String,AbstractString,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,103
+Atom,#toplevelitems#152,true,false,1,2,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{_A,_B,_C,_D} where _D where _C where _B where _A,typeof(toplevelitems),String,CSTParser.EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,46
+Atom,completion,true,true,0,1,Atom.CompletionSuggestion,"Module,REPL.REPLCompletions.KeywordCompletion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,179
+Atom,pushmarkdown!,true,true,3,2,"Union{Nothing, Array{Any,1}}","Array{Any,1},SubString{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,138
+Atom,completiontype,true,true,0,1,String,FuzzyCompletions.PathCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,313
+Atom,_collecttoplevelitems_static,true,true,0,1,"Dict{String,Array{Atom.GotoItem,1}}","String,String,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,264
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,53
+Atom,#fixpath#168,true,false,10,2,String,"String,String,typeof(Atom.fixpath),AbstractString",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/modules.jl,43
+Atom,showmethod,true,true,0,1,Method,Type{Any},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,31
+Atom,getfield′,false,false,1,2,"Union{Atom.DisplayError, Array{Base.StackTraces.StackFrame,1}, HTML{String}}","Atom.EvalError{Atom.DisplayError},Symbol,HTML{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,193
+Atom,updatesymbols,true,true,1,1,"Dict{String,Array{Atom.GotoItem,1}}","String,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,311
+Atom,str_value_verbatim,true,true,0,1,String,"Atom.Binding,String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,132
+Atom,completionurl,true,true,0,1,String,FuzzyCompletions.DictCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,277
+Atom,typ,false,false,0,1,Hiccup.Node{_A} where _A,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,76
+Atom,_fieldlist,false,false,0,1,"Array{T,N} where T where N","Atom.EvalError{Atom.DisplayError},Tuple",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,64
+Atom,_toplevelitems,true,true,0,1,"Array{Atom.ToplevelItem,1}","String,CSTParser.EXPR,Array{Atom.ToplevelItem,1},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,52
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,50
+Atom,defaultrepr,false,false,2,3,"Union{Juno.LazyTree, Juno.Tree, Hiccup.Node{_A} where _A}","Atom.EvalError{Atom.DisplayError},Bool,Type{T} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,66
+Atom,completion,true,true,0,1,Atom.CompletionSuggestion,"Module,FuzzyCompletions.DictCompletion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,179
+Atom,isundefined,true,true,0,1,Bool,"Dict{String,String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom.JunoDebugger,contexts,true,true,0,1,"Array{Any,1}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/debugger/workspace.jl,4
+Atom,searchcodeblocks,true,false,6,1,Nothing,"MD,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,104
+Atom,isactive,true,true,0,1,Bool,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,54
+Atom,localgotoitem,true,false,2,1,"Array{Atom.GotoItem,1}","String,String,Int64,Int64,Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,65
+Atom,pushmarkdown!,true,false,3,2,"Union{Nothing, Array{Any,1}}","Array{Any,1},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,138
+Atom,sparams_from_method_signature,true,false,2,1,Core.SimpleVector,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,465
+Atom,completionicon,true,true,0,1,String,REPL.REPLCompletions.FieldCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,315
+Atom,handlemsg,true,false,12,3,"Union{Nothing, Bool}","Dict{_A,_B} where _B where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,164
+Atom,moduledefinition,true,true,5,1,"Tuple{String,Int32}",Module,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/modules.jl,252
+Atom,ismoduleusage,true,true,1,2,Bool,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,60
+Atom,isactive,true,true,0,1,Bool,"Base.GenericIOBuffer{Array{UInt8,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,54
+Atom,getfield′,false,false,0,1,Any,"Any,Symbol,Atom.Undefined",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,193
+Atom,_globalgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}","Any,String,Module,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,104
+Atom,_collecttoplevelitems_static,true,false,0,1,"Dict{String,Array{Atom.GotoItem,1}}","Any,String,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,264
+Atom,renderMD,false,false,0,1,Hiccup.Node{_A} where _A,MD,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,12
+Atom,nativetype,true,true,0,1,String,"Module,Symbol,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,29
+Atom,ispackage,true,true,0,1,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,99
+Atom,completionmodule,true,true,0,1,String,"Module,FuzzyCompletions.PathCompletion",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,297
+Atom,completionmodule,true,true,0,1,String,"Module,REPL.REPLCompletions.PropertyCompletion",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,294
+Atom,outlineitem,true,true,0,1,OutlineItem,Atom.ToplevelItem,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/outline.jl,38
+Atom,expandpath,false,false,7,6,"Tuple{Union{Nothing, SubString{String}, String},Union{SubString{String}, String}}",SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,93
+Atom,isprecompile,true,true,4,1,Bool,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,32
+Atom,mark_bindings!,true,true,61,23,"Union{Nothing, Atom.Binding, CSTParser.EXPR}",CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/bindings.jl,79
+Atom,collecttoplevelitems,true,false,7,2,"Union{Nothing, Dict{String,Array{Atom.GotoItem,1}}}","AbstractString,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,201
+Atom,searchdocs′,false,false,0,1,"Dict{_A,_B} where _B where _A","String,Bool,String,Bool,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,20
+Atom,completiontype,false,false,1,2,Any,FuzzyCompletions.ModuleCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,300
+Atom,getfield′,false,false,0,1,Any,"Any,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,194
+Atom,completion_text,false,false,0,1,Any,REPL.REPLCompletions.Completion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,174
+Atom,__init__,false,false,2,2,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/Atom.jl,10
+Atom,completiondetail_module!,true,false,2,2,"Union{Nothing, String}","Any,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,387
+Atom,withpath,false,false,3,1,Any,"Atom.var""#216#221""{String,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/eval.jl,9
+Atom,completiondetail_method!,true,false,5,3,"Union{Nothing, NamedTuple{(:rt, :desc),Tuple{String,String}}}","Any,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,400
+Atom,completion_text,true,true,0,1,String,REPL.REPLCompletions.MethodCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,174
+Atom,displayinplotpane,true,false,40,6,Bool,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/showdisplay.jl,30
+Atom,completion_text,true,true,0,1,String,FuzzyCompletions.DictCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,175
+Atom,isfile′,true,false,0,2,Bool,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,4
+Atom,locals,true,true,0,1,"Array{Atom.ActualLocalBinding,1}","String,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/local.jl,45
+Atom,#CompletionSuggestion#274,true,true,0,1,Atom.CompletionSuggestion,"String,String,String,String,String,Type{Atom.CompletionSuggestion},String,String,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,17
+Atom,customdisplaystack,true,true,0,1,"Array{AbstractDisplay,1}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/showdisplay.jl,146
+Atom,completiontype,false,false,1,2,Any,REPL.REPLCompletions.ModuleCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,300
+Atom,#toplevelitems#152,true,true,1,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,String,Tuple{Symbol},NamedTuple{(:mod,),Tuple{String}}},typeof(toplevelitems),String,CSTParser.EXPR",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,46
+Atom,static_icon,true,true,0,1,String,Atom.Binding,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,158
+Atom,localdatatip,false,false,1,2,"Union{Int64, Dict}","Atom.ActualLocalBinding,SubString{String},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,46
+Atom,rendererr,false,false,0,1,Hiccup.Node{_A} where _A,SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,84
+Atom,withpath,false,false,3,1,Any,"Atom.var""#202#207""{String,Int64,String,Bool},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/eval.jl,9
+Atom,completiondetail!,false,false,5,2,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,352
+Atom,withpath,false,false,3,1,Any,"Atom.var""#190#195""{String,Int64,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/eval.jl,9
+Atom,renderitem,false,false,8,1,"Dict{_A,_B} where _B where _A",DocSeeker.DocObj,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,70
+Atom,getfield′,false,false,0,1,Any,"Module,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,191
+Atom,completionicon,true,true,0,1,String,FuzzyCompletions.FieldCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,315
+Atom,wsicon,true,false,0,1,String,"Module,Symbol,Type{T} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,47
+Atom,renderMDinline,false,false,0,1,Hiccup.Node{_A} where _A,Markdown.Footnote,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,110
+Atom,isuntitled,true,true,0,1,Bool,SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,38
+Atom,completionicon,false,false,1,2,Any,FuzzyCompletions.ModuleCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,316
+Atom,completion_text,true,true,0,1,String,FuzzyCompletions.PathCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,175
+Atom,globalgotoitems,true,false,0,1,"Array{Atom.GotoItem,1}","String,AbstractString,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,98
+Atom,completionicon,true,true,0,1,String,FuzzyCompletions.KeywordCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,315
+Atom,outline,true,true,0,1,"Array{OutlineItem,1}","Array{Atom.ToplevelItem,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/outline.jl,36
+Atom,completiontext,true,true,0,1,String,FuzzyCompletions.PropertyCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,257
+Atom,completion,true,true,0,1,Atom.CompletionSuggestion,"Module,FuzzyCompletions.ModuleCompletion,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,179
+Atom,static_type,true,true,11,6,String,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,141
+Atom,renderMD,true,true,0,1,"Union{Nothing, Hiccup.Node{_A} where _A}",Markdown.Paragraph,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,30
+Atom,treeid,false,false,0,1,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/lazy.jl,4
+Atom,isundefined,true,true,0,1,Bool,"NTuple{18,Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,#CompletionSuggestion#274,true,false,0,1,Atom.CompletionSuggestion,"Any,Any,String,Any,Any,Type{Atom.CompletionSuggestion},String,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,17
+Atom,completiondetailtype,true,true,0,1,String,REPL.REPLCompletions.DictCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,325
+Atom,handle,false,false,0,1,Function,"Function,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,140
+Atom,wstype,true,false,0,1,String,"Module,Symbol,Type{T} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,38
+Atom,#_collecttoplevelitems_static#300,true,true,0,0,Union{},"Bool,typeof(Atom._collecttoplevelitems_static),Nothing,String,Nothing,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,271
+Atom,completiontext,true,true,1,2,"Union{Nothing, SubString{String}, String}",FuzzyCompletions.Completion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,257
+Atom,completionmodule,true,true,0,1,String,"Module,FuzzyCompletions.MethodCompletion",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,293
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Atom.Undefined",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,58
+Atom,completiontype,true,true,0,1,String,REPL.REPLCompletions.PropertyCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,309
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,50
+Atom,completionmodule,true,true,0,1,String,"Module,REPL.REPLCompletions.ModuleCompletion",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,292
+Atom,#toplevelitems#151,true,false,1,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,Any,Tuple{Symbol,Symbol},NamedTuple{(:mod, :inmod),Tuple{String,Bool}}},typeof(toplevelitems),AbstractString",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,44
+Atom,processdoc!,true,false,3,1,Nothing,"Any,Any,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,80
+Atom,isundefined,true,true,0,1,Bool,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,syntaxcolors,true,true,0,1,"Dict{String,UInt32}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/frontend.jl,51
+Atom,render′,false,false,0,2,Any,"Juno.Inline,Type{T} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,117
+Atom,iskeyword,true,true,0,1,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,265
+Atom,_searchdocs,false,false,8,2,"Tuple{Union{Atom.EvalError{_A} where _A, Array},Any}","String,Bool,Module,Bool,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,32
+Atom,completiontype,true,true,0,1,String,FuzzyCompletions.DictCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,311
+Atom,localbindings,true,true,23,3,"Array{Union{Atom.LocalBinding, Atom.LocalScope},1}","CSTParser.EXPR,String,Array{Union{Atom.LocalBinding, Atom.LocalScope},1},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/local.jl,52
+Atom,pushsnippet!,true,true,0,1,"Array{Any,1}","Array{Any,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,143
+Atom,completionmodule,true,true,0,1,String,"Module,REPL.REPLCompletions.DictCompletion",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,291
+Atom,rpc,false,false,0,1,Any,"String,Dict{String,Array{String,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,151
+Atom,completiondetailtype,true,true,0,1,String,FuzzyCompletions.Completion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,325
+Atom,render′,false,false,0,2,Any,"Juno.Inline,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,117
+Atom,outlineitem,true,true,0,1,OutlineItem,Atom.ToplevelModuleUsage,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/outline.jl,62
+Atom,eval,false,false,4,1,Any,"String,Int64,String,String,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/eval.jl,112
+Atom,wsicon,true,true,0,1,String,"Module,Symbol,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/workspace.jl,49
+Atom,appendline,false,false,1,2,"Union{SubString{String}, String}","SubString{String},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,40
+Atom,completion_text,true,true,0,1,String,FuzzyCompletions.ModuleCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,175
+Atom,renderMD,true,true,0,1,"Union{Nothing, Hiccup.Node{_A} where _A}",Markdown.BlockQuote,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,34
+Atom,renderMDinline,false,false,0,1,Hiccup.Node{_A} where _A,Markdown.Link,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,114
+Atom,searchcodeblocks,true,false,0,1,"Array{Any,1}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,99
+Atom,distance,false,false,4,1,Any,"Int64,Int64,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/local.jl,142
+Atom,isuntitled,true,true,0,1,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,38
+Atom,isundefined,true,false,0,1,Bool,Type,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,shortstr,true,false,0,1,String,DataType,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,154
+Atom,isundefined,true,false,0,1,Bool,Function,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,174
+Atom,completionreturntype,true,true,0,1,String,REPL.REPLCompletions.KeywordCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,266
+Atom,appendline,true,true,1,2,"Union{Nothing, String}","Nothing,Int32",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,40
+Atom,evalshow,false,false,4,1,Any,"String,Int64,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/eval.jl,67
+Atom,completionmodule,true,true,0,1,String,"Module,FuzzyCompletions.DictCompletion",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,291
+Atom,handlemsg,true,false,12,3,"Union{Nothing, Bool}","Dict{String,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,164
+Atom,fix_buildbot_path,true,true,1,1,"Union{Nothing, SubString{String}, String}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/path_matching.jl,30
+Atom,#modulefiles#175,true,false,11,3,Set{String},"Bool,typeof(modulefiles),String,String,Set{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/modules.jl,212
+Atom,methods_table,false,false,0,1,Hiccup.Node{_A} where _A,"Juno.Inline,Base.MethodList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/methods.jl,25
+Atom,fixpath,true,false,0,1,String,AbstractString,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/modules.jl,43
+Atom,completionreturntype,true,true,0,1,String,FuzzyCompletions.KeywordCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,266
+Atom,globalgotoitems,true,false,0,1,"Array{Atom.GotoItem,1}","String,String,Nothing,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,98
+Atom,isinclude,true,true,8,1,Bool,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/static.jl,24
+Atom,defaultrepr,false,false,2,3,"Union{Juno.LazyTree, Juno.Tree, Hiccup.Node{_A} where _A}","Atom.EvalError{StackOverflowError},Bool,Type{Atom.EvalError{StackOverflowError}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,66
+Atom,render′,false,false,0,2,Any,"Juno.Inline,Module",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,117
+Atom,globaldatatip,true,false,5,3,"Union{Nothing, Array{Any,1}}","String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/datatip.jl,55
+Atom,@rpc,false,false,4,1,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/comm.jl,34
+Atom,rendererr,false,false,0,1,Hiccup.Node{_A} where _A,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/errors.jl,84
+Atom,#toplevelitems#151,true,true,1,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Symbol,Any,Tuple{Symbol,Symbol},NamedTuple{(:mod, :inmod),Tuple{String,Bool}}},typeof(toplevelitems),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,44
+Atom,completionicon,true,true,0,1,String,FuzzyCompletions.PathCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,323
+Atom,strlimit,true,false,0,1,String,"AbstractString,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,137
+Atom,defaultrepr,false,false,2,3,"Union{Juno.LazyTree, Juno.Tree, Hiccup.Node{_A} where _A}","Atom.EvalError{Atom.DisplayError},Bool,Type{Atom.EvalError{Atom.DisplayError}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/base.jl,66
+Atom,docs,false,false,0,1,"Dict{_A,_B} where _B where _A",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/eval.jl,207
+Atom,mark_typealias_bindings!,true,true,10,1,CSTParser.EXPR,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/bindings.jl,251
+Atom,completionreturntype,true,true,0,1,String,FuzzyCompletions.ModuleCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,266
+Atom,collecttoplevelitems,true,true,3,2,"Dict{String,Array{Atom.GotoItem,1}}","Module,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,189
+Atom,renderMD,false,false,2,1,Hiccup.Node{_A} where _A,Markdown.Code,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,21
+Atom,_globalgotoitems,true,true,0,1,"Array{Atom.GotoItem,1}","Module,String,Module,String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,103
+Atom,getfield′,false,false,1,2,"Union{StackOverflowError, Array{Base.StackTraces.StackFrame,1}, HTML{String}}","Atom.EvalError{StackOverflowError},Symbol,HTML{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,193
+Atom,md_hlines,false,false,10,2,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,113
+Atom,project_status,true,true,0,1,String,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/environments.jl,1
+Atom,hasscope,true,true,43,10,Bool,CSTParser.EXPR,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/scope.jl,11
+Atom.JunoDebugger,localvars,true,true,0,0,Union{},Nothing,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/debugger/workspace.jl,21
+Atom,completiontype,true,true,0,1,String,REPL.REPLCompletions.MethodCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,307
+Atom,displayinplotpane,true,false,40,5,Bool,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/showdisplay.jl,30
+Atom,globalgotoitems,true,false,0,1,"Array{Atom.GotoItem,1}","String,AbstractString,String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,98
+Atom,#CompletionSuggestion#274,true,true,0,1,Atom.CompletionSuggestion,"String,String,String,String,String,Type{Atom.CompletionSuggestion},String,SubString{String},String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,17
+Atom,#isREPL#228,true,true,5,6,Bool,"Bool,typeof(Atom.isREPL)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/repl.jl,21
+Atom,#_collecttoplevelitems_static#299,true,true,3,3,"Dict{String,Array{Atom.GotoItem,1}}","Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(Atom._collecttoplevelitems_static),String,String,Dict{String,Array{Atom.GotoItem,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,264
+Atom,renderitem,false,false,8,1,"Dict{_A,_B} where _B where _A",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/docs.jl,70
+Atom,getdocs,false,false,0,1,Any,"String,String,Module",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,244
+Atom,#toplevelitems#153,true,true,0,1,"Array{Atom.ToplevelItem,1}","Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(toplevelitems),String,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,50
+Atom,appendline,true,true,1,2,String,"String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,40
+Atom,cangetdocs,true,true,0,1,Bool,"Module,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,258
+Atom,#CompletionSuggestion#274,true,false,0,1,Atom.CompletionSuggestion,"Any,Any,String,Any,Any,Type{Atom.CompletionSuggestion},String,SubString{String},Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,17
+Atom,_collecttoplevelitems_static,true,false,0,1,"Dict{String,Array{Atom.GotoItem,1}}","Any,Nothing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,264
+Atom,renderMD,false,false,0,1,Hiccup.Node{_A} where _A,Markdown.HorizontalRule,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/display/markdown.jl,67
+Atom,globalgotoitems,true,false,0,1,"Array{Atom.GotoItem,1}","String,String,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/goto.jl,98
+Atom,completion_text,true,true,0,1,String,REPL.REPLCompletions.ModuleCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,174
+Atom,completion_text,true,true,0,1,String,REPL.REPLCompletions.PropertyCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,174
+Atom,completion_text,true,true,0,1,String,FuzzyCompletions.PropertyCompletion,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/completions.jl,175
+Atom,shouldentermodule,true,false,1,2,Bool,"CSTParser.EXPR,AbstractString",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/static/toplevel.jl,111
+Atom,appendline,false,false,1,2,"Union{SubString{String}, String}","SubString{String},Int32",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Atom/depot/packages/Atom/BPtI0/src/utils.jl,40

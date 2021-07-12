@@ -1,0 +1,12 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+Decimals,#round#2,1,1.0,0.0,1,0,0,479,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Decimals/depot/packages/Decimals/Sb4j1/src/round.jl,2
+Decimals,number,1,0.0,0.0,1,0,0,142,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Decimals/depot/packages/Decimals/Sb4j1/src/decimal.jl,70
+Decimals,parameters,1,1.0,1.0,1,0,0,111,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Decimals/depot/packages/Decimals/Sb4j1/src/decimal.jl,22
+Decimals,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Decimals/depot/packages/Decimals/Sb4j1/src/Decimals.jl,5
+Decimals,#normalize#1,1,1.0,0.0,1,0,0,529,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Decimals/depot/packages/Decimals/Sb4j1/src/norm.jl,2
+Decimals,decimal,1,1.0,1.0,1,0,0,47,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Decimals/depot/packages/Decimals/Sb4j1/src/decimal.jl,10
+Decimals,parameters,1,1.0,1.0,1,0,0,62,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Decimals/depot/packages/Decimals/Sb4j1/src/decimal.jl,19
+Decimals,scinote,1,1.0,0.0,1,0,0,690,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Decimals/depot/packages/Decimals/Sb4j1/src/decimal.jl,28
+Decimals,normalize,1,1.0,1.0,1,0,0,50,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Decimals/depot/packages/Decimals/Sb4j1/src/norm.jl,2
+Decimals,decimal,1,1.0,1.0,1,0,0,44,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Decimals/depot/packages/Decimals/Sb4j1/src/decimal.jl,15
+Decimals,#trunc#3,1,1.0,0.0,1,0,0,479,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Decimals/depot/packages/Decimals/Sb4j1/src/round.jl,13

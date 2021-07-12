@@ -1,0 +1,13 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+ComputedFieldTypes,make_curly,2,1.0,1.0,2,1,0,47,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputedFieldTypes/depot/packages/ComputedFieldTypes/xcFTP/src/ComputedFieldTypes.jl,91
+ComputedFieldTypes,getenv!,1,0.0,0.0,1,1,0,43,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputedFieldTypes/depot/packages/ComputedFieldTypes/xcFTP/src/ComputedFieldTypes.jl,108
+ComputedFieldTypes,make_curly,1,1.0,1.0,1,0,0,155,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputedFieldTypes/depot/packages/ComputedFieldTypes/xcFTP/src/ComputedFieldTypes.jl,92
+ComputedFieldTypes,make_curly,1,1.0,1.0,1,0,0,49,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputedFieldTypes/depot/packages/ComputedFieldTypes/xcFTP/src/ComputedFieldTypes.jl,98
+ComputedFieldTypes,rewrite_new!,1,1.0,0.0,1,0,0,2070,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputedFieldTypes/depot/packages/ComputedFieldTypes/xcFTP/src/ComputedFieldTypes.jl,154
+ComputedFieldTypes,make_fulltype_expr,1,1.0,1.0,1,0,0,163,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputedFieldTypes/depot/packages/ComputedFieldTypes/xcFTP/src/ComputedFieldTypes.jl,142
+ComputedFieldTypes,make_new_expr,1,0.0,0.0,1,0,0,73,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputedFieldTypes/depot/packages/ComputedFieldTypes/xcFTP/src/ComputedFieldTypes.jl,135
+ComputedFieldTypes,rewrite_new!,1,1.0,0.0,1,1,0,43,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputedFieldTypes/depot/packages/ComputedFieldTypes/xcFTP/src/ComputedFieldTypes.jl,153
+ComputedFieldTypes,@computed,1,1.0,1.0,1,0,0,53,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputedFieldTypes/depot/packages/ComputedFieldTypes/xcFTP/src/ComputedFieldTypes.jl,19
+ComputedFieldTypes,make_Type_expr,1,1.0,1.0,1,0,0,103,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputedFieldTypes/depot/packages/ComputedFieldTypes/xcFTP/src/ComputedFieldTypes.jl,128
+ComputedFieldTypes,getenv!,1,0.0,0.0,1,0,0,452,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputedFieldTypes/depot/packages/ComputedFieldTypes/xcFTP/src/ComputedFieldTypes.jl,109
+ComputedFieldTypes,_computed,1,1.0,0.0,1,0,0,2081,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ComputedFieldTypes/depot/packages/ComputedFieldTypes/xcFTP/src/ComputedFieldTypes.jl,28

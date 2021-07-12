@@ -1,0 +1,4 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+DualNumbers,to_nanmath,1,0.0,0.0,1,0,0,314,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DualNumbers/depot/packages/DualNumbers/832Cq/src/dual.jl,274
+DualNumbers,to_nanmath,3,0.6666666666666666,0.6666666666666666,3,0,0,39,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DualNumbers/depot/packages/DualNumbers/832Cq/src/dual.jl,282
+DualNumbers,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DualNumbers/depot/packages/DualNumbers/832Cq/src/DualNumbers.jl,1

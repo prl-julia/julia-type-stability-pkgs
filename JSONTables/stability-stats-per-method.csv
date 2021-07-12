@@ -1,0 +1,15 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+JSONTables,objecttable,1,0.0,0.0,1,0,0,74,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/JSONTables/depot/packages/JSONTables/g5bSA/src/JSONTables.jl,153
+JSONTables,jsontable,2,0.0,0.0,2,0,0,61,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/JSONTables/depot/packages/JSONTables/g5bSA/src/JSONTables.jl,15
+JSONTables,missT,4,1.0,1.0,4,0,0,40,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/JSONTables/depot/packages/JSONTables/g5bSA/src/JSONTables.jl,36
+JSONTables,jsontable,1,0.0,0.0,1,0,0,50,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/JSONTables/depot/packages/JSONTables/g5bSA/src/JSONTables.jl,34
+JSONTables,missT,1,1.0,1.0,1,0,0,39,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/JSONTables/depot/packages/JSONTables/g5bSA/src/JSONTables.jl,35
+JSONTables,misselT,3,0.6666666666666666,0.6666666666666666,3,0,0,53,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/JSONTables/depot/packages/JSONTables/g5bSA/src/JSONTables.jl,18
+JSONTables,arraytable,1,0.0,0.0,1,0,0,74,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/JSONTables/depot/packages/JSONTables/g5bSA/src/JSONTables.jl,155
+JSONTables,jsontable,2,0.5,0.0,2,0,0,1335,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/JSONTables/depot/packages/JSONTables/g5bSA/src/JSONTables.jl,38
+JSONTables,miss,2,0.5,0.5,2,0,0,61,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/JSONTables/depot/packages/JSONTables/g5bSA/src/JSONTables.jl,80
+JSONTables,jsontable,2,0.5,0.0,2,0,0,558,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/JSONTables/depot/packages/JSONTables/g5bSA/src/JSONTables.jl,20
+JSONTables,getmiss,1,0.0,0.0,1,0,0,80,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/JSONTables/depot/packages/JSONTables/g5bSA/src/JSONTables.jl,110
+JSONTables,misselT,2,0.5,0.5,2,0,0,38,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/JSONTables/depot/packages/JSONTables/g5bSA/src/JSONTables.jl,17
+JSONTables,arraytable,2,0.0,0.0,1,0,0,70,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/JSONTables/depot/packages/JSONTables/g5bSA/src/JSONTables.jl,154
+JSONTables,objecttable,2,0.0,0.0,1,0,0,70,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/JSONTables/depot/packages/JSONTables/g5bSA/src/JSONTables.jl,152

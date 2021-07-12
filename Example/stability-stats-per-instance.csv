@@ -1,0 +1,3 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Example,hello,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Example/depot/packages/Example/aqsx3/src/Example.jl,9
+Example,domath,true,true,0,1,Float64,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Example/depot/packages/Example/aqsx3/src/Example.jl,16

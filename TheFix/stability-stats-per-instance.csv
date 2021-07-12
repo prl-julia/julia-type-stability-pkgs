@@ -1,0 +1,15 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+TheFix,cleanse,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,17
+TheFix,#replace#5,true,false,49,1,Expr,"Bool,typeof(TheFix.replace),Expr,DomainError",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,63
+TheFix,#cleanse#3,false,false,8,1,Any,"Bool,typeof(cleanse),Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,17
+TheFix,#cleanse#1,true,true,0,1,String,"Bool,typeof(cleanse),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,4
+TheFix,#replace#4,false,false,36,1,Any,"Bool,typeof(TheFix.replace),Symbol,UndefVarError",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,30
+TheFix,#replace#13,true,false,29,1,Expr,"Bool,typeof(TheFix.replace),Expr,DivideError",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,146
+TheFix,#replace#15,true,false,4,1,Expr,"Bool,typeof(TheFix.replace),Expr,ErrorException",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,222
+TheFix,#cleanse#2,false,false,1,1,Any,"Bool,typeof(cleanse),Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,8
+TheFix,#cleanse#1,false,false,0,1,Function,"Bool,typeof(cleanse),Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,4
+TheFix,#cleanse#1,true,true,0,1,Int64,"Bool,typeof(cleanse),Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,4
+TheFix,#replace#12,true,false,58,1,Expr,"Bool,typeof(TheFix.replace),Expr,OverflowError",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,98
+TheFix,#cleanse#1,true,true,0,1,Float64,"Bool,typeof(cleanse),Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,4
+TheFix,@safeword,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,271
+TheFix,#replace#14,true,false,21,1,Expr,"Bool,typeof(TheFix.replace),Expr,BoundsError",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,192

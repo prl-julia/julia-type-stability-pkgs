@@ -1,0 +1,16 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+Strapping,construct,2,1.0,1.0,2,0,0,73,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,141
+Strapping,construct,2,1.0,1.0,2,0,0,83,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,141
+Strapping,#construct#12,1,1.0,1.0,1,0,0,186,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,169
+Strapping,#construct#3,3,0.0,0.0,3,0,0,770,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,117
+Strapping,#construct#1,3,1.0,0.0,3,0,0,565,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,94
+Strapping,construct,2,1.0,1.0,2,0,0,91,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,188
+Strapping,construct,1,1.0,1.0,1,0,0,83,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,169
+Strapping,construct,2,1.0,1.0,2,0,0,71,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,104
+Strapping,#construct#18,2,1.0,1.0,2,0,0,142,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,188
+Strapping,getvalue,2,0.0,0.0,1,0,0,74,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,205
+Strapping,#construct#2,2,1.0,0.0,2,0,0,489,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,104
+Strapping,construct,1,1.0,1.0,1,0,0,73,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,169
+Strapping,construct,3,1.0,1.0,3,0,0,72,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,94
+Strapping,#construct#4,2,1.0,1.0,2,0,0,151,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,141
+Strapping,construct,3,0.0,0.0,3,0,0,79,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strapping/depot/packages/Strapping/5ZYrz/src/Strapping.jl,117

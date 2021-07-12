@@ -1,0 +1,18 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[Dates]]
+deps = ["Printf"]
+uuid = "ade2ca70-3891-5945-98fb-dc099432e06a"
+
+[[Octo]]
+deps = ["Dates"]
+git-tree-sha1 = "42c8f65fc8d357ae33d4648d30bf570ad674d60e"
+uuid = "16905944-f982-529b-abb2-b839f98f160b"
+version = "0.2.8"
+
+[[Printf]]
+deps = ["Unicode"]
+uuid = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
+[[Unicode]]
+uuid = "4ec0a83e-493e-50e2-b9ac-8f72acf5a8f5"

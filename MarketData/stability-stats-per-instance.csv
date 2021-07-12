@@ -1,0 +1,216 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'d'},Base.CodeUnits{UInt8,String},Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+Dates,format,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.DatePart{'d'},DateTime",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,165
+Dates,now,true,true,0,1,DateTime,,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/conversions.jl,66
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'S'},Array{UInt8,1},Int64,Any",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+Dates,yearmonthday,true,true,1,2,"Tuple{Int64,Int64,Int64}",Int64,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,5
+TimeSeries,rename!,true,true,3,1,"TimeArray{Float64,1,Date,Array{Float64,1}}","TimeArray{Float64,1,Date,Array{Float64,1}},Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,36
+Dates,value,true,true,0,1,Int64,Time,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,46
+Dates,max_width,true,true,1,2,Int64,Dates.DatePart{'d'},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,98
+Dates,argerror,true,true,0,1,ArgumentError,String,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,170
+Dates,istuesday,true,true,0,1,Bool,Date,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/query.jl,195
+TimeSeries,values,true,true,0,1,"Array{Float64,1}","TimeArray{Float64,1,Date,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,436
+MarketData,yahoo,false,false,0,1,TimeArray,"Symbol,YahooOpt",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/MarketData/nnFwV/src/downloads.jl,103
+TimeSeries,colnames,true,true,0,1,"Array{Symbol,1}","TimeArray{Float64,2,DateTime,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,454
+Dates,max_width,true,true,1,2,Int64,Dates.DatePart{'M'},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,98
+Dates,format,true,true,0,1,String,"DateTime,DateFormat{Symbol(""YYYY-mm-dd\\THH:MM:SS.sss\\Z""),Tuple{Dates.DatePart{'Y'},Dates.Delim{Char,1},Dates.DatePart{'m'},Dates.Delim{Char,1},Dates.DatePart{'d'},Dates.Delim{Char,1},Dates.DatePart{'H'},Dates.Delim{Char,1},Dates.DatePart{'M'},Dates.Delim{Char,1},Dates.DatePart{'S'},Dates.Delim{Char,1},Dates.DatePart{'s'},Dates.Delim{Char,1}}},Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,535
+Dates,min_width,true,true,1,2,Int64,Dates.DatePart{'S'},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,97
+TimeSeries,_timestamp,true,true,0,1,"Array{Date,1}","TimeArray{Float64,1,Date,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,464
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'M'},Array{UInt8,1},Int64,Int64,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+TimeSeries,_colnames,true,true,0,1,"Array{Symbol,1}","TimeArray{Float64,1,Date,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,466
+Dates,format,true,true,0,1,String,"DateTime,DateFormat{Symbol(""YYYY-mm-dd\\THH:MM:SS""),Tuple{Dates.DatePart{'Y'},Dates.Delim{Char,1},Dates.DatePart{'m'},Dates.Delim{Char,1},Dates.DatePart{'d'},Dates.Delim{Char,1},Dates.DatePart{'H'},Dates.Delim{Char,1},Dates.DatePart{'M'},Dates.Delim{Char,1},Dates.DatePart{'S'}}},Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,535
+TimeSeries,#TimeArray#5,false,false,1,1,Any,"Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:unchecked,),Tuple{Bool}}},Type{TimeArray},AbstractArray{D,1} where D<:TimeType,AbstractArray{T,N} where N where T,Array{Symbol,1},CSV.File{_A} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,91
+Dates,days,true,true,0,1,Int64,Date,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,47
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'d'},Base.CodeUnits{UInt8,String},Int64,Int64,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+Dates,minute,true,true,0,1,Int64,DateTime,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,54
+Dates,max_width,true,true,1,2,Int64,Dates.DatePart{'m'},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,98
+Dates,day,true,true,0,1,Int64,DateTime,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,52
+Dates,format,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.Delim{Char,1},DateTime,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,256
+Dates,value,true,true,0,1,Int64,Year,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/periods.jl,10
+Dates,validargs,true,true,8,3,"Union{Nothing, ArgumentError}","Type{Date},Int64,Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,227
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'m'},Array{UInt8,1},Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+Dates,format,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.DatePart{'H'},DateTime,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,80
+Dates,isfriday,true,true,0,1,Bool,Date,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/query.jl,198
+Dates,UTD,true,true,0,1,Dates.UTInstant{Day},Int64,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,75
+Dates,validargs,true,true,30,8,"Union{Nothing, ArgumentError}","Type{Time},Int64,Int64,Int64,Int64,Int64,Int64,Dates.AMPM",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,247
+Dates,argerror,true,true,0,1,Nothing,,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,171
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'H'},Array{UInt8,1},Int64,Any,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+Dates,format,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.DatePart{'M'},DateTime",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,165
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Any}}","Dates.DatePart{'H'},Array{UInt8,1},Any,Any",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+Dates,tryparsenext,true,false,5,2,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'s'},Array{UInt8,1},Int64,Any",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,146
+TimeSeries,rename!,true,false,0,1,"TimeArray{Float64,2,DateTime,Array{Float64,2}}","Function,TimeArray{Float64,2,DateTime,Array{Float64,2}},Type{Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,49
+Parsers,tryparsenext_base10,true,true,13,3,"Union{Nothing, Tuple{Int64,Int64}}","Array{UInt8,1},Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/Parsers/rIikS/src/dates.jl,178
+Dates,value,true,true,0,1,Int64,Date,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,45
+LibGit2,getindex,false,false,19,2,Any,"LibGit2.GitTree,String",/build/source/usr/share/julia/stdlib/v1.5/LibGit2/src/tree.jl,163
+Dates,min_width,true,true,1,2,Int64,Dates.DatePart{'m'},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,97
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'S'},Array{UInt8,1},Int64,Any,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+Dates,format,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.DatePart{'m'},DateTime",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,165
+TimeSeries,timestamp,true,true,0,1,"Array{Date,1}","TimeArray{Float64,1,Date,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,429
+TimeSeries,#TimeArray#5,true,true,1,1,"TimeArray{Float64,1,Date,Array{Float64,1}}","Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:unchecked,),Tuple{Bool}}},Type{TimeArray},Array{Date,1},Array{Float64,1},Array{Symbol,1},CSV.File{false}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,91
+TimeSeries,meta,false,false,0,1,Any,"TimeArray{Float64,2,Date,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,461
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'S'},Array{UInt8,1},Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+Dates,default_format,true,true,0,1,"DateFormat{Symbol(""HH:MM:SS.s""),Tuple{Dates.DatePart{'H'},Dates.Delim{Char,1},Dates.DatePart{'M'},Dates.Delim{Char,1},Dates.DatePart{'S'},Dates.Delim{Char,1},Dates.DatePart{'s'}}}",Type{Time},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,453
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'H'},Array{UInt8,1},Int64,Int64,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+TimeSeries,@_mapbase,true,false,0,1,Expr,"LineNumberNode,Module,Expr,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/basemisc.jl,15
+Dates,include,false,false,0,1,Any,String,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/Dates.jl,33
+TimeSeries,rename!,true,true,0,1,"TimeArray{Float64,1,Date,Array{Float64,1}}","Base.var""#62#63""{Base.var""#62#63""{DataType,MarketData.var""#3#4""},typeof(string)},TimeArray{Float64,1,Date,Array{Float64,1}},Type{Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,49
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'m'},Array{UInt8,1},Int64,Any",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+Dates,issunday,true,true,0,1,Bool,Date,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/query.jl,200
+TimeSeries,replace_dupes!,true,true,7,1,"Array{Symbol,1}","Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/utilities.jl,114
+Dates,format,true,true,0,1,String,"DateTime,DateFormat{Symbol(""YYYY-mm-dd\\THH:MM:SS.s""),Tuple{Dates.DatePart{'Y'},Dates.Delim{Char,1},Dates.DatePart{'m'},Dates.Delim{Char,1},Dates.DatePart{'d'},Dates.Delim{Char,1},Dates.DatePart{'H'},Dates.Delim{Char,1},Dates.DatePart{'M'},Dates.Delim{Char,1},Dates.DatePart{'S'},Dates.Delim{Char,1},Dates.DatePart{'s'}}},Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,535
+Dates,format,true,true,4,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.DatePart{'s'},DateTime",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,203
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'m'},Array{UInt8,1},Int64,Int64,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+TimeSeries,#TimeArray#5,true,false,0,1,"TimeArray{Float64,1,Date,Array{Float64,1}}","Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},Type{TimeArray},Array{Date,1},Array{Float64,1},Array{Symbol,1},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,91
+Dates,format,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.DatePart{'S'},DateTime,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,80
+TimeSeries,_get_fname,false,false,1,2,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/basemisc.jl,12
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'H'},Array{UInt8,1},Int64,Any",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+Dates,max_width,true,true,1,2,Int64,Dates.DatePart{'y'},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,98
+Dates,days,true,true,0,1,Int64,DateTime,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,48
+Parsers,tryparsenext_base10,true,false,13,3,"Union{Nothing, Tuple{Int64,Int64}}","Array{UInt8,1},Int64,Any,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/Parsers/rIikS/src/dates.jl,178
+TimeSeries,colnames,true,true,0,1,"Array{Symbol,1}","TimeArray{Float64,2,Date,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,454
+MarketData,yahoo,false,false,2,1,TimeArray,"String,YahooOpt",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/MarketData/nnFwV/src/downloads.jl,93
+Parsers,tryparsenext_base10,true,false,13,3,"Union{Nothing, Tuple{Int64,Any}}","Array{UInt8,1},Any,Any,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/Parsers/rIikS/src/dates.jl,178
+Dates,second,true,true,0,1,Int64,DateTime,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,55
+Dates,#s828#31,true,false,0,1,Expr,"Any,Any,Any,Any,Any",none,0
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'s'},Array{UInt8,1},Int64,Int64,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+Dates,format,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.DatePart{'M'},DateTime,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,80
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'M'},Array{UInt8,1},Int64,Any",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+Dates,character_codes,true,false,0,1,"Array{Char,1}","Type{DateFormat{S,T}}",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/parse.jl,7
+Dates,hour,true,true,0,1,Int64,DateTime,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,53
+TimeSeries,rename!,true,true,0,1,"TimeArray{Float64,2,DateTime,Array{Float64,2}}","MarketData.var""#3#4"",TimeArray{Float64,2,DateTime,Array{Float64,2}},Type{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,51
+TimeSeries,#TimeArray#5,false,false,1,1,Any,"Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:unchecked,),Tuple{Bool}}},Type{TimeArray},AbstractArray{D,1} where D<:TimeType,AbstractArray{T,N} where N where T,Array{Symbol,1},CSV.File{false}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,91
+TimeSeries,eval,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/TimeSeries.jl,1
+Dates,genvar,true,false,0,1,Symbol,DataType,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/parse.jl,19
+Dates,value,true,true,0,1,Int64,Nanosecond,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/periods.jl,10
+Dates,min_width,true,true,1,2,Int64,Dates.DatePart{'y'},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,97
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'m'},Base.CodeUnits{UInt8,String},Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+TimeSeries,#TimeArray#7,true,true,0,1,"TimeArray{Float64,1,Date,Array{Float64,1}}","Array{Date,1},Array{Float64,1},Array{Symbol,1},String,Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},Type{TimeArray},TimeArray{Float64,1,Date,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,101
+Pkg.Types,getindex,true,true,0,1,UInt32,"Pkg.Types.VersionBound,Int64",/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/versions.jl,21
+Parsers,tryparsenext,true,false,6,3,"Union{Nothing, Tuple{Bool,Int64}}","Dates.Delim{Char,1},Array{UInt8,1},Int64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/Parsers/rIikS/src/dates.jl,135
+Pkg.TOML,getindex,false,false,0,1,Any,"Pkg.TOML.Table,String",/build/source/usr/share/julia/stdlib/v1.5/Pkg/ext/TOML/src/parser.jl,33
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'d'},Array{UInt8,1},Int64,Any,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+Dates,format,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.DatePart{'Y'},DateTime,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,80
+TimeSeries,rename!,true,true,0,1,"TimeArray{Float64,2,DateTime,Array{Float64,2}}","Base.var""#62#63""{Base.var""#62#63""{DataType,MarketData.var""#3#4""},typeof(string)},TimeArray{Float64,2,DateTime,Array{Float64,2}},Type{Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,49
+Dates,default_format,true,true,0,1,"DateFormat{Symbol(""yyyy-mm-dd\\THH:MM:SS.s""),Tuple{Dates.DatePart{'y'},Dates.Delim{Char,1},Dates.DatePart{'m'},Dates.Delim{Char,1},Dates.DatePart{'d'},Dates.Delim{Char,1},Dates.DatePart{'H'},Dates.Delim{Char,1},Dates.DatePart{'M'},Dates.Delim{Char,1},Dates.DatePart{'S'},Dates.Delim{Char,1},Dates.DatePart{'s'}}}",Type{DateTime},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,451
+Dates,totaldays,true,true,2,1,Int64,"Int64,Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,134
+TimeSeries,values,false,false,0,1,"AbstractArray{T,N} where N where T",TimeArray,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,436
+Dates,_directives,false,false,0,1,Any,"Type{DateFormat{S,T}} where T where S",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/parse.jl,5
+TimeSeries,_colnames,true,true,0,1,"Array{Symbol,1}","TimeArray{Float64,2,DateTime,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,466
+Dates,max_width,true,true,1,2,Int64,Dates.DatePart{'S'},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,98
+Dates,character_codes,true,true,0,1,"Array{Char,1}","Type{DateFormat{Symbol(""HH:MM:SS.s""),Tuple{Dates.DatePart{'H'},Dates.Delim{Char,1},Dates.DatePart{'M'},Dates.Delim{Char,1},Dates.DatePart{'S'},Dates.Delim{Char,1},Dates.DatePart{'s'}}}}",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/parse.jl,7
+TimeSeries,_meta,false,false,0,1,Any,"TimeArray{Float64,1,Date,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,467
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Any}}","Dates.DatePart{'y'},Array{UInt8,1},Any,Any",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+Dates,daysinmonth,true,true,2,1,Int64,"Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,147
+Dates,format,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.DatePart{'H'},DateTime",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,165
+Parsers,tryparsenext,true,true,6,3,"Union{Nothing, Tuple{Bool,Int64}}","Dates.Delim{Char,1},Array{UInt8,1},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/Parsers/rIikS/src/dates.jl,135
+Dates,min_width,true,true,1,2,Int64,Dates.DatePart{'s'},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,97
+TimeSeries,rename!,false,false,0,1,TimeArray,"Base.var""#62#63""{Base.var""#62#63""{DataType,MarketData.var""#3#4""},typeof(string)},TimeArray,Type{Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,49
+TimeSeries,colnames,true,true,0,1,"Array{Symbol,1}","TimeArray{Float64,1,Date,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,454
+Dates,default_format,true,true,0,1,"DateFormat{Symbol(""yyyy-mm-dd""),Tuple{Dates.DatePart{'y'},Dates.Delim{Char,1},Dates.DatePart{'m'},Dates.Delim{Char,1},Dates.DatePart{'d'}}}",Type{Date},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,452
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'d'},Array{UInt8,1},Int64,Int64,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+TimeSeries,values,true,true,0,1,"Array{Float64,2}","TimeArray{Float64,2,Date,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,436
+Dates,format,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.DatePart{'S'},DateTime",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,165
+Dates,_directives,true,true,0,1,Core.SimpleVector,"Type{DateFormat{Symbol(""yyyy-mm-dd""),Tuple{Dates.DatePart{'y'},Dates.Delim{Char,1},Dates.DatePart{'m'},Dates.Delim{Char,1},Dates.DatePart{'d'}}}}",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/parse.jl,5
+Dates,character_codes,true,true,0,1,"Array{Char,1}","Type{DateFormat{Symbol(""yyyy-mm-dd""),Tuple{Dates.DatePart{'y'},Dates.Delim{Char,1},Dates.DatePart{'m'},Dates.Delim{Char,1},Dates.DatePart{'d'}}}}",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/parse.jl,7
+Dates,ismonday,true,true,0,1,Bool,Date,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/query.jl,194
+SparseArrays,getindex,false,false,14,3,SparseArrays.SparseMatrixCSC,"SparseArrays.SparseMatrixCSC,Array{Int64,1},Array{Int64,1}",/build/source/usr/share/julia/stdlib/v1.5/SparseArrays/src/sparsematrix.jl,2396
+LibGit2,getindex,false,false,0,1,LibGit2.AbstractCredential,"LibGit2.CachedCredentials,String",/build/source/usr/share/julia/stdlib/v1.5/LibGit2/src/types.jl,1278
+MarketData,cleanup_colname!,true,true,0,1,"TimeArray{Float64,1,Date,Array{Float64,1}}","TimeArray{Float64,1,Date,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/MarketData/nnFwV/src/utils.jl,2
+Dates,isthursday,true,true,0,1,Bool,Date,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/query.jl,197
+TimeSeries,_colnames,true,true,0,1,"Array{Symbol,1}","TimeArray{Float64,2,Date,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,466
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'S'},Array{UInt8,1},Int64,Int64,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+Dates,locale_dict,true,true,3,1,"Dict{String,Int64}","Array{String,1}",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/query.jl,16
+Dates,validargs,true,true,0,1,"Union{Nothing, ArgumentError}","Type{Time},Int64,Int64,Int64,Int64,Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,247
+Dates,year,true,true,0,1,Int64,DateTime,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,49
+TimeSeries,rename!,true,true,0,1,"TimeArray{Float64,2,DateTime,Array{Float64,2}}","Base.var""#62#63""{Base.var""#62#63""{DataType,MarketData.var""#3#4""},typeof(string)},TimeArray{Float64,2,DateTime,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,49
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'y'},Base.CodeUnits{UInt8,String},Int64,Int64,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+TimeSeries,#TimeArray#7,true,false,0,1,"TimeArray{Float64,1,Date,Array{Float64,1}}","Array{Date,1},Array{Float64,1},Array{Symbol,1},Any,Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},Type{TimeArray},TimeArray{Float64,1,Date,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,101
+MarketData,cleanup_colname!,false,false,0,1,TimeArray,TimeArray,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/MarketData/nnFwV/src/utils.jl,2
+Dates,month,true,true,1,2,Int64,Int64,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,20
+TimeSeries,timestamp,true,true,0,1,"Array{Date,1}","TimeArray{Float64,2,Date,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,429
+Dates,@dateformat_str,false,false,0,1,DateFormat,"LineNumberNode,Module,Any",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,441
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Any}}","Dates.DatePart{'H'},Array{UInt8,1},Any,Any,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+TimeSeries,rename!,true,true,0,1,"TimeArray{Float64,2,Date,Array{Float64,2}}","MarketData.var""#3#4"",TimeArray{Float64,2,Date,Array{Float64,2}},Type{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,51
+Dates,datetime2unix,true,true,0,1,Float64,DateTime,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/conversions.jl,58
+Parsers,tryparsenext,true,true,6,3,"Union{Nothing, Tuple{Bool,Int64}}","Dates.Delim{Char,1},Base.CodeUnits{UInt8,String},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/Parsers/rIikS/src/dates.jl,135
+Dates,max_width,true,true,1,2,Int64,Dates.DatePart{'H'},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,98
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'y'},Base.CodeUnits{UInt8,String},Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+TimeSeries,find_dupes_index,true,true,0,1,"Array{Int64,1}","Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/utilities.jl,132
+Dates,_directives,true,true,0,1,Core.SimpleVector,"Type{DateFormat{Symbol(""yyyy-mm-dd\\THH:MM:SS.s""),Tuple{Dates.DatePart{'y'},Dates.Delim{Char,1},Dates.DatePart{'m'},Dates.Delim{Char,1},Dates.DatePart{'d'},Dates.Delim{Char,1},Dates.DatePart{'H'},Dates.Delim{Char,1},Dates.DatePart{'M'},Dates.Delim{Char,1},Dates.DatePart{'S'},Dates.Delim{Char,1},Dates.DatePart{'s'}}}}",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/parse.jl,5
+TimeSeries,colnames,true,false,0,1,"Array{Symbol,1}",TimeArray,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,454
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Bool,Int64}}","Dates.Delim{Char,1},Array{UInt8,1},Int64,Any,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+Dates,millisecond,true,true,0,1,Int64,DateTime,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,56
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Bool,Int64}}","Dates.Delim{Char,1},Array{UInt8,1},Any,Any,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+Dates,dayofweek,true,true,0,1,Int64,Date,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/query.jl,121
+Dates,_directives,true,true,0,1,Core.SimpleVector,"Type{DateFormat{Symbol(""HH:MM:SS.s""),Tuple{Dates.DatePart{'H'},Dates.Delim{Char,1},Dates.DatePart{'M'},Dates.Delim{Char,1},Dates.DatePart{'S'},Dates.Delim{Char,1},Dates.DatePart{'s'}}}}",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/parse.jl,5
+TimeSeries,rename!,false,false,3,1,TimeArray,"TimeArray,Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,36
+Dates,min_width,true,true,1,2,Int64,Dates.DatePart{'H'},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,97
+Dates,min_width,true,true,1,2,Int64,Dates.DatePart{'d'},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,97
+TimeSeries,rename!,true,true,0,1,"TimeArray{Float64,2,Date,Array{Float64,2}}","Base.var""#62#63""{Base.var""#62#63""{DataType,MarketData.var""#3#4""},typeof(string)},TimeArray{Float64,2,Date,Array{Float64,2}},Type{Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,49
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'M'},Array{UInt8,1},Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+MarketData,cleanup_colname!,true,true,0,1,"TimeArray{Float64,2,Date,Array{Float64,2}}","TimeArray{Float64,2,Date,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/MarketData/nnFwV/src/utils.jl,2
+Dates,adjusthour,true,true,7,4,Int64,"Int64,Dates.AMPM",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,175
+Dates,issaturday,true,true,0,1,Bool,Date,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/query.jl,199
+TimeSeries.TablesIntegration,#TimeArray#3,false,false,2,1,Any,"Symbol,typeof(identity),Bool,Type{TimeArray},CSV.File{false}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/tables.jl,71
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'y'},Array{UInt8,1},Int64,Int64,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+Dates,month,true,true,0,1,Int64,DateTime,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,50
+TimeSeries,#TimeArray#5,true,true,1,1,"TimeArray{Float64,2,Date,Array{Float64,2}}","Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:unchecked,),Tuple{Bool}}},Type{TimeArray},Array{Date,1},Array{Float64,2},Array{Symbol,1},CSV.File{false}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,91
+MarketData,fred,false,false,0,1,TimeArray,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/MarketData/nnFwV/src/downloads.jl,133
+TimeSeries.TablesIntegration,#TimeArray#3,false,false,2,1,Any,"Symbol,Function,Bool,Type{TimeArray},CSV.File{false}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/tables.jl,71
+MarketData,cleanup_colname!,true,true,0,1,"TimeArray{Float64,2,DateTime,Array{Float64,2}}","TimeArray{Float64,2,DateTime,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/MarketData/nnFwV/src/utils.jl,2
+TimeSeries,_values,true,true,0,1,"Array{Float64,1}","TimeArray{Float64,1,Date,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,465
+TimeSeries,values,true,true,0,1,"Array{Float64,2}","TimeArray{Float64,2,DateTime,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,436
+TimeSeries,meta,false,false,0,1,Any,"TimeArray{Float64,1,Date,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,461
+Dates,format,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.DatePart{'d'},DateTime,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,80
+Dates,max_width,true,true,1,2,Int64,Dates.DatePart{'s'},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,98
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'d'},Array{UInt8,1},Int64,Any",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+TimeSeries,rename!,true,true,0,1,"TimeArray{Float64,1,Date,Array{Float64,1}}","MarketData.var""#3#4"",TimeArray{Float64,1,Date,Array{Float64,1}},Type{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,51
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'m'},Array{UInt8,1},Int64,Any,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+TimeSeries,_colnames,true,false,0,1,"Array{Symbol,1}",TimeArray,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,466
+TimeSeries,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/TimeSeries.jl,1
+Dates,format,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.DatePart{'Y'},DateTime",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,165
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Any}}","Dates.DatePart{'y'},Array{UInt8,1},Any,Any,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+TimeSeries,rename!,true,false,0,1,"TimeArray{Float64,2,Date,Array{Float64,2}}","Function,TimeArray{Float64,2,Date,Array{Float64,2}},Type{Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,49
+Dates,validargs,true,true,0,1,"Union{Nothing, ArgumentError}","Type{DateTime},Int64,Int64,Int64,Int64,Int64,Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,198
+MarketData,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/MarketData/nnFwV/src/MarketData.jl,1
+TimeSeries,rename!,true,true,3,1,"TimeArray{Float64,2,DateTime,Array{Float64,2}}","TimeArray{Float64,2,DateTime,Array{Float64,2}},Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,36
+Dates,year,true,true,1,2,Int64,Int64,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,10
+Dates,validargs,true,true,38,8,"Union{Nothing, ArgumentError}","Type{DateTime},Int64,Int64,Int64,Int64,Int64,Int64,Int64,Dates.AMPM",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,198
+SparseArrays,getindex,false,false,0,1,SparseArrays.SparseVector,"SparseArrays.SparseMatrixCSC,Array{Int64,1},Int64",/build/source/usr/share/julia/stdlib/v1.5/SparseArrays/src/sparsevector.jl,543
+TimeSeries,rename!,true,true,3,1,"TimeArray{Float64,2,Date,Array{Float64,2}}","TimeArray{Float64,2,Date,Array{Float64,2}},Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,36
+Dates,format,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.DatePart{'m'},DateTime,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,80
+TimeSeries,rename!,true,true,0,1,"TimeArray{Float64,1,Date,Array{Float64,1}}","Base.var""#62#63""{Base.var""#62#63""{DataType,MarketData.var""#3#4""},typeof(string)},TimeArray{Float64,1,Date,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,49
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'y'},Array{UInt8,1},Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+TimeSeries,#TimeArray#5,true,true,0,1,"TimeArray{Float64,1,Date,Array{Float64,1}}","Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},Type{TimeArray},Array{Date,1},Array{Float64,1},Array{Symbol,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,91
+Dates,dayofweek,true,true,0,1,Int64,Int64,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/query.jl,86
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'M'},Array{UInt8,1},Int64,Any,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+Dates,UTM,true,true,0,1,Dates.UTInstant{Millisecond},Int64,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,74
+TimeSeries.TablesIntegration,#TimeArray#3,false,false,2,1,Any,"Symbol,typeof(identity),Bool,Type{TimeArray},CSV.File{_A} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/tables.jl,71
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Bool,Int64}}","Dates.Delim{Char,1},Array{UInt8,1},Int64,Int64,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+MarketData,eval,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/MarketData/nnFwV/src/MarketData.jl,1
+Dates,character_codes,true,true,0,1,"Array{Char,1}","Type{DateFormat{Symbol(""yyyy-mm-dd\\THH:MM:SS.s""),Tuple{Dates.DatePart{'y'},Dates.Delim{Char,1},Dates.DatePart{'m'},Dates.Delim{Char,1},Dates.DatePart{'d'},Dates.Delim{Char,1},Dates.DatePart{'H'},Dates.Delim{Char,1},Dates.DatePart{'M'},Dates.Delim{Char,1},Dates.DatePart{'S'},Dates.Delim{Char,1},Dates.DatePart{'s'}}}}",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/parse.jl,7
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'H'},Array{UInt8,1},Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+Dates,character_codes,true,false,4,1,"Array{Char,1}",Core.SimpleVector,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/parse.jl,8
+SentinelArrays,getindex,true,true,4,1,"Union{Missing, Int64}","SentinelArrays.SentinelArray{Int64,1,Int64,Missing,Array{Int64,1}},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/SentinelArrays/cS7Oh/src/SentinelArrays.jl,195
+SparseArrays,getindex,false,false,0,1,SparseArrays.SparseVector,"SparseArrays.AbstractSparseArray{Tv,Ti,1},Array{Int64,1}",/build/source/usr/share/julia/stdlib/v1.5/SparseArrays/src/sparsevector.jl,817
+TimeSeries,timestamp,true,true,0,1,"Array{DateTime,1}","TimeArray{Float64,2,DateTime,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/timearray.jl,429
+MarketData,fred,false,false,2,1,TimeArray,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/MarketData/nnFwV/src/downloads.jl,133
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'d'},Array{UInt8,1},Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,116
+Dates,day,true,true,0,1,Int64,Int64,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,30
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'m'},Base.CodeUnits{UInt8,String},Int64,Int64,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+Dates,tryparsenext,true,true,5,2,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'s'},Array{UInt8,1},Int64,Int64",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,146
+Dates,yearmonthday,true,true,0,1,"Tuple{Int64,Int64,Int64}",DateTime,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,68
+TimeSeries,rename!,false,false,0,1,TimeArray,"MarketData.var""#3#4"",TimeArray,Type{String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,51
+Dates,format,true,true,0,1,String,"DateTime,DateFormat{Symbol(""YYYY-mm-dd\\THH:MM:SS.sss\\Z""),Tuple{Dates.DatePart{'Y'},Dates.Delim{Char,1},Dates.DatePart{'m'},Dates.Delim{Char,1},Dates.DatePart{'d'},Dates.Delim{Char,1},Dates.DatePart{'H'},Dates.Delim{Char,1},Dates.DatePart{'M'},Dates.Delim{Char,1},Dates.DatePart{'S'},Dates.Delim{Char,1},Dates.DatePart{'s'},Dates.Delim{Char,1}}}",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,535
+CSV,getindex,true,true,0,1,UInt8,"CSV.ReversedBuf,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/CSV/Zl2ww/src/utils.jl,419
+Dates,tryparsenext,true,true,0,1,"Union{Nothing, Tuple{Bool,Int64}}","Dates.Delim{Char,1},Base.CodeUnits{UInt8,String},Int64,Int64,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+TimeSeries,rename!,true,true,0,1,"TimeArray{Float64,2,Date,Array{Float64,2}}","Base.var""#62#63""{Base.var""#62#63""{DataType,MarketData.var""#3#4""},typeof(string)},TimeArray{Float64,2,Date,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,49
+Dates,iswednesday,true,true,0,1,Bool,Date,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/query.jl,196
+Dates,format,true,true,0,1,Nothing,"Base.GenericIOBuffer{Array{UInt8,1}},Dates.DatePart{'s'},DateTime,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,80
+Dates,value,true,true,0,1,Int64,DateTime,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/accessors.jl,45
+TimeSeries,rename!,true,false,0,1,"TimeArray{Float64,1,Date,Array{Float64,1}}","Function,TimeArray{Float64,1,Date,Array{Float64,1}},Type{Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,49
+Dates,tryparsenext,true,false,0,1,"Union{Nothing, Tuple{Int64,Int64}}","Dates.DatePart{'s'},Array{UInt8,1},Int64,Any,Dates.DateLocale",/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,40
+Dates,min_width,true,true,1,2,Int64,Dates.DatePart{'M'},/build/source/usr/share/julia/stdlib/v1.5/Dates/src/io.jl,97
+Dates,isleapyear,true,true,3,2,Bool,Int64,/build/source/usr/share/julia/stdlib/v1.5/Dates/src/types.jl,143
+TimeSeries,rename!,false,false,0,1,TimeArray,"Base.var""#62#63""{Base.var""#62#63""{DataType,MarketData.var""#3#4""},typeof(string)},TimeArray",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/TimeSeries/ISKF5/src/modify.jl,49
+Parsers,tryparsenext_base10,true,true,13,3,"Union{Nothing, Tuple{Int64,Int64}}","Base.CodeUnits{UInt8,String},Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MarketData/depot/packages/Parsers/rIikS/src/dates.jl,178

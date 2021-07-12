@@ -1,0 +1,7 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+Shapefile,getdbf,3,1.0,1.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Shapefile/depot/packages/Shapefile/kNT0Q/src/table.jl,47
+Shapefile,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Shapefile/depot/packages/Shapefile/kNT0Q/src/Shapefile.jl,1
+Shapefile,getshp,4,0.75,0.75,4,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Shapefile/depot/packages/Shapefile/kNT0Q/src/table.jl,46
+Shapefile,inring,1,1.0,1.0,1,0,0,374,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Shapefile/depot/packages/Shapefile/kNT0Q/src/geo_interface.jl,45
+Shapefile,shape,3,1.0,1.0,3,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Shapefile/depot/packages/Shapefile/kNT0Q/src/table.jl,103
+Shapefile,shapes,3,1.0,1.0,3,0,0,56,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Shapefile/depot/packages/Shapefile/kNT0Q/src/table.jl,105

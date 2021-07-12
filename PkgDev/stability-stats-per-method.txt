@@ -1,0 +1,1 @@
+Stability.ModuleStatsPerMethodRecord[Stability.ModuleStatsPerMethodRecord("PkgDev", "include", 1, 0.0, 0.0, 1, 0, 0, 48, "/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgDev/depot/packages/PkgDev/jqw0f/src/PkgDev.jl", 1)]

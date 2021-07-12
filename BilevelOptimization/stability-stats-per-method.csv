@@ -1,0 +1,6 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+BilevelOptimization,build_blp_model,1,1.0,1.0,1,0,0,62,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BilevelOptimization/depot/packages/BilevelOptimization/cZaRG/src/build_model.jl,13
+BilevelOptimization,#build_blp_model#27,1,1.0,0.0,1,0,0,1272,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BilevelOptimization/depot/packages/BilevelOptimization/cZaRG/src/build_model.jl,13
+BilevelOptimization,#build_blp_model#34,1,1.0,0.0,1,0,0,1692,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BilevelOptimization/depot/packages/BilevelOptimization/cZaRG/src/build_model.jl,40
+BilevelOptimization,add_complementarity_constraint,1,1.0,0.0,1,0,0,485,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BilevelOptimization/depot/packages/BilevelOptimization/cZaRG/src/complementarity.jl,30
+BilevelOptimization,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/BilevelOptimization/depot/packages/BilevelOptimization/cZaRG/src/BilevelOptimization.jl,1

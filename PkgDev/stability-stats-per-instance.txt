@@ -1,0 +1,1 @@
+Stability.ModuleStatsPerInstanceRecord[Stability.ModuleStatsPerInstanceRecord("PkgDev", "include", false, false, 0, 1, "Any", "String", "/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgDev/depot/packages/PkgDev/jqw0f/src/PkgDev.jl", 1)]

@@ -1,0 +1,14 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+AsmMacro,@asm,true,false,6,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/AsmMacro/depot/packages/AsmMacro/DXc0T/src/AsmMacro.jl,71
+AsmMacro,typ_to_llvm,true,true,0,1,String,Type{Int32},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/AsmMacro/depot/packages/AsmMacro/DXc0T/src/AsmMacro.jl,23
+AsmMacro,typ_to_llvm,true,true,0,1,String,Type{Ptr{Float32}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/AsmMacro/depot/packages/AsmMacro/DXc0T/src/AsmMacro.jl,25
+AsmMacro,typ_to_llvm,true,true,0,1,String,Type{Float64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/AsmMacro/depot/packages/AsmMacro/DXc0T/src/AsmMacro.jl,21
+AsmMacro,typ_to_llvm,true,true,0,1,String,Type{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/AsmMacro/depot/packages/AsmMacro/DXc0T/src/AsmMacro.jl,24
+AsmMacro,typ_to_llvm,true,true,0,1,String,Type{Float32},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/AsmMacro/depot/packages/AsmMacro/DXc0T/src/AsmMacro.jl,22
+AsmMacro,eval,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/AsmMacro/depot/packages/AsmMacro/DXc0T/src/AsmMacro.jl,1
+AsmMacro,gen_asm,false,false,27,1,Any,"Array{Any,1},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/AsmMacro/depot/packages/AsmMacro/DXc0T/src/AsmMacro.jl,29
+AsmMacro,typ_to_llvm,true,true,0,1,String,Type{Ptr{Float64}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/AsmMacro/depot/packages/AsmMacro/DXc0T/src/AsmMacro.jl,25
+AsmMacro,typ_to_llvm,true,true,0,1,String,Type{Ptr{Int64}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/AsmMacro/depot/packages/AsmMacro/DXc0T/src/AsmMacro.jl,25
+AsmMacro,typ_to_llvm,true,true,0,1,String,Type{Ptr{Int32}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/AsmMacro/depot/packages/AsmMacro/DXc0T/src/AsmMacro.jl,25
+AsmMacro,gen_arg,true,true,2,2,String,"Array{Symbol,1},Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/AsmMacro/depot/packages/AsmMacro/DXc0T/src/AsmMacro.jl,5
+AsmMacro,gen_arg,true,true,1,2,String,"Array{Symbol,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/AsmMacro/depot/packages/AsmMacro/DXc0T/src/AsmMacro.jl,14

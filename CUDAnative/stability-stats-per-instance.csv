@@ -1,0 +1,30 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+CUDAnative,llvm_cap_support,true,true,4,1,Set{VersionNumber},VersionNumber,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/compatibility.jl,127
+CUDAnative,llvm_compat,true,false,4,1,"NamedTuple{(:cap, :ptx),Tuple{Array{VersionNumber,1},Array{VersionNumber,1}}}",VersionNumber,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/compatibility.jl,169
+CUDAnative,__configure__,true,false,7,2,Bool,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/CUDAnative.jl,116
+CUDAnative.WMMA,get_frag_info,true,true,0,1,"Tuple{DataType,DataType,Int64}","String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/device/cuda/wmma.jl,44
+CUDAnative,@cuprintf,true,false,0,1,Expr,"LineNumberNode,Module,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/device/cuda/output.jl,32
+CUDAnative,cuda_cap_support,true,true,4,1,Set{VersionNumber},VersionNumber,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/compatibility.jl,53
+CUDAnative,release,true,true,2,1,VersionNumber,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/bindeps.jl,23
+CUDAnative,__init__,true,true,1,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/CUDAnative.jl,99
+CUDAnative,_functional,true,true,0,1,Nothing,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/CUDAnative.jl,37
+CUDAnative,cuda_compat,true,true,0,1,"NamedTuple{(:cap, :ptx),Tuple{Array{VersionNumber,1},Array{VersionNumber,1}}}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/compatibility.jl,192
+CUDAnative.CUPTI,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/cupti/CUPTI.jl,1
+CUDAnative,@after_init,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/CUDAnative.jl,55
+CUDAnative,verlist,true,true,0,1,String,"Array{VersionNumber,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/compatibility.jl,6
+CUDAnative,version,true,true,2,1,VersionNumber,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/bindeps.jl,16
+CUDAnative,cuda_ptx_support,true,true,4,1,Set{VersionNumber},VersionNumber,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/compatibility.jl,95
+CUDAnative,llvm_ptx_support,true,true,4,1,Set{VersionNumber},VersionNumber,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/compatibility.jl,156
+CUDAnative,@cuprintf,true,false,0,1,Expr,"LineNumberNode,Module,String,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/device/cuda/output.jl,32
+CUDAnative,@cuprintf,false,false,0,1,Any,"LineNumberNode,Module,String,Symbol,Vararg{Symbol,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/device/cuda/output.jl,32
+CUDAnative,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/CUDAnative.jl,1
+CUDAnative,use_artifact_cuda,true,false,45,2,Bool,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/bindeps.jl,65
+CUDAnative,llvm_compat,true,true,0,1,"NamedTuple{(:cap, :ptx),Tuple{Array{VersionNumber,1},Array{VersionNumber,1}}}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/compatibility.jl,169
+CUDAnative.WMMA,get_addrspace_info,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/device/cuda/wmma.jl,50
+CUDAnative,__configure_dependencies__,true,false,9,1,Bool,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/bindeps.jl,168
+CUDAnative.CUPTI,@check,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/cupti/error.jl,118
+CUDAnative.NVTX,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/nvtx/NVTX.jl,1
+CUDAnative,functional,true,true,1,1,Bool,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/CUDAnative.jl,29
+CUDAnative,cuda_compat,true,false,5,1,"NamedTuple{(:cap, :ptx),Tuple{Array{VersionNumber,1},Array{VersionNumber,1}}}","VersionNumber,VersionNumber",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/compatibility.jl,192
+CUDAnative,__runtime_init__,true,false,17,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/CUDAnative.jl,126
+CUDAnative,use_local_cuda,true,false,23,4,Bool,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAnative/depot/packages/CUDAnative/C91oY/src/bindeps.jl,129

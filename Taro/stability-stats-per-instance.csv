@@ -1,0 +1,4 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Taro,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Taro/depot/packages/Taro/Nx69Q/src/Taro.jl,1
+Taro,__init__,false,false,0,1,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Taro/depot/packages/Taro/Nx69Q/src/Taro.jl,12
+Taro,init,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Taro/depot/packages/Taro/Nx69Q/src/Taro.jl,21

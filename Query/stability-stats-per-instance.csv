@@ -1,0 +1,101 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Query,query_expression_translation_phase_B,true,false,28,1,Nothing,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,82
+Query,find_names_to_put_in_scope,true,false,20,1,"Array{Any,1}",Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,398
+Query,@groupjoin,false,false,0,1,Any,"LineNumberNode,Module,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,64
+Query,our_get,true,true,0,1,Int64,"DataValue{Int64},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,194
+Query,query_expression_translation_phase_1,true,false,18,1,Nothing,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,113
+DataValues,isna,true,true,0,1,Bool,DataValue{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/DataValues/N7oeL/src/scalar/core.jl,94
+Query,@mutate,true,false,3,1,Expr,"LineNumberNode,Module,Expr,Vararg{Expr,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,181
+Query,iscall,true,false,0,1,Bool,"Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,6
+Query,iscall,true,false,4,5,Bool,"Any,Symbol,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,6
+DataValues,isna,true,true,0,1,Bool,DataValue{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/DataValues/N7oeL/src/scalar/core.jl,94
+Query,translate_query,true,true,20,1,Bool,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,477
+DataValues,isna,true,true,0,1,Bool,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/DataValues/N7oeL/src/scalar/core.jl,93
+Query,iscall,true,true,1,1,Bool,"Symbol,Symbol,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,6
+Query,@select,true,false,42,1,Expr,"LineNumberNode,Module,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,26
+Query,translate_query,true,false,20,1,Bool,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,477
+Query,our_get,true,true,0,1,String,"DataValue{String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,194
+Query,@rename,true,false,5,1,Expr,"LineNumberNode,Module,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,137
+Query,our_get,true,true,0,1,Float64,"Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,193
+Query,@dropna,true,false,0,1,Expr,"LineNumberNode,Module,QuoteNode,Vararg{QuoteNode,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,208
+Query,@dissallowna,true,true,0,1,Expr,"LineNumberNode,Module",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,196
+Query,@mutate,true,false,3,1,Expr,"LineNumberNode,Module,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,181
+Query,@dropna,true,true,0,1,Expr,"LineNumberNode,Module,QuoteNode",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,208
+Query,query_expression_translation_phase_1,true,false,18,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,113
+DataValues,isna,true,false,0,1,Bool,DataValue{T} where T<:Number,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/DataValues/N7oeL/src/scalar/core.jl,94
+Query,@map,false,false,0,1,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,178
+Query,query_expression_translation_phase_4,true,false,95,1,Nothing,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,165
+DataValues,isna,true,false,0,1,Bool,DataValue{T1} where T1,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/DataValues/N7oeL/src/scalar/core.jl,94
+Query,@dropna,true,true,0,1,Expr,"LineNumberNode,Module",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,204
+Query,@thenby,false,false,0,1,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,150
+Query,@select,true,false,42,1,Expr,"LineNumberNode,Module,Expr,Vararg{Expr,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,26
+Query,@drop,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,237
+Query,query_expression_translation_phase_7,true,false,5,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,453
+Query,@select,true,false,7,1,Expr,"LineNumberNode,Module,QuoteNode,Vararg{QuoteNode,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,26
+Query,helper_replace_anon_func_syntax,true,false,4,2,Expr,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,35
+Query,ismacro,true,true,0,1,Bool,"Expr,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,4
+Query,iscall,true,true,3,4,Bool,"Expr,Symbol,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,6
+Query,our_get,true,true,0,1,Int64,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,193
+Query,query_expression_translation_phase_3,true,false,10,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,150
+Query,@count,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,6
+Query,@dissallowna,false,false,0,1,Any,"LineNumberNode,Module,QuoteNode,Vararg{QuoteNode,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,200
+Query,query_expression_translation_phase_A,true,false,3,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,65
+Query,query_expression_translation_phase_B,true,false,28,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,82
+Query,iscall,true,true,0,1,Bool,"Expr,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,6
+Query,ismacro,true,false,0,1,Bool,"Any,String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,4
+QueryOperators,key,true,true,0,1,Int64,"Grouping{Int64,NamedTuple{(:name, :age, :children),Tuple{String,Float64,Int64}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/QueryOperators/dF1vq/src/enumerable/enumerable_groupby.jl,11
+Query,find_and_translate_transparent_identifier,true,false,25,1,Nothing,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,426
+Query,@select,true,false,7,1,Expr,"LineNumberNode,Module,QuoteNode",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,26
+Query,our_get,true,true,0,1,Int64,DataValue{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,191
+Query,our_get,true,true,0,1,Float64,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,190
+Query,@filter,false,false,0,1,Any,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,211
+Query,query_expression_translation_phase_5,true,false,8,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,328
+Query,@orderby_descending,false,false,0,1,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,136
+DataValues,isna,true,true,0,1,Bool,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/DataValues/N7oeL/src/scalar/core.jl,93
+Query,shift_access!,true,false,2,1,Nothing,"Symbol,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,390
+Query,@query,true,true,1,1,Expr,"LineNumberNode,Module,Symbol,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/Query.jl,40
+Query,query_expression_translation_phase_3,true,false,10,1,Nothing,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,150
+QueryOperators,key,true,true,0,1,Int64,"Grouping{Int64,String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/QueryOperators/dF1vq/src/enumerable/enumerable_groupby.jl,11
+Query,query_expression_translation_phase_A,true,false,3,1,Nothing,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,65
+Query,@replacena,false,false,10,2,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,212
+Query,@groupby,false,false,0,1,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,36
+QueryOperators,key,true,true,0,1,Int64,"Grouping{Int64,NamedTuple{(:name, :children),Tuple{String,Int64}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/QueryOperators/dF1vq/src/enumerable/enumerable_groupby.jl,11
+QueryOperators,key,true,true,0,1,Symbol,"Grouping{Symbol,NamedTuple{(:name, :age, :children, :state),Tuple{String,Float64,Int64,Symbol}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/QueryOperators/dF1vq/src/enumerable/enumerable_groupby.jl,11
+QueryOperators,key,true,true,0,1,Int64,"Grouping{Int64,NamedTuple{(:a, :b),Tuple{Int64,Int64}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/QueryOperators/dF1vq/src/enumerable/enumerable_groupby.jl,11
+DataValues,isna,true,false,0,1,Bool,DataValue{T} where T<:AbstractString,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/DataValues/N7oeL/src/scalar/core.jl,94
+Query,iscall,true,true,0,1,Bool,"Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,6
+Query,replace_transparent_identifier_in_anonym_func,true,false,15,1,Nothing,"Expr,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,376
+Query,@replacena,false,false,4,1,Any,"LineNumberNode,Module,Any,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,212
+Query,query_expression_translation_phase_6,true,false,10,1,Nothing,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,350
+Query,@from,false,false,6,1,Any,"LineNumberNode,Module,Expr,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/Query.jl,22
+Query,helper_replace_anon_func_syntax,true,false,5,3,Expr,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,35
+Query,query_expression_translation_phase_4,true,false,95,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,165
+Query,ismacro,true,false,4,5,Bool,"Any,Symbol,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,1
+Query,@select,true,false,49,1,Expr,"LineNumberNode,Module,Expr,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,26
+Query,@join,false,false,0,1,Any,"LineNumberNode,Module,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,98
+Query,helper_namedtuples_replacement,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,14
+Query,ismacro,true,true,1,1,Bool,"Symbol,Symbol,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,1
+Query,helper_namedtuples_replacement,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,14
+Query,@filter,false,false,0,1,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,218
+Query,@unique,false,false,0,1,Any,"LineNumberNode,Module",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,241
+Query,@unique,false,false,0,1,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,246
+Query,query_expression_translation_phase_D,true,false,6,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,459
+Query,ismacro,true,true,0,1,Bool,"Expr,String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,4
+Query,@take,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,229
+Query,ismacro,true,true,0,1,Bool,"Expr,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,1
+Query,ismacro,true,true,3,4,Bool,"Expr,Symbol,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,1
+Query,query_expression_translation_phase_7,true,false,5,1,Nothing,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,453
+Query,ismacro,true,false,0,1,Bool,"Any,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,4
+Query,ismacro,true,true,0,1,Bool,"Symbol,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,4
+Query,@rename,true,false,5,1,Expr,"LineNumberNode,Module,Expr,Vararg{Expr,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,137
+Query,@dissallowna,false,false,0,1,Any,"LineNumberNode,Module,QuoteNode",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,200
+Query,@mapmany,false,false,0,1,Any,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,198
+Query,query_expression_translation_phase_5,true,false,8,1,Nothing,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,328
+Query,query_expression_translation_phase_6,true,false,10,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,350
+Query,query_expression_translation_phase_D,true,false,6,1,Nothing,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_translation.jl,459
+Query,our_get,true,true,0,1,Int64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,190
+Query,@map,false,false,0,1,Any,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,171
+Query,@count,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/standalone_query_macros.jl,1
+Query,ismacro,true,true,0,1,Bool,"Symbol,String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/query_utils.jl,4
+Query,@select,true,false,9,1,Expr,"LineNumberNode,Module,Int64,Vararg{Int64,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/table_query_macros.jl,26
+Query,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Query/depot/packages/Query/85Sw7/src/Query.jl,1

@@ -1,0 +1,14 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+InfiniteArrays,_vcat,2,1.0,1.0,2,0,0,39,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InfiniteArrays/depot/packages/InfiniteArrays/CHLPN/src/infarrays.jl,252
+InfiniteArrays,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InfiniteArrays/depot/packages/InfiniteArrays/CHLPN/src/InfiniteArrays.jl,1
+InfiniteArrays,oneto,1,1.0,1.0,1,0,0,45,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InfiniteArrays/depot/packages/InfiniteArrays/CHLPN/src/infrange.jl,105
+InfiniteArrays,_vcat,2,1.0,1.0,2,0,1,70,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InfiniteArrays/depot/packages/InfiniteArrays/CHLPN/src/infarrays.jl,253
+InfiniteArrays,oneto,1,1.0,1.0,1,0,0,50,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InfiniteArrays/depot/packages/InfiniteArrays/CHLPN/src/InfiniteArrays.jl,88
+InfiniteArrays,axes_print_matrix_row,2,1.0,0.0,1,0,0,44,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InfiniteArrays/depot/packages/InfiniteArrays/CHLPN/src/infarrays.jl,84
+InfiniteArrays,unitrange,1,1.0,1.0,1,0,0,46,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InfiniteArrays/depot/packages/InfiniteArrays/CHLPN/src/infrange.jl,77
+InfiniteArrays,_step_findfirst,3,0.3333333333333333,0.3333333333333333,2,0,0,245,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InfiniteArrays/depot/packages/InfiniteArrays/CHLPN/src/infrange.jl,558
+InfiniteArrays,oneto,1,1.0,1.0,1,0,0,96,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InfiniteArrays/depot/packages/InfiniteArrays/CHLPN/src/infrange.jl,106
+InfiniteArrays,_gettail,2,1.0,1.0,2,0,1,165,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InfiniteArrays/depot/packages/InfiniteArrays/CHLPN/src/infarrays.jl,251
+LazyArrays,cache,16,0.875,0.875,16,0,0,62,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InfiniteArrays/depot/packages/LazyArrays/lAt5J/src/cache.jl,51
+InfiniteArrays,oneto,1,1.0,1.0,1,0,0,92,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InfiniteArrays/depot/packages/InfiniteArrays/CHLPN/src/infrange.jl,110
+InfiniteArrays,_gettail,2,0.0,0.0,2,0,1,130,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InfiniteArrays/depot/packages/InfiniteArrays/CHLPN/src/infarrays.jl,250

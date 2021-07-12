@@ -1,0 +1,15 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+CUDAdrv,functional,true,true,1,1,Bool,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAdrv/depot/packages/CUDAdrv/Uc14X/src/CUDAdrv.jl,54
+CUDAdrv,libcuda,true,true,2,1,Symbol,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAdrv/depot/packages/CUDAdrv/Uc14X/src/CUDAdrv.jl,91
+CUDAdrv,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAdrv/depot/packages/CUDAdrv/Uc14X/src/CUDAdrv.jl,1
+CUDAdrv,cuDriverGetVersion,true,true,2,1,Nothing,Base.RefValue{Int32},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAdrv/depot/packages/CUDAapi/XuSHC/src/call.jl,93
+CUDAdrv,version,true,true,0,1,VersionNumber,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAdrv/depot/packages/CUDAdrv/Uc14X/src/version.jl,8
+CUDAdrv,@after_init,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAdrv/depot/packages/CUDAdrv/Uc14X/src/CUDAdrv.jl,80
+CUDAdrv,devices,true,true,0,1,CUDAdrv.DeviceSet,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAdrv/depot/packages/CUDAdrv/Uc14X/src/devices.jl,95
+CUDAdrv,_functional,true,true,0,1,Nothing,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAdrv/depot/packages/CUDAdrv/Uc14X/src/CUDAdrv.jl,62
+CUDAdrv,__runtime_init__,true,false,5,2,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAdrv/depot/packages/CUDAdrv/Uc14X/src/CUDAdrv.jl,115
+CUDAdrv.Profile,__init__,true,false,8,2,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAdrv/depot/packages/CUDAdrv/Uc14X/src/profile.jl,71
+CUDAdrv,@check,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAdrv/depot/packages/CUDAdrv/Uc14X/src/error.jl,108
+CUDAdrv,cuDeviceGetCount,true,true,2,1,Nothing,Base.RefValue{Int32},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAdrv/depot/packages/CUDAapi/XuSHC/src/call.jl,93
+CUDAdrv,__configure__,true,false,23,3,Bool,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAdrv/depot/packages/CUDAdrv/Uc14X/src/CUDAdrv.jl,93
+CUDAdrv,throw_api_error,true,true,0,0,Union{},CUDAdrv.cudaError_enum,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CUDAdrv/depot/packages/CUDAdrv/Uc14X/src/error.jl,104

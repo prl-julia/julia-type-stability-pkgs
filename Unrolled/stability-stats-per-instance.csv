@@ -1,0 +1,43 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Unrolled,function_argument_name,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,67
+Unrolled,_unrolled_filter,false,false,0,1,Any,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,163
+Unrolled,type_length,true,true,0,1,Int64,"Type{Tuple{MyVal{1},MyVal{2}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,58
+Unrolled,#s15#22,true,false,0,1,Expr,"Any,Any,Any",none,0
+Unrolled,@fixed_range,true,false,3,3,"Union{Nothing, Expr}","LineNumberNode,Module,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/range.jl,29
+Unrolled,function_argument_name,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,67
+Unrolled,type_length,true,true,0,1,Int64,"Type{Tuple{Int64,Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,58
+Unrolled,type_length,true,true,0,1,Int64,"Type{Tuple{MyVal{2},MyVal{0},MyVal{1}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,58
+Unrolled,type_size,false,false,0,1,Any,"Type{T} where T,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,61
+Unrolled,unrolled_setdiff,true,true,0,1,Tuple{MyVal{0}},"Tuple{MyVal{2},MyVal{0}},Tuple{MyVal{1},MyVal{2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,169
+Unrolled,unrolled_union,true,true,0,1,"Tuple{MyVal{2},MyVal{0},MyVal{1}}","Tuple{MyVal{2},MyVal{0}},Tuple{MyVal{1},MyVal{2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,172
+Unrolled,unrolled_union,true,true,0,1,"Tuple{MyVal{10},MyVal{2},MyVal{0},MyVal{1}}","Tuple{MyVal{1},MyVal{2}},Tuple{MyVal{2},MyVal{0}},Tuple{MyVal{10}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,173
+Unrolled,unrolled_union,true,true,0,1,"Tuple{MyVal{10},MyVal{2},MyVal{0},MyVal{1}}","Tuple{MyVal{10}},Tuple{MyVal{2},MyVal{0},MyVal{1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,172
+Unrolled,#s15#27,true,false,0,1,Expr,"Any,Any,Any",none,0
+Unrolled,type_length,true,true,0,1,Int64,"Type{Tuple{Tuple{MyVal{2},MyVal{0}},Tuple{MyVal{10}}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,58
+Unrolled,type_length,true,true,0,1,Int64,"Type{Tuple{Int64,Int64,Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,58
+Unrolled,#s15#16,true,false,0,1,Expr,"Any,Any,Any",none,0
+Unrolled,function_argument_name,false,false,0,1,Any,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,67
+Unrolled,type_length,true,true,0,1,Int64,"Type{Tuple{MyVal{2},MyVal{0}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,58
+Unrolled,type_length,true,true,0,1,Int64,"Type{NTuple{4,Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,58
+Unrolled,#s15#23,false,false,2,1,Any,"Any,Any,Any,Any",none,0
+Unrolled,unrolled_intersect,true,true,0,1,Tuple{MyVal{2}},"Tuple{MyVal{1},MyVal{2}},Tuple{MyVal{2},MyVal{0}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,168
+Unrolled,unrolled_setdiff,true,true,0,1,"Tuple{MyVal{2},MyVal{0},MyVal{1}}","Tuple{MyVal{2},MyVal{0},MyVal{1}},Tuple{MyVal{10}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,169
+Unrolled,@unroll,true,false,2,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,69
+Unrolled,_unrolled_filter,false,false,0,1,Any,"Type{T} where T,Type{T} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,163
+Unrolled,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,2
+Unrolled,replace_end,true,true,0,1,Int64,"FixedEnd{1},Type{Tuple{Int64,Int64,Int64,Int64,Float64,Int64,Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/range.jl,20
+Unrolled,@unroll_loop,true,false,4,1,Expr,"LineNumberNode,Module,Int64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,43
+Unrolled,@unroll_loop,true,false,4,1,Expr,"LineNumberNode,Module,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,52
+Unrolled,type_length,true,true,0,1,Int64,"Type{Tuple{Int64,Int64,Int64,Int64,Float64,Int64,Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,58
+Unrolled,replace_end,false,false,0,1,Any,"FixedEnd{N},Type{SEQ}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/range.jl,20
+Unrolled,unrolled_union,true,true,0,1,"Tuple{MyVal{1},MyVal{2},MyVal{0}}","Tuple{MyVal{1},MyVal{2}},Tuple{MyVal{2},MyVal{0}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,172
+Unrolled,#s12#1,true,false,0,1,Expr,"Any,Any,Any,Any,Any",none,0
+Unrolled,type_length,false,false,0,1,Any,Type{T} where T,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,60
+Unrolled,replace_end,true,false,0,1,Int64,"Int64,Type{T} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/range.jl,21
+Unrolled,type_length,true,true,0,1,Int64,"Type{Tuple{Int64,Int64,Int64,Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,58
+Unrolled,type_length,false,false,0,1,Any,"Type{FixedRange{A,B}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/range.jl,10
+Unrolled,type_size,false,false,0,1,Any,"Type,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,61
+Unrolled,unrolled_foreach_unrolled_expansion_,true,false,0,1,Expr,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,124
+Unrolled,unrolled_foreach_unrolled_expansion_,true,false,0,1,Expr,"Type{T} where T,Type{T} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,124
+Unrolled,@unroll_loop,true,false,6,2,Expr,"LineNumberNode,Module,Type{T} where T,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,27
+Unrolled,unrolled_setdiff,true,true,0,1,Tuple{MyVal{1}},"Tuple{MyVal{1},MyVal{2}},Tuple{MyVal{2},MyVal{0}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Unrolled/depot/packages/Unrolled/26uDc/src/Unrolled.jl,169

@@ -1,0 +1,32 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Main,apply_recipe,true,false,11,1,"Array{RecipesBase.RecipeData,1}","Dict{Symbol,Any},T1,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,275
+RecipesBase,_equals_symbol,true,true,1,2,"Union{Missing, Bool}","Expr,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,79
+RecipesBase,@userplot,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,340
+RecipesBase,is_explicit,false,false,0,1,Any,"AbstractDict{Symbol,Any},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,46
+RecipesBase,_precompile_,true,true,2,2,"Union{Nothing, Bool}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/precompile.jl,1
+Main,apply_recipe,true,false,11,1,"Array{RecipesBase.RecipeData,1}","Dict{Symbol,Any},T2,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,275
+RecipesBase,gettypename,true,true,0,1,Symbol,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,369
+RecipesBase,wrap_tuple,true,true,0,1,"Tuple{Array{Float64,2}}","Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,67
+RecipesBase,_userplot,true,false,1,1,Expr,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,344
+Main,apply_recipe,true,false,11,1,"Array{RecipesBase.RecipeData,1}","AbstractDict{Symbol,Any},T4,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,275
+RecipesBase,wrap_tuple,false,false,0,1,Tuple{Array},Array,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,67
+RecipesBase,_equals_symbol,true,true,0,1,"Union{Missing, Bool}","QuoteNode,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,82
+Main,apply_recipe,true,true,0,1,"Array{RecipesBase.RecipeData,1}","Dict{Symbol,Any},T3,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,275
+RecipesBase,gettypename,false,false,6,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,371
+Main,apply_recipe,true,false,11,1,"Array{RecipesBase.RecipeData,1}","AbstractDict{Symbol,Any},T1,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,275
+RecipesBase,_is_arrow_tuple,true,true,3,4,"Union{Missing, Bool}",Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,70
+RecipesBase,_equals_symbol,true,true,0,1,Bool,"Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,76
+RecipesBase,create_kw_body,true,false,14,2,"Tuple{Array{Any,1},Expr,Expr}",Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,104
+Main,is_key_supported,true,true,0,1,Bool,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/test/runtests.jl,9
+Main,apply_recipe,true,false,11,1,"Array{RecipesBase.RecipeData,1}","Dict{Symbol,Any},T4,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,275
+Main,apply_recipe,true,false,11,1,"Array{RecipesBase.RecipeData,1}","AbstractDict{Symbol,Any},T2,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,275
+RecipesBase,is_explicit,true,true,0,1,Bool,"Dict{Symbol,Any},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,46
+RecipesBase,_equals_symbol,true,true,0,1,"Union{Missing, Bool}","Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,85
+RecipesBase,@recipe,true,false,5,1,Expr,"LineNumberNode,Module,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,251
+Main,apply_recipe,true,false,4,1,"Array{RecipesBase.RecipeData,1}","AbstractDict{Symbol,Any},T5,Integer",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,275
+Main,apply_recipe,true,false,11,1,"Array{RecipesBase.RecipeData,1}","AbstractDict{Symbol,Any},T3,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,275
+RecipesBase,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,2
+RecipesBase,process_recipe_body!,true,false,26,1,Nothing,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,135
+RecipesBase,_userplot,true,true,0,1,Expr,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,363
+Main,apply_recipe,true,false,11,1,"Array{RecipesBase.RecipeData,1}","Dict{Symbol,Any},T3,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,275
+RecipesBase,get_function_def,false,false,5,3,Any,"Expr,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RecipesBase/depot/packages/RecipesBase/92zOw/src/RecipesBase.jl,88

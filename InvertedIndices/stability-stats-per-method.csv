@@ -1,0 +1,13 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+InvertedIndices,spanned_indices,21,1.0,1.0,7,0,0,168,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InvertedIndices/depot/packages/InvertedIndices/l2dyo/src/InvertedIndices.jl,119
+InvertedIndices,spanned_indices,1,1.0,1.0,1,0,0,61,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InvertedIndices/depot/packages/InvertedIndices/l2dyo/src/InvertedIndices.jl,126
+InvertedIndices,uniquesort,4,1.0,1.0,4,0,0,122,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InvertedIndices/depot/packages/InvertedIndices/l2dyo/src/InvertedIndices.jl,88
+InvertedIndices,_should_skip,7,1.0,1.0,1,0,0,49,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InvertedIndices/depot/packages/InvertedIndices/l2dyo/src/InvertedIndices.jl,64
+InvertedIndices,uniquesort,7,1.0,1.0,7,0,0,39,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InvertedIndices/depot/packages/InvertedIndices/l2dyo/src/InvertedIndices.jl,91
+InvertedIndices,should_skip,6,1.0,1.0,1,0,0,38,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InvertedIndices/depot/packages/InvertedIndices/l2dyo/src/InvertedIndices.jl,62
+InvertedIndices,uniquesort,3,1.0,1.0,3,0,0,139,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InvertedIndices/depot/packages/InvertedIndices/l2dyo/src/InvertedIndices.jl,90
+InvertedIndices,uniquesort,1,1.0,1.0,1,0,0,39,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InvertedIndices/depot/packages/InvertedIndices/l2dyo/src/InvertedIndices.jl,92
+InvertedIndices,uniquesort,5,0.0,0.0,5,0,0,122,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InvertedIndices/depot/packages/InvertedIndices/l2dyo/src/InvertedIndices.jl,89
+InvertedIndices,spanned_indices,32,1.0,1.0,6,0,0,67,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InvertedIndices/depot/packages/InvertedIndices/l2dyo/src/InvertedIndices.jl,115
+InvertedIndices,_should_skip,1,1.0,1.0,1,0,0,67,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InvertedIndices/depot/packages/InvertedIndices/l2dyo/src/InvertedIndices.jl,66
+InvertedIndices,should_skip,18,0.9444444444444444,0.9444444444444444,2,0,0,66,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InvertedIndices/depot/packages/InvertedIndices/l2dyo/src/InvertedIndices.jl,63

@@ -1,0 +1,1 @@
+Stability.ModuleStatsPerMethodRecord[Stability.ModuleStatsPerMethodRecord("DBInterface", "@sql_str", 1, 0.0, 0.0, 1, 4, 0, 41, "/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DBInterface/depot/packages/DBInterface/JigqR/src/DBInterface.jl", 10)]

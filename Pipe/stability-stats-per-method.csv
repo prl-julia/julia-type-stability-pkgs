@@ -1,0 +1,13 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+Pipe,funnel,1,0.0,0.0,1,0,0,389,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pipe/depot/packages/Pipe/5PIGG/src/Pipe.jl,84
+Pipe,rewrite_apply_broadcasted,6,1.0,0.6666666666666666,1,0,0,125,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pipe/depot/packages/Pipe/5PIGG/src/Pipe.jl,59
+Pipe,replace,2,0.5,0.5,2,0,0,78,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pipe/depot/packages/Pipe/5PIGG/src/Pipe.jl,12
+Pipe,rewrite,3,1.0,0.0,1,0,0,207,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pipe/depot/packages/Pipe/5PIGG/src/Pipe.jl,26
+Pipe,rewrite_broadcasted,3,0.3333333333333333,0.3333333333333333,3,0,0,94,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pipe/depot/packages/Pipe/5PIGG/src/Pipe.jl,72
+Pipe,@pipe,1,1.0,0.0,1,4,0,57,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pipe/depot/packages/Pipe/5PIGG/src/Pipe.jl,99
+Pipe,rewrite,5,0.2,0.2,5,0,0,94,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pipe/depot/packages/Pipe/5PIGG/src/Pipe.jl,64
+Pipe,funnel,4,0.75,0.75,4,0,0,39,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pipe/depot/packages/Pipe/5PIGG/src/Pipe.jl,80
+Pipe,replace,5,0.8,0.8,4,0,0,38,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pipe/depot/packages/Pipe/5PIGG/src/Pipe.jl,8
+Pipe,rewrite_apply,8,1.0,0.75,1,0,0,55,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pipe/depot/packages/Pipe/5PIGG/src/Pipe.jl,55
+Pipe,replace,2,1.0,1.0,1,0,0,146,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pipe/depot/packages/Pipe/5PIGG/src/Pipe.jl,20
+Pipe,rewrite_broadcasted,3,1.0,0.0,1,0,0,277,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Pipe/depot/packages/Pipe/5PIGG/src/Pipe.jl,40

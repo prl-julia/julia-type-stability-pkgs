@@ -1,0 +1,5 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+StatsModels,@delegate,1,1.0,0.0,1,12,0,817,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Microeconometrics/depot/packages/StatsModels/JZLpf/src/statsmodel.jl,18
+StatsModels,lead_lag_docstring,1,1.0,1.0,1,0,0,83,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Microeconometrics/depot/packages/StatsModels/JZLpf/src/temporal_terms.jl,4
+Microeconometrics,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Microeconometrics/depot/packages/Microeconometrics/KIJdX/src/Microeconometrics.jl,3
+StatsModels,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Microeconometrics/depot/packages/StatsModels/JZLpf/src/StatsModels.jl,1

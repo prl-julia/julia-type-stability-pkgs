@@ -1,0 +1,11 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Pkg.TOML,write,true,true,0,1,Int64,"Pkg.TOML.Parser{IOStream},Char",/build/source/usr/share/julia/stdlib/v1.5/Pkg/ext/TOML/src/parser.jl,56
+Pkg.TOML,write,true,true,0,1,Int64,"Pkg.TOML.Parser{IOStream},UInt8",/build/source/usr/share/julia/stdlib/v1.5/Pkg/ext/TOML/src/parser.jl,56
+PGFPlots.Plots,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PGFPlots/depot/packages/PGFPlots/zEor9/src/plots.jl,1
+Pkg.TOML,write,true,true,0,1,Int64,"Pkg.TOML.Parser{Base.GenericIOBuffer{Array{UInt8,1}}},Char",/build/source/usr/share/julia/stdlib/v1.5/Pkg/ext/TOML/src/parser.jl,56
+Pkg.TOML,write,true,true,0,1,Int64,"Pkg.TOML.Parser{Base.GenericIOBuffer{Array{UInt8,1}}},UInt8",/build/source/usr/share/julia/stdlib/v1.5/Pkg/ext/TOML/src/parser.jl,56
+PGFPlots,eval,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PGFPlots/depot/packages/PGFPlots/zEor9/src/PGFPlots.jl,1
+LibGit2,write,true,true,12,1,Nothing,"Base.Process,LibGit2.GitCredential",/build/source/usr/share/julia/stdlib/v1.5/LibGit2/src/gitcredential.jl,94
+Pkg.TOML,write,true,false,0,1,Int64,"Pkg.TOML.Parser,Char",/build/source/usr/share/julia/stdlib/v1.5/Pkg/ext/TOML/src/parser.jl,56
+PGFPlots,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PGFPlots/depot/packages/PGFPlots/zEor9/src/PGFPlots.jl,1
+PGFPlots,__init__,false,false,1,2,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PGFPlots/depot/packages/PGFPlots/zEor9/src/PGFPlots.jl,21

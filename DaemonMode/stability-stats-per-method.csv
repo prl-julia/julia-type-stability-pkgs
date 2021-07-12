@@ -1,0 +1,15 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+DaemonMode,serverRun,4,1.0,0.5,1,0,0,147,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DaemonMode/depot/packages/DaemonMode/O6PIL/src/DaemonMode.jl,173
+DaemonMode,sendExitCode,1,1.0,1.0,1,0,0,84,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DaemonMode/depot/packages/DaemonMode/O6PIL/src/DaemonMode.jl,365
+DaemonMode,#runexpr#15,1,1.0,0.0,1,0,0,375,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DaemonMode/depot/packages/DaemonMode/O6PIL/src/DaemonMode.jl,283
+DaemonMode,myshowerror,2,1.0,0.5,1,0,0,473,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DaemonMode/depot/packages/DaemonMode/O6PIL/src/DaemonMode.jl,64
+DaemonMode,serve,1,1.0,1.0,1,0,0,49,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DaemonMode/depot/packages/DaemonMode/O6PIL/src/DaemonMode.jl,38
+DaemonMode,#runfile#16,1,1.0,0.0,1,0,0,787,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DaemonMode/depot/packages/DaemonMode/O6PIL/src/DaemonMode.jl,317
+DaemonMode,#serve#1,1,1.0,1.0,1,0,0,509,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DaemonMode/depot/packages/DaemonMode/O6PIL/src/DaemonMode.jl,38
+DaemonMode,create_mylog,2,0.5,0.5,2,0,0,76,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DaemonMode/depot/packages/DaemonMode/O6PIL/src/DaemonMode.jl,138
+DaemonMode,serverReplyError,3,1.0,0.0,1,0,0,325,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DaemonMode/depot/packages/DaemonMode/O6PIL/src/DaemonMode.jl,123
+DaemonMode,serverRunFile,2,1.0,0.0,1,0,0,409,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DaemonMode/depot/packages/DaemonMode/O6PIL/src/DaemonMode.jl,213
+DaemonMode,send_backtrace,2,1.0,0.0,1,0,0,845,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DaemonMode/depot/packages/DaemonMode/O6PIL/src/DaemonMode.jl,90
+DaemonMode,serve,1,1.0,1.0,1,0,0,56,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DaemonMode/depot/packages/DaemonMode/O6PIL/src/DaemonMode.jl,38
+DaemonMode,serverReplyError,2,1.0,0.0,1,0,0,297,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DaemonMode/depot/packages/DaemonMode/O6PIL/src/DaemonMode.jl,76
+DaemonMode,serverRunExpr,2,1.0,0.0,1,0,0,320,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DaemonMode/depot/packages/DaemonMode/O6PIL/src/DaemonMode.jl,250

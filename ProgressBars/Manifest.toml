@@ -1,0 +1,14 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[Printf]]
+deps = ["Unicode"]
+uuid = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
+[[ProgressBars]]
+deps = ["Printf"]
+git-tree-sha1 = "b25377c38da4181e99832328a240c73f3d57fff2"
+uuid = "49802e3a-d2f1-5c88-81d8-b72133a6f568"
+version = "1.0.0"
+
+[[Unicode]]
+uuid = "4ec0a83e-493e-50e2-b9ac-8f72acf5a8f5"

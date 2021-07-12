@@ -1,0 +1,12 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[AbstractTrees]]
+git-tree-sha1 = "03e0550477d86222521d254b741d470ba17ea0b5"
+uuid = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
+version = "0.3.4"
+
+[[MethodAnalysis]]
+deps = ["AbstractTrees"]
+git-tree-sha1 = "40c1181bf7943b176c4a11edd67e72ab81fa3b1d"
+uuid = "85b6ec6f-f7df-4429-9514-a64bcd9ee824"
+version = "0.4.4"

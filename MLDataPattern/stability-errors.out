@@ -1,0 +1,28 @@
+ERROR: cannot call @generated function `datasubset(A::AbstractArray{T,N}, idx, obsdim::LearnBase.ObsDimension) where {T, N} in MLDataPattern at /data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MLDataPattern/depot/packages/MLDataPattern/KlSmO/src/datasubset.jl:360` with abstract argument types: Tuple{SparseMatrixCSC{Int64,Int64},Array{Int64,1},Any}
+Stacktrace:
+ [1] error(::String, ::Method, ::String, ::String, ::Type{T} where T) at ./error.jl:42
+ [2] func_for_method_checked(::Method, ::Any, ::Core.SimpleVector) at ./reflection.jl:1081
+ [3] code_typed(::Any, ::Any; optimize::Bool, debuginfo::Symbol, world::UInt64, params::Core.Compiler.Params) at ./reflection.jl:1116
+ [4] run_type_inference(::Any, ::Any) at /data/artem/stability/repo/Stability/src/Stability.jl:61
+ [5] module_stats(::Module, ::IOStream) at /data/artem/stability/repo/Stability/src/Stability.jl:248
+ [6] (::var"#301#305")(::IOStream) at ./none:36
+ [7] open(::var"#301#305", ::String, ::Vararg{String,N} where N; kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at ./io.jl:325
+ [8] open(::Function, ::String, ::String) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [9] top-level scope at none:35
+ [10] eval(::Module, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [11] exec_options(::Base.JLOptions) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [12] _start() at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ERROR: cannot call @generated function `datasubset(A::AbstractArray{T,N}, idx, obsdim::LearnBase.ObsDimension) where {T, N} in MLDataPattern at /data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/MLDataPattern/depot/packages/MLDataPattern/KlSmO/src/datasubset.jl:360` with abstract argument types: Tuple{SparseVector{Int64,Int64},Array{Int64,1},Any}
+Stacktrace:
+ [1] error(::String, ::Method, ::String, ::String, ::Type{T} where T) at ./error.jl:42
+ [2] func_for_method_checked(::Method, ::Any, ::Core.SimpleVector) at ./reflection.jl:1081
+ [3] code_typed(::Any, ::Any; optimize::Bool, debuginfo::Symbol, world::UInt64, params::Core.Compiler.Params) at ./reflection.jl:1116
+ [4] run_type_inference(::Any, ::Any) at /data/artem/stability/repo/Stability/src/Stability.jl:61
+ [5] module_stats(::Module, ::IOStream) at /data/artem/stability/repo/Stability/src/Stability.jl:248
+ [6] (::var"#301#305")(::IOStream) at ./none:36
+ [7] open(::var"#301#305", ::String, ::Vararg{String,N} where N; kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at ./io.jl:325
+ [8] open(::Function, ::String, ::String) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [9] top-level scope at none:35
+ [10] eval(::Module, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [11] exec_options(::Base.JLOptions) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [12] _start() at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?

@@ -1,0 +1,12 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+ImportMacros,@import,true,true,1,1,Expr,"LineNumberNode,Module,Symbol,Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,39
+ImportMacros,@import,true,true,1,1,Expr,"LineNumberNode,Module,Expr,Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,39
+ImportMacros,get_names,false,false,4,2,Tuple,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,92
+ImportMacros,get_names,true,true,0,1,Tuple{Symbol},Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,92
+ImportMacros,@using,true,true,1,1,Expr,"LineNumberNode,Module,Symbol,Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,63
+ImportMacros,@using,true,true,1,1,Expr,"LineNumberNode,Module,Expr,Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,63
+ImportMacros,get_names,false,false,4,4,Tuple,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,92
+ImportMacros,get_names,false,false,1,1,Tuple{Any},QuoteNode,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,92
+ImportMacros,create_expression,true,true,3,1,Expr,"Symbol,Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,72
+ImportMacros,@import,true,false,16,1,Expr,"LineNumberNode,Module,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,47
+ImportMacros,create_expression,true,false,3,1,Expr,"Symbol,Expr,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,72

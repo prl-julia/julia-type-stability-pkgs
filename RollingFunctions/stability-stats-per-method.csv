@@ -1,0 +1,17 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+RollingFunctions,tapers,2,1.0,0.5,1,0,0,503,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/roll/rolling.jl,97
+RollingFunctions,rolling,2,1.0,0.5,1,0,0,408,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/roll/rolling2.jl,6
+RollingFunctions,WeightsError,1,1.0,1.0,1,0,0,65,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/support.jl,38
+RollingFunctions,rollmean,1,1.0,1.0,1,0,0,57,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/roll/rollstats.jl,16
+RollingFunctions,nrolled,1,1.0,1.0,1,0,0,136,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/support.jl,19
+RollingFunctions,rollmean,1,1.0,1.0,1,0,0,53,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/roll/rollstats.jl,14
+RollingFunctions,tapers2,2,1.0,0.5,1,0,0,361,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/roll/rolling2.jl,103
+RollingFunctions,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/RollingFunctions.jl,1
+RollingFunctions,rolling,1,1.0,1.0,1,0,0,357,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/roll/rolling.jl,6
+RollingFunctions,rolling,1,1.0,1.0,1,0,0,890,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/roll/rolling2.jl,39
+RollingFunctions,runcov,1,1.0,1.0,1,0,0,60,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/run/runstats.jl,35
+RollingFunctions,rollcor,1,1.0,1.0,1,0,0,63,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/roll/rollstats.jl,34
+RollingFunctions,rolling,2,1.0,0.5,1,0,0,765,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/roll/rolling.jl,19
+RollingFunctions,running,2,1.0,0.5,1,0,0,375,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/run/running2.jl,24
+RollingFunctions,running,1,1.0,0.0,1,0,0,360,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/run/running.jl,22
+RollingFunctions,SpanError,1,1.0,1.0,1,0,0,65,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RollingFunctions/depot/packages/RollingFunctions/4Jh9c/src/support.jl,35

@@ -1,0 +1,1 @@
+Stability.ModuleStatsPerMethodRecord[Stability.ModuleStatsPerMethodRecord("RegressionTables", "include", 1, 0.0, 0.0, 1, 0, 0, 48, "/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RegressionTables/depot/packages/RegressionTables/wW3H4/src/RegressionTables.jl", 3)]

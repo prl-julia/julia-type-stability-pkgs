@@ -1,0 +1,64 @@
+ERROR: TypeError: in <:, expected Type, got a value of type TypeVar
+Stacktrace:
+ [1] ⊑(::Any, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [2] tmerge(::Any, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [3] getfield_tfunc(::Any, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [4] builtin_tfunction(::Any, ::Array{Any,1}, ::Union{Nothing, Core.Compiler.InferenceState}, ::Core.Compiler.Params) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [5] abstract_call_known(::Any, ::Array{Any,1}, ::Array{Any,1}, ::Array{Any,1}, ::Core.Compiler.InferenceState, ::Int64) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [6] abstract_call(::Array{Any,1}, ::Array{Any,1}, ::Array{Any,1}, ::Core.Compiler.InferenceState, ::Int64) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:? (repeats 2 times)
+ [7] abstract_eval(::Any, ::Array{Any,1}, ::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [8] typeinf_local(::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [9] typeinf_nocycle(::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [10] typeinf(::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [11] typeinf_edge(::Method, ::Any, ::Core.SimpleVector, ::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [12] abstract_call_method(::Method, ::Any, ::Core.SimpleVector, ::Bool, ::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [13] abstract_call_gf_by_type(::Any, ::Array{Any,1}, ::Any, ::Core.Compiler.InferenceState, ::Int64) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [14] abstract_call_known(::Any, ::Array{Any,1}, ::Array{Any,1}, ::Array{Any,1}, ::Core.Compiler.InferenceState, ::Int64) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [15] abstract_call(::Array{Any,1}, ::Array{Any,1}, ::Array{Any,1}, ::Core.Compiler.InferenceState, ::Int64) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:? (repeats 2 times)
+ [16] abstract_eval(::Any, ::Array{Any,1}, ::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [17] typeinf_local(::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [18] typeinf_nocycle(::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [19] typeinf(::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [20] typeinf_code(::Method, ::Any, ::Core.SimpleVector, ::Bool, ::Core.Compiler.Params) at ./compiler/typeinfer.jl:511
+ [21] code_typed(::Any, ::Any; optimize::Bool, debuginfo::Symbol, world::UInt64, params::Core.Compiler.Params) at ./reflection.jl:1117
+ [22] run_type_inference at /data/artem/stability/repo/Stability/src/Stability.jl:61 [inlined]
+ [23] module_stats(::Module, ::IOStream) at /data/artem/stability/repo/Stability/src/Stability.jl:248
+ [24] (::var"#43#47")(::IOStream) at ./none:36
+ [25] open(::var"#43#47", ::String, ::Vararg{String,N} where N; kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at ./io.jl:325
+ [26] open(::Function, ::String, ::String) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [27] top-level scope at none:35
+ [28] eval(::Module, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [29] exec_options(::Base.JLOptions) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [30] _start() at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ERROR: TypeError: in <:, expected Type, got a value of type TypeVar
+Stacktrace:
+ [1] ⊑(::Any, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [2] tmerge(::Any, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [3] getfield_tfunc(::Any, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [4] builtin_tfunction(::Any, ::Array{Any,1}, ::Union{Nothing, Core.Compiler.InferenceState}, ::Core.Compiler.Params) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [5] abstract_call_known(::Any, ::Array{Any,1}, ::Array{Any,1}, ::Array{Any,1}, ::Core.Compiler.InferenceState, ::Int64) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [6] abstract_call(::Array{Any,1}, ::Array{Any,1}, ::Array{Any,1}, ::Core.Compiler.InferenceState, ::Int64) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:? (repeats 2 times)
+ [7] abstract_eval(::Any, ::Array{Any,1}, ::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [8] typeinf_local(::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [9] typeinf_nocycle(::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [10] typeinf(::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [11] typeinf_edge(::Method, ::Any, ::Core.SimpleVector, ::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [12] abstract_call_method(::Method, ::Any, ::Core.SimpleVector, ::Bool, ::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [13] abstract_call_gf_by_type(::Any, ::Array{Any,1}, ::Any, ::Core.Compiler.InferenceState, ::Int64) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [14] abstract_call_known(::Any, ::Array{Any,1}, ::Array{Any,1}, ::Array{Any,1}, ::Core.Compiler.InferenceState, ::Int64) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [15] abstract_call(::Array{Any,1}, ::Array{Any,1}, ::Array{Any,1}, ::Core.Compiler.InferenceState, ::Int64) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:? (repeats 2 times)
+ [16] abstract_eval(::Any, ::Array{Any,1}, ::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [17] typeinf_local(::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [18] typeinf_nocycle(::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [19] typeinf(::Core.Compiler.InferenceState) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [20] typeinf_code(::Method, ::Any, ::Core.SimpleVector, ::Bool, ::Core.Compiler.Params) at ./compiler/typeinfer.jl:511
+ [21] code_typed(::Any, ::Any; optimize::Bool, debuginfo::Symbol, world::UInt64, params::Core.Compiler.Params) at ./reflection.jl:1117
+ [22] run_type_inference at /data/artem/stability/repo/Stability/src/Stability.jl:61 [inlined]
+ [23] module_stats(::Module, ::IOStream) at /data/artem/stability/repo/Stability/src/Stability.jl:248
+ [24] (::var"#43#47")(::IOStream) at ./none:36
+ [25] open(::var"#43#47", ::String, ::Vararg{String,N} where N; kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at ./io.jl:325
+ [26] open(::Function, ::String, ::String) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [27] top-level scope at none:35
+ [28] eval(::Module, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [29] exec_options(::Base.JLOptions) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [30] _start() at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?

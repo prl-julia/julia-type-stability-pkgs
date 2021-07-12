@@ -1,0 +1,6 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[LRUCache]]
+git-tree-sha1 = "5a9338dce0811619e42c9e9aa9ae044c3c82a58f"
+uuid = "8ac3fa9e-de4c-5943-b1dc-09c6b5f20637"
+version = "1.2.0"

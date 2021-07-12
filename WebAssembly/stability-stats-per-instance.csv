@@ -1,0 +1,138 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+WebAssembly,applyblock,true,true,0,1,If,"WebAssembly.var""#32#35"",If",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,2
+WebAssembly,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/WebAssembly.jl,1
+WebAssembly,apInstr,false,false,2,1,"Union{Int64, Array{Int64,1}}","Loop,Array{Int64,1},Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,128
+WebAssembly,export_,true,true,0,0,Union{},"Array{SubString{String},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,111
+WebAssembly,apInstr,false,false,0,1,Any,"Block,Any,Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,127
+WebAssembly,apInstr,true,false,5,2,Int64,"Branch,Array{_A,1} where _A,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,120
+WebAssembly,body,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,87
+WebAssembly,module_items,true,false,6,1,WebAssembly.Module,"WebAssembly.Module,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,118
+WebAssembly,block,true,true,0,0,Union{},String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,85
+WebAssembly,deNest,false,false,6,1,Any,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,44
+WebAssembly,block,true,true,0,1,Block,"Array{Array{T,1} where T,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,85
+WebAssembly,apInstr,false,false,0,1,Any,"Op,Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,104
+WebAssembly,apInstr,true,true,0,1,Int64,"Return,Array{Int64,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,119
+WebAssembly,apInstr,false,false,0,1,Any,"Call,Any,Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,124
+WebAssembly,deNest,false,false,0,1,"Union{SubString{String}, Array{SubString{String},1}}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,44
+WebAssembly,if_,true,false,2,1,If,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,52
+WebAssembly,popn!,false,false,0,1,"Union{Int64, Array{Int64,1}}","Array{Int64,1},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,47
+WebAssembly,apInstr,true,true,2,1,Int64,"SetLocal,Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,107
+WebAssembly,registers,true,false,2,1,"Tuple{Array{WType,1},Int64}","Any,Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,89
+WebAssembly,jltype,false,false,0,1,DataType,WType,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/wasm.jl,11
+WebAssembly,deNest,false,false,6,1,"Union{SubString{String}, Array{T,N} where T where N}","Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,44
+WebAssembly,op,false,false,16,15,Any,"Array{T,1} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,56
+WebAssembly,block,true,false,0,1,Block,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,85
+WebAssembly,apInstr,true,true,0,1,"Array{Any,1}","Local,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,100
+WebAssembly,runBody,false,false,11,3,Any,"Array{Instruction,1},Any,Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,30
+WebAssembly,value,false,false,0,1,"Union{Float64, Int64}","Const,Union{Type{Float64}, Type{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/wasm.jl,29
+WebAssembly,popn!,false,false,0,1,Any,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,47
+WebAssembly,popn!,false,false,0,1,Any,"Array{Any,1},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,47
+WebAssembly,value,true,true,0,1,Int64,"Const,Type{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/wasm.jl,29
+WebAssembly,runBody,false,false,11,3,"Union{Int64, Array{_A,1} where _A}","Array{Instruction,1},Array{_A,1} where _A,Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,30
+WebAssembly,applyblock,false,false,0,1,Any,"WebAssembly.var""#32#35"",Union{Block, Loop}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,1
+WebAssembly,body,false,false,0,1,"Array{_A,1} where _A","Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,87
+WebAssembly,apInstr,true,true,5,2,Int64,"Branch,Array{Any,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,120
+WebAssembly,popn!,false,false,0,1,Any,"Array{_A,1} where _A,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,47
+WebAssembly,op,false,false,16,11,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,56
+WebAssembly,deNest,false,false,6,1,Any,"Array{Array{T,1} where T,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,44
+WebAssembly,export_,true,false,0,1,Export,"Array{Array{T,1} where T,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,111
+WebAssembly,apInstr,true,false,0,1,Int64,"Return,Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,119
+WebAssembly,op,false,false,16,14,Any,"Array{SubString{String},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,56
+WebAssembly,body,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,87
+WebAssembly,walk,false,false,0,1,Any,"Any,WebAssembly.var""#29#30"",typeof(identity)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,5
+WebAssembly,func,true,false,0,1,Func,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,98
+WebAssembly,apInstr,false,false,2,1,"Union{Int64, Array{_A,1} where _A}","Loop,Array{_A,1} where _A,Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,128
+WebAssembly,apInstr,true,true,0,1,Int64,"Return,Array{Any,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,119
+WebAssembly,applyblock,true,true,0,1,Block,"WebAssembly.var""#25#26""{WebAssembly.var""#29#30""{WebAssembly.var""#31#34""}},Block",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,1
+WebAssembly,interpretwasm,false,false,4,1,Any,"Func,Dict{Any,Any},Tuple",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,1
+WebAssembly,module_items,true,false,6,1,WebAssembly.Module,"WebAssembly.Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,118
+WebAssembly,module_,true,true,0,1,WebAssembly.Module,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,125
+WebAssembly,module_items,true,true,3,1,WebAssembly.Module,"WebAssembly.Module,Array{SubString{String},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,118
+WebAssembly,pb,true,true,9,2,"Tuple{Array{Any,1},Int64}","String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,14
+WebAssembly,walk,false,false,0,1,Any,"Any,WebAssembly.var""#29#30""{WebAssembly.var""#31#34""},typeof(identity)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,5
+WebAssembly,body,false,false,0,1,"Array{_A,1} where _A","Array{Array{T,1} where T,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,87
+WebAssembly,loop,true,true,0,1,Loop,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,86
+WebAssembly,body,true,true,0,1,String,SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,87
+WebAssembly,apInstr,true,false,1,2,"Union{Nothing, Array{Any,1}}","Select,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,109
+WebAssembly,applyblock,false,false,0,1,Any,"WebAssembly.var""#25#26""{WebAssembly.var""#29#30""{WebAssembly.var""#31#34""}},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,3
+WebAssembly,apInstr,true,false,0,1,"Array{Int64,1}","Call,Array{Int64,1},Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,124
+WebAssembly,apInstr,false,false,0,1,"Union{Int64, Array{_A,1} where _A}","Block,Array{_A,1} where _A,Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,127
+WebAssembly,apInstr,true,true,5,2,Int64,"Branch,Array{Int64,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,120
+WebAssembly,apInstr,false,false,1,2,"Union{Int64, Array{Int64,1}}","If,Array{Int64,1},Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,126
+WebAssembly,if_,true,false,2,1,If,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,52
+WebAssembly,if_,true,false,2,1,If,"Array{T,1} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,52
+WebAssembly,deNest,false,false,6,1,Any,"Array{T,1} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,44
+WebAssembly,loop,true,false,0,1,Loop,"Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,86
+WebAssembly,op,true,true,1,0,Union{},Char,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,56
+WebAssembly,op,false,false,16,15,Any,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,56
+WebAssembly,popn!,false,false,0,1,Any,"Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,47
+WebAssembly,apInstr,false,false,2,1,Any,"Loop,Any,Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,128
+WebAssembly,applyblock,true,true,0,1,If,"WebAssembly.var""#25#26""{WebAssembly.var""#29#30""{WebAssembly.var""#31#34""}},If",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,2
+WebAssembly,interpretwasm,false,false,4,1,"Array{_A,1} where _A","Func,Dict{Any,Any},Tuple{Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,1
+WebAssembly,apN_U,false,false,0,1,"WebAssembly.var""#81#82""{Int64,_A} where _A","Int64,Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,71
+WebAssembly,loop,true,true,0,0,Union{},String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,86
+WebAssembly,registers,true,true,2,1,"Tuple{Array{WType,1},Int64}","Array{Any,1},Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,89
+WebAssembly,registers,true,true,2,1,"Tuple{Array{WType,1},Int64}","Array{Array{T,1} where T,1},Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,89
+WebAssembly,rmLayer,false,false,1,2,"Union{SubString{String}, Array{SubString{String},1}}","Array{SubString{String},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,40
+WebAssembly,prewalk,false,false,0,1,Any,"WebAssembly.var""#31#34"",Instruction",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,8
+WebAssembly,runBody,false,false,11,3,"Union{Int64, Array{Any,1}}","Array{Instruction,1},Array{Any,1},Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,30
+WebAssembly,interpretwasm,false,false,4,1,"Array{_A,1} where _A","Func,Dict{Any,Any},Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,1
+WebAssembly,module_items,true,false,5,1,WebAssembly.Module,"WebAssembly.Module,Array{Array{T,1} where T,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,118
+WebAssembly,interpretwasm,false,false,4,1,Any,"Func,Dict{Any,Any},Tuple{Int64,Vararg{Int64,N} where N}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,1
+WebAssembly,apInstr,false,false,1,2,Any,"If,Any,Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,126
+WebAssembly,if_,true,false,2,0,Union{},"Array{SubString{String},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,52
+WebAssembly.WABT,check_deps,true,true,8,1,String,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/deps/deps.jl,19
+WebAssembly,apInstr,false,false,1,2,"Union{Int64, Array{_A,1} where _A}","If,Array{_A,1} where _A,Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,126
+WebAssembly,toFunction,true,true,0,1,"WebAssembly.var""#75#76""{Func,Dict{Any,Any}}","Func,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,20
+WebAssembly,applyblock,true,false,0,1,Block,"WebAssembly.var""#25#26""{_A} where _A,Block",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,1
+WebAssembly,value,false,false,0,1,Any,Const,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/wasm.jl,28
+WebAssembly,interpretwasm,false,false,4,1,"Array{_A,1} where _A","Func,Dict{Any,Any},Tuple{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,1
+WebAssembly,loop,true,false,0,1,Loop,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,86
+WebAssembly,parsebrackets,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,12
+WebAssembly,prewalk,true,true,0,1,Block,"WebAssembly.var""#31#34"",Block",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,8
+WebAssembly,func,true,false,0,1,Func,"Array{Array{T,1} where T,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,98
+WebAssembly,apInstr,false,false,0,1,"Union{Int64, Array{Any,1}}","Block,Array{Any,1},Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,127
+WebAssembly,popn!,false,false,0,1,"Array{_A,1} where _A","Array{_A,1} where _A,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,47
+WebAssembly,body,false,false,0,1,"Array{T,N} where T where N","Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,87
+WebAssembly,apInstr,true,true,0,1,"Array{Int64,1}","Local,Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,100
+WebAssembly,deNest,false,false,6,1,"Union{Array{String,1}, String}","Array{SubString{String},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,44
+WebAssembly,applyblock,false,false,0,1,Any,"WebAssembly.var""#25#26""{WebAssembly.var""#29#30""{WebAssembly.var""#31#34""}},Union{Block, Loop}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,1
+WebAssembly,nops,true,true,0,1,Block,Block,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,12
+WebAssembly,popn!,true,true,0,1,"Array{Any,1}","Array{Any,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,47
+WebAssembly,block,true,false,0,1,Block,"Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,85
+WebAssembly,apInstr,true,true,0,1,"Array{Int64,1}","Const,Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,101
+WebAssembly,apInstr,false,false,2,1,"Union{Int64, Array{Any,1}}","Loop,Array{Any,1},Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,128
+WebAssembly,apInstr,false,false,1,2,"Union{Int64, Array{Any,1}}","If,Array{Any,1},Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,126
+WebAssembly,apN,false,false,0,1,"WebAssembly.var""#79#80""{Int64,_A} where _A","Int64,Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,52
+WebAssembly,popn!,true,true,0,1,"Array{Int64,1}","Array{Int64,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,47
+WebAssembly,func,true,true,0,0,Union{},"Array{SubString{String},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,98
+WebAssembly,apInstr,true,false,0,1,Int64,"Return,Array{_A,1} where _A,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,119
+WebAssembly,applyblock,false,false,0,1,Any,"WebAssembly.var""#25#26"",Union{Block, Loop}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,1
+WebAssembly,op,false,false,17,15,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,56
+WebAssembly,value,false,false,0,1,Any,"Const,Union{Type{Float32}, Type{Int32}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/wasm.jl,30
+WebAssembly,walk,true,true,0,1,Block,"Block,WebAssembly.var""#29#30""{WebAssembly.var""#31#34""},typeof(identity)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,5
+WebAssembly,apInstr,true,false,0,1,"Array{Any,1}","Call,Array{Any,1},Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,124
+WebAssembly,walk,true,false,0,1,Block,"Block,Function,typeof(identity)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,5
+WebAssembly,runBody,false,false,11,3,"Union{Int64, Array{Int64,1}}","Array{Instruction,1},Array{Int64,1},Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,30
+WebAssembly.WABT,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/WebAssembly.jl,4
+WebAssembly,export_,true,false,0,1,Export,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,111
+WebAssembly,apInstr,false,false,0,1,"Array{_A,1} where _A","Call,Array{_A,1} where _A,Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,124
+WebAssembly,apInstr,false,false,0,1,Any,"Op,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,104
+WebAssembly,func,true,false,0,1,Func,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,98
+WebAssembly,interpret_module,true,true,0,1,"Array{WebAssembly.var""#75#76""{Func,Dict{Any,Any}},1}",WebAssembly.Module,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,24
+WebAssembly,deNest,true,false,4,1,String,SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,44
+WebAssembly,op,true,true,1,0,Union{},SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,56
+WebAssembly,block,true,true,0,1,Block,"Array{SubString{String},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,85
+WebAssembly,__init__,true,true,0,1,String,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/WebAssembly.jl,8
+WebAssembly,if_,true,true,0,0,Union{},String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,52
+WebAssembly,apInstr,false,false,0,1,"Union{Int64, Array{Int64,1}}","Block,Array{Int64,1},Int64,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,127
+WebAssembly,export_,true,false,0,1,Export,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,111
+WebAssembly,apInstr,true,true,0,1,"Array{Any,1}","Const,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,101
+WebAssembly,deNest,false,false,7,2,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,44
+WebAssembly,value,true,true,0,1,Float64,"Const,Type{Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/wasm.jl,29
+WebAssembly,applyblock,true,true,0,1,Block,"WebAssembly.var""#32#35"",Block",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/passes.jl,1
+WebAssembly,loop,true,true,0,1,Loop,"Array{SubString{String},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,86
+WebAssembly,apInstr,true,false,5,2,Int64,"Branch,Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,120
+WebAssembly,interpretwasm,false,false,4,1,Any,"Func,Dict{Any,Any},Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/interpret.jl,1
+WebAssembly,block,true,true,0,1,Block,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,85
+WebAssembly,body,true,true,0,1,"Array{Union{},1}","Array{SubString{String},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/WebAssembly/depot/packages/WebAssembly/VmcpP/src/parser.jl,87

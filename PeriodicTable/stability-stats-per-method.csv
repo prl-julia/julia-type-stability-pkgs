@@ -1,0 +1,10 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+PeriodicTable,#Element#1,1,1.0,1.0,1,0,0,135,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PeriodicTable/depot/packages/PeriodicTable/GloLk/src/PeriodicTable.jl,65
+PeriodicTable,printpresent,12,1.0,1.0,1,0,0,64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PeriodicTable/depot/packages/PeriodicTable/GloLk/src/PeriodicTable.jl,75
+PeriodicTable,printpresenthtml,12,1.0,1.0,1,0,0,154,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PeriodicTable/depot/packages/PeriodicTable/GloLk/src/PeriodicTable.jl,101
+PeriodicTable,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PeriodicTable/depot/packages/PeriodicTable/GloLk/src/PeriodicTable.jl,11
+PeriodicTable,ispresent,4,1.0,1.0,1,0,0,52,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PeriodicTable/depot/packages/PeriodicTable/GloLk/src/PeriodicTable.jl,73
+PeriodicTable,ispresent,2,1.0,1.0,1,0,0,51,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PeriodicTable/depot/packages/PeriodicTable/GloLk/src/PeriodicTable.jl,72
+PeriodicTable,printpresenthtml,4,1.0,1.0,1,0,0,57,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PeriodicTable/depot/packages/PeriodicTable/GloLk/src/PeriodicTable.jl,101
+PeriodicTable,#printpresent#2,12,1.0,1.0,1,0,0,164,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PeriodicTable/depot/packages/PeriodicTable/GloLk/src/PeriodicTable.jl,75
+PeriodicTable,printpresent,4,1.0,1.0,1,0,0,57,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PeriodicTable/depot/packages/PeriodicTable/GloLk/src/PeriodicTable.jl,75

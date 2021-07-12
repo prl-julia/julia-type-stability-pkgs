@@ -1,0 +1,5 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+FredData,key_file,1,1.0,1.0,1,0,0,54,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FredData/depot/packages/FredData/bGF0k/src/FredData.jl,72
+FredData,load_fred_key,1,0.0,0.0,1,0,0,203,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FredData/depot/packages/FredData/bGF0k/src/FredData.jl,74
+FredData,has_fred_key,1,1.0,1.0,1,0,0,82,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FredData/depot/packages/FredData/bGF0k/src/FredData.jl,86
+FredData,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FredData/depot/packages/FredData/bGF0k/src/FredData.jl,4

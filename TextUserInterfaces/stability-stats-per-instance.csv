@@ -1,0 +1,15 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+TextUserInterfaces,@_ccalln,true,false,7,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/ncurses_functions.jl,25
+TextUserInterfaces,init_tui,true,true,30,1,TextUserInterfaces.TUI,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/init_destruct.jl,18
+TextUserInterfaces,@log,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/logger.jl,34
+TextUserInterfaces,@_ccallp,true,false,7,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/panel_functions.jl,25
+TextUserInterfaces,start_color,true,true,0,1,Int32,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/ncurses_functions.jl,132
+TextUserInterfaces,@_ccallm,true,false,7,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/menu_functions.jl,25
+TextUserInterfaces,@log_ident,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/logger.jl,43
+TextUserInterfaces,NCURSES_BITS,true,true,0,1,UInt32,"UInt32,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/ncurses_attributes.jl,11
+TextUserInterfaces,log_message,true,true,15,3,Nothing,"TextUserInterfaces.LogLevels,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/logger.jl,57
+TextUserInterfaces,@_ccallf,true,false,7,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/form_functions.jl,25
+TextUserInterfaces,has_colors,true,true,0,1,UInt8,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/ncurses_functions.jl,132
+TextUserInterfaces,init_tui,true,true,0,1,TextUserInterfaces.TUI,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/init_destruct.jl,18
+TextUserInterfaces,initscr,true,true,0,1,Ptr{WINDOW},,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/ncurses_functions.jl,132
+TextUserInterfaces,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/TextUserInterfaces.jl,1

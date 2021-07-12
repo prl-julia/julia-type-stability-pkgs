@@ -1,0 +1,5 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+COBRA,checkPackage,true,true,1,2,Bool,"Symbol,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/COBRA/depot/packages/COBRA/o1SnO/src/checkSetup.jl,30
+COBRA,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/COBRA/depot/packages/COBRA/o1SnO/src/COBRA.jl,17
+COBRA,eval,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/COBRA/depot/packages/COBRA/o1SnO/src/COBRA.jl,17
+COBRA,checkSysConfig,true,true,10,1,"Array{Any,1}",Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/COBRA/depot/packages/COBRA/o1SnO/src/checkSetup.jl,64

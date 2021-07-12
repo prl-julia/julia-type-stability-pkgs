@@ -1,0 +1,8 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Hwloc,topology_load,true,true,8,1,Hwloc.Object,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Hwloc/depot/packages/Hwloc/N8RN6/src/Hwloc.jl,335
+Hwloc,num_physical_cores,true,true,0,1,Int64,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Hwloc/depot/packages/Hwloc/N8RN6/src/Hwloc.jl,458
+Hwloc,load,true,true,13,1,Hwloc.Object,Ptr{Hwloc.hwloc_obj_v2},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Hwloc/depot/packages/Hwloc/N8RN6/src/Hwloc.jl,359
+Hwloc,histmap,true,true,3,1,"Dict{Symbol,Int64}",Hwloc.Object,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Hwloc/depot/packages/Hwloc/N8RN6/src/Hwloc.jl,449
+Hwloc,get_api_version,true,false,0,1,VersionNumber,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Hwloc/depot/packages/Hwloc/N8RN6/src/Hwloc.jl,11
+Hwloc,load_attr,false,false,15,10,Any,"Ptr{Nothing},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Hwloc/depot/packages/Hwloc/N8RN6/src/Hwloc.jl,392
+Hwloc,getinfo,true,true,3,1,"Array{Tuple{Symbol,Int64},1}",Hwloc.Object,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Hwloc/depot/packages/Hwloc/N8RN6/src/Hwloc.jl,436

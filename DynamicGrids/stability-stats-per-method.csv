@@ -1,0 +1,12 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+ModelParameters,withunits,1,0.0,0.0,1,0,0,49,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/ModelParameters/slent/src/param.jl,14
+DimensionalData,dimmacro,1,1.0,1.0,1,0,0,965,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DimensionalData/DGSeY/src/dimension.jl,340
+DynamicGrids,rules,1,0.0,0.0,1,0,0,49,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DynamicGrids/GYyOx/src/chain.jl,26
+ModelParameters,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/ModelParameters/slent/src/ModelParameters.jl,1
+ModelParameters,withunits,1,0.0,0.0,1,0,0,77,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/ModelParameters/slent/src/param.jl,14
+DimensionalData,@dim,2,1.0,1.0,1,0,1,72,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DimensionalData/DGSeY/src/dimension.jl,336
+DynamicGrids,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DynamicGrids/GYyOx/src/DynamicGrids.jl,1
+DimensionalData,dimmacro,1,1.0,1.0,1,0,0,61,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DimensionalData/DGSeY/src/dimension.jl,340
+DynamicGrids,eval,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DynamicGrids/GYyOx/src/DynamicGrids.jl,1
+DynamicGrids,__init__,1,0.0,0.0,1,0,0,291,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DynamicGrids/GYyOx/src/DynamicGrids.jl,74
+DimensionalData,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DynamicGrids/depot/packages/DimensionalData/DGSeY/src/DimensionalData.jl,1

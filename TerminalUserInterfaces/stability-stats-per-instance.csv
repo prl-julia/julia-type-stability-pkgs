@@ -1,0 +1,3 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+TerminalUserInterfaces,#CSI#1,true,true,0,1,TerminalUserInterfaces.CSI,"String,String,String,Type{TerminalUserInterfaces.CSI}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TerminalUserInterfaces/depot/packages/TerminalUserInterfaces/ha2Cg/src/utils.jl,32
+TerminalUserInterfaces,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TerminalUserInterfaces/depot/packages/TerminalUserInterfaces/ha2Cg/src/TerminalUserInterfaces.jl,1

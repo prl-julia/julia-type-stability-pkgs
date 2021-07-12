@@ -1,0 +1,1 @@
+Stability.ModuleStatsPerMethodRecord[Stability.ModuleStatsPerMethodRecord("HttpCommon", "include", 1, 0.0, 0.0, 1, 0, 0, 48, "/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/HttpCommon/depot/packages/HttpCommon/apjAN/src/HttpCommon.jl", 1)]

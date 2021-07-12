@@ -1,0 +1,401 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+XLSX,setdata!,true,true,2,1,Nothing,"XLSX.Worksheet,Int64,UnitRange{Int64},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,324
+XLSX,getcellrange,true,true,2,2,"Array{XLSX.AbstractCell,2}","XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,290
+XLSX,#gettable#11,true,false,0,1,"Tuple{Array{Any,1},Array{Symbol,1}}","Nothing,Array{String,1},Bool,Bool,Bool,Nothing,typeof(XLSX.gettable),XLSX.Worksheet",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,519
+XLSX,#writetable#44,true,true,4,1,Nothing,"Bool,String,CellRef,typeof(XLSX.writetable),String,Array{Any,1},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,591
+XLSX,getdata,false,false,2,1,Any,"XLSX.XLSXFile,XLSX.SheetCellRef",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,97
+XLSX,get_column_labels,true,true,0,1,"Array{Symbol,1}",XLSX.Index,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,211
+XLSX,has_relationship_by_type,true,true,4,2,Bool,"XLSX.Workbook,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/relationship.jl,41
+XLSX,openxlsx,false,false,0,1,"Union{Tuple{Test.Fail,Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}, Test.Pass}","var""#11#20"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,decode_column_number,true,true,5,1,Int64,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,15
+XLSX,relative_column_position,true,true,2,1,Int64,"Int64,XLSX.ColumnRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,259
+XLSX,has_sst,true,true,0,1,Bool,XLSX.Workbook,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,100
+XLSX,is_valid_column_range,true,false,5,4,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,281
+XLSX,#openxlsx#16,true,true,8,1,Nothing,"String,Bool,typeof(XLSX.openxlsx),var""#42#62""{Array{Int64,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,writetable!,true,true,0,1,Nothing,"XLSX.Worksheet,Array{Any,1},Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,394
+XLSX,split_cellname,true,true,6,1,"Tuple{SubString{String},Int64}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,83
+XLSX,#openxlsx#16,true,true,8,1,"Array{Int64,2}","String,Bool,typeof(XLSX.openxlsx),var""#39#59""{Array{Int64,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,last_column_index,true,true,7,3,Int64,"XLSX.SheetRow,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,28
+XLSX,#writetable#44,true,false,4,1,Nothing,"Bool,String,String,typeof(XLSX.writetable),String,Array{Any,1},Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,591
+XLSX,styles_is_float,true,true,0,1,Bool,"XLSX.Workbook,XLSX.CellDataFormat",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,229
+XLSX,#openxlsx#16,false,false,8,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","String,Bool,typeof(XLSX.openxlsx),var""#1#2"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,is_valid_cellname,true,true,5,4,Bool,SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,98
+XLSX,relative_cell_position,true,true,0,1,"Tuple{Int64,Int64}","XLSX.Cell,XLSX.CellRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,10
+XLSX,is_defined_name_value_a_reference,true,true,1,1,Bool,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,174
+XLSX,sst_unformatted_string,true,true,0,1,String,"XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,143
+XLSX,is_defined_name_value_a_constant,true,true,0,1,Bool,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,175
+XLSX,getdata,true,true,2,1,"Array{Any,2}","XLSX.XLSXFile,XLSX.SheetCellRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,102
+XLSX,find_row,true,true,4,1,XLSX.SheetRow,"XLSX.SheetRowStreamIterator,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,255
+XLSX,getdata,true,true,0,1,Missing,"XLSX.Worksheet,XLSX.EmptyCell",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,104
+XLSX,get_dimension,true,true,0,1,"Union{Nothing, XLSX.CellRange}",XLSX.Worksheet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,47
+XLSX,@ref_str,true,false,0,1,CellRef,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,157
+XLSX,isdate1904,true,true,0,1,Bool,XLSX.Workbook,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,42
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,String,Array{Any,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,307
+XLSX,get_defined_name_value,true,true,0,1,"Union{Missing, Float64, Int64, String, XLSX.SheetCellRange, XLSX.SheetCellRef}","XLSX.Workbook,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,166
+XLSX,addsheet!,true,true,22,1,XLSX.Worksheet,"XLSX.Workbook,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,471
+XLSX,get_xlsxfile,true,true,0,1,XLSX.XLSXFile,XLSX.Workbook,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,2
+XLSX,#openxlsx#16,true,true,8,1,Nothing,"String,Bool,typeof(XLSX.openxlsx),var""#40#60""{Array{Int64,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,sst_unformatted_string,true,true,0,1,String,"XLSX.XLSXFile,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,141
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,String,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,306
+XLSX,#writetable#44,true,false,4,1,Nothing,"Bool,String,String,typeof(XLSX.writetable),String,Array{Any,1},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,591
+XLSX,split_column_range,false,false,1,2,"Union{Tuple{SubString{String},SubString{String}}, Tuple{String,String}}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,272
+XLSX,getdata,true,false,12,1,"Array{Any,2}","XLSX.Worksheet,XLSX.CellRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,80
+XLSX,#writetable#46,true,true,8,1,Nothing,"Bool,typeof(XLSX.writetable),String,Array{Tuple{String,Array{Any,1},Array{Symbol,1}},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,659
+XLSX,push_sheetrow!,true,false,1,1,Nothing,"XLSX.WorksheetCache,XLSX.SheetRow",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,186
+XLSX,#openxlsx#16,true,true,8,1,"Array{Any,2}","String,Bool,typeof(XLSX.openxlsx),var""#44#64""{Array{Any,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,setdata!,true,false,3,1,Nothing,"XLSX.Worksheet,CellRef,Array{Any,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,312
+XLSX,#writetable!#40,true,false,19,1,Nothing,"CellRef,typeof(XLSX.writetable!),XLSX.Worksheet,Array{T,1} where T,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,394
+XLSX,column_number,true,true,0,1,Int64,CellRef,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,221
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,Colon,Int64,Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,321
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,CellRef,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,305
+XLSX,#eachtablerow#7,false,false,18,3,XLSX.TableRowIterator,"Nothing,Nothing,Bool,Bool,var""#stop_function#16"",typeof(XLSX.eachtablerow),XLSX.Worksheet",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,131
+XLSX,#openxlsx#16,true,true,6,0,Union{},"String,Bool,typeof(XLSX.openxlsx),var""#29#49"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,get_worksheet,true,false,0,1,XLSX.Worksheet,XLSX.TableRowIterator,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,196
+XLSX,push_sheetrow!,true,true,1,1,Nothing,"XLSX.WorksheetCache{XLSX.SheetRowStreamIterator},XLSX.SheetRow",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,186
+XLSX,openxlsx,false,false,0,1,Any,"var""#6#13"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,sheetcount,true,true,0,1,Int64,XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,39
+XLSX,parse_sheetname_from_sheetcell_name,true,true,2,1,SubString{String},String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,412
+XLSX,excel_value_to_datetime,true,true,2,1,DateTime,"Float64,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,253
+XLSX,get_column_label,true,true,0,1,Symbol,"XLSX.TableRow,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,214
+XLSX,is_valid_cellrange,true,true,3,4,Bool,SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,138
+XLSX,row_number,true,true,0,1,Int64,CellRef,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,214
+XLSX,#openxlsx#16,true,true,8,1,"Tuple{Array{Any,1},Array{Symbol,1}}","String,Bool,typeof(XLSX.openxlsx),XLSX.var""#23#24""{Nothing,Nothing,Bool,Bool,Bool,Nothing,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,get_worksheet,true,true,0,1,XLSX.Worksheet,XLSX.WorksheetCache{XLSX.SheetRowStreamIterator},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,210
+XLSX,getdata,false,false,0,1,Any,"XLSX.SheetRow,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,289
+XLSX,get_column_labels,true,false,0,1,"Array{Symbol,1}",XLSX.TableRowIterator,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,212
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,CellRef,Missing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,305
+XLSX,open_internal_file_stream,true,true,8,1,"Tuple{ZipFile.Reader,EzXML.StreamReader}","XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,45
+XLSX,read_worksheet_dimension,true,true,12,1,"Union{Nothing, XLSX.CellRange}","XLSX.XLSXFile,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,13
+XLSX,getdata,false,false,0,1,Any,"XLSX.Worksheet,CellRef",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,77
+XLSX,row_number,true,true,0,1,Int64,XLSX.TableRow,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,210
+XLSX,xlsx_encode,true,true,0,1,"Tuple{String,String}","XLSX.Worksheet,Date",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,286
+XLSX,xmlroot,true,true,0,1,EzXML.Node,"XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,462
+XLSX,#openxlsx#16,false,false,8,1,"Union{Tuple{Test.Fail,Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}, Test.Pass}","String,Bool,typeof(XLSX.openxlsx),var""#36#56"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,is_valid_fixed_sheet_cellrange,true,true,0,1,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,460
+XLSX,target_cell_ref_from_offset,true,true,2,2,CellRef,"Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,369
+XLSX,infer_eltype,false,false,11,5,Type,"Array{T,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,387
+XLSX,iserror,true,true,0,1,Bool,XLSX.EmptyCell,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,5
+XLSX,check_minimum_requirements,true,true,5,1,Nothing,XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,262
+XLSX,column_number,true,true,0,1,Int64,XLSX.EmptyCell,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,7
+XLSX,remove_formatting,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,152
+XLSX,xlsx_encode,true,true,1,2,"Tuple{String,String}","XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,275
+XLSX,getdata,false,false,0,1,Any,"XLSX.Worksheet,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,78
+XLSX,default_cell_format,false,false,0,1,"Union{XLSX.EmptyCellDataFormat, XLSX.CellDataFormat}","XLSX.Worksheet,Time",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,37
+XLSX,split_cellrange,true,true,2,1,"Tuple{SubString{String},SubString{String}}",SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,132
+XLSX,styles_is_datetime,true,false,13,1,Bool,"XLSX.Workbook,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,165
+XLSX,#setindex!#38,true,true,0,1,Nothing,"Int64,typeof(setindex!),XLSX.Worksheet,Array{Any,1},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,302
+XLSX,setdata!,true,true,6,1,Nothing,"XLSX.Worksheet,CellRef,Array{Any,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,350
+XLSX,internal_xml_file_isread,true,true,0,1,Bool,"XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,409
+XLSX,styles_is_datetime,true,true,2,1,Bool,"XLSX.Workbook,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,189
+XLSX,setdata!,true,false,0,1,Nothing,"XLSX.Worksheet,CellRef,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,309
+XLSX,styles_cell_xf,true,true,0,1,EzXML.Node,"XLSX.Workbook,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,77
+XLSX,table_columns_count,true,true,0,1,Int64,XLSX.TableRow,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,209
+XLSX,eachrow,false,false,2,2,"Union{XLSX.SheetRowStreamIterator, XLSX.WorksheetCache}",XLSX.Worksheet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,311
+XLSX,styles_is_float,true,true,2,1,Bool,"XLSX.Workbook,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,224
+XLSX,sheet_column_numbers,true,true,0,1,"Base.ValueIterator{Dict{Int64,Int64}}",XLSX.Index,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,199
+XLSX,openxlsx,true,true,0,1,Nothing,"var""#12#21"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,hassheet,true,true,4,2,Bool,"XLSX.Workbook,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,22
+XLSX,openxlsx,false,false,0,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","var""#3#4"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,Int64,Colon,Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,322
+XLSX,setdata!,true,true,0,0,Union{},"XLSX.Worksheet,CellRef,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,309
+XLSX,#openxlsx#16,true,true,6,0,Union{},"String,Bool,typeof(XLSX.openxlsx),var""#28#48"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,getcell,false,false,2,1,"Union{XLSX.Cell, XLSX.EmptyCell}","XLSX.XLSXFile,XLSX.SheetCellRef",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,133
+XLSX,is_defined_name_value_a_reference,true,true,0,1,Bool,XLSX.SheetCellRef,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,174
+XLSX,getcell,false,false,4,2,"Union{XLSX.Cell, XLSX.EmptyCell}","XLSX.Worksheet,CellRef",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,204
+XLSX,#openxlsx#16,false,false,8,1,Any,"String,Bool,typeof(XLSX.openxlsx),var""#6#13"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,openxlsx,false,false,0,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","var""#1#2"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,get_xlsxfile,true,true,0,1,XLSX.XLSXFile,XLSX.Worksheet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,3
+XLSX,split_cellrange,true,true,2,1,"Tuple{SubString{String},SubString{String}}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,132
+XLSX,get_workbook,true,true,0,1,XLSX.Workbook,XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,5
+XLSX,styles_cell_xf_numFmtId,true,true,0,1,Int64,"XLSX.Workbook,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,84
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,CellRef,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,305
+XLSX,is_workbook_defined_name,true,true,0,1,Bool,"XLSX.Workbook,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,160
+XLSX,is_defined_name_value_a_reference,true,true,1,1,Bool,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,174
+XLSX,#eachtablerow#7,false,false,18,3,XLSX.TableRowIterator,"Nothing,Nothing,Bool,Bool,Nothing,typeof(XLSX.eachtablerow),XLSX.Worksheet",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,131
+XLSX,default_cell_format,false,false,0,1,"Union{XLSX.EmptyCellDataFormat, XLSX.CellDataFormat}","XLSX.Worksheet,DateTime",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,38
+XLSX,getcellrange,true,false,15,1,"Array{XLSX.AbstractCell,2}","XLSX.Worksheet,XLSX.CellRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,231
+XLSX,sheetnames,true,true,0,1,"Array{String,1}",XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,20
+XLSX,internal_xml_file_add!,true,true,4,1,Nothing,"XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,412
+XLSX,getdata,true,true,1,1,"Array{Any,2}",XLSX.Worksheet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,167
+XLSX,is_defined_name_value_a_constant,true,true,0,1,Bool,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,175
+XLSX,xlsx_encode,true,true,2,1,"Tuple{String,String}","XLSX.Worksheet,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,284
+XLSX,#gettable#11,true,false,0,1,"Tuple{Array{Any,1},Array{Symbol,1}}","Nothing,Nothing,Bool,Bool,Bool,var""#never_reaches_stop#17"",typeof(XLSX.gettable),XLSX.Worksheet",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,519
+XLSX,find_row,true,false,4,1,XLSX.SheetRow,"XLSX.WorksheetCache,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,255
+XLSX,gettable,true,true,0,1,"Tuple{Array{Any,1},Array{Symbol,1}}","XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,514
+XLSX,get_workbook_relationship_root,true,true,4,1,EzXML.Node,XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/relationship.jl,57
+XLSX,relative_column_position,true,true,0,1,Int64,"XLSX.Cell,XLSX.ColumnRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,12
+XLSX,open_empty_template,true,true,0,1,XLSX.XLSXFile,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,20
+XLSX,is_worksheet_defined_name,true,true,0,1,Bool,"XLSX.Workbook,Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,163
+XLSX,get_column_labels,true,true,0,1,"Array{Symbol,1}",XLSX.TableRow,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,213
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,306
+XLSX,writetable!,true,true,0,1,Nothing,"XLSX.Worksheet,Array{Array{String,1},1},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,394
+XLSX,readdata,false,false,0,1,Any,"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,507
+XLSX,#writexlsx#37,true,true,18,1,Nothing,"Bool,typeof(XLSX.writexlsx),String,XLSX.XLSXFile",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,46
+XLSX,table_column_to_sheet_column_number,true,true,0,1,Int64,"XLSX.Index,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,206
+XLSX,#eachtablerow#6,false,false,14,1,XLSX.TableRowIterator,"Int64,Nothing,Bool,Bool,var""#never_reaches_stop#17"",typeof(XLSX.eachtablerow),XLSX.Worksheet,XLSX.ColumnRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,93
+XLSX,#readtable#22,true,true,0,1,"Tuple{Array{Any,1},Array{Symbol,1}}","Nothing,Nothing,Bool,Bool,Bool,Nothing,Bool,typeof(XLSX.readtable),String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,572
+XLSX,getcellrange,true,true,2,1,"Array{XLSX.AbstractCell,2}","XLSX.XLSXFile,XLSX.SheetCellRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,140
+XLSX,check_for_xlsx_file_format,true,false,8,1,Nothing,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,10
+XLSX,writetable!,true,true,0,1,Nothing,"XLSX.Worksheet,Array{Any,1},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,394
+XLSX,infer_eltype,true,true,0,1,Type{Int64},"Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,387
+XLSX,#openxlsx#16,false,false,8,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","String,Bool,typeof(XLSX.openxlsx),var""#3#4"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,get_shared_string_index,true,true,3,2,"Union{Nothing, Int64}","XLSX.SharedStringTable,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,12
+XLSX,row_number,true,true,0,1,Int64,XLSX.CellPosition,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,10
+XLSX,convert,true,true,0,1,XLSX.ColumnRange,"Type{XLSX.ColumnRange},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,306
+XLSX,default_cell_format,false,false,0,1,"Union{XLSX.EmptyCellDataFormat, XLSX.CellDataFormat}","XLSX.Worksheet,Date",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,36
+XLSX,parse_relationships!,true,true,10,1,Nothing,XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,278
+XLSX,getcellrange,true,true,2,1,"Array{XLSX.AbstractCell,2}","XLSX.XLSXFile,XLSX.SheetColumnRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,145
+XLSX,openxlsx,true,true,0,1,XLSX.XLSXFile,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,154
+XLSX,#openxlsx#16,true,true,8,1,"Array{Int64,2}","String,Bool,typeof(XLSX.openxlsx),var""#41#61""{Array{Int64,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,convert,true,true,0,1,XLSX.ColumnRange,"Type{XLSX.ColumnRange},XLSX.ColumnRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,307
+XLSX,relative_cell_position,true,true,2,1,"Tuple{Int64,Int64}","CellRef,XLSX.CellRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,238
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,CellRef,Union{Missing, Bool, Float64, Int64, Date, DateTime, Time, String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,305
+XLSX,sst_unformatted_string,true,true,0,1,String,"XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,143
+XLSX,setdata!,true,true,2,1,Nothing,"XLSX.Worksheet,XLSX.CellRange,Array{Any,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,360
+XLSX,isdate1904,true,true,0,1,Bool,XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,43
+XLSX,#openxlsx#16,false,false,8,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","String,Bool,typeof(XLSX.openxlsx),var""#26#27"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,openxlsx,true,true,0,1,Nothing,"var""#42#62""{Array{Int64,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,styles_add_cell_xf,true,true,3,1,XLSX.CellDataFormat,"XLSX.Workbook,Dict{String,String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,267
+XLSX,getcell,false,false,2,1,"Union{XLSX.Cell, XLSX.EmptyCell}","XLSX.SheetRow,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,284
+XLSX,getsheet,true,true,0,1,XLSX.Worksheet,"XLSX.Workbook,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,54
+XLSX,split_column_range,true,true,1,2,"Tuple{SubString{String},SubString{String}}",SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,272
+XLSX,styles_numFmt_formatCode,true,true,2,1,String,"XLSX.Workbook,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,141
+XLSX,writexlsx,true,true,0,1,Nothing,"String,XLSX.XLSXFile",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,46
+XLSX,_celldata_datetime,false,false,8,3,"Union{Date, DateTime, Time}","String,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,199
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,CellRef,Time",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,305
+XLSX,#gettable#11,true,false,0,1,"Tuple{Array{Any,1},Array{Symbol,1}}","Nothing,Nothing,Bool,Bool,Bool,Nothing,typeof(XLSX.gettable),XLSX.Worksheet",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,519
+XLSX,#openxlsx#17,true,true,3,2,XLSX.XLSXFile,"String,Bool,typeof(XLSX.openxlsx),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,154
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,306
+XLSX,xlsx_escape,true,true,14,2,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,248
+XLSX,#gettable#10,true,false,0,1,"Tuple{Array{Any,1},Array{Symbol,1}}","Int64,Nothing,Bool,Bool,Bool,Nothing,typeof(XLSX.gettable),XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,514
+XLSX,parse_relationship_target,true,true,7,2,String,"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/relationship.jl,12
+XLSX,getcellrange,true,false,14,1,"Array{XLSX.AbstractCell,2}","XLSX.Worksheet,XLSX.ColumnRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,263
+XLSX,get_worksheet,true,true,0,1,XLSX.Worksheet,XLSX.SheetRowStreamIterator,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,39
+XLSX,#openxlsx#16,false,false,8,1,"Union{Tuple{Test.Fail,Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}, Test.Pass}","String,Bool,typeof(XLSX.openxlsx),var""#11#20"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,encode_column_number,true,true,6,3,String,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,32
+XLSX,#openxlsx#16,true,true,8,1,"Tuple{Array{Any,1},Array{Symbol,1}}","String,Bool,typeof(XLSX.openxlsx),XLSX.var""#26#27""{Nothing,Nothing,Bool,Bool,Bool,Nothing,String,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,is_cache_enabled,true,true,0,1,Bool,XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,183
+XLSX,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/XLSX.jl,2
+XLSX,#openxlsx#16,false,false,8,1,"Union{Tuple{Test.Fail,Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}, Test.Pass}","String,Bool,typeof(XLSX.openxlsx),var""#43#63""{Array{Int64,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,openxlsx,false,false,0,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","var""#26#27"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,styles_is_datetime,true,true,0,1,Bool,"XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,194
+XLSX,addsheet!,true,true,0,1,XLSX.Worksheet,XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,463
+XLSX,#writetable#45,true,true,8,1,Nothing,"Bool,Base.Iterators.Pairs{Symbol,Tuple{Array{Any,1},Array{String,1}},Tuple{Symbol,Symbol},NamedTuple{(:REPORT_A, :REPORT_B),Tuple{Tuple{Array{Any,1},Array{String,1}},Tuple{Array{Any,1},Array{String,1}}}}},typeof(XLSX.writetable),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,631
+XLSX,setdata!,true,false,3,1,Nothing,"XLSX.Worksheet,CellRef,AbstractArray{T,1} where T,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,312
+XLSX,get_sst,true,true,0,1,XLSX.SharedStringTable,XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,5
+XLSX,openxlsx,false,false,0,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","var""#35#55""{Array{Int64,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,remove_formatting,true,false,0,1,String,AbstractString,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,152
+XLSX,#eachtablerow#6,false,false,14,1,XLSX.TableRowIterator,"Int64,Nothing,Bool,Bool,Nothing,typeof(XLSX.eachtablerow),XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,93
+XLSX,sheetnames,true,true,0,1,"Array{String,1}",XLSX.Workbook,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,19
+XLSX,getdata,false,false,6,5,Any,"XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,112
+XLSX,is_defined_name_value_a_constant,true,true,0,1,Bool,XLSX.SheetCellRef,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,175
+XLSX,default_cell_format,true,true,0,1,XLSX.EmptyCellDataFormat,"XLSX.Worksheet,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,35
+XLSX,is_valid_cellname,true,true,5,4,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,98
+XLSX,row_number,true,true,0,1,Int64,XLSX.SheetRow,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,264
+XLSX,table_column_numbers,true,true,0,1,Base.OneTo{Int64},XLSX.TableRow,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,203
+XLSX,styles_xmlroot,true,true,7,1,"Union{Nothing, EzXML.Node}",XLSX.Workbook,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,56
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,Int64,Colon,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,322
+XLSX,getcell,false,false,0,1,"Union{XLSX.Cell, XLSX.EmptyCell}","XLSX.Worksheet,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,223
+XLSX,get_worksheet_internal_file,true,true,0,1,String,XLSX.Worksheet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,87
+XLSX,#eachtablerow#7,false,false,18,3,XLSX.TableRowIterator,"Nothing,Nothing,Bool,Bool,var""#never_reaches_stop#17"",typeof(XLSX.eachtablerow),XLSX.Worksheet",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,131
+XLSX,setdata!,true,true,5,1,Nothing,"XLSX.Worksheet,XLSX.Cell",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,229
+XLSX,sst_load!,true,true,9,2,Nothing,XLSX.Workbook,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,71
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,CellRef,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,305
+XLSX,readtable,true,true,0,1,"Tuple{Array{Any,1},Array{Symbol,1}}","String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,572
+XLSX,generate_sst_xml_string,true,true,5,1,String,XLSX.SharedStringTable,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,97
+XLSX,#openxlsx#16,true,true,8,1,Int64,"String,Bool,typeof(XLSX.openxlsx),var""#34#54"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,find_row,true,true,4,1,XLSX.SheetRow,"XLSX.WorksheetCache{XLSX.SheetRowStreamIterator},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,255
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,CellRef,Date",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,305
+XLSX,getsheet,true,true,0,1,XLSX.Worksheet,"XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,55
+XLSX,#eachtablerow#7,false,false,18,3,XLSX.TableRowIterator,"Int64,Nothing,Bool,Bool,Nothing,typeof(XLSX.eachtablerow),XLSX.Worksheet",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,131
+XLSX,datetime_to_excel_value,true,true,0,1,Float64,"DateTime,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,268
+XLSX,infer_eltype,false,false,11,5,Type,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,356
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,Int64,Int64,CellValue",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,297
+XLSX,#gettable#11,true,false,0,1,"Tuple{Array{Any,1},Array{Symbol,1}}","Int64,Nothing,Bool,Bool,Bool,Nothing,typeof(XLSX.gettable),XLSX.Worksheet",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,519
+XLSX,setdata!,true,true,2,2,Nothing,"XLSX.Worksheet,String,Array{Int64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,340
+XLSX,unformatted_text,true,false,2,1,String,EzXML.Node,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,108
+XLSX,xlsx_encode,true,true,0,1,"Tuple{String,String}","XLSX.Worksheet,Time",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,288
+XLSX,is_defined_name_value_a_constant,true,true,0,1,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,175
+XLSX,open_empty_template,true,true,3,1,XLSX.XLSXFile,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,20
+XLSX,get_relationship_target_by_type,true,true,4,1,String,"String,XLSX.Workbook,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/relationship.jl,32
+XLSX,#writetable#46,true,false,8,1,Nothing,"Bool,typeof(XLSX.writetable),String,Array{Tuple{String,Array{T,1} where T,Array{String,1}},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,659
+XLSX,is_defined_name_value_a_reference,true,true,1,1,Bool,Missing,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,174
+XLSX,parse_workbook!,true,false,56,1,Nothing,XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,299
+XLSX,is_worksheet_defined_name,true,true,0,1,Bool,"XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,162
+XLSX,styles_is_float,true,true,0,1,Bool,"XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,230
+XLSX,getdata,true,true,1,1,"Union{Missing, Bool, Float64, Int64, Date, DateTime, Time, String}","XLSX.TableRow,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,255
+XLSX,excel_value_to_time,true,true,4,1,Time,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,225
+XLSX,#eachtablerow#6,false,false,14,1,XLSX.TableRowIterator,"Int64,Nothing,Bool,Bool,Nothing,typeof(XLSX.eachtablerow),XLSX.Worksheet,XLSX.ColumnRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,93
+XLSX,#writetable#12,true,false,6,1,Nothing,"Base.Iterators.Pairs{Symbol,Any,Tuple{Symbol,Symbol,Symbol},NamedTuple{(:overwrite, :sheetname, :anchor_cell),Tuple{Bool,String,String}}},typeof(XLSX.writetable),String,NamedTuple{(:Integers, :Strings, :Floats, :Booleans, :Dates, :Times, :DateTimes),Tuple{Array{Union{Missing, Int64},1},Array{String,1},Array{Union{Missing, Float64},1},Array{Union{Missing, Bool},1},Array{Date,1},Array{Time,1},Array{DateTime,1}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/tables_interface.jl,12
+XLSX,table_columns_count,true,false,0,1,Int64,XLSX.TableRowIterator,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,208
+XLSX,styles_get_cellXf_with_numFmtId,false,false,6,3,"Union{XLSX.EmptyCellDataFormat, XLSX.CellDataFormat}","XLSX.Workbook,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,246
+XLSX,#eachtablerow#6,false,false,14,1,XLSX.TableRowIterator,"Nothing,Nothing,Bool,Bool,Nothing,typeof(XLSX.eachtablerow),XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,93
+XLSX,decode_column_number,true,true,5,1,Int64,SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,15
+XLSX,open_or_read_xlsx,true,true,36,1,XLSX.XLSXFile,"String,Bool,Bool,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,180
+XLSX,writetable!,true,false,0,1,Nothing,"XLSX.Worksheet,Array{T,1} where T,Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,394
+XLSX,styles_is_datetime,true,true,0,1,Bool,"XLSX.Workbook,XLSX.CellDataFormat",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,187
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,CellRef,DateTime",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,305
+XLSX,parse_file_mode,true,true,5,3,"Tuple{Bool,Bool}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,168
+XLSX,#setindex!#38,true,false,0,1,Nothing,"Int64,typeof(setindex!),XLSX.Worksheet,AbstractArray{T,1} where T,CellRef",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,302
+XLSX,#setindex!#39,true,true,0,1,Nothing,"Int64,typeof(setindex!),XLSX.Worksheet,Array{Int64,1},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,303
+XLSX,#openxlsx#16,true,true,8,1,Int64,"String,Bool,typeof(XLSX.openxlsx),var""#68#69"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,getdata,true,true,0,1,"Union{Missing, Bool, Float64, Int64, Date, DateTime, Time, String}","XLSX.TableRow,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,253
+XLSX,time_to_excel_value,true,true,0,1,Float64,Time,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,230
+XLSX,is_valid_sheet_cellname,true,true,2,3,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,369
+XLSX,xlsx_encode,true,true,0,1,"Tuple{String,String}","XLSX.Worksheet,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,285
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,Int64,Int64,Array{Int64,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,310
+XLSX,get_worksheet,true,true,0,1,XLSX.Worksheet,XLSX.SheetRow,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,209
+XLSX,#eachtablerow#6,false,false,14,1,XLSX.TableRowIterator,"Int64,Nothing,Bool,Bool,var""#stop_function#16"",typeof(XLSX.eachtablerow),XLSX.Worksheet,XLSX.ColumnRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,93
+XLSX,is_defined_name_value_a_reference,true,true,1,2,Bool,"Union{Missing, Float64, Int64, String, XLSX.SheetCellRange, XLSX.SheetCellRef}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,174
+XLSX,add_shared_string!,true,true,9,1,Int64,"XLSX.Workbook,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,40
+XLSX,openxlsx,false,false,0,1,"Union{Tuple{Test.Fail,Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}, Test.Pass}","var""#36#56"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,Int64,Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,308
+XLSX,default_cell_format,true,true,0,1,XLSX.EmptyCellDataFormat,"XLSX.Worksheet,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,35
+XLSX,getcell,false,false,1,1,"Union{XLSX.Cell, XLSX.EmptyCell}","XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,215
+XLSX,xmldocument,true,true,0,1,EzXML.Document,"XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,458
+XLSX,setdata!,true,false,0,1,Nothing,"XLSX.Worksheet,CellRef,CellValue",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,290
+XLSX,styles_is_float,true,true,19,1,Bool,"XLSX.Workbook,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,196
+XLSX,openxlsx,false,false,0,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","var""#47#67"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,#openxlsx#16,false,false,8,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","String,Bool,typeof(XLSX.openxlsx),var""#45#65"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,internal_xml_file_exists,true,true,0,1,Bool,"XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,410
+XLSX,#openxlsx#16,false,false,8,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","String,Bool,typeof(XLSX.openxlsx),var""#47#67"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,#openxlsx#16,false,false,8,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","String,Bool,typeof(XLSX.openxlsx),var""#31#51""{String,Array{Any,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,setdata!,true,true,2,2,Nothing,"XLSX.Worksheet,String,Array{Any,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,340
+XLSX,relative_column_position,true,true,0,1,Int64,"XLSX.EmptyCell,XLSX.ColumnRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,13
+XLSX,getdata,true,false,14,1,"Array{Any,2}","XLSX.Worksheet,XLSX.ColumnRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,109
+XLSX,#openxlsx#16,true,true,8,1,Nothing,"String,Bool,typeof(XLSX.openxlsx),var""#38#58""{Array{Int64,1}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,id,true,true,0,1,String,XLSX.EmptyCellDataFormat,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,21
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,CellRef,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,305
+XLSX,update_worksheets_xml!,true,false,23,1,Nothing,XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,114
+XLSX,#openxlsx#16,true,true,8,1,Nothing,"String,Bool,typeof(XLSX.openxlsx),var""#12#21"",String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,column_bounds,true,true,7,1,"Tuple{Int64,Int64}",XLSX.SheetRow,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,7
+XLSX,#eachtablerow#6,false,false,6,1,XLSX.TableRowIterator,"Int64,Array{String,1},Bool,Bool,Nothing,typeof(XLSX.eachtablerow),XLSX.Worksheet,XLSX.ColumnRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,93
+XLSX,openxlsx,true,true,0,1,Nothing,"var""#38#58""{Array{Int64,1}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,#gettable#9,true,false,21,1,"Tuple{Array{Any,1},Array{Symbol,1}}","Bool,typeof(XLSX.gettable),XLSX.TableRowIterator{XLSX.SheetRowStreamIterator}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,412
+XLSX,#openxlsx#16,false,false,8,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","String,Bool,typeof(XLSX.openxlsx),var""#35#55""{Array{Int64,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,eachtablerow,false,false,0,1,XLSX.TableRowIterator,XLSX.Worksheet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,131
+XLSX,getdata,true,true,0,1,"Array{Any,2}","XLSX.Worksheet,XLSX.SheetCellRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,165
+XLSX,#openxlsx#16,false,false,8,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","String,Bool,typeof(XLSX.openxlsx),var""#33#53""{Array{Int64,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,#openxlsx#16,false,false,8,1,Any,"String,Bool,typeof(XLSX.openxlsx),XLSX.var""#18#19""{String,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,add_relationship!,true,true,9,1,String,"XLSX.Workbook,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/relationship.jl,65
+XLSX,xlsx_encode,true,true,0,1,"Tuple{String,String}","XLSX.Worksheet,Missing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,283
+XLSX,row_number,true,true,0,1,Int64,XLSX.Cell,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,8
+XLSX,get_worksheet,true,false,0,1,XLSX.Worksheet,XLSX.WorksheetCache,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,210
+XLSX,getcell,false,false,1,2,"Union{XLSX.Cell, XLSX.EmptyCell}","XLSX.SheetRow,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,276
+XLSX,#gettable#9,true,false,21,1,"Tuple{Array{Any,1},Array{Symbol,1}}","Bool,typeof(XLSX.gettable),XLSX.TableRowIterator",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,412
+XLSX,default_cell_format,true,true,0,1,XLSX.EmptyCellDataFormat,"XLSX.Worksheet,Missing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,35
+XLSX,getsheet,true,true,4,1,XLSX.Worksheet,"XLSX.Workbook,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,45
+XLSX,#openxlsx#16,false,false,8,1,Any,"String,Bool,typeof(XLSX.openxlsx),XLSX.var""#20#21""{String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,readxlsx,true,true,0,1,XLSX.XLSXFile,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,37
+XLSX,row_number,true,true,0,1,Int64,XLSX.EmptyCell,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,6
+XLSX,add_shared_string!,true,true,3,2,Int64,"XLSX.SharedStringTable,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,24
+XLSX,is_defined_name_value_a_reference,true,true,1,1,Bool,XLSX.SheetCellRange,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,174
+XLSX,find_t_node_recursively,true,true,5,3,"Union{Nothing, EzXML.Node}",EzXML.Node,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,21
+XLSX,getcellrange,true,true,2,2,"Array{XLSX.AbstractCell,2}","XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,150
+XLSX,getdata,true,true,2,1,"Array{Any,2}","XLSX.XLSXFile,XLSX.SheetColumnRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,107
+XLSX,addsheet!,true,true,0,1,XLSX.Worksheet,"XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,463
+XLSX,date_to_excel_value,true,true,1,2,Int64,"Date,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,241
+XLSX,gettable,true,false,0,1,"Tuple{Array{Any,1},Array{Symbol,1}}",XLSX.TableRowIterator,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,412
+XLSX,#openxlsx#16,true,true,8,1,Nothing,"String,Bool,typeof(XLSX.openxlsx),var""#46#66""{Array{Any,1},Array{String,1}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,getcell,false,false,0,1,"Union{XLSX.Cell, XLSX.EmptyCell}","XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,138
+XLSX,sst_unformatted_string,true,true,0,1,String,"XLSX.Worksheet,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,142
+XLSX,column_name,true,true,0,1,String,CellRef,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,223
+XLSX,isdate1904,true,true,0,1,Bool,XLSX.Worksheet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,43
+XLSX,get_num_style_index,false,false,3,1,"Union{XLSX.EmptyCellDataFormat, XLSX.CellDataFormat}","XLSX.Worksheet,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,42
+XLSX,table_columns_count,true,true,0,1,Int64,XLSX.TableRowIterator{XLSX.SheetRowStreamIterator},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,208
+XLSX,split_cellname,true,true,6,1,"Tuple{SubString{String},Int64}",SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,83
+XLSX,addzipfile,true,true,0,1,"Union{Nothing, ZipFile.WritableFile}","ZipFile.Writer,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,31
+XLSX,is_valid_column_name,true,true,4,3,Bool,SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,66
+XLSX,#writetable!#40,true,true,19,1,Nothing,"CellRef,typeof(XLSX.writetable!),XLSX.Worksheet,Array{Array{String,1},1},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,394
+XLSX,#openxlsx#16,true,true,8,1,"Array{Int64,1}","String,Bool,typeof(XLSX.openxlsx),var""#32#52""{Array{Int64,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,column_number,true,true,0,1,Int64,XLSX.Cell,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,9
+XLSX,getsheet,true,true,0,1,XLSX.Worksheet,"XLSX.XLSXFile,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,56
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,308
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,Int64,Int64,Array{Any,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,310
+XLSX,setdata!,true,true,0,0,Union{},"XLSX.Worksheet,String,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,306
+XLSX,add_cell_to_worksheet_dimension!,true,true,8,2,Nothing,"XLSX.Worksheet,XLSX.Cell",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,198
+XLSX,xlsx_encode,true,true,0,1,"Tuple{String,String}","XLSX.Worksheet,DateTime",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,287
+XLSX,is_valid_cellrange,true,true,3,4,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,138
+XLSX,get_sst,true,true,0,1,XLSX.SharedStringTable,XLSX.Workbook,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,4
+XLSX,get_default_namespace,true,true,4,1,String,EzXML.Node,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,251
+XLSX,openxlsx,false,false,0,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","var""#31#51""{String,Array{Any,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,column_number,true,true,0,1,Int64,XLSX.CellPosition,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,11
+XLSX,readtable,true,true,0,1,"Tuple{Array{Any,1},Array{Symbol,1}}","String,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,579
+XLSX,getdata,false,false,9,7,Any,"XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,134
+XLSX,get_column_labels,true,true,0,1,"Array{Symbol,1}",XLSX.TableRowIterator{XLSX.SheetRowStreamIterator},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,212
+XLSX,is_valid_column_range,true,true,5,4,Bool,SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,281
+XLSX,#readtable#25,true,true,0,1,"Tuple{Array{Any,1},Array{Symbol,1}}","Nothing,Nothing,Bool,Bool,Bool,Nothing,Bool,typeof(XLSX.readtable),String,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,579
+XLSX,is_cache_enabled,true,true,0,1,Bool,XLSX.Worksheet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,181
+XLSX,table_columns_count,true,true,0,1,Int64,XLSX.TableRowIterator{XLSX.WorksheetCache{XLSX.SheetRowStreamIterator}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,208
+XLSX,default_cell_format,true,true,0,1,XLSX.EmptyCellDataFormat,"XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,35
+XLSX,add_shared_string!,true,true,0,1,Int64,"XLSX.Workbook,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,66
+XLSX,relative_cell_position,true,true,0,1,"Tuple{Int64,Int64}","XLSX.EmptyCell,XLSX.CellRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,11
+XLSX,get_relationship_target_by_id,true,true,4,1,String,"String,XLSX.Workbook,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/relationship.jl,23
+XLSX,readdata,false,false,0,1,Any,"String,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,500
+XLSX,get_worksheet,true,true,0,1,XLSX.Worksheet,XLSX.TableRowIterator{XLSX.WorksheetCache{XLSX.SheetRowStreamIterator}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,196
+XLSX,get_worksheet_xml_document,true,true,0,1,EzXML.Document,XLSX.Worksheet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,88
+XLSX,column_bounds,true,true,0,1,"Tuple{Int64,Int64}",XLSX.ColumnRange,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,309
+XLSX,is_defined_name_value_a_constant,true,true,0,1,Bool,XLSX.SheetCellRange,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,175
+XLSX,#openxlsx#16,true,true,8,1,"Array{Any,1}","String,Bool,typeof(XLSX.openxlsx),var""#30#50""{String,Array{Any,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,is_defined_name_value_a_reference,true,true,1,1,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,174
+XLSX,setdata!,true,true,2,1,Nothing,"XLSX.Worksheet,XLSX.CellRange,Array{Int64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,360
+XLSX,getdata,false,false,0,1,Any,"XLSX.SheetRow,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,289
+XLSX,filenames,true,true,0,1,"Base.KeySet{String,Dict{String,Bool}}",XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,406
+XLSX,setdata!,true,false,6,1,Nothing,"XLSX.Worksheet,CellRef,Array{T,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,350
+XLSX,is_valid_sheet_column_range,true,true,2,3,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,395
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,String,CellValue",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,306
+XLSX,openxlsx,true,true,0,1,Nothing,"var""#40#60""{Array{Int64,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,table_columns_count,true,true,0,1,Int64,XLSX.Index,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,207
+XLSX,get_package_relationship_root,true,true,4,1,EzXML.Node,XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/relationship.jl,50
+XLSX,is_valid_fixed_sheet_cellname,true,true,0,1,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,459
+XLSX,#writetable!#40,true,false,19,1,Nothing,"CellRef,typeof(XLSX.writetable!),XLSX.Worksheet,Array{Any,1},Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,394
+XLSX,check_table_data_dimension,true,false,12,3,Nothing,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,389
+XLSX,init_sst_index,true,true,3,1,Nothing,XLSX.SharedStringTable,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,147
+XLSX,#gettable#10,true,false,0,1,"Tuple{Array{Any,1},Array{Symbol,1}}","Nothing,Nothing,Bool,Bool,Bool,Nothing,typeof(XLSX.gettable),XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,514
+XLSX,default_cell_format,true,true,0,1,XLSX.EmptyCellDataFormat,"XLSX.Worksheet,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,35
+XLSX,is_valid_column_name,true,true,4,3,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,66
+XLSX,getdata,false,false,23,14,Any,"XLSX.Worksheet,XLSX.Cell",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,123
+XLSX,get_column_labels,true,true,0,1,"Array{Symbol,1}",XLSX.TableRowIterator{XLSX.WorksheetCache{XLSX.SheetRowStreamIterator}},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,212
+XLSX,openxlsx,false,false,0,1,"Union{Tuple{Union{Test.Error, Test.Fail},Union{Bool, Array{Union{Ptr{Nothing}, Base.InterpreterIP},1}}}, Test.Pass}","var""#33#53""{Array{Int64,2}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,internal_xml_file_read,true,true,11,1,EzXML.Document,"XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,418
+XLSX,sheetcount,true,true,0,1,Int64,XLSX.Workbook,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,38
+XLSX,setdata!,true,true,2,1,Nothing,"XLSX.Worksheet,UnitRange{Int64},Int64,Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,332
+XLSX,_find_first_row_with_data,true,true,4,1,Int64,"XLSX.Worksheet,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,186
+XLSX,sst_unformatted_string,true,true,0,1,String,"XLSX.Workbook,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/sst.jl,129
+XLSX,is_workbook_defined_name,true,true,0,1,Bool,"XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,161
+XLSX,styles_add_font,true,false,5,1,Int64,"XLSX.Workbook,Array{Union{Pair{String,Pair{String,String}}, AbstractString},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,120
+XLSX,is_valid_sheet_cellrange,true,true,2,3,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,382
+XLSX,open_xlsx_template,true,true,0,1,XLSX.XLSXFile,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,9
+XLSX,table_column_numbers,true,true,0,1,Base.OneTo{Int64},XLSX.Index,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,202
+XLSX,#gettable#9,true,false,21,1,"Tuple{Array{Any,1},Array{Symbol,1}}","Bool,typeof(XLSX.gettable),XLSX.TableRowIterator{XLSX.WorksheetCache{XLSX.SheetRowStreamIterator}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,412
+XLSX,#writetable!#40,true,false,19,1,Nothing,"CellRef,typeof(XLSX.writetable!),XLSX.Worksheet,Array{Any,1},Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,394
+XLSX,set_dimension!,true,true,0,1,Nothing,"XLSX.Worksheet,XLSX.CellRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/worksheet.jl,49
+XLSX,target_cell_ref_from_offset,true,true,0,1,CellRef,"CellRef,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,379
+XLSX,setdata!,true,true,3,1,Nothing,"XLSX.Worksheet,CellRef,Array{Int64,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,312
+XLSX,set_worksheet_xml_document!,true,true,2,1,EzXML.Document,"XLSX.Worksheet,EzXML.Document",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,90
+XLSX,default_cell_format,false,false,0,1,"Union{XLSX.EmptyCellDataFormat, XLSX.CellDataFormat}","XLSX.Worksheet,Union{Missing, Bool, Float64, Int64, Date, DateTime, Time, String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,35
+XLSX,rename!,true,true,15,2,Nothing,"XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,428
+XLSX,#eachtablerow#7,false,false,18,3,XLSX.TableRowIterator,"Nothing,Array{String,1},Bool,Bool,Nothing,typeof(XLSX.eachtablerow),XLSX.Worksheet",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,131
+XLSX,is_end_of_sheet_data,true,true,2,3,Bool,EzXML.StreamReader,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,174
+XLSX,is_defined_name_value_a_constant,true,true,0,1,Bool,"Union{Missing, Float64, Int64, String, XLSX.SheetCellRange, XLSX.SheetCellRef}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,175
+XLSX,iserror,true,true,0,1,Bool,XLSX.Cell,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,4
+XLSX,relative_column_position,true,true,0,1,Int64,"CellRef,XLSX.ColumnRange",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,264
+XLSX,getdata,true,true,0,0,Union{},"XLSX.SheetRow,XLSX.Cell",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/stream.jl,289
+XLSX,xlsx_encode,true,true,0,1,"Tuple{String,String}","XLSX.Worksheet,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,285
+XLSX,#writetable#46,true,true,8,1,Nothing,"Bool,typeof(XLSX.writetable),String,Array{Tuple{String,Array{Any,1},Array{String,1}},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,659
+XLSX,#openxlsx#16,true,true,8,1,"Array{Int64,1}","String,Bool,typeof(XLSX.openxlsx),var""#37#57""{Array{Int64,1}},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,116
+XLSX,get_defined_name_value,true,true,0,1,"Union{Missing, Float64, Int64, String, XLSX.SheetCellRange, XLSX.SheetCellRef}","XLSX.Worksheet,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,168
+XLSX,id,true,true,0,1,String,XLSX.CellDataFormat,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,20
+XLSX,styles_numFmt_formatCode,true,true,0,1,String,"XLSX.Workbook,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,148
+XLSX,is_writable,true,true,0,1,Bool,XLSX.XLSXFile,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,11
+XLSX,@range_str,true,false,0,1,XLSX.CellRange,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cellref.jl,174
+XLSX,get_workbook,true,true,0,1,XLSX.Workbook,XLSX.Worksheet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/read.jl,4
+XLSX,gettable,true,true,0,1,"Tuple{Array{Any,1},Array{Symbol,1}}",XLSX.Worksheet,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,519
+XLSX,get_worksheet,true,true,0,1,XLSX.Worksheet,XLSX.TableRowIterator{XLSX.SheetRowStreamIterator},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,196
+XLSX,styles_add_numFmt,true,false,2,1,Int64,"XLSX.Workbook,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/styles.jl,91
+XLSX,setdata!,true,true,0,1,Nothing,"XLSX.Worksheet,Int64,Int64,Union{Missing, Bool, Float64, Int64, Date, DateTime, Time, String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,308
+XLSX,#gettable#11,true,false,0,1,"Tuple{Array{Any,1},Array{Symbol,1}}","Nothing,Nothing,Bool,Bool,Bool,var""#stop_function#16"",typeof(XLSX.gettable),XLSX.Worksheet",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/table.jl,519
+XLSX,setdata!,true,true,6,1,Nothing,"XLSX.Worksheet,CellRef,Array{Int64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/write.jl,350
+XLSX,hassheet,true,true,0,1,Bool,"XLSX.XLSXFile,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,31
+XLSX,EmptyWorkbook,true,true,0,1,XLSX.Workbook,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/workbook.jl,2
+XLSX,excel_value_to_date,true,true,1,2,Date,"Int64,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/XLSX/depot/packages/XLSX/cRAtd/src/cell.jl,233

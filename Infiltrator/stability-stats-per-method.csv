@@ -1,0 +1,12 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+Infiltrator,@infiltrate,2,1.0,1.0,1,0,0,234,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Infiltrator/depot/packages/Infiltrator/njsHN/src/Infiltrator.jl,59
+Infiltrator,#debugprompt#6,3,1.0,0.0,1,0,0,933,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Infiltrator/depot/packages/Infiltrator/njsHN/src/Infiltrator.jl,137
+Infiltrator,#start_prompt#1,5,1.0,0.4,1,0,0,905,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Infiltrator/depot/packages/Infiltrator/njsHN/src/Infiltrator.jl,81
+Infiltrator,show_trace,1,1.0,1.0,1,0,0,259,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Infiltrator/depot/packages/Infiltrator/njsHN/src/Infiltrator.jl,123
+Infiltrator,interpret,1,0.0,0.0,1,0,0,598,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Infiltrator/depot/packages/Infiltrator/njsHN/src/Infiltrator.jl,224
+Infiltrator,@infiltrate,1,1.0,1.0,1,0,0,53,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Infiltrator/depot/packages/Infiltrator/njsHN/src/Infiltrator.jl,59
+Infiltrator,show_locals,1,1.0,0.0,1,0,0,284,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Infiltrator/depot/packages/Infiltrator/njsHN/src/Infiltrator.jl,130
+Infiltrator,maybe_quote,1,0.0,0.0,1,0,0,107,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Infiltrator/depot/packages/Infiltrator/njsHN/src/Infiltrator.jl,222
+Infiltrator,show_help,1,1.0,1.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Infiltrator/depot/packages/Infiltrator/njsHN/src/Infiltrator.jl,110
+Infiltrator,clear_stop,1,1.0,1.0,1,0,0,55,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Infiltrator/depot/packages/Infiltrator/njsHN/src/Infiltrator.jl,79
+Infiltrator,start_prompt,2,1.0,1.0,1,0,0,97,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Infiltrator/depot/packages/Infiltrator/njsHN/src/Infiltrator.jl,81

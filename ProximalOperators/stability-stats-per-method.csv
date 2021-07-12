@@ -1,0 +1,3 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+ProximalOperators,dspev!,1,1.0,1.0,1,0,0,1045,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ProximalOperators/depot/packages/ProximalOperators/RKnvx/src/utilities/symmetricpacked.jl,23
+ProximalOperators,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ProximalOperators/depot/packages/ProximalOperators/RKnvx/src/ProximalOperators.jl,3

@@ -1,0 +1,1 @@
+Stability.ModuleStatsPerInstanceRecord[Stability.ModuleStatsPerInstanceRecord("DBInterface", "@sql_str", false, false, 0, 1, "Any", "LineNumberNode,Module,Any", "/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/DBInterface/depot/packages/DBInterface/JigqR/src/DBInterface.jl", 10)]

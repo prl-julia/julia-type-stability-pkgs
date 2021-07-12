@@ -1,0 +1,11 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+RobotOS,@debug,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RobotOS/depot/packages/RobotOS/j0Tsl/src/debug.jl,5
+RobotOS,@debug_subindent,true,true,0,1,Expr,"LineNumberNode,Module",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RobotOS/depot/packages/RobotOS/j0Tsl/src/debug.jl,14
+RobotOS,@debug_addindent,true,true,0,1,Expr,"LineNumberNode,Module",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RobotOS/depot/packages/RobotOS/j0Tsl/src/debug.jl,11
+RobotOS,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RobotOS/depot/packages/RobotOS/j0Tsl/src/RobotOS.jl,1
+RobotOS,__init__,true,false,11,1,Ptr{Nothing},,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RobotOS/depot/packages/RobotOS/j0Tsl/src/RobotOS.jl,18
+RobotOS,_callback_notify,true,true,0,1,Int32,Ptr{Nothing},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RobotOS/depot/packages/RobotOS/j0Tsl/src/callbacks.jl,3
+RobotOS,#init_node#8,false,false,1,1,Any,"Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:anonymous,),Tuple{Bool}}},typeof(init_node),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RobotOS/depot/packages/RobotOS/j0Tsl/src/rospy.jl,12
+RobotOS,debug,true,true,0,1,Bool,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RobotOS/depot/packages/RobotOS/j0Tsl/src/debug.jl,4
+RobotOS,@debug,true,false,0,1,Expr,"LineNumberNode,Module,Any,Expr,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RobotOS/depot/packages/RobotOS/j0Tsl/src/debug.jl,5
+RobotOS,@debug,true,false,0,1,Expr,"LineNumberNode,Module,Any,Symbol,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/RobotOS/depot/packages/RobotOS/j0Tsl/src/debug.jl,5

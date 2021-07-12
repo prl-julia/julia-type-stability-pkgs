@@ -1,0 +1,10 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Tricks,static_methods,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Tricks/depot/packages/Tricks/TyBuj/src/Tricks.jl,72
+Tricks,static_fieldnames,false,false,0,1,Tuple,Type{T} where T,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Tricks/depot/packages/Tricks/TyBuj/src/Tricks.jl,89
+Tricks,#s12#1,true,false,4,1,Core.CodeInfo,"Any,Any,Any,Any",none,0
+Tricks,static_methods,true,true,0,1,Base.MethodList,"var""#f#4""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Tricks/depot/packages/Tricks/TyBuj/src/Tricks.jl,72
+Tricks,static_fieldcount,true,false,0,1,Int64,Type{T} where T,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Tricks/depot/packages/Tricks/TyBuj/src/Tricks.jl,91
+Tricks,static_fieldtypes,false,false,0,1,Tuple,Type{T} where T,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Tricks/depot/packages/Tricks/TyBuj/src/Tricks.jl,90
+Tricks,#s14#4,false,false,0,1,Any,"Any,Any,Any,Any",none,0
+Tricks,static_methods,false,false,0,1,Any,Function,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Tricks/depot/packages/Tricks/TyBuj/src/Tricks.jl,72
+Tricks,create_codeinfo_with_returnvalue,false,false,1,1,Any,"Array{Symbol,1},Array{Symbol,1},Tuple{Symbol},Base.MethodList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Tricks/depot/packages/Tricks/TyBuj/src/Tricks.jl,44

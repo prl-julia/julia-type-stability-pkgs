@@ -1,0 +1,10 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Remark,#_create_index_md#10,true,true,4,1,String,"Bool,typeof(Remark._create_index_md),String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Remark/depot/packages/Remark/lS0wJ/src/Remark.jl,63
+Remark,#_create_index_html#11,true,true,7,1,String,"String,typeof(Remark._create_index_html),String,String,Dict{Any,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Remark/depot/packages/Remark/lS0wJ/src/Remark.jl,92
+Remark,replace_linewise,true,true,3,1,String,"String,Pair{Regex,String},Pair{Regex,String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Remark/depot/packages/Remark/lS0wJ/src/Remark.jl,119
+Remark,#_create_index_md#10,true,false,4,1,String,"Bool,typeof(Remark._create_index_md),Any,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Remark/depot/packages/Remark/lS0wJ/src/Remark.jl,63
+Remark,#slideshow#1,false,false,20,1,Any,"String,Bool,Dict{Any,Any},typeof(slideshow),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Remark/depot/packages/Remark/lS0wJ/src/Remark.jl,26
+Remark,slideshow,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Remark/depot/packages/Remark/lS0wJ/src/Remark.jl,26
+Remark,replace_linewise,true,false,3,1,String,"String,Pair{Regex,String},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Remark/depot/packages/Remark/lS0wJ/src/Remark.jl,119
+Remark,replace_linewise,true,false,3,1,String,"String,Pair{Regex,String},Vararg{Pair{Regex,String},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Remark/depot/packages/Remark/lS0wJ/src/Remark.jl,119
+Remark,replace_linewise,true,true,3,1,String,"String,Pair{Regex,String},Pair{String,String},Pair{Regex,String}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Remark/depot/packages/Remark/lS0wJ/src/Remark.jl,119

@@ -1,0 +1,4 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+CmdStan,__init__,false,false,11,2,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CmdStan/depot/packages/CmdStan/0wjTa/src/CmdStan.jl,19
+CmdStan,eval,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CmdStan/depot/packages/CmdStan/0wjTa/src/CmdStan.jl,1
+CmdStan,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/CmdStan/depot/packages/CmdStan/0wjTa/src/CmdStan.jl,1

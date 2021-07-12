@@ -1,0 +1,33 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Chain,is_aside,true,true,1,2,"Union{Missing, Bool}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,5
+Chain,replace_underscores,false,false,1,2,"Union{Tuple{Bool,Expr}, Tuple{Bool,LineNumberNode}}","LineNumberNode,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,203
+Chain,replace_underscores,false,false,1,2,"Union{Tuple{Bool,Bool}, Tuple{Bool,Symbol}}","Bool,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,203
+Chain,replace_underscores,false,false,1,2,"Union{Tuple{Bool,QuoteNode}, Tuple{Bool,Symbol}}","QuoteNode,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,203
+Chain,rewrite,false,false,4,1,"Tuple{Any,Union{Expr, Symbol}}","Expr,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,42
+Chain,insert_first_arg,false,false,29,5,Any,"Expr,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,12
+Chain,insert_first_arg,true,true,0,1,Expr,"Symbol,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,9
+Chain,replace_underscores,false,false,9,1,"Tuple{Any,Any}","Expr,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,178
+Chain,rewrite,true,true,0,1,"Tuple{LineNumberNode,Expr}","Any,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,42
+Chain,replace_underscores,false,false,1,2,"Union{Tuple{Bool,Float64}, Tuple{Bool,Symbol}}","Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,203
+Chain,@chain,true,false,0,1,Expr,"LineNumberNode,Module,Any,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,112
+Chain,replace_underscores,false,false,1,2,"Union{Tuple{Bool,Int64}, Tuple{Bool,Symbol}}","Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,203
+Chain,rewrite_chain_block,true,false,6,2,Expr,"Expr,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,64
+Chain,rewrite,true,true,0,1,"Tuple{LineNumberNode,Expr}","LineNumberNode,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,62
+Chain,replace_underscores,false,false,9,1,"Tuple{Any,Any}","Expr,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,178
+Chain,replace_underscores,true,true,1,2,"Tuple{Bool,Symbol}","Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,203
+Chain,replace_underscores,false,false,1,2,"Union{Tuple{Bool,Expr}, Tuple{Bool,Symbol}}","Symbol,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,203
+Chain,rewrite,true,false,3,1,"Tuple{Expr,Symbol}","Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,42
+Chain,replace_underscores,false,false,1,2,"Union{Tuple{Bool,LineNumberNode}, Tuple{Bool,Symbol}}","LineNumberNode,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,203
+Chain,insert_first_arg,false,false,29,5,Any,"Expr,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,12
+Chain,is_aside,true,true,0,1,Bool,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,5
+Chain,@chain,true,true,0,1,Expr,"LineNumberNode,Module,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,174
+Chain,rewrite,true,true,0,1,"Tuple{LineNumberNode,Symbol}","LineNumberNode,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,62
+Chain,rewrite_chain_block,true,false,10,1,Expr,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,116
+Chain,replace_underscores,false,false,9,1,"Tuple{Any,Any}","Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,203
+Chain,replace_underscores,false,false,9,1,"Tuple{Any,Any}","Any,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,203
+Chain,insert_first_arg,true,true,0,1,Expr,"Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,9
+Chain,rewrite,true,true,0,1,"Tuple{LineNumberNode,Symbol}","Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,42
+Chain,rewrite,false,false,4,1,"Tuple{Any,Symbol}","Expr,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,42
+Chain,rewrite_chain_block,true,false,6,2,Expr,"Symbol,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,64
+Chain,is_aside,true,true,1,2,"Union{Missing, Bool}",Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,6
+Chain,replace_underscores,false,false,1,2,"Union{Tuple{Bool,Int64}, Tuple{Bool,Expr}}","Int64,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Chain/depot/packages/Chain/HuSPl/src/Chain.jl,203

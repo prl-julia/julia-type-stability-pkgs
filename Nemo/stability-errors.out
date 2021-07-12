@@ -1,0 +1,48 @@
+ERROR: UndefRefError: access to undefined reference
+Stacktrace:
+ [1] getproperty(::Type{T} where T, ::Symbol) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [2] reconstruct_func_call(::Core.MethodInstance) at /data/artem/stability/repo/Stability/src/Stability.jl:116
+ [3] module_stats(::Module, ::IOStream) at /data/artem/stability/repo/Stability/src/Stability.jl:237
+ [4] (::var"#395#399")(::IOStream) at ./none:36
+ [5] open(::var"#395#399", ::String, ::Vararg{String,N} where N; kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at ./io.jl:325
+ [6] open(::Function, ::String, ::String) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [7] top-level scope at none:35
+ [8] eval(::Module, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [9] exec_options(::Base.JLOptions) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [10] _start() at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ERROR: UndefRefError: access to undefined reference
+Stacktrace:
+ [1] getproperty(::Type{T} where T, ::Symbol) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [2] reconstruct_func_call(::Core.MethodInstance) at /data/artem/stability/repo/Stability/src/Stability.jl:116
+ [3] module_stats(::Module, ::IOStream) at /data/artem/stability/repo/Stability/src/Stability.jl:237
+ [4] (::var"#395#399")(::IOStream) at ./none:36
+ [5] open(::var"#395#399", ::String, ::Vararg{String,N} where N; kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at ./io.jl:325
+ [6] open(::Function, ::String, ::String) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [7] top-level scope at none:35
+ [8] eval(::Module, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [9] exec_options(::Base.JLOptions) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [10] _start() at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ERROR: UndefRefError: access to undefined reference
+Stacktrace:
+ [1] getproperty(::Type{T} where T, ::Symbol) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [2] reconstruct_func_call(::Core.MethodInstance) at /data/artem/stability/repo/Stability/src/Stability.jl:116
+ [3] module_stats(::Module, ::IOStream) at /data/artem/stability/repo/Stability/src/Stability.jl:237
+ [4] (::var"#395#399")(::IOStream) at ./none:36
+ [5] open(::var"#395#399", ::String, ::Vararg{String,N} where N; kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at ./io.jl:325
+ [6] open(::Function, ::String, ::String) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [7] top-level scope at none:35
+ [8] eval(::Module, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [9] exec_options(::Base.JLOptions) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [10] _start() at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ERROR: UndefRefError: access to undefined reference
+Stacktrace:
+ [1] getproperty(::Type{T} where T, ::Symbol) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [2] reconstruct_func_call(::Core.MethodInstance) at /data/artem/stability/repo/Stability/src/Stability.jl:116
+ [3] module_stats(::Module, ::IOStream) at /data/artem/stability/repo/Stability/src/Stability.jl:237
+ [4] (::var"#395#399")(::IOStream) at ./none:36
+ [5] open(::var"#395#399", ::String, ::Vararg{String,N} where N; kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at ./io.jl:325
+ [6] open(::Function, ::String, ::String) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [7] top-level scope at none:35
+ [8] eval(::Module, ::Any) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [9] exec_options(::Base.JLOptions) at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?
+ [10] _start() at /nix/store/bsvy9dc7095l5gxil5npqls6miqf0pfh-julia-1.5.4/lib/julia/sys.so:?

@@ -1,0 +1,2 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+InplaceOps,@!,true,false,20,8,"Union{Nothing, Expr}","LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/InplaceOps/depot/packages/InplaceOps/TROyE/src/InplaceOps.jl,7

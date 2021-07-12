@@ -1,0 +1,468 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+GR,axes2d,true,true,0,1,Nothing,"Int64,Float64,Int64,Float64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2160
+GR.jlgr,normalize_color,true,true,1,1,Float64,"Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,899
+GR.jlgr,isrowvec,true,true,1,1,Bool,"Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,95
+GR,sendmetaref,true,false,6,3,Nothing,"Any,String,Char,Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3920
+GR,displayname,false,false,0,1,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3566
+GR.jlgr,given,true,false,1,2,"Union{Missing, Bool, Base.var""#64#65""{_A} where _A}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,193
+GR.jlgr,Figure,true,true,0,1,GR.jlgr.PlotObject,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,72
+GR.jlgr,given,true,true,0,1,Bool,"LinearAlgebra.Adjoint{Float64,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,193
+GR,#wireframe#20,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(wireframe),Array{Float64,2},Vararg{Array{Float64,2},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3511
+GR,heatmap,false,false,0,1,Any,"Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3507
+GR,#polar#31,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(polar),LinRange{Float64},Vararg{LinRange{Float64},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3538
+GR,#scatter#8,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(scatter),LinRange{Float64},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3499
+GR,inqdspsize,true,true,0,1,"Tuple{Float64,Float64,Int32,Int32}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,393
+GR.jlgr,legend_size,false,false,3,1,"Tuple{Union{Float64, Int64},Union{Float64, Int64}}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,562
+GR,tricont,false,false,0,1,Any,"Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3540
+GR,sendmetaref,true,false,6,3,Nothing,"Any,AbstractString,Char,Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3920
+GR.jlgr,#surface#60,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.surface),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2208
+GR.jlgr,plot_args,true,false,0,1,"Array{Any,1}","Tuple{LinRange{Float64},Vararg{LinRange{Float64},N} where N}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR.jlgr,Extrema64,false,false,10,1,"Tuple{Any,Any}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,197
+GR.jlgr,given,true,true,0,1,Bool,"Array{Float64,3}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,193
+GR,titles3d,true,false,0,1,Nothing,"Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2381
+GR,#plot#2,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(plot),StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3493
+GR.GR3,clear,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,221
+GR,setmarkercolorind,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1296
+GR,cellarray,true,false,1,0,Union{},"Real,Real,Real,Real,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,723
+GR,polyline,true,false,2,1,Nothing,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,567
+GR,shade,false,false,0,1,Any,"Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3541
+GR,#contourf#14,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(contourf),Array{Float64,1},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3505
+GR.jlgr,set_window,true,false,61,1,Int32,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,299
+GR,meshgrid,true,true,0,1,"Tuple{Array{Float64,2},Array{Float64,2}}","LinRange{Float64},LinRange{Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3530
+GR,setscale,true,true,0,1,Int32,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1719
+GR,axes2d,true,true,0,1,Nothing,"Float64,Float64,Int64,Int64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2160
+GR,#surface#21,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(surface),Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3512
+GR,histogram,false,false,0,1,Any,"Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3502
+GR.jlgr,plot3,false,false,0,1,Any,"LinRange{Float64},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2242
+GR,contour,false,false,0,1,Any,"Array{Float64,2},Array{Float64,2},Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3504
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),NTuple{4,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR.jlgr,given,true,true,0,1,Bool,UnitRange{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,193
+GR.jlgr,contains_NaN,true,true,4,2,Bool,"Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1087
+GR,sendmetaref,true,false,4,2,Nothing,"Any,String,Char,Array,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3920
+GR,setviewport,true,true,0,1,Nothing,"Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1805
+GR,cellarray,true,false,1,1,Nothing,"Real,Real,Real,Real,Int64,Int64,Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,723
+GR,fillarc,true,false,0,1,Nothing,"Real,Real,Real,Real,Real,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2915
+GR.jlgr,Extrema64,true,true,10,1,"Tuple{Float64,Float64}","Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,197
+GR,polar,false,false,0,1,Any,"LinRange{Float64},Vararg{LinRange{Float64},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3538
+GR,#plot#2,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(plot),Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3493
+GR,drawrect,true,false,0,1,Nothing,"Real,Real,Real,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2827
+GR.jlgr,wireframe,false,false,0,1,Any,"Array{Float64,2},Vararg{Array{Float64,2},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2164
+GR.jlgr,create_context,false,false,0,1,AbstractDict,"Symbol,Dict{Symbol,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,700
+GR.jlgr,search,false,false,1,2,Any,"AbstractString,Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,10
+GR,drawimage,true,false,1,0,Union{},"Real,Real,Real,Real,Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3114
+GR,readimage,false,false,3,2,"Union{Tuple{Int64,Int64,Array{UInt32,2}}, Tuple{Int64,Int64,Array{UInt32,1}}}",AbstractString,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3065
+GR,uselinespec,true,false,0,1,Int32,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3687
+GR,tricontour,true,true,0,1,Nothing,"Array{Float64,1},Array{Float64,1},Array{Float64,1},StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3790
+GR,text,true,true,0,1,Nothing,"Float64,Float64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,659
+GR.jlgr,surface,false,false,0,1,Any,"Array{Float64,2},Array{Float64,2},Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2208
+GR,polyline,true,false,2,1,Nothing,"Any,Array{T,N} where T where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,567
+GR.jlgr,ticklabel_fun,false,false,0,1,"GR.jlgr.var""#10#11""{_A} where _A",Function,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,417
+GR,contourf,false,false,0,1,Any,"Array{Float64,1},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3505
+GR,contour,true,false,19,2,Nothing,"Any,Any,Any,Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2478
+GR.jlgr,linspace,false,false,0,1,Any,"Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,52
+GR,#surface#21,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(surface),Array{Float64,1},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3512
+GR.jlgr,polar,false,false,0,1,Any,"LinRange{Float64},Vararg{LinRange{Float64},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2611
+GR,contourf,true,false,19,2,Nothing,"Any,Any,Any,Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2528
+GR,stem,false,false,0,1,Any,"LinRange{Float64},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3500
+GR,setwsviewport,true,true,0,1,Nothing,"Int64,Float64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1931
+GR.GR3,_check_error,true,false,5,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,38
+GR.jlgr,oplot,false,false,0,1,Any,"Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1667
+GR,sendmetaref,true,false,0,1,Nothing,"Any,AbstractString,Char,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3920
+GR.jlgr,RGB,true,false,0,0,Union{},Array,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1018
+GR,init,true,false,28,3,"Union{Nothing, Bool}",Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,311
+GR.jlgr,plot_img,true,false,17,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,907
+GR.jlgr,to_rgba,true,true,2,1,UInt32,"Float64,Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,689
+GR.jlgr,contour,false,false,0,1,Any,"Array{Float64,1},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1966
+GR,scatter,false,false,0,1,Any,"LinRange{Float64},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3499
+GR.jlgr,colorbar,true,false,11,1,Nothing,"Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,642
+GR.jlgr,scatter,false,false,0,1,Any,"LinRange{Float64},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1750
+GR,setfillcolorind,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1651
+GR,axeslbl,true,false,0,1,Nothing,"Real,Real,Real,Real,Int64,Int64,Real,GR.jlgr.var""#10#11""{_A} where _A,GR.jlgr.var""#10#11""{_A} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2209
+GR,axes,true,false,0,1,Nothing,"Real,Real,Real,Real,Int64,Int64,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2167
+GR.jlgr,fix_minmax,false,false,5,1,"Tuple{Union{Float64, Int64},Union{Float64, Int64}}","Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,185
+GR,fillrect,true,false,0,1,Nothing,"Int64,Int64,Real,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2851
+GR.jlgr,wireframe,false,false,0,1,Any,"Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2164
+GR.GR3,drawmesh,true,false,0,1,Nothing,"Int32,Int64,Tuple{Int64,Int64,Int64},Tuple{Int64,Int64,Int64},Tuple{Int64,Int64,Int64},Tuple{Real,Real,Real},Tuple{Int64,Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,161
+GR,sendmetaref,true,false,0,1,Nothing,"Any,String,Char,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3920
+GR.jlgr,set_viewport,true,false,17,2,Nothing,"Symbol,Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,100
+GR,sendmetaref,true,false,0,1,Nothing,"Any,String,Char,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3920
+GR,titles3d,true,true,0,1,Nothing,"String,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2381
+GR,inqcolor,true,true,0,1,Int32,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2581
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{LinRange{Float64},Array{Float64,1},Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,latin1,false,false,16,2,"Union{Array{UInt8,1}, String}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,602
+GR,axes,true,true,0,1,Nothing,"Float64,Float64,Int64,Int64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2167
+GR,drawimage,true,false,1,1,Nothing,"Real,Real,Real,Real,Int64,Int64,Array,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3114
+GR,polymarker,true,true,2,1,Nothing,"Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,593
+GR,trisurface,true,false,0,1,Nothing,"Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3762
+GR.GR3,createisosurfacemesh,true,true,0,1,Int32,"Array{UInt16,3},Tuple{Float64,Float64,Float64},Tuple{Float64,Float64,Float64},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,319
+GR,openmeta,true,true,0,1,Ptr{Nothing},"Int64,String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3904
+GR.jlgr,tricont,false,false,0,1,Any,"Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2675
+GR,meshgrid,true,true,0,1,"Tuple{Array{Float64,3},Array{Float64,3},Array{Float64,3}}","LinRange{Float64},LinRange{Float64},LinRange{Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3531
+GR.jlgr,surface,false,false,0,1,Any,"Array{Float64,1},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2208
+GR,sendmetaref,true,false,0,1,Nothing,"Any,AbstractString,Char,Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3920
+GR,settransparency,true,false,0,1,Nothing,Real,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3169
+GR,setwsviewport,true,false,0,1,Nothing,"Int64,Real,Int64,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1931
+GR,text,true,false,0,1,Nothing,"Float64,Float64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,659
+GR,polyline,true,true,2,1,Nothing,"Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,567
+GR.GR3,deletemesh,true,true,0,1,Nothing,Int32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,209
+GR,text,true,false,0,1,Nothing,"Real,Real,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,659
+GR,axes3d,true,false,0,1,Nothing,"Real,Int64,Real,Real,Real,Real,Int64,Int64,Int64,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2363
+GR.jlgr,meshgrid,true,true,0,1,"Tuple{Array{Float64,3},Array{Float64,3},Array{Float64,3}}","LinRange{Float64},LinRange{Float64},LinRange{Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2507
+GR.jlgr,signif,true,true,0,1,Float64,"Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,15
+GR,tricontour,true,false,0,1,Nothing,"Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3790
+GR,latin1,false,false,16,3,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,602
+GR,wireframe,false,false,0,1,Any,"Array{Float64,2},Vararg{Array{Float64,2},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3511
+GR,#contourf#14,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(contourf),Array{Float64,2},Array{Float64,2},Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3505
+GR.jlgr,#volume#61,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.volume),Array{Float64,3}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2216
+GR.jlgr,contains_NaN,true,false,4,2,Bool,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1087
+GR.jlgr,given,true,true,0,1,Bool,"Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,193
+GR,setcolorrep,true,true,0,1,Nothing,"Int64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1676
+GR,#scatter3#24,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(scatter3),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3515
+GR,drawimage,true,true,0,1,Nothing,"Float64,Float64,Float64,Float64,Int64,Int64,Array{UInt32,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3114
+GR.js,get_pluto_html,false,false,1,2,"Union{String, HTML{String}}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/js.jl,256
+GR,#stem#9,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(stem),LinRange{Float64},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3500
+GR.jlgr,#hexbin#54,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.hexbin),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2040
+GR.jlgr,#plot#42,false,false,2,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.plot),Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1632
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{Array{Float64,2},Vararg{Array{Float64,2},N} where N}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,isvscode,false,false,3,4,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,256
+GR.jlgr,Figure,true,true,0,1,GR.jlgr.PlotObject,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,72
+GR.jlgr,histogram,false,false,0,1,Any,"Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1889
+GR,grid3d,true,true,0,1,Nothing,"Int64,Float64,Int64,Float64,Float64,Float64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2247
+GR.jlgr,#contour#52,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.contour),Array{Float64,1},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1966
+GR.GR3,@ArrayToVector,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,11
+GR.jlgr,#contourf#53,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.contourf),Array{Float64,1},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2010
+GR.jlgr,plot_img,true,false,13,1,Nothing,"Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,907
+GR.jlgr,isvector,true,true,0,1,Bool,"LinearAlgebra.Adjoint{Float64,LinRange{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,98
+GR,polymarker,true,false,2,1,Nothing,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,593
+GR,volume,false,false,0,1,Any,"Array{Float64,3}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3513
+GR.jlgr,set_window,true,false,61,1,Int32,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,299
+GR.jlgr,fix_minmax,true,true,5,1,"Tuple{Float64,Float64}","Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,185
+GR,wctondc,true,false,0,1,"Tuple{Float64,Float64}","Float64,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2789
+GR.GR3,@triplet,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,7
+GR,inqscale,true,true,0,1,Int32,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1727
+GR.js,jsterm_send,false,false,5,4,Any,"String,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/js.jl,287
+GR.jlgr,#signif#1,false,false,0,1,Any,"Int64,typeof(GR.jlgr.signif),Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,15
+GR,sendmetaref,true,false,1,1,Nothing,"Any,String,Char,String,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3920
+GR,axes3d,true,true,0,1,Nothing,"Int64,Float64,Int64,Float64,Float64,Float64,Int64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2363
+GR,drawimage,true,false,0,1,Nothing,"Real,Real,Real,Real,Int64,Int64,Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3114
+GR.jlgr,given,true,true,0,1,Bool,"LinearAlgebra.Adjoint{Float64,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,193
+GR,wireframe,false,false,0,1,Any,"Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3511
+GR.jlgr,#heatmap#55,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.heatmap),Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2074
+GR.jlgr,#contour#52,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.contour),Array{Float64,2},Array{Float64,2},Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1966
+GR.jlgr,#wireframe#59,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.wireframe),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2164
+GR.jlgr,#scatter3#63,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.scatter3),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2275
+GR.jlgr,contourf,false,false,0,1,Any,"Array{Float64,2},Array{Float64,2},Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2010
+GR,surface,true,false,19,2,Nothing,"Any,Any,Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2426
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{LinRange{Float64},Array{Float64,1},LinRange{Float64},LinRange{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,setwindow,true,true,0,1,Nothing,"Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1762
+GR,setlinewidth,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1141
+GR.jlgr,trisurf,false,false,0,1,Any,"Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2643
+GR,setfillintstyle,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1606
+GR.jlgr,#scatter#45,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.scatter),LinRange{Float64},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1750
+GR,nonuniformcellarray,true,false,13,1,Nothing,"Any,Any,Int64,Int64,Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,752
+GR,setcharheight,true,true,0,1,Nothing,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1469
+GR.jlgr,isrowvec,false,false,2,3,Any,AbstractArray,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,95
+GR.jlgr,isvector,true,true,0,1,Bool,"LinearAlgebra.Adjoint{Float64,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,98
+GR.jlgr,#oplot#43,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.oplot),Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1667
+GR.jlgr,meshgrid,true,true,0,1,"Tuple{Array{Float64,2},Array{Float64,2}}","LinRange{Float64},LinRange{Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2503
+GR.jlgr,#stem#46,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.stem),LinRange{Float64},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1783
+GR.jlgr,@_tuple,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,17
+GR,setmarkertype,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1257
+GR,#histogram#11,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(histogram),Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3502
+GR,setwindow,true,false,0,1,Nothing,"Real,Real,Real,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1762
+GR.GR3,terminate,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,67
+GR,setcolormap,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2567
+GR,surface,false,false,0,1,Any,"Array{Float64,1},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3512
+GR.jlgr,#contour#52,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.contour),Array{Float64,2},Vararg{Array{Float64,2},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1966
+GR,#oplot#3,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(oplot),Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3494
+GR,axeslbl,true,false,0,1,Nothing,"Real,Real,Real,Real,Int64,Int64,Real,GR.jlgr.var""#10#11""{_A} where _A,GR.jlgr.var""#12#14""{_A} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2209
+GR,grid3d,true,true,0,1,Nothing,"Float64,Int64,Float64,Float64,Float64,Float64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2247
+GR.jlgr,shade,false,false,0,1,Any,"Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2683
+GR,sendmetaref,true,false,0,1,Nothing,"Any,AbstractString,Char,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3920
+GR.jlgr,signif,false,false,0,1,Any,"Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,15
+GR.jlgr,#surface#60,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.surface),Array{Float64,2},Array{Float64,2},Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2208
+GR,fillrect,true,false,0,1,Nothing,"Real,Real,Real,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2851
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),NTuple{4,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR.jlgr,Extrema64,true,true,10,1,"Tuple{Float64,Float64}","Base.ReshapedArray{Float64,1,LinearAlgebra.Adjoint{Float64,Array{Float64,2}},Tuple{Base.MultiplicativeInverses.SignedMultiplicativeInverse{Int64}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,197
+GR,textext,true,false,0,1,Int32,"Real,Real,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2111
+GR,axes2d,true,true,0,1,Nothing,"Int64,Float64,Int64,Int64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2160
+GR,imshow,false,false,0,1,Any,"Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3533
+GR,polymarker3d,true,false,4,1,Nothing,"Array{_A,1} where _A,Array{_A,1} where _A,Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2354
+GR.jlgr,#surface#60,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.surface),Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2208
+GR,drawimage,true,false,0,0,Union{},"Real,Real,Real,Real,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3114
+GR,st_seq,true,true,1,2,String,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,385
+GR,polyline,true,true,2,1,Nothing,"StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}},SubArray{Float64,1,Array{Float64,2},Tuple{Base.Slice{Base.OneTo{Int64}},Int64},true}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,567
+GR.GR3,cameralookat,true,true,0,1,Nothing,"Float64,Float64,Float64,Int64,Int64,Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,227
+GR,restorestate,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3666
+GR,plot,false,false,0,1,Any,"Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3493
+GR,drawimage,true,false,1,1,Nothing,"Float64,Real,Real,Float64,Int64,Int64,Array{T,N} where T where N,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3114
+GR.jlgr,#imshow#77,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.imshow),Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2538
+GR,adjustrange,true,true,0,1,"Tuple{Float64,Float64}","Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2633
+GR.jlgr,linspace,false,false,0,1,Any,"Int64,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,52
+GR,inqtextext,true,false,0,1,"Tuple{Array{Float64,1},Array{Float64,1}}","Int64,Int64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2120
+GR,surface,true,false,19,2,Nothing,"Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3512
+GR.jlgr,plot,false,false,0,1,Any,"StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}},Vararg{Union{AbstractString, Function, AbstractArray{T,1} where T, AbstractArray{T,2} where T},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1632
+GR.GR3,setbackgroundcolor,true,true,0,1,Nothing,"Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,310
+GR,adjustlimits,true,true,0,1,"Tuple{Float64,Float64}","Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2623
+GR,_readfile,true,false,0,1,"Array{UInt8,1}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3553
+GR.jlgr,contour,false,false,0,1,Any,"Array{Float64,2},Array{Float64,2},Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1966
+GR.jlgr,create_context,false,false,1,1,AbstractDict,"Dict{Union{},Union{}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,705
+GR.jlgr,inqtext,true,false,10,3,"Tuple{Array{Float64,1},Array{Float64,1}}","Int64,Int64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,542
+GR.GR3,volume,true,false,0,1,"Tuple{Float64,Float64}","Array{Float64,3},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,363
+GR.jlgr,given,true,true,0,1,Bool,"Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,193
+GR,surface,false,false,0,1,Any,"Array{Float64,2},Array{Float64,2},Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3512
+GR.jlgr,given,true,true,0,1,Bool,"SubArray{Float64,1,Array{Float64,2},Tuple{Base.Slice{Base.OneTo{Int64}},Int64},true}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,193
+GR.GR3,drawimage,true,true,0,1,Nothing,"Float64,Float64,Float64,Float64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,123
+GR,isatom,false,false,4,5,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,254
+GR.jlgr,hasmarker,true,true,0,1,Bool,Int32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,579
+GR,#surface#21,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(surface),Array{Float64,2},Array{Float64,2},Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3512
+GR.jlgr,restore_context,false,false,0,1,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,715
+GR,grid3d,true,false,0,1,Nothing,"Int64,Real,Int64,Real,Real,Real,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2247
+GR,adjustlimits,true,true,0,1,"Tuple{Float64,Float64}","Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2623
+GR,cellarray,true,false,1,1,Nothing,"Real,Real,Real,Real,Int64,Int64,Array{Int32,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,723
+GR,polyline,true,true,2,1,Nothing,"StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,567
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{LinRange{Float64},Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR.jlgr,plot_args,true,true,0,1,"Array{Any,1}","Tuple{Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,grid,true,false,0,1,Nothing,"Real,Real,Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2240
+GR.jlgr,to_int,false,false,7,1,Array,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1027
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{LinRange{Float64},Vararg{LinRange{Float64},N} where N}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,polyline,true,false,2,1,Nothing,"Array{_A,1} where _A,Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,567
+GR,isijulia,true,true,2,3,Bool,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,253
+GR.jlgr,heatmap,false,false,0,1,Any,"Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2074
+GR,#shade#34,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(shade),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3541
+GR,inqtext,true,false,0,1,"Tuple{Array{Float64,1},Array{Float64,1}}","Int64,Int64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,666
+GR,trisurface,true,true,0,1,Nothing,"Array{Float64,1},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3762
+GR.jlgr,isvector,true,true,0,1,Bool,LinRange{Float64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,97
+GR,settextalign,true,true,0,1,Nothing,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1575
+GR.jlgr,plot_iso,true,false,4,1,Nothing,"Array{Float64,3}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,962
+GR,isinline,true,true,0,1,"Union{Missing, Bool}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3561
+GR,scatter3,false,false,0,1,Any,"Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3515
+GR,axes,true,false,0,1,Nothing,"Int64,Float64,Int64,Real,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2167
+GR,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3
+GR.jlgr,_max,true,true,0,1,Float64,"Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,62
+GR.jlgr,RGB,true,true,0,1,"Array{Float64,1}",UInt32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1018
+GR.jlgr,draw_axes,true,true,0,1,Nothing,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,429
+GR.jlgr,isvector,true,true,0,1,Bool,"LinearAlgebra.Adjoint{Float64,Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,98
+GR.jlgr,#isosurface#78,false,false,0,1,Any,"Base.Iterators.Pairs{Symbol,Float64,Tuple{Symbol},NamedTuple{(:isovalue,),Tuple{Float64}}},typeof(GR.jlgr.isosurface),Array{Float64,3}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2567
+GR.jlgr,_min,true,true,0,1,Float64,"Array{Float64,3}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,58
+GR,plot,false,false,0,1,Any,"StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3493
+GR.jlgr,linspace,false,false,0,1,Any,"Any,Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,52
+GR,gridit,true,true,4,1,"Tuple{Array{Float64,1},Array{Float64,1},Array{Float64,1}}","Array{Float64,1},Array{Float64,1},Array{Float64,1},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1066
+GR.jlgr,send_data,true,false,1,2,Nothing,"Any,String,Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1029
+GR.jlgr,create_context,false,false,4,1,AbstractDict,"Dict{Symbol,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,705
+GR,__init__,true,false,15,1,"Union{Nothing, Bool}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,258
+GR.jlgr,plot_data,false,false,0,1,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1096
+GR,hexbin,true,true,2,1,Int32,"Array{Float64,1},Array{Float64,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2557
+GR.jlgr,#plot#42,false,false,2,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.plot),StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}},Vararg{Union{AbstractString, Function, AbstractArray{T,1} where T, AbstractArray{T,2} where T},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1632
+GR.jlgr,send_serialized,true,false,0,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1079
+GR,axes2d,true,false,0,1,Nothing,"Int64,Float64,Int64,Real,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2160
+GR,savestate,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3659
+GR.jlgr,#contourf#53,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.contourf),Array{Float64,2},Array{Float64,2},Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2010
+GR.jlgr,fix_minmax,false,false,5,1,"Tuple{Any,Any}","Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,185
+GR,#plot3#23,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(plot3),LinRange{Float64},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3514
+GR,axes,true,true,0,1,Nothing,"Int64,Float64,Int64,Float64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2167
+GR,emergencyclosegks,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1973
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{LinRange{Float64},Vararg{Any,N} where N}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR.jlgr,Extrema64,true,true,10,1,"Tuple{Float64,Float64}","Array{Float64,3}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,197
+GR.jlgr,linspace,false,false,0,1,Any,"Int64,Int64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,52
+GR.jlgr,stem,false,false,0,1,Any,"LinRange{Float64},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1783
+GR,textext,true,true,0,1,Int32,"Float64,Float64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2111
+GR.jlgr,volume,false,false,0,1,Any,"Array{Float64,3}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2216
+GR.jlgr,linspace,false,false,0,1,Any,"Float64,Float64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,52
+GR,#isosurface#29,false,false,1,1,Any,"Base.Iterators.Pairs{Symbol,Float64,Tuple{Symbol},NamedTuple{(:isovalue,),Tuple{Float64}}},typeof(isosurface),Array{Float64,3}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3534
+GR.jlgr,hist,false,false,9,1,"Tuple{Any,Array{Float64,1}}","Array{Float64,1},Integer",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1853
+GR,axes,true,true,0,1,Nothing,"Int64,Float64,Int64,Int64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2167
+GR.jlgr,colorbar,true,true,0,1,Nothing,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,642
+GR.jlgr,Extrema64,false,false,10,1,"Tuple{Union{Float64, Int64},Union{Float64, Int64}}",UnitRange{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,197
+GR.GR3,drawimage,true,false,0,1,Nothing,"Any,Any,Any,Any,Int64,Int64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,123
+GR,gridit,true,false,4,1,"Tuple{Array{Float64,1},Array{Float64,1},Array{Float64,1}}","Any,Any,Any,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1066
+GR,axes2d,true,false,0,1,Nothing,"Real,Real,Real,Real,Int64,Int64,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2160
+GR.jlgr,_max,true,true,0,1,Float64,"Array{Float64,3}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,62
+GR.jlgr,Extrema64,true,true,10,1,"Tuple{Float64,Float64}","Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,197
+GR.jlgr,#shade#82,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.shade),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2683
+GR.jlgr,_max,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,62
+GR.jlgr,given,true,true,0,1,Bool,LinRange{Float64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,193
+GR,setspace,true,false,0,1,Int32,"Real,Real,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2012
+GR.jlgr,#plot3#62,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.plot3),LinRange{Float64},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2242
+GR.jlgr,plot_args,true,true,0,1,"Array{Any,1}","Tuple{Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,sendmetaref,true,false,4,2,Nothing,"Any,AbstractString,Char,Array,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3920
+GR.jlgr,linspace,true,true,0,1,"StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}}","Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,52
+GR,contourf,false,false,0,1,Any,"Array{Float64,2},Array{Float64,2},Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3505
+GR.jlgr,text,true,false,10,3,"Union{Nothing, Int32}","Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,552
+GR.js,initjs,false,false,4,1,"Tuple{Any,Any}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/js.jl,384
+GR.jlgr,#histogram#50,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.histogram),Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1889
+GR.jlgr,draw_axes,true,false,0,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,429
+GR,axeslbl,true,false,0,1,Nothing,"Real,Real,Real,Real,Int64,Int64,Real,GR.jlgr.var""#12#14""{_A} where _A,GR.jlgr.var""#12#14""{_A} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2209
+GR,#trisurf#32,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(trisurf),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3539
+GR,contour,false,false,0,1,Any,"Array{Float64,1},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3504
+GR.jlgr,isvector,true,true,0,1,Bool,"Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,97
+GR,setwswindow,true,false,0,1,Nothing,"Int64,Real,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1902
+GR,#imshow#28,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(imshow),Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3533
+GR,ispluto,true,true,1,2,Bool,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,255
+GR,setviewport,true,false,0,1,Nothing,"Real,Real,Real,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1805
+GR,#volume#22,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(volume),Array{Float64,3}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3513
+GR.jlgr,isvector,true,false,0,1,Bool,"AbstractArray{T,1} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,97
+GR,sendmetaref,true,false,6,3,Nothing,"Any,AbstractString,Char,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3920
+GR,sendmetaref,true,false,3,1,Nothing,"Any,AbstractString,Char,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3920
+GR,mathtex,true,false,5,1,Nothing,"Real,Real,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3254
+GR.jlgr,plot_polar,true,false,3,1,Nothing,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1005
+GR.jlgr,Extrema64,true,true,10,1,"Tuple{Float64,Float64}",LinRange{Float64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,197
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{Array{Float64,1},Vararg{Array{Float64,1},N} where N}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{Array{Float64,2},Array{Float64,2},Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,polyline,true,true,2,1,Nothing,"Array{Float64,1},Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,567
+GR.jlgr,Extrema64,true,true,10,1,"Tuple{Float64,Float64}","LinearAlgebra.Adjoint{Float64,Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,197
+GR,drawarc,true,false,0,1,Nothing,"Real,Real,Real,Real,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2883
+GR,tick,true,true,0,1,Float64,"Int64,Int32",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2609
+GR,setwswindow,true,false,0,1,Nothing,"Int64,Int64,Int64,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1902
+GR,nonuniformpolarcellarray,true,false,13,1,Nothing,"Any,Any,Int64,Int64,Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,826
+GR.jlgr,#wireframe#59,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.wireframe),Array{Float64,2},Vararg{Array{Float64,2},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2164
+GR,drawarc,true,true,0,1,Nothing,"Float64,Float64,Float64,Float64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2883
+GR,settextfontprec,true,true,0,1,Nothing,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1397
+GR,setwindow,true,true,0,1,Nothing,"Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1762
+GR,fillrect,true,false,0,1,Nothing,"Real,Real,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2851
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{Array{Float64,1},Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR.jlgr,plot_args,true,false,0,1,"Array{Any,1}","Tuple{LinRange{Float64},Vararg{Any,N} where N}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,inqmathtex,true,false,5,1,"Tuple{Array{Float64,1},Array{Float64,1}}","Int64,Int64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3264
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR.jlgr,plot_args,true,false,0,1,"Array{Any,1}","Tuple{Array{Float64,1},Vararg{Array{Float64,1},N} where N}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,grid3d,true,false,0,1,Nothing,"Real,Int64,Real,Real,Real,Real,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2247
+GR,cellarray,true,false,1,1,Nothing,"Int64,Int64,Float64,Float64,Int64,Int64,Array{Int32,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,723
+GR,adjustlimits,true,false,0,1,"Tuple{Float64,Float64}","Real,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2623
+GR,setwindow,true,false,0,1,Nothing,"Int64,Int64,Real,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1762
+GR.GR3,drawmesh,true,true,0,1,Nothing,"Int32,Int64,Tuple{Int64,Int64,Int64},Tuple{Int64,Int64,Int64},Tuple{Int64,Int64,Int64},Tuple{Float64,Float64,Float64},Tuple{Int64,Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,161
+GR.jlgr,_min,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,58
+GR.jlgr,ticklabel_fun,false,false,0,1,"GR.jlgr.var""#12#14""{_A} where _A","Union{AbstractArray{T<:AbstractString,1}, AbstractArray{T<:AbstractString,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,421
+GR,setlinecolorind,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1159
+GR.jlgr,isrowvec,true,true,1,2,Bool,"Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,95
+GR.jlgr,given,true,true,0,1,Bool,"Base.ReshapedArray{Float64,1,LinearAlgebra.Adjoint{Float64,Array{Float64,2}},Tuple{Base.MultiplicativeInverses.SignedMultiplicativeInverse{Int64}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,193
+GR.GR3,surface,true,false,8,2,Nothing,"Any,Any,Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,335
+GR,setspace,true,true,0,1,Int32,"Float64,Float64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2012
+GR.jlgr,scatter3,false,false,0,1,Any,"Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2275
+GR,polarcellarray,true,false,1,1,Nothing,"Int64,Int64,Int64,Int64,Int64,Int64,Int64,Int64,Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,796
+GR.jlgr,#hexbin#54,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.hexbin),Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2040
+GR.jlgr,#polar#79,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.polar),LinRange{Float64},Vararg{LinRange{Float64},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2611
+GR.jlgr,imshow,false,false,0,1,Any,"Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2538
+GR.jlgr,normalize_color,false,false,1,1,Any,"Float64,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,899
+GR,polyline3d,true,false,4,1,Nothing,"Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2326
+GR,drawimage,true,false,0,1,Nothing,"Float64,Real,Real,Float64,Int64,Int64,Array{T,N} where T where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3114
+GR,textext,true,false,0,1,Int32,"Float64,Float64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2111
+GR,fillrect,true,true,0,1,Nothing,"Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2851
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{Array{Float64,1},Array{Float64,1},Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR.jlgr,plot_iso,true,false,4,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,962
+GR.jlgr,surface,false,false,0,1,Any,"Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2208
+GR,panzoom,true,false,0,1,"NTuple{4,Float64}","Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,4020
+GR,contourf,true,true,4,2,Nothing,"Array{Float64,1},Array{Float64,1},StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}},Array{Float64,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2528
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}},Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,#heatmap#16,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(heatmap),Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3507
+GR,hexbin,true,false,2,1,Int32,"Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2557
+GR.jlgr,hist,true,true,9,1,"Tuple{Array{Float64,1},Array{Float64,1}}","Array{Float64,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1853
+GR.jlgr,isvector,true,true,0,1,Bool,"Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,98
+GR,tick,true,true,0,1,Float64,"Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2609
+GR,inline,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3571
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{Array{Float64,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,setcharheight,true,false,0,1,Nothing,Real,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1469
+GR,axes2d,true,false,0,1,Nothing,"Int64,Int64,Int64,Real,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2160
+GR.jlgr,plot_args,true,true,0,1,"Array{Any,1}","Tuple{LinRange{Float64},Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR.jlgr,set_viewport,true,false,17,2,Nothing,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,100
+GR,#contour#13,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(contour),Array{Float64,1},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3504
+GR,updatews,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,542
+GR,openmeta,true,true,0,1,Ptr{Nothing},Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3904
+GR,axes,true,false,0,1,Nothing,"Int64,Int64,Int64,Real,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2167
+GR,#wireframe#20,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(wireframe),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3511
+GR,contour,true,true,4,2,Nothing,"Array{Float64,1},Array{Float64,1},StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}},Array{Float64,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2478
+GR,#contour#13,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(contour),Array{Float64,2},Array{Float64,2},Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3504
+GR.jlgr,draw_polar_axes,true,false,9,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,502
+GR.js,send,true,true,0,0,Union{},"Cstring,Int32",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/js.jl,330
+GR.jlgr,given,true,false,1,2,Bool,Type{T} where T,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,193
+GR,cellarray,true,false,1,1,Nothing,"Float64,Float64,Float64,Float64,Int64,Int64,Array{Int32,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,723
+GR.jlgr,minmax,false,false,29,2,"Tuple{Any,Any}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,213
+GR,#shadepoints#35,true,false,2,1,Nothing,"Array{Int64,1},Any,typeof(shadepoints),Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3982
+GR.jlgr,#trisurf#80,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.trisurf),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2643
+GR.jlgr,plot,false,false,0,1,Any,"Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1632
+GR.js,recv,true,false,0,1,Int32,"Cstring,Int32,Cstring",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/js.jl,321
+GR,sendmetaref,true,false,0,1,Nothing,"Any,String,Char,Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3920
+GR.jlgr,colorbar,true,false,13,1,Nothing,"Int64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,642
+GR.jlgr,contourf,false,false,0,1,Any,"Array{Float64,1},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2010
+GR.jlgr,_min,true,true,0,1,Float64,"Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,58
+GR,polymarker3d,true,true,4,1,Nothing,"Array{Float64,1},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2354
+GR.jlgr,#contourf#53,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.contourf),Array{Float64,2},Vararg{Array{Float64,2},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2010
+GR,setwswindow,true,true,0,1,Nothing,"Int64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1902
+GR,trisurf,false,false,0,1,Any,"Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3539
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}},Vararg{Union{AbstractString, Function, AbstractArray{T,1} where T, AbstractArray{T,2} where T},N} where N}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,show,false,false,10,6,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3609
+GR.jlgr,draw_axes,true,false,20,3,Nothing,"Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,429
+GR,drawimage,true,false,1,1,Nothing,"Float64,Float64,Float64,Float64,Int64,Int64,Array{UInt32,2},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3114
+GR.jlgr,colorbar,true,false,11,1,Nothing,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,642
+GR,axes3d,true,true,0,1,Nothing,"Float64,Int64,Float64,Float64,Float64,Float64,Int64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2363
+GR.GR3,cameralookat,true,false,0,1,Nothing,"Any,Any,Any,Int64,Int64,Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,227
+GR,polyline3d,true,true,4,1,Nothing,"LinRange{Float64},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2326
+GR,#tricont#33,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(tricont),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3540
+GR.jlgr,#contourf#53,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.contourf),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2010
+GR.jlgr,colormap,true,true,3,1,"Array{Float64,2}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,678
+GR,polymarker,true,true,2,1,Nothing,"LinRange{Float64},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,593
+GR.jlgr,#plot_args#29,true,false,276,1,"Array{Any,1}","Symbol,typeof(GR.jlgr.plot_args),Tuple{LinRange{Float64},LinRange{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR.jlgr,plot_args,true,false,0,1,"Array{Any,1}","Tuple{StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}},Vararg{Union{AbstractString, Function, AbstractArray{T,1} where T, AbstractArray{T,2} where T},N} where N}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR.jlgr,isvector,false,false,0,1,Any,"AbstractArray{T,2} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,98
+GR,uselinespec,true,true,0,1,Int32,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3687
+GR.jlgr,create_context,false,false,0,1,AbstractDict,"Symbol,Dict{Union{},Union{}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,700
+GR.jlgr,given,true,true,0,1,Bool,"StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,193
+GR,plot3,false,false,0,1,Any,"LinRange{Float64},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3514
+GR,axes2d,true,true,0,1,Nothing,"Float64,Float64,Float64,Float64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2160
+GR,polymarker,true,false,2,1,Nothing,"Array{_A,1} where _A,Array{_A,1} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,593
+GR.jlgr,send_meta,true,false,35,2,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1037
+GR,cellarray,true,false,1,1,Nothing,"Int64,Int64,Real,Real,Int64,Int64,Array{Int32,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,723
+GR,sendmetaref,true,false,1,1,Nothing,"Any,String,Char,String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3920
+GR,tick,true,false,0,1,Float64,"Real,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2609
+GR,#hexbin#15,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(hexbin),Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3506
+GR,gridit,true,true,4,1,"Tuple{Array{Float64,1},Array{Float64,1},Array{Float64,1}}","Array{Float64,1},Array{Float64,1},Base.ReshapedArray{Float64,1,LinearAlgebra.Adjoint{Float64,Array{Float64,2}},Tuple{Base.MultiplicativeInverses.SignedMultiplicativeInverse{Int64}}},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1066
+GR.jlgr,colorbar,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,642
+GR,hexbin,false,false,0,1,Any,"Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3506
+GR,axes3d,true,false,0,1,Nothing,"Int64,Real,Int64,Real,Real,Real,Int64,Int64,Int64,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2363
+GR,clearws,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,535
+GR.jlgr,to_double,false,false,7,1,Array,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1026
+GR,oplot,false,false,0,1,Any,"Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3494
+GR,polymarker3d,true,false,4,1,Nothing,"Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2354
+GR,setlinetype,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1118
+GR,surface,true,true,4,2,Nothing,"Array{Float64,1},Array{Float64,1},Array{Float64,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2426
+GR,inline,false,false,10,1,Any,"String,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3571
+GR.jlgr,plot_polar,true,false,3,1,Nothing,"LinRange{Float64},LinRange{Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1005
+GR,#shadelines#36,true,false,2,1,Nothing,"Array{Int64,1},Any,typeof(shadelines),Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3993
+GR.jlgr,#surface#60,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.surface),Array{Float64,2},Vararg{Array{Float64,2},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2208
+GR,selntran,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1842
+GR.jlgr,hasline,true,true,1,2,Bool,Int32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,578
+GR,axes,true,true,0,1,Nothing,"Float64,Float64,Float64,Float64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2167
+GR.jlgr,given,true,true,0,1,Bool,"LinearAlgebra.Adjoint{Float64,LinRange{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,193
+GR.jlgr,to_rgba,false,false,2,1,Any,"Float64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,689
+GR.jlgr,draw_legend,true,false,23,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,581
+GR.jlgr,plot_args,true,true,0,1,"Array{Any,1}","Tuple{StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}},Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,osc_seq,true,true,1,2,String,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,377
+GR.jlgr,#contour#52,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.contour),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1966
+GR.jlgr,#tricont#81,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.tricont),Array{Float64,1},Vararg{Array{Float64,1},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2675
+GR,adjustrange,true,false,0,1,"Tuple{Float64,Float64}","Real,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2633
+GR,setcharup,true,true,0,1,Nothing,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1499
+GR,setwindow,true,true,0,1,Nothing,"Int64,Int64,Int64,Int32",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1762
+GR.jlgr,plot_args,true,true,0,1,"Array{Any,1}","Tuple{LinRange{Float64},LinRange{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,adjustlimits,true,true,0,1,"Tuple{Float64,Float64}","Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2623
+GR,polyline,true,false,2,1,Nothing,"Any,Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,567
+GR,wctondc,true,true,0,1,"Tuple{Float64,Float64}","Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2789
+GR.jlgr,Extrema64,true,true,10,1,"Tuple{Float64,Float64}","SubArray{Float64,1,Array{Float64,2},Tuple{Base.Slice{Base.OneTo{Int64}},Int64},true}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,197
+GR,init,true,true,0,1,"Union{Nothing, Bool}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,311
+GR.jlgr,linspace,true,true,0,1,"StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}}","Float64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,52
+GR.GR3,surface,true,true,3,2,Nothing,"Array{Float64,1},Array{Float64,1},Array{Float64,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/gr3.jl,335
+GR.jlgr,Extrema64,true,true,10,1,"Tuple{Float64,Float64}","StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,197
+GR.jlgr,plot_args,true,true,0,1,"Array{Any,1}","Tuple{Array{Float64,1},Array{Float64,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1446
+GR,setmarkersize,true,false,0,1,Nothing,Real,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1278
+GR,setwindow,true,true,0,1,Nothing,"Int64,Int64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1762
+GR.jlgr,plot_data,false,false,208,5,Any,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1096
+GR.jlgr,hexbin,false,false,0,1,Any,"Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2040
+GR,grid,true,true,0,1,Nothing,"Float64,Float64,Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2240
+GR.jlgr,to_double,false,false,5,1,Array,Array,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,1026
+GR.jlgr,to_rgba,false,false,2,1,Any,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,689
+GR,setmarkersize,true,true,0,1,Nothing,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1278
+GR,#shadepoints#35,true,true,2,1,Nothing,"Array{Int64,1},Int64,typeof(shadepoints),Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,3982
+GR.jlgr,#surface#60,false,false,0,1,Any,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(GR.jlgr.surface),Array{Float64,1},Array{Float64,1},Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,2208
+GR,axeslbl,true,false,0,1,Nothing,"Real,Real,Real,Real,Int64,Int64,Real,GR.jlgr.var""#12#14""{_A} where _A,GR.jlgr.var""#10#11""{_A} where _A",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,2209
+GR.jlgr,#signif#1,true,true,0,1,Float64,"Int64,typeof(GR.jlgr.signif),Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,15
+GR.jlgr,isvector,true,true,0,1,Bool,"StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,97
+GR.jlgr,draw_axes,true,false,20,3,Nothing,"Symbol,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/jlgr.jl,429
+GR,setmarkersize,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GR/depot/packages/GR/9Vi4m/src/GR.jl,1278

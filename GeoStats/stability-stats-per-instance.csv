@@ -1,0 +1,30 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+DataFrames,groupby,true,true,0,1,DataFrames.GroupedDataFrame{DataFrames.DataFrame},"DataFrames.DataFrame,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/DataFrames/3mEXm/src/groupeddataframe/groupeddataframe.jl,187
+Variography,isstationary,true,true,0,1,Bool,Type{PentasphericalVariogram},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/Variography/hjMii/src/theoretical.jl,194
+MLJModelInterface,special_in,true,false,5,2,Bool,"MLJModelInterface.MLJType,Set{Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/MLJModelInterface/tegnW/src/equality.jl,54
+GeoStatsBase,@metasolver,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/GeoStatsBase/eRYAQ/src/macros.jl,48
+GeoEstimation,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/GeoEstimation/mC0dt/src/GeoEstimation.jl,5
+PointPatterns,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/PointPatterns/LhMId/src/PointPatterns.jl,5
+GeoStatsBase,@simsolver,true,false,0,1,Expr,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/GeoStatsBase/eRYAQ/src/macros.jl,224
+MLJModelInterface,special_in,true,false,5,3,"Union{Missing, Bool}","MLJModelInterface.MLJType,Set",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/MLJModelInterface/tegnW/src/equality.jl,54
+Variography,isstationary,true,true,0,1,Bool,Type{SphericalVariogram},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/Variography/hjMii/src/theoretical.jl,150
+GeoStats,eval,false,false,0,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/GeoStats/BC9pL/src/GeoStats.jl,5
+DataFrames,values,true,true,0,1,"Array{AbstractArray{T,1} where T,1}",DataFrames.DataFrameColumns{DataFrames.DataFrame},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/DataFrames/3mEXm/src/abstractdataframe/iteration.jl,224
+Statistics,mean,true,true,0,1,"Array{Float64,2}","SubArray{Array{Float64,2},1,Array{Array{Float64,2},1},Tuple{Array{Int64,1}},false}",/build/source/usr/share/julia/stdlib/v1.5/Statistics/src/Statistics.jl,164
+Variography,isstationary,true,true,0,1,Bool,Type{SineHoleVariogram},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/Variography/hjMii/src/theoretical.jl,234
+Variography,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/Variography/hjMii/src/Variography.jl,5
+KrigingEstimators,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/KrigingEstimators/S13zp/src/KrigingEstimators.jl,5
+MLJModelInterface,special_in,true,false,5,3,"Union{Missing, Bool}","MLJModelInterface.MLJType,Set{Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/MLJModelInterface/tegnW/src/equality.jl,54
+GeoStatsBase,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/GeoStatsBase/eRYAQ/src/GeoStatsBase.jl,5
+DataFrames,groupby,true,true,0,1,DataFrames.GroupedDataFrame{DataFrames.DataFrame},"DataFrames.DataFrame,Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/DataFrames/3mEXm/src/groupeddataframe/groupeddataframe.jl,187
+Variography,isstationary,true,true,0,1,Bool,Type{ExponentialVariogram},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/Variography/hjMii/src/theoretical.jl,101
+Variography,isstationary,true,true,0,1,Bool,Type{CubicVariogram},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/Variography/hjMii/src/theoretical.jl,172
+DataFrames,groupby,true,true,0,1,DataFrames.GroupedDataFrame{DataFrames.DataFrame},"DataFrames.DataFrame,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/DataFrames/3mEXm/src/groupeddataframe/groupeddataframe.jl,187
+Variography,isstationary,true,true,0,1,Bool,Type{GaussianVariogram},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/Variography/hjMii/src/theoretical.jl,86
+MLJModelInterface,special_in,true,false,5,2,Bool,"MLJModelInterface.MLJType,Tuple{Symbol,Symbol,Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/MLJModelInterface/tegnW/src/equality.jl,54
+Statistics,var,true,true,0,1,"Array{Float64,2}","SubArray{Array{Float64,2},1,Array{Array{Float64,2},1},Tuple{Array{Int64,1}},false}",/build/source/usr/share/julia/stdlib/v1.5/Statistics/src/Statistics.jl,366
+GeoSimulation,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/GeoSimulation/34wma/src/GeoSimulation.jl,5
+MLJModelInterface,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/MLJModelInterface/tegnW/src/MLJModelInterface.jl,1
+GeoStatsBase,__init__,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/GeoStatsBase/eRYAQ/src/GeoStatsBase.jl,50
+Variography,isstationary,true,true,0,1,Bool,Type{PowerVariogram},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/Variography/hjMii/src/theoretical.jl,209
+Variography,isstationary,true,true,0,1,Bool,Type{MaternVariogram},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GeoStats/depot/packages/Variography/hjMii/src/theoretical.jl,129

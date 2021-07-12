@@ -1,0 +1,2 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+ColorBrewer,palette,1,0.0,0.0,1,0,0,277,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ColorBrewer/depot/packages/ColorBrewer/5lC10/src/ColorBrewer.jl,38

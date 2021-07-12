@@ -1,0 +1,11 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+Distributed,launch,1,1.0,0.0,1,0,0,744,/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,371
+Distributed,manage,2,1.0,0.5,1,0,0,92,/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,392
+ClusterManagers,get_private_ip,1,1.0,0.0,1,0,0,389,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ClusterManagers/depot/packages/ClusterManagers/Mq0H0/src/elastic.jl,138
+Sockets,connect,3,1.0,0.6666666666666666,1,0,1,95,/build/source/usr/share/julia/stdlib/v1.5/Sockets/src/Sockets.jl,558
+ClusterManagers,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ClusterManagers/depot/packages/ClusterManagers/Mq0H0/src/ClusterManagers.jl,1
+Distributed,kill,2,1.0,1.0,1,0,0,61,/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,597
+Distributed,kill,1,1.0,1.0,1,0,0,79,/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,602
+Distributed,manage,2,1.0,0.0,1,0,0,1610,/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,271
+Distributed,connect,1,0.0,0.0,1,0,0,1606,/build/source/usr/share/julia/stdlib/v1.5/Distributed/src/managers.jl,439
+Sockets,connect,1,1.0,0.0,1,0,0,61,/build/source/usr/share/julia/stdlib/v1.5/Sockets/src/Sockets.jl,545

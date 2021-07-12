@@ -1,0 +1,1 @@
+Stability.ModuleStatsPerInstanceRecord[Stability.ModuleStatsPerInstanceRecord("GemmKernels", "include", false, false, 0, 1, "Any", "String", "/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/GemmKernels/depot/packages/GemmKernels/z8WV2/src/GemmKernels.jl", 1)]

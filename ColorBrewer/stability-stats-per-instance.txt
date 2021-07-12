@@ -1,0 +1,1 @@
+Stability.ModuleStatsPerInstanceRecord[Stability.ModuleStatsPerInstanceRecord("ColorBrewer", "palette", false, false, 2, 1, "Array{T,N} where T where N", "String,Int64", "/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ColorBrewer/depot/packages/ColorBrewer/5lC10/src/ColorBrewer.jl", 38)]

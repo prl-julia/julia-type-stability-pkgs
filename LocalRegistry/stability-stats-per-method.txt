@@ -1,0 +1,1 @@
+Stability.ModuleStatsPerMethodRecord[Stability.ModuleStatsPerMethodRecord("LocalRegistry", "#create_registry#1", 1, 1.0, 0.0, 1, 0, 0, 1583, "/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LocalRegistry/depot/packages/LocalRegistry/fWfEE/src/LocalRegistry.jl", 45)]

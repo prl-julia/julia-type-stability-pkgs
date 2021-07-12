@@ -1,0 +1,8 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Memoize,@memoize,true,false,7,1,Expr,"LineNumberNode,Module,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoize/depot/packages/Memoize/12ANR/src/Memoize.jl,7
+Memoize,@memoize,true,true,2,0,Union{},"LineNumberNode,Module",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoize/depot/packages/Memoize/12ANR/src/Memoize.jl,7
+Memoize,cache_name,true,true,0,1,Symbol,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoize/depot/packages/Memoize/12ANR/src/Memoize.jl,5
+Memoize,@memoize,true,false,11,1,Expr,"LineNumberNode,Module,Expr,Vararg{Expr,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoize/depot/packages/Memoize/12ANR/src/Memoize.jl,7
+Memoize,@memoize,true,false,10,1,Expr,"LineNumberNode,Module,Symbol,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoize/depot/packages/Memoize/12ANR/src/Memoize.jl,7
+Memoize,cache_name,true,false,0,1,Symbol,Function,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoize/depot/packages/Memoize/12ANR/src/Memoize.jl,5
+Memoize,memoize_cache,false,false,0,1,Any,Function,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Memoize/depot/packages/Memoize/12ANR/src/Memoize.jl,82

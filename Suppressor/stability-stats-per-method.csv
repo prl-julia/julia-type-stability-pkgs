@@ -1,0 +1,7 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+Suppressor,@suppress_out,1,1.0,0.0,1,4,0,340,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Suppressor/depot/packages/Suppressor/nTjgZ/src/Suppressor.jl,57
+Suppressor,@suppress,1,1.0,0.0,1,4,0,734,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Suppressor/depot/packages/Suppressor/nTjgZ/src/Suppressor.jl,14
+Suppressor,@suppress_err,1,1.0,0.0,1,4,0,608,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Suppressor/depot/packages/Suppressor/nTjgZ/src/Suppressor.jl,81
+Suppressor,@capture_err,1,1.0,0.0,1,4,0,689,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Suppressor/depot/packages/Suppressor/nTjgZ/src/Suppressor.jl,148
+Suppressor,@capture_out,1,1.0,0.0,1,4,0,421,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Suppressor/depot/packages/Suppressor/nTjgZ/src/Suppressor.jl,118
+Suppressor,@color_output,1,1.0,0.0,1,8,0,351,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Suppressor/depot/packages/Suppressor/nTjgZ/src/Suppressor.jl,200

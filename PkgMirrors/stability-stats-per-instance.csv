@@ -1,0 +1,22 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+PkgMirrors.PKG,activate,false,false,13,1,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/pkg.jl,21
+PkgMirrors.Utils,__init__,false,false,1,2,"Union{Bool, String}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/utils.jl,54
+PkgMirrors.Utils,download_cache,true,true,0,1,String,"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/utils.jl,44
+PkgMirrors.Utils,replace_in_file,true,false,0,1,Int64,"String,Pair",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/utils.jl,48
+PkgMirrors.API,#activate#1,true,false,15,3,"Union{Nothing, PkgMirrors.Types.PkgMirror}","Bool,typeof(PkgMirrors.API.activate)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/api.jl,28
+PkgMirrors.Utils,setcache,true,true,3,2,Bool,"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/utils.jl,13
+PkgMirrors,__init__,false,false,0,1,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/PkgMirrors.jl,27
+PkgMirrors.API,activated,true,true,0,1,Bool,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/api.jl,63
+PkgMirrors.API,deactivate,true,false,9,2,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/api.jl,45
+PkgMirrors.PKG,deactivate,false,false,9,1,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/pkg.jl,59
+PkgMirrors.Utils,current,true,true,0,1,"Union{Nothing, PkgMirrors.Types.PkgMirror}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/utils.jl,7
+PkgMirrors.Utils,getcache,false,false,4,2,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/utils.jl,27
+PkgMirrors.API,availables,true,true,0,1,"Array{String,1}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/api.jl,8
+PkgMirrors,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/PkgMirrors.jl,2
+PkgMirrors.API,setmirror,true,false,5,1,"Union{Nothing, PkgMirrors.Types.PkgMirror}","AbstractString,AbstractString",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/api.jl,10
+PkgMirrors.PKG,get_registry_list,true,false,7,1,"Array{String,1}","String,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/pkg.jl,9
+PkgMirrors.Utils,cachefile,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/utils.jl,11
+PkgMirrors.API,setmirror,true,true,2,1,"Union{Nothing, PkgMirrors.Types.PkgMirror}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/api.jl,23
+PkgMirrors.API,setmirror,true,false,5,1,"Union{Nothing, PkgMirrors.Types.PkgMirror}","String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/api.jl,10
+PkgMirrors.Utils,delcache,true,true,1,2,"Union{Nothing, Bool}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/utils.jl,37
+PkgMirrors.API,clear,true,false,6,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/PkgMirrors/depot/packages/PkgMirrors/UL7au/src/api.jl,56

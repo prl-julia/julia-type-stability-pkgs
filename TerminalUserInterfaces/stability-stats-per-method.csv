@@ -1,0 +1,3 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+TerminalUserInterfaces,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TerminalUserInterfaces/depot/packages/TerminalUserInterfaces/ha2Cg/src/TerminalUserInterfaces.jl,1
+TerminalUserInterfaces,#CSI#1,1,1.0,1.0,1,0,0,59,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TerminalUserInterfaces/depot/packages/TerminalUserInterfaces/ha2Cg/src/utils.jl,32

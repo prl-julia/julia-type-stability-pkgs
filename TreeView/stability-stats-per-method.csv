@@ -1,0 +1,16 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+TreeView,walk_tree,1,1.0,1.0,1,0,0,128,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/tree.jl,50
+TreeView,add_numbered_vertex!,2,0.5,0.5,2,0,0,70,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/TreeView.jl,21
+TreeView,@dag,1,1.0,1.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/dag.jl,128
+TreeView,walk_tree!,2,1.0,0.0,1,0,0,684,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/tree.jl,13
+TreeView,make_dag!,2,0.0,0.0,1,0,0,50,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/dag.jl,47
+TreeView,latex_escape,1,1.0,1.0,1,0,0,120,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/display.jl,7
+TreeView,lookup!,1,0.0,0.0,1,0,0,231,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/dag.jl,34
+TreeView,@dag_cse,1,1.0,1.0,1,0,0,55,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/dag.jl,136
+TreeView,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/TreeView.jl,1
+TreeView,make_dag!,1,0.0,0.0,1,0,0,1105,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/dag.jl,52
+TreeView,@tree,1,1.0,1.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/tree.jl,64
+TreeView,add_symbol!,3,0.0,0.0,1,0,0,104,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/dag.jl,21
+TreeView,make_dag,1,1.0,1.0,1,0,0,104,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/dag.jl,115
+TreeView,walk_tree,1,1.0,1.0,1,0,0,47,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/tree.jl,50
+TreeView,lookup!,1,0.0,0.0,1,0,0,50,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TreeView/depot/packages/TreeView/cUQUy/src/dag.jl,27

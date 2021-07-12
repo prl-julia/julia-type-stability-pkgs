@@ -1,0 +1,15 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+TextUserInterfaces,@log_ident,1,1.0,0.0,1,4,0,94,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/logger.jl,43
+TextUserInterfaces,@_ccalln,1,1.0,0.0,1,4,0,900,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/ncurses_functions.jl,25
+TextUserInterfaces,@_ccallm,1,1.0,0.0,1,4,0,900,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/menu_functions.jl,25
+TextUserInterfaces,@_ccallp,1,1.0,0.0,1,4,0,900,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/panel_functions.jl,25
+TextUserInterfaces,init_tui,1,1.0,1.0,1,0,0,41,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/init_destruct.jl,18
+TextUserInterfaces,initscr,1,1.0,1.0,1,0,0,70,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/ncurses_functions.jl,132
+TextUserInterfaces,start_color,1,1.0,1.0,1,0,0,69,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/ncurses_functions.jl,132
+TextUserInterfaces,log_message,1,1.0,1.0,1,0,0,1052,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/logger.jl,57
+TextUserInterfaces,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/TextUserInterfaces.jl,1
+TextUserInterfaces,has_colors,1,1.0,1.0,1,0,0,69,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/ncurses_functions.jl,132
+TextUserInterfaces,@_ccallf,1,1.0,0.0,1,4,0,900,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/form_functions.jl,25
+TextUserInterfaces,@log,1,1.0,0.0,1,28,0,242,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/logger.jl,34
+TextUserInterfaces,NCURSES_BITS,1,1.0,1.0,1,0,0,57,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/ncurses/ncurses_attributes.jl,11
+TextUserInterfaces,init_tui,1,1.0,1.0,1,0,0,2701,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TextUserInterfaces/depot/packages/TextUserInterfaces/k1unl/src/init_destruct.jl,18

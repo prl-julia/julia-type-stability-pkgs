@@ -1,0 +1,4 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+ApplicationBuilder,copy_file_dir_or_glob,2,1.0,0.0,1,0,0,1461,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ApplicationBuilder/depot/packages/ApplicationBuilder/sg0US/src/ApplicationBuilder.jl,284
+ApplicationBuilder,clean_file_pattern,1,0.0,0.0,1,0,0,227,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ApplicationBuilder/depot/packages/ApplicationBuilder/sg0US/src/ApplicationBuilder.jl,304
+ApplicationBuilder,#build_app_bundle#1,1,1.0,0.0,1,0,0,3407,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ApplicationBuilder/depot/packages/ApplicationBuilder/sg0US/src/ApplicationBuilder.jl,29

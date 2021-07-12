@@ -1,0 +1,51 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+LibGit2,isempty,true,true,0,1,Bool,LibGit2.GitReference,/build/source/usr/share/julia/stdlib/v1.5/LibGit2/src/types.jl,970
+ModuleInterfaceTools,@api,true,true,0,1,Nothing,"LineNumberNode,Module,Symbol,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/ModuleInterfaceTools/txQ5f/src/ModuleInterfaceTools.jl,397
+StrTables,lookupname,true,false,1,2,String,"StrTables.AbstractEntityTable,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrTables/RV7P3/src/StrTables.jl,219
+StrTables,lookupname,true,true,1,2,String,"LaTeX_Entities.LaTeX_Table{String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrTables/RV7P3/src/StrTables.jl,219
+ChrBase,isxdigit,true,true,0,1,Bool,UInt8,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/ChrBase/Y979U/src/unicode.jl,105
+StrBase,is_unicode,true,true,0,1,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/utf8.jl,253
+StrBase,cse,false,false,0,1,Type{C} where C<:CSE,"Union{Type{Union{}}, Type{Str{C<:CSE,SubStr,Cache,Hash}} where Hash where Cache where SubStr}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/types.jl,108
+Unicode_Entities,lookupname,true,false,1,2,String,"Unicode_Entities.Unicode_Table,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/Unicode_Entities/8lG1C/src/Unicode_Entities.jl,100
+ChrBase,isxdigit,true,true,0,1,Bool,UInt16,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/ChrBase/Y979U/src/unicode.jl,105
+StrBase,isvalid,true,false,5,2,Bool,"SubString{T<:Str},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/core.jl,156
+CharSetEncodings,cse,true,true,0,1,Type{RawUTF8CSE},String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,76
+StrLiterals,@f_str,false,false,0,1,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrLiterals/BYkrL/src/StrLiterals.jl,53
+StrBase,cse,false,false,0,1,Type{C} where C<:CSE,"Type{var""#s14""} where var""#s14""<:(Str{C<:CSE,SubStr,Cache,Hash} where Hash where Cache where SubStr)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/types.jl,108
+LibGit2,isempty,true,true,0,1,Bool,LibGit2.GitRepo,/build/source/usr/share/julia/stdlib/v1.5/LibGit2/src/types.jl,970
+CharSetEncodings,basecse,true,true,0,1,Type{LatinCSE},Type{C} where C<:CSE,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,33
+CharSetEncodings,cse,false,false,0,1,Type,"Type{T} where T<:(Union{SubString{var""#s35""}, var""#s35""} where var""#s35""<:Str)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,74
+StrBase,isvalid,true,false,5,2,Bool,"Str{_A,Nothing,Nothing,Nothing} where _A,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/core.jl,156
+ChrBase,isxdigit,true,true,0,1,Bool,UInt32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/ChrBase/Y979U/src/unicode.jl,105
+StrBase,isvalid,true,false,5,2,Bool,"Union{SubString{var""#s35""}, var""#s35""} where var""#s35""<:Str,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/core.jl,156
+StrBase,cse,false,false,0,1,Type{C} where C<:CSE,"Type{Str{C<:CSE,SubStr,Cache,Hash}} where Hash where Cache where SubStr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/types.jl,108
+CharSetEncodings,basecse,true,true,0,1,Type{UTF32CSE},Type{_UTF32CSE},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,50
+CharSetEncodings,basecse,true,true,0,1,Type{LatinCSE},Type{_LatinCSE},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,50
+ChrBase,isvalid,false,false,0,1,Any,"Type{T} where T<:Chr,UInt32",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/ChrBase/Y979U/src/traits.jl,91
+StrBase,find,false,false,7,6,Any,"Type{First},String,Str",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/search.jl,208
+StrBase,find,false,false,7,6,Any,"Type{First},String,Union{SubString{var""#s35""}, var""#s35""} where var""#s35""<:Str",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/search.jl,208
+ChrBase,isvalid,false,false,1,2,Any,"Type{T<:Chr},Char",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/ChrBase/Y979U/src/traits.jl,99
+CharSetEncodings,cse,false,false,0,1,Type{C} where C<:CSE,"Type{Str{T,SubStr,Cache,Hash}} where Hash where Cache where SubStr where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,74
+StrBase,isvalid,true,false,5,2,Bool,"Union{SubString{var""#s35""}, var""#s35""} where var""#s35""<:Str,Integer",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/core.jl,156
+StrLiterals,@pr_str,false,false,0,1,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrLiterals/BYkrL/src/StrLiterals.jl,67
+CharSetEncodings,cse,false,false,0,1,Type,"Type{var""#s136""} where var""#s136""<:SubString{T<:Str}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,75
+StrBase,is_bmp,true,true,17,3,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/unicode.jl,43
+ChrBase,charset,false,false,0,1,Type{CS} where CS<:CharSet,"Type{T} where T<:Chr{CS<:CharSet,B<:Union{UInt16, UInt32, UInt8}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/ChrBase/Y979U/src/core.jl,32
+StrRegex,@R_str,true,false,0,1,RegexStr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrRegex/l273o/src/StrRegex.jl,247
+StrBase,isvalid,true,false,6,2,Bool,"Type{UTF32Str},Array{var""#s36"",1} where var""#s36""<:Union{Text4Chr, Int32, UInt32}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/utf32.jl,222
+CharSetEncodings,cse,false,false,0,1,Type,"Union{Type{var""#s136""} where var""#s136""<:SubString{var""#s37""}, Type{Str{T,SubStr,Cache,Hash}} where Hash where Cache where SubStr where T} where var""#s37""<:Str",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,74
+StrBase,find,false,false,19,9,Any,"Type{Fwd},String,Union{SubString{var""#s35""}, var""#s35""} where var""#s35""<:Str,Integer",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/search.jl,185
+Pkg.Types,isempty,true,true,0,1,Bool,Pkg.Types.VersionSpec,/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/versions.jl,236
+StrBase,is_latin,true,true,11,3,Bool,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/unicode.jl,18
+CharSetEncodings,basecse,false,false,0,1,Type,Type{T} where T<:Str,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,78
+CharSetEncodings,charset,false,false,0,1,Type{CS} where CS<:CharSet,Type{T} where T<:Chr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/charsets.jl,34
+CharSetEncodings,cse,false,false,0,1,Type{C} where C<:CSE,Type{T} where T<:Str,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,74
+CharSetEncodings,basecse,false,false,0,1,Any,"Union{SubString{var""#s35""}, var""#s35""} where var""#s35""<:Str",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,79
+CharSetEncodings,cse,true,true,0,1,Type{RawUTF8CSE},Type{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,74
+CharSetEncodings,basecse,true,true,0,1,Type{LatinCSE},"Type{C} where C<:Union{_LatinCSE, _UCS2CSE, _UTF32CSE}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,33
+CharSetEncodings,cse,false,false,0,1,Any,"Type{var""#s20""} where var""#s20""<:SubString{T}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,75
+StrBase,occursin,true,false,0,1,"Union{Missing, Bool, Base.var""#64#65""{_A} where _A}","String,Str",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/search.jl,425
+CharSetEncodings,basecse,true,true,0,1,Type{UCS2CSE},Type{_UCS2CSE},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/CharSetEncodings/B0gIZ/src/cses.jl,50
+Pkg.Types,isempty,true,true,5,3,Bool,Pkg.Types.VersionRange,/build/source/usr/share/julia/stdlib/v1.5/Pkg/src/versions.jl,142
+ChrBase,isxdigit,true,false,0,1,Bool,Chr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/ChrBase/Y979U/src/unicode.jl,109
+StrBase,isvalid,true,false,5,2,Bool,"Str,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Strs/depot/packages/StrBase/LNQBK/src/core.jl,156

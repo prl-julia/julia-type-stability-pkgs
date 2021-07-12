@@ -1,0 +1,13 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+IntervalOptimisation.SortedVectors,filter_elements!,5,0.8,0.8,5,0,0,171,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/IntervalOptimisation/depot/packages/IntervalOptimisation/PjZLd/src/SortedVectors.jl,44
+IntervalOptimisation,#maximise#4,6,0.0,0.0,2,0,0,238,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/IntervalOptimisation/depot/packages/IntervalOptimisation/PjZLd/src/optimise.jl,76
+IntervalOptimisation.HeapedVectors,floatup!,13,0.9230769230769231,0.46153846153846156,7,0,0,262,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/IntervalOptimisation/depot/packages/IntervalOptimisation/PjZLd/src/HeapedVectors.jl,33
+IntervalOptimisation.HeapedVectors,bubbledown!,6,1.0,1.0,1,0,0,636,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/IntervalOptimisation/depot/packages/IntervalOptimisation/PjZLd/src/HeapedVectors.jl,75
+IntervalOptimisation,maximise,1,0.0,0.0,1,0,0,60,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/IntervalOptimisation/depot/packages/IntervalOptimisation/PjZLd/src/optimise.jl,76
+IntervalOptimisation,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/IntervalOptimisation/depot/packages/IntervalOptimisation/PjZLd/src/IntervalOptimisation.jl,1
+IntervalOptimisation.HeapedVectors,heaping,13,0.9230769230769231,0.46153846153846156,7,0,0,293,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/IntervalOptimisation/depot/packages/IntervalOptimisation/PjZLd/src/HeapedVectors.jl,24
+IntervalOptimisation,numeric_type,2,1.0,1.0,2,0,0,38,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/IntervalOptimisation/depot/packages/IntervalOptimisation/PjZLd/src/optimise.jl,2
+IntervalOptimisation,#minimise#1,26,0.0,0.0,4,0,0,940,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/IntervalOptimisation/depot/packages/IntervalOptimisation/PjZLd/src/optimise.jl,21
+IntervalOptimisation.HeapedVectors,filter_elements!,5,0.8,0.8,5,0,0,235,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/IntervalOptimisation/depot/packages/IntervalOptimisation/PjZLd/src/HeapedVectors.jl,94
+IntervalOptimisation,minimise,2,0.0,0.0,2,0,0,58,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/IntervalOptimisation/depot/packages/IntervalOptimisation/PjZLd/src/optimise.jl,21
+IntervalOptimisation,numeric_type,2,1.0,1.0,2,0,0,38,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/IntervalOptimisation/depot/packages/IntervalOptimisation/PjZLd/src/optimise.jl,1

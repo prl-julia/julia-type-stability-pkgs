@@ -1,0 +1,15 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Reel,writeframe,true,false,0,1,Nothing,"String,MIME{Symbol(""image/png"")},Plots.Plot",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,33
+Reel,#roll#7,false,false,3,1,Any,"Int64,Int64,typeof(roll),var""#5#13""{Array{Any,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,77
+Reel,#roll#7,false,false,3,1,Any,"Int64,Int64,typeof(roll),var""#16#19""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,77
+Reel,bestmime,true,false,4,2,"Union{Nothing, MIME}",Plots.Plot,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,56
+Reel,#roll#7,false,false,3,1,Any,"Int64,Int64,typeof(roll),Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,77
+Reel,#roll#8,false,false,2,1,Any,"Int64,typeof(roll),Base.Generator{StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}},var""#4#12""{var""#render#8""}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,94
+Reel,extension,true,true,0,1,String,"MIME{Symbol(""image/png"")}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,28
+Reel,#roll#7,false,false,3,1,Any,"Int64,Int64,typeof(roll),var""#render#8""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,77
+Reel,#Frames#5,false,false,0,1,Any,"Int64,Type{Frames},MIME",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,26
+Reel,#Frames#5,true,true,0,1,"Frames{MIME{Symbol(""image/png"")}}","Int64,Type{Frames},MIME{Symbol(""image/png"")}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,26
+Reel,bestmime,true,false,4,2,"Union{Nothing, MIME}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,56
+Reel,writeframe,true,true,0,1,Nothing,"String,MIME{Symbol(""image/png"")},Plots.Plot{Plots.GRBackend}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,33
+Reel,bestmime,true,false,4,2,"Union{Nothing, MIME}",Plots.Plot{Plots.GRBackend},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,56
+Reel,#write#6,true,true,0,1,String,"Float64,typeof(write),String,Frames{MIME{Symbol(""image/png"")}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Reel/depot/packages/Reel/HdonC/src/Reel.jl,64

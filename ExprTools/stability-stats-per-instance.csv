@@ -1,0 +1,30 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+ExprTools,parameters,true,false,0,1,Core.SimpleVector,DataType,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/type_utils.jl,9
+ExprTools,type_parameters,true,true,0,1,"Union{Nothing, Array{Any,1}}",Method,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,158
+ExprTools,arguments,false,false,0,1,Array,Method,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,119
+ExprTools,name_of_type,false,false,1,2,"Union{Expr, Symbol}",Core.TypeName,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,70
+ExprTools,slot_names,true,true,0,1,"Array{Symbol,1}",Method,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,43
+ExprTools,type_parameters,true,false,2,2,"Union{Nothing, Array{Any,1}}",Type,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,159
+ExprTools,argument_names,true,true,2,1,"Array{Symbol,1}",Method,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,48
+ExprTools,name_of_type,false,false,3,2,Any,DataType,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,88
+ExprTools,argument_types,true,true,0,1,Core.SimpleVector,Method,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,55
+ExprTools,argument_types,true,false,0,1,Core.SimpleVector,Type,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,56
+ExprTools,name_of_module,false,false,1,2,"Union{Expr, Symbol}",Module,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,63
+ExprTools,name_of_type,false,false,2,1,Any,UnionAll,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,101
+ExprTools,name_of_type,true,true,0,1,Symbol,TypeVar,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,87
+ExprTools,name_of_type,true,true,2,1,Int64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,82
+ExprTools,combinedef,true,false,23,1,Expr,"Dict{Symbol,Any}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/function.jl,148
+ExprTools,where_constraint,false,false,5,4,"Union{Expr, Symbol}",TypeVar,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,135
+ExprTools,splitdef,true,true,0,1,"Union{Nothing, Dict{Symbol,Any}}",Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/function.jl,23
+ExprTools,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/ExprTools.jl,1
+ExprTools,name_of_type,true,true,0,1,QuoteNode,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,81
+ExprTools,kwargs,true,true,1,2,"Union{Nothing, Array{Any,1}}",Method,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,168
+ExprTools,kwarg_names,true,true,1,2,"Array{Any,1}",Method,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,176
+ExprTools,where_parameters,true,true,0,1,"Union{Nothing, Array{Any,1}}",Method,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,147
+ExprTools,parameters,true,false,0,1,Core.SimpleVector,UnionAll,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/type_utils.jl,8
+ExprTools,signature,false,false,0,1,Dict,Method,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,31
+ExprTools,where_parameters,true,false,2,1,"Array{Any,1}",UnionAll,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,149
+ExprTools,where_parameters,true,false,2,1,"Array{Any,1}",Type,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,148
+ExprTools,where_parameters,true,false,2,1,"Array{Any,1}",Type{T} where T,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,148
+ExprTools,#splitdef#1,true,false,75,6,"Union{Nothing, Dict{Symbol,Any}}","Bool,typeof(splitdef),Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/function.jl,23
+ExprTools,name_of_type,false,false,0,1,Any,Union,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ExprTools/depot/packages/ExprTools/wrrJW/src/method.jl,114

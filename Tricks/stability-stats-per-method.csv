@@ -1,0 +1,8 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+Tricks,#s14#4,1,0.0,0.0,1,15,0,312,none,0
+Tricks,static_fieldtypes,1,0.0,0.0,1,0,0,52,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Tricks/depot/packages/Tricks/TyBuj/src/Tricks.jl,90
+Tricks,static_fieldcount,1,1.0,0.0,1,0,0,52,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Tricks/depot/packages/Tricks/TyBuj/src/Tricks.jl,91
+Tricks,static_fieldnames,1,0.0,0.0,1,0,0,52,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Tricks/depot/packages/Tricks/TyBuj/src/Tricks.jl,89
+Tricks,static_methods,3,0.3333333333333333,0.3333333333333333,2,1,0,71,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Tricks/depot/packages/Tricks/TyBuj/src/Tricks.jl,72
+Tricks,create_codeinfo_with_returnvalue,1,0.0,0.0,1,0,0,237,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Tricks/depot/packages/Tricks/TyBuj/src/Tricks.jl,44
+Tricks,#s12#1,1,1.0,0.0,1,15,0,778,none,0

@@ -1,0 +1,4 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+Taro,__init__,1,0.0,0.0,1,0,0,155,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Taro/depot/packages/Taro/Nx69Q/src/Taro.jl,12
+Taro,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Taro/depot/packages/Taro/Nx69Q/src/Taro.jl,1
+Taro,init,1,1.0,1.0,1,0,0,52,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Taro/depot/packages/Taro/Nx69Q/src/Taro.jl,21

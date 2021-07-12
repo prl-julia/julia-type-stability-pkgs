@@ -1,0 +1,49 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+QuickTypes,all_type_vars_present,true,false,3,1,Bool,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,118
+QuickTypes,type_parameters,true,true,0,1,Core.SimpleVector,"Type{Tuple{Int64,Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,32
+QuickTypes,@qstruct_fp,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,357
+QuickTypes,@d,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,549
+QuickTypes,check_destructurable,true,false,0,1,Nothing,Ref,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,435
+QuickTypes,type_parameters,false,false,0,1,Any,Type{T} where T,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,32
+QuickTypes,narrow_typeof,true,true,0,1,Type{Int64},Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,137
+QuickTypes,roottype,false,false,0,1,Type,Type,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,31
+QuickTypes,@qfunctor,true,false,15,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,398
+QuickTypes,build_show_def,true,false,7,2,"Union{Nothing, Expr}","Bool,Bool,Any,Array{Any,1},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,90
+Main,construct,true,false,0,1,Kwaroo,"Type{Kwaroo},Symbol,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,252
+Main,construct,true,false,0,1,Kwaroo,"Type{Kwaroo},Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,252
+QuickTypes,check_destructurable,true,true,0,1,Nothing,"Tuple{Int64,Base.RefValue{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,435
+QuickTypes,#s13#6,true,false,0,1,Expr,"Any,Any",none,0
+Main,construct,true,true,0,1,"Car{Int64,Tuple{String,String}}","Type{Car},Int64,Int64,Tuple{String,String},String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,252
+Main,check_destructurable,true,true,0,0,Union{},NotDestruct,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/test/runtests.jl,189
+QuickTypes,check_destructurable,true,true,0,1,Nothing,LongerStruct{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,435
+Main,construct,true,false,1,2,Slurp,"Type{Slurp},Symbol,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,252
+Main,construct,true,true,0,1,Foo{Int64},"Type{Foo},Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,252
+QuickTypes,get_sym,false,false,2,1,Any,Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,83
+QuickTypes,@destruct,true,false,7,3,Expr,"LineNumberNode,Module,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,530
+QuickTypes,@qstruct,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,305
+Main,construct,true,true,0,1,"Plane{Int64,Int64}","Type{Plane},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,252
+QuickTypes,tuple_parameters,true,true,0,1,Core.SimpleVector,"Type{Tuple{Int64,Float64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,40
+QuickTypes,@destruct_assignment,true,false,28,2,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,437
+Main,construct,true,true,1,1,Slurp,"Type{Slurp},Symbol,Int64,NTuple{5,Int64},Base.Iterators.Pairs{Symbol,Int64,Tuple{Symbol,Symbol},NamedTuple{(:x, :y),Tuple{Int64,Int64}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,252
+QuickTypes,make_parametric,false,false,3,2,"NTuple{4,Any}","Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,319
+QuickTypes,make_parametric,false,false,3,2,"Tuple{Any,Any,Array{_A,1} where _A,Array{_A,1} where _A}","Symbol,Expr,Array{Any,1},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,319
+QuickTypes,build_show_def,true,false,7,2,"Union{Nothing, Expr}","Bool,Bool,Symbol,Array{Any,1},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,90
+QuickTypes,parse_funcall,false,false,20,3,"NTuple{4,Any}",Expr,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,60
+QuickTypes,@qstruct_np,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,370
+QuickTypes,parse_funcall,false,false,20,3,"NTuple{4,Any}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,60
+QuickTypes,get_sym,true,true,0,1,Symbol,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,87
+QuickTypes,roottype,false,false,0,1,Type,Type{T} where T,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,31
+QuickTypes,#s12#1,true,false,0,1,Expr,"Any,Any",none,0
+QuickTypes,all_type_vars_present,true,true,3,1,Bool,"Array{Symbol,1},Array{Expr,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,118
+QuickTypes,all_type_vars_present,true,false,3,1,Bool,"Array{Symbol,1},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,118
+QuickTypes,check_destructurable,true,true,0,1,Nothing,"Base.RefValue{Tuple{Int64,Base.RefValue{Int64}}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,435
+QuickTypes,@destruct_function,true,false,1,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,466
+Main,construct,true,true,0,1,Kwaroo,"Type{Kwaroo},Symbol,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,252
+QuickTypes,check_destructurable,true,true,0,1,Nothing,Base.RefValue{Float64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,435
+QuickTypes,qexpansion,true,false,41,1,Expr,"Expr,Bool,Bool,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,141
+QuickTypes,@qmutable,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,310
+QuickTypes,check_destructurable,true,true,0,1,Nothing,Base.RefValue{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,435
+Main,construct,true,true,0,1,ParametricBoring{Symbol},"Type{ParametricBoring},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,252
+QuickTypes,check_destructurable,true,true,0,1,Nothing,"Tuple{LongerStruct{Int64},Base.RefValue{Int64}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,435
+QuickTypes,narrow_typeof,true,true,0,1,Type{Type{Int64}},Type{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,136
+Main,construct,true,false,1,2,Slurp,"Type{Slurp},Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/QuickTypes/depot/packages/QuickTypes/pv5ZF/src/QuickTypes.jl,252

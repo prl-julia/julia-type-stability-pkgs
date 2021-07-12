@@ -1,0 +1,5 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+FredData,has_fred_key,true,true,1,2,Bool,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FredData/depot/packages/FredData/bGF0k/src/FredData.jl,86
+FredData,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FredData/depot/packages/FredData/bGF0k/src/FredData.jl,4
+FredData,load_fred_key,false,false,2,2,"Union{SubString{String}, String}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FredData/depot/packages/FredData/bGF0k/src/FredData.jl,74
+FredData,key_file,true,true,0,1,String,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/FredData/depot/packages/FredData/bGF0k/src/FredData.jl,72

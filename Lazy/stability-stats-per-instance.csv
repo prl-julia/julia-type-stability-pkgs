@@ -1,0 +1,118 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Lazy,range,true,true,0,1,Lazy.LazyList,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,39
+Lazy,lastcalls,false,false,1,2,Array,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,5
+Lazy,@d,true,true,0,1,Expr,"LineNumberNode,Module",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/macros.jl,263
+Lazy,tupleassign,true,false,0,1,Expr,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,33
+Lazy,@>,true,false,2,1,Expr,"LineNumberNode,Module,Int64,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/macros.jl,87
+Lazy,concat,true,true,0,1,Lazy.LazyList,"Lazy.LazyList,Lazy.EmptyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,42
+Lazy,tupleassign,true,true,0,1,Expr,"Array{Symbol,1},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,33
+Lazy,seq,true,true,0,1,Lazy.LazyList,Lazy.LazyList,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,7
+Lazy,tail,false,false,0,1,List,Lazy.LinkedList,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,67
+Lazy,reductions,true,false,0,1,Lazy.LazyList,"typeof(+),Any,List",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,141
+Lazy,list,true,false,0,1,Lazy.LinkedList,"Any,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,64
+Lazy,prepend,true,true,0,1,Lazy.LinkedList,"Int64,Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,57
+Lazy,@>>,true,false,2,1,Expr,"LineNumberNode,Module,Int64,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/macros.jl,123
+Lazy,lastcalls,false,false,1,2,Array,"Lazy.var""#15#16"",Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,5
+Lazy,concat,true,true,0,1,Lazy.LazyList,"Lazy.EmptyList,Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,42
+Lazy,mapply,true,true,0,1,Lazy.LazyList,"typeof(+),Lazy.LazyList,Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,126
+Lazy,tco,false,false,3,2,Any,"Any,Any,Array{Symbol,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,35
+Lazy,@>,true,false,2,1,Expr,"LineNumberNode,Module,Expr,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/macros.jl,87
+Lazy,list,true,true,0,1,Lazy.LinkedList,Lazy.LinkedList,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,64
+Lazy,lastcalls,false,false,1,2,"Array{_A,1} where _A","Lazy.var""#15#16""{Array{Symbol,1},Symbol},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,16
+Lazy,list,true,true,0,1,Lazy.EmptyList,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,63
+Lazy,list,true,true,0,1,Lazy.LinkedList,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,64
+Lazy,@listable,false,false,3,2,Any,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,15
+Lazy,prepend,true,true,0,1,Lazy.LinkedList,"Bool,Lazy.EmptyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,57
+Lazy,seq,false,false,1,2,"Union{Lazy.EmptyList, Lazy.LinkedList}","UnitRange{Int64},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,20
+Lazy,concat,true,true,0,1,Lazy.LazyList,"Lazy.LinkedList,Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,42
+Lazy,realise!,false,false,1,2,List,Lazy.LazyList,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,73
+Lazy,tco,true,false,3,2,Expr,"Expr,Any,Array{Symbol,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,35
+Lazy,lastcalls,false,false,1,2,Array,"Lazy.var""#15#16""{Array{Symbol,1},Symbol},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,5
+Lazy,tco,false,false,3,2,"Union{Expr, Symbol}","Symbol,Any,Array{Symbol,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,35
+Lazy,iterated,true,true,0,1,Lazy.LazyList,"var""#1#11"",Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,35
+Lazy,mapply,true,false,0,1,Lazy.LazyList,"DataType,List",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,126
+Lazy,retcalls,false,false,0,1,Any,"Function,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,20
+Lazy,list,true,false,0,1,Lazy.LinkedList,"Int64,Int64,Vararg{Int64,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,64
+Lazy,tco,false,false,3,2,Any,"Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,35
+Lazy,mapply,true,true,0,1,Lazy.LazyList,"var""#6#17"",Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,126
+Lazy,tupleassign,true,true,0,1,Expr,"Array{Any,1},Array{Symbol,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,33
+Lazy,tco,false,false,3,2,"Union{Expr, Symbol}","Symbol,Symbol,Array{Symbol,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,35
+Lazy,realise,false,false,2,1,List,Lazy.LazyList,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,80
+Lazy,list,true,false,0,1,Lazy.LinkedList,"Int64,Int64,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,64
+Lazy,prepend,true,true,0,1,Lazy.LinkedList,"Lazy.LinkedList,Lazy.EmptyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,57
+Lazy,list,true,false,0,1,Lazy.LinkedList,"Int64,Vararg{Int64,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,64
+Lazy,mapply,true,false,0,1,Lazy.LazyList,"Function,Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,126
+Lazy,drop,true,false,0,1,Lazy.LazyList,"Int64,List",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,88
+Lazy,#split#86,false,false,13,1,"Array{_A,1} where _A","Bool,typeof(split),Array{T,1} where T,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/collections.jl,3
+Lazy,constantly,true,true,0,1,Lazy.LazyList,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,27
+Lazy,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,1
+Lazy,concat,true,true,0,1,Lazy.LazyList,"Lazy.LinkedList,Lazy.LinkedList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,42
+Lazy,list,true,false,0,1,Lazy.LinkedList,"Lazy.LinkedList,Int64,Vararg{Int64,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,64
+Lazy,range,true,true,0,1,Lazy.LazyList,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,39
+Lazy,repeatedly,true,true,0,1,Lazy.LazyList,"var""#testfn#10""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,32
+Lazy,prepend,true,false,0,1,Lazy.LinkedList,"List,Lazy.LinkedList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,57
+Lazy,prepend,true,false,0,1,Lazy.LinkedList,"Any,Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,57
+Lazy,@with,true,false,4,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/macros.jl,238
+Lazy,list,true,false,0,1,Lazy.LinkedList,"Int64,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,64
+Lazy,concat,true,true,0,1,Lazy.LazyList,"Lazy.LazyList,Lazy.LinkedList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,42
+Lazy,tco,true,false,3,2,Expr,"Expr,Symbol,Array{Symbol,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,35
+Lazy,lastcalls,false,false,6,7,Any,"Lazy.var""#15#16""{Array{Symbol,1},Symbol},Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,5
+Lazy,flatten,true,true,0,1,Lazy.LinkedList,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,200
+Lazy,lastcalls,false,false,1,2,Array,"Function,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,5
+Lazy,@forward,false,false,8,1,Any,"LineNumberNode,Module,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/macros.jl,293
+Lazy,@>>,true,false,2,1,Expr,"LineNumberNode,Module,Symbol,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/macros.jl,123
+Lazy,prepend,true,true,0,1,Lazy.LinkedList,"Bool,Lazy.LinkedList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,57
+Lazy,flatten,false,false,0,1,"Union{Lazy.EmptyList, Lazy.LazyList}",List,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,201
+Lazy,takewhile,true,true,0,1,Lazy.LazyList,"Base.Fix2{typeof(<),Int64},Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,120
+Lazy,seq,true,true,0,1,Lazy.LinkedList,Lazy.LinkedList,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,7
+Lazy,concat,true,true,0,1,Lazy.LazyList,"Lazy.EmptyList,Lazy.EmptyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,42
+Lazy,cycle,true,true,0,1,Lazy.LazyList,"Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,30
+Lazy,reductions,true,true,0,1,Lazy.LazyList,"typeof(+),Int64,Lazy.LinkedList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,141
+Lazy,list,true,false,0,1,Lazy.LinkedList,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,64
+Lazy,prepend,true,false,0,1,Lazy.LinkedList,"Any,Lazy.LinkedList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,57
+Lazy,@rec,true,false,6,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,60
+Lazy,lastcalls,false,false,1,2,Array,"Any,Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,16
+Lazy,range,true,true,0,1,Lazy.LazyList,"Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,37
+Lazy,seq,false,false,0,1,List,List,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,7
+Lazy,seq,false,false,1,2,"Union{Lazy.EmptyList, Lazy.LinkedList}",UnitRange{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,12
+Lazy,tco,false,false,3,2,"Union{Bool, Expr}","Bool,Any,Array{Symbol,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,35
+Lazy,lastcalls,true,false,6,5,"Union{Nothing, Bool, Expr}","Lazy.var""#15#16""{Array{Symbol,1},Symbol},Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,5
+Lazy,list,true,false,0,1,Lazy.LinkedList,"Bool,Bool,Vararg{Bool,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,64
+Lazy,@as,true,false,2,1,Expr,"LineNumberNode,Module,Any,Int64,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/macros.jl,154
+Lazy,flatten,false,false,0,1,"Union{Lazy.EmptyList, Lazy.LazyList}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,200
+Lazy,drop,true,true,0,1,Lazy.LazyList,"Int64,Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,88
+Lazy,flatten,false,false,0,1,"Union{Lazy.EmptyList, Lazy.LazyList}",Lazy.LinkedList,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,201
+Lazy,concat,true,true,0,1,Lazy.LazyList,"Lazy.LazyList,Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,42
+Lazy,prepend,true,false,0,1,Lazy.LinkedList,"List,Lazy.EmptyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,57
+Lazy,take,true,true,0,1,Lazy.LazyList,"Int64,Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,85
+Lazy,concat,true,false,0,1,Lazy.LazyList,"List,Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,42
+Lazy,lastcalls,false,false,1,2,"Array{_A,1} where _A","Function,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,16
+Lazy,@lazy,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,89
+Lazy,seq,false,false,1,2,"Union{Lazy.EmptyList, Lazy.LinkedList}","Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,8
+Lazy,tailcalls,false,false,0,1,Any,"Function,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,26
+Lazy,lastcalls,false,false,1,2,Array,"Function,Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,16
+Lazy,range,true,true,0,1,Lazy.LazyList,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,37
+Lazy,mapply,true,false,0,1,Lazy.LazyList,"DataType,Lazy.LinkedList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,126
+Lazy,prepend,true,false,0,1,Lazy.LinkedList,"Any,Lazy.EmptyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,57
+Lazy,lastcalls,true,false,6,5,"Union{Nothing, Expr, Symbol}","Lazy.var""#15#16""{Array{Symbol,1},Symbol},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,5
+Lazy,prepend,true,true,0,1,Lazy.LinkedList,"Int64,Lazy.LinkedList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,57
+Lazy,prepend,true,true,0,1,Lazy.LinkedList,"Lazy.LinkedList,Lazy.LinkedList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,57
+Lazy,tail,true,true,0,1,Lazy.LazyList,Lazy.LazyList,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,97
+Lazy,lastcalls,false,false,1,2,Array,"Lazy.var""#15#16""{Array{Symbol,1},Symbol},Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,16
+Lazy,concat,true,true,0,1,Lazy.LazyList,"Lazy.EmptyList,Lazy.LinkedList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,42
+Lazy,lastcalls,false,false,6,7,Any,"Function,Expr",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,5
+Lazy,mapply,true,false,0,1,Lazy.LazyList,"typeof(+),List,Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,126
+Lazy,tupleassign,true,false,0,1,Expr,"Array{Symbol,1},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,33
+Lazy,prepend,true,true,0,1,Lazy.LinkedList,"Int64,Lazy.EmptyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,57
+Lazy,tail,true,true,0,1,Lazy.EmptyList,Lazy.EmptyList,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,52
+Lazy,seq,false,false,1,2,"Union{Lazy.EmptyList, Lazy.LinkedList}","Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,8
+Lazy,list,true,false,0,1,Lazy.LinkedList,"Bool,Vararg{Bool,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,64
+Lazy,list,true,true,0,1,Lazy.LinkedList,"Int64,Lazy.LinkedList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,64
+Lazy,concat,true,false,0,1,Lazy.LazyList,"List,Lazy.LinkedList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/liblazy.jl,42
+Lazy,prepend,true,false,0,1,Lazy.LinkedList,"List,Lazy.LazyList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,57
+Lazy,@>>,true,false,2,1,Expr,"LineNumberNode,Module,Expr,Vararg{Expr,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/macros.jl,123
+Lazy,retcalls,false,false,0,1,Any,"Function,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,20
+Lazy,lastcalls,false,false,1,2,Array,"Lazy.var""#15#16"",Array",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,16
+Lazy,tco,false,false,3,2,"Union{Bool, Expr}","Bool,Symbol,Array{Symbol,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/tail.jl,35
+Lazy,list,true,true,0,1,Lazy.LinkedList,Bool,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,64
+Lazy,list,true,true,0,1,Lazy.LinkedList,"Lazy.LinkedList,Lazy.LinkedList",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Lazy/depot/packages/Lazy/9Xnd3/src/Lazy.jl,64

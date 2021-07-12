@@ -1,0 +1,12 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+TheFix,#replace#4,1,0.0,0.0,1,0,0,3383,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,30
+TheFix,#replace#12,1,1.0,0.0,1,0,0,4881,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,98
+TheFix,#cleanse#1,4,0.75,0.75,4,0,0,41,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,4
+TheFix,cleanse,1,0.0,0.0,1,0,0,50,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,17
+TheFix,#replace#15,1,1.0,0.0,1,0,0,618,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,222
+TheFix,#replace#14,1,1.0,0.0,1,0,0,1878,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,192
+TheFix,#cleanse#3,1,0.0,0.0,1,0,0,610,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,17
+TheFix,#cleanse#2,1,0.0,0.0,1,0,0,199,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,8
+TheFix,#replace#13,1,1.0,0.0,1,0,0,2418,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,146
+TheFix,@safeword,1,1.0,0.0,1,12,0,1204,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,271
+TheFix,#replace#5,1,1.0,0.0,1,0,0,3757,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TheFix/depot/packages/TheFix/J4szo/src/TheFix.jl,63

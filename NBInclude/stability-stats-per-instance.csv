@@ -1,0 +1,10 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+NBInclude,#nbinclude#1,false,false,23,1,Any,"Bool,UnitRange{Int64},Regex,typeof(identity),Bool,typeof(nbinclude),Module,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/NBInclude/depot/packages/NBInclude/mNhzW/src/NBInclude.jl,45
+NBInclude,@nbinclude,false,false,10,1,Any,"LineNumberNode,Module,Expr,Vararg{Expr,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/NBInclude/depot/packages/NBInclude/mNhzW/src/NBInclude.jl,134
+NBInclude,#nbinclude#1,false,false,23,1,Any,"Bool,UnitRange{Int64},Regex,var""#1#2"",Bool,typeof(nbinclude),Module,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/NBInclude/depot/packages/NBInclude/mNhzW/src/NBInclude.jl,45
+NBInclude,@nbinclude,false,false,10,1,Any,"LineNumberNode,Module,Expr,Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/NBInclude/depot/packages/NBInclude/mNhzW/src/NBInclude.jl,134
+NBInclude,nbinclude,false,false,0,1,Any,"Module,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/NBInclude/depot/packages/NBInclude/mNhzW/src/NBInclude.jl,45
+NBInclude,my_include_string,false,false,6,2,Any,"Module,String,String,Nothing,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/NBInclude/depot/packages/NBInclude/mNhzW/src/NBInclude.jl,25
+NBInclude,#nbinclude#1,false,false,23,1,Any,"Bool,Array{Int64,1},Regex,typeof(identity),Bool,typeof(nbinclude),Module,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/NBInclude/depot/packages/NBInclude/mNhzW/src/NBInclude.jl,45
+NBInclude,@nbinclude,false,false,7,1,Any,"LineNumberNode,Module,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/NBInclude/depot/packages/NBInclude/mNhzW/src/NBInclude.jl,134
+NBInclude,my_include_string,false,false,6,2,Any,"Module,String,String,String,Bool",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/NBInclude/depot/packages/NBInclude/mNhzW/src/NBInclude.jl,25

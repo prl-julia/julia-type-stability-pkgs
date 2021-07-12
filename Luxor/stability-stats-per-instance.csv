@@ -1,0 +1,866 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Luxor,bezierpathtopoly,true,true,0,1,"Array{Point,1}",BezierPath,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,268
+Luxor,rowlayoutleftover,true,true,0,1,"NTuple{4,Float64}","Array{Float64,1},Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,54
+Luxor,box,true,true,0,1,"Array{Point,1}","BoundingBox,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,216
+Luxor,boxbottomright,true,true,0,1,Point,BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,423
+Luxor,#textbox#151,true,false,4,1,Point,"Int64,var""#110#112""{Tiler},Symbol,typeof(textbox),Array{SubString{String},1},Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,591
+Luxor,easeinoutquad,true,true,1,2,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,303
+Luxor,ellipseinquad,false,false,8,2,"Tuple{Point,Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64}}","Array{Point,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,1007
+Luxor,get_current_bluevalue,true,true,0,1,Float64,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,59
+Luxor,buildrow,true,true,3,1,"Array{BoxmapTile,1}","Array{Float64,1},Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,14
+Luxor,easeinoutquad,true,false,1,2,Float64,"Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,303
+Luxor,buildboxmap,false,false,6,3,"Union{Array{Any,1}, Array{BoxmapTile,1}}","Array{Float64,1},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,88
+Luxor,textright,true,true,0,1,Point,"String,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,95
+Luxor,intersection_line_circle,true,true,5,1,"Tuple{Int64,Point,Point}","Point,Point,Point,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,335
+Luxor,setcolor,true,true,0,1,"Tuple{Int64,Int64,Int64,Float64}","Tuple{Int64,Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,170
+Luxor,#text#140,true,true,1,1,Point,"Base.Iterators.Pairs{Symbol,Symbol,Tuple{Symbol,Symbol},NamedTuple{(:halign, :valign),Tuple{Symbol,Symbol}}},typeof(text),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,88
+Luxor,triangleincenter,true,true,0,1,Point,"Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/triangles.jl,37
+Luxor,#pathtobezierpaths#201,true,true,16,1,"Array{BezierPath,1}","Bool,typeof(pathtobezierpaths)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,327
+Luxor,#textbox#156,true,true,1,1,Point,"Base.Iterators.Pairs{Symbol,Symbol,Tuple{Symbol},NamedTuple{(:alignment,),Tuple{Symbol}}},typeof(textbox),String,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,616
+Luxor,Reposition,true,true,0,1,Float64,"Turtle,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,252
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#63#69"",typeof(prettypoly),Array{Point,1},Symbol,var""#49#54""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,#box#24,true,false,3,1,"Array{Point,1}","Bool,typeof(box),Point,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,82
+Luxor,splittext,true,true,7,1,"Array{String,1}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,505
+Luxor,newsubpath,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,147
+Luxor,#arrow#119,true,false,6,2,Nothing,"Int64,Int64,Float64,Float64,Luxor.var""#121#123"",typeof(arrow),Point,Any,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,130
+Luxor,boundingboxesintersect,true,true,4,5,Bool,"Point,Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,252
+Luxor,easeinoutcirc,true,true,1,2,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,506
+Luxor,current_width,true,true,0,1,Float64,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,68
+Luxor,randomcolor,true,true,0,1,"NTuple{4,Float64}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,218
+Luxor,circle,true,false,1,0,Union{},"Any,Int64,Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,11
+Luxor,randomordinate,false,false,1,1,Any,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,220
+Luxor,sethue,false,false,0,1,"Tuple{Number,Number,Number}","Number,Number,Number",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,142
+Luxor,curve,true,true,0,1,Nothing,"Int64,Float64,Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,398
+Luxor,line,true,true,0,1,Bool,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,352
+Luxor,box,true,true,0,1,Bool,"Int64,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,100
+Luxor,ellipse,true,true,0,1,"Array{Point,1}","Point,Point,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,478
+Luxor,ellipse,true,true,0,1,"Array{Point,1}","Point,Point,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,478
+Luxor,current_surface_ptr,false,false,0,1,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,71
+Luxor,setcolor,true,true,0,1,"Tuple{Int64,Int64,Float64,Float64}","Int64,Int64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,68
+Luxor,Pop,false,false,5,2,"Union{Tuple{Float64,Float64,Float64}, Array{Float64,1}}",Turtle,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,166
+Luxor,@layer,true,true,0,1,Expr,"LineNumberNode,Module,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,500
+Luxor,box,true,false,0,1,"Array{Point,1}","Point,Any,Real,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,82
+Luxor,set_current_bluevalue,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,64
+Luxor,setblend,true,true,0,1,Nothing,Cairo.CairoPattern,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/blends.jl,117
+Luxor,#rect#21,true,true,3,1,"Array{Point,1}","Bool,typeof(rect),Point,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,28
+Luxor,circle,true,true,0,1,Bool,"Point,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,24
+Luxor,#text#141,true,true,0,1,Point,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(text),String,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,89
+Luxor,getpath,true,true,0,1,"Array{Cairo.CairoPathEntry,1}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,582
+Luxor,douglas_peucker,true,true,12,1,"Array{Point,1}","Array{Point,1},Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,126
+Luxor,#dimension#134,true,true,1,1,"Tuple{Float64,String}","var""#144#146"",Int64,Tuple{Float64,Float64},Tuple{Float64,Float64},Float64,Int64,Int64,Float64,Float64,Int64,Float64,typeof(dimension),Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,375
+Luxor,nearestindex,false,false,2,1,"Tuple{Union{Nothing, Int64},Float64}","Array{Float64,1},Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,876
+Luxor,setlinecap,true,true,2,3,Nothing,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,267
+Luxor,@setcolor_str,true,false,2,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,84
+Luxor,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Luxor.jl,11
+Luxor,paint_with_alpha,true,true,0,1,Nothing,"Cairo.CairoContext,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,25
+Luxor,ngon,true,true,0,1,"Array{Point,1}","Float64,Float64,Int64,Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,158
+Luxor,easeinoutquint,true,true,1,2,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,408
+Luxor,isarcclockwise,true,true,0,1,Bool,"Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,226
+Luxor,fillpath,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,169
+Luxor,nextgridpoint,true,true,4,1,Point,GridRect,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/tiles-grids.jl,197
+Luxor,boxdiagonal,true,true,0,1,Float64,BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,184
+Luxor,#star#30,true,true,5,1,"Array{Point,1}","Bool,Bool,typeof(star),Float64,Float64,Int64,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,226
+Luxor,carc,true,false,0,1,Bool,"Float64,Float64,Real,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,166
+Luxor,scale,true,true,0,1,Nothing,"Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,520
+Luxor,Pencolor,false,false,0,1,"Tuple{Any,Any,Any}","Turtle,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,224
+Luxor,#textcurvecentered#145,true,true,4,1,Nothing,"Bool,Int64,Int64,typeof(textcurvecentered),String,Float64,Int64,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,314
+Luxor,easeoutcubic,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,327
+Luxor,trianglecircumcenter,true,true,0,1,Point,"Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/triangles.jl,9
+Luxor,#drawbezierpath#195,true,true,4,1,Bool,"Bool,typeof(drawbezierpath),BezierPath,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,172
+Luxor,easeinoutsine,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,440
+Luxor,highestaspectratio,true,false,0,1,Float64,"Array{Float64,1},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,84
+Luxor,move,true,true,0,1,Nothing,Point,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,337
+Luxor,curve,true,true,0,1,Nothing,"Float64,Float64,Int64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,398
+Luxor,bezier,true,false,0,1,Point,"Any,Point,Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,58
+Luxor,randomhue,true,true,0,1,"Tuple{Float64,Float64,Float64}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,207
+Luxor,cropmarks,false,false,0,1,Any,"Point,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,267
+Luxor,#ellipse#99,true,true,4,2,"Array{Point,1}","Float64,Bool,Bool,typeof(ellipse),Point,Point,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,478
+Luxor,set_current_redvalue,true,true,0,1,Float64,"FixedPointNumbers.Normed{UInt8,8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,62
+Luxor,sethue,false,false,0,1,"Tuple{Any,Any,Any}",Colorant,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,127
+Luxor,#ngon#28,true,true,1,1,"Array{Point,1}","Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:vertices,),Tuple{Bool}}},typeof(ngon),Point,Int64,Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,201
+Luxor,rescale,false,false,0,1,Any,"Float64,Int64,Int64,Float64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,64
+Luxor,highestaspectratio,true,true,0,1,Float64,"Array{Float64,1},Float64,Float64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,84
+Luxor,ispointonline,true,true,0,1,Bool,"Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,282
+Luxor,boundingboxesintersect,true,true,0,1,Bool,"BoundingBox,BoundingBox",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,267
+Luxor,setcolor,false,false,0,1,"NTuple{4,Any}","Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,68
+Luxor,Orientation,true,true,0,1,Float64,"Turtle,Irrational{:π}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,90
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#60#66"",typeof(prettypoly),Array{Point,1},Symbol,var""#17#18""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,setcolor,true,true,0,1,"NTuple{4,Float64}","Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,68
+Luxor,#text#141,true,false,1,1,Point,"Base.Iterators.Pairs{Symbol,Symbol,Tuple{Symbol},NamedTuple{(:halign,),Tuple{Symbol}}},typeof(text),String,Float64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,89
+Luxor,#text#141,true,false,0,1,Point,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(text),String,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,89
+Luxor,set_current_greenvalue,true,true,0,1,Float64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,63
+Luxor,easeinoutinversequad,true,true,1,2,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,520
+Luxor,#box#50,true,true,3,2,"Array{Point,1}","Bool,typeof(box),BoundingBox,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,216
+Luxor,setcolor,true,true,0,1,"NTuple{4,FixedPointNumbers.Normed{UInt8,8}}","RGB{FixedPointNumbers.Normed{UInt8,8}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,62
+Luxor,#star#30,true,false,5,1,"Array{Point,1}","Bool,Bool,typeof(star),Float64,Float64,Real,Int64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,226
+Luxor,textextents,true,false,0,1,"Array{Float64,2}",AbstractString,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,170
+Luxor,#beziertopoly#199,true,true,2,1,"Array{Point,1}","Int64,typeof(beziertopoly),BezierPathSegment",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,210
+Luxor,#textwrap#157,true,false,0,1,Point,"Int64,Int64,typeof(textwrap),String,Real,Point,Luxor.var""#159#160""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,663
+Luxor,ellipse,true,false,0,1,Bool,"Float64,Float64,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,80
+Luxor,current_surface,false,false,0,1,Cairo.CairoSurface,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,70
+Luxor,arc,true,true,0,1,Bool,"Point,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,155
+Luxor,midpoint,true,true,0,1,Point,BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,302
+Luxor,buildcolumn,true,true,3,1,"Array{BoxmapTile,1}","Array{Float64,1},Float64,Float64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,30
+Luxor,polycross,true,true,0,1,"Array{Point,1}","Point,Int64,Int64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,331
+Luxor,get_current_alpha,true,true,0,1,Float64,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,60
+Luxor,initnoise,true,true,3,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,212
+Luxor,sector,true,true,1,1,Bool,"Point,Int64,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,238
+Luxor,bezier,true,true,0,1,Point,"Float64,Point,Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,58
+Luxor,rline,true,true,0,1,Nothing,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,371
+Luxor,rescale,true,true,0,1,Float64,"Float64,Int64,Float64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,64
+Luxor,#animate#177,false,false,1,1,"Union{Bool, Luxor.AnimatedGif}","Base.Iterators.Pairs{Symbol,Any,Tuple{Symbol,Symbol},NamedTuple{(:creategif, :pathname),Tuple{Bool,String}}},typeof(animate),Movie,Scene",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,230
+Luxor,rescale,true,true,0,1,Float64,"Int64,Int64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,64
+Luxor,Pencolor,true,true,0,1,"Tuple{FixedPointNumbers.Normed{UInt8,8},FixedPointNumbers.Normed{UInt8,8},FixedPointNumbers.Normed{UInt8,8}}","Turtle,FixedPointNumbers.Normed{UInt8,8},FixedPointNumbers.Normed{UInt8,8},FixedPointNumbers.Normed{UInt8,8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,224
+Luxor,blend,true,true,0,1,Cairo.CairoPattern,"Point,Int64,Point,Int64,RGBA{Float64},RGBA{Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/blends.jl,33
+Luxor,setline,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,259
+Luxor,background,true,true,0,1,"NTuple{4,Float64}","Int64,Float64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,113
+Luxor,isinside,true,true,0,1,Bool,"Point,Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,185
+Luxor,squircle,true,true,0,1,"Array{Point,1}","Point,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,118
+Luxor,center3pts,false,false,5,2,"Union{Tuple{Point,Float64}, Tuple{Point,Int64}}","Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,58
+Luxor,arc,true,false,0,1,Bool,"Any,Any,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,#intersectionlines#6,true,true,32,1,"Tuple{Bool,Point}","Bool,typeof(intersectionlines),Point,Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,433
+Luxor,placeimage,true,true,0,1,Nothing,"Array{UInt32,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,190
+Luxor,#star#35,true,true,0,1,"Array{Point,1}","Bool,Bool,typeof(star),Point,Float64,Int64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,254
+Luxor,carc2sagitta,true,true,0,1,"Tuple{Point,Float64}","Point,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,862
+Luxor,Reposition,true,true,0,1,Int64,"Turtle,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,247
+Luxor,rescale,true,true,0,1,Float64,"Float64,Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,64
+Luxor,get_current_greenvalue,true,true,0,1,Float64,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,58
+Luxor,#arrow#114,false,false,6,1,Any,"Int64,Int64,Float64,StepRangeLen{Float64,Base.TwicePrecision{Float64},Base.TwicePrecision{Float64}},var""#134#135"",typeof(arrow),Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,56
+Luxor,ellipse,true,true,0,1,Bool,"Float64,Float64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,80
+Luxor,getrotation,true,true,0,1,Float64,"Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,188
+Luxor,_readsvgstring,true,true,4,1,Luxor.SVGimage,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,100
+Luxor,randompoint,true,true,0,1,Point,"Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,241
+Luxor,set_current_greenvalue,false,false,0,1,Any,Number,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,63
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#60#66"",typeof(prettypoly),Array{Point,1},Symbol,var""#117#119""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,var""#152#154"",typeof(prettypoly),Array{Point,1},Symbol,Luxor.var""#62#68""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,#drawbezierpath#196,true,true,1,1,Bool,"Bool,typeof(drawbezierpath),BezierPathSegment,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,192
+Luxor,simplexnoise,true,true,0,1,Float64,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,224
+Luxor,prettypoly,true,true,0,1,"Union{Nothing, Array{Point,1}}","Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#60#66"",typeof(prettypoly),Array{Point,1},Symbol,Luxor.var""#58#64""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,transform,true,true,0,1,Nothing,"Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,109
+Luxor,insertvertices!,true,true,0,1,"Array{Point,1}","Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1228
+Luxor,between,true,true,0,1,Point,"Tuple{Point,Point},Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,160
+Luxor,textright,true,true,0,1,Point,"String,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,96
+Luxor,carc,true,false,0,1,Bool,"Int64,Int64,Real,Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,166
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#60#66"",typeof(prettypoly),Array{Point,1},Symbol,var""#70#71""{Array{String,1},Float64,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,#ngon#28,true,true,0,1,"Array{Point,1}","Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(ngon),Point,Float64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,201
+Luxor,#textwrap#157,true,false,0,1,Point,"Int64,Int64,typeof(textwrap),String,Float64,Point,Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,663
+Luxor,arc,true,false,0,1,Bool,"Point,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,155
+Luxor,origin,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,9
+Luxor,#placeimage#172,true,true,0,1,Nothing,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(placeimage),Array{Gray{FixedPointNumbers.Normed{UInt8,8}},2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,200
+Luxor,polar,true,true,0,1,Point,"Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,411
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#60#66"",typeof(prettypoly),Array{Point,1},Symbol,var""#74#77""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,simplify,true,true,0,1,"Array{Point,1}","Array{Point,1},Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,165
+Luxor,set_current_greenvalue,true,true,0,1,Float64,"FixedPointNumbers.Normed{UInt8,8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,63
+Luxor,rulers,true,true,0,1,Bool,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,599
+Luxor,@imagematrix,true,false,0,1,Expr,"LineNumberNode,Module,Any,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,809
+Luxor,box,true,false,0,1,"Array{Point,1}","Point,Real,Real,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,82
+Luxor,scalingmatrix,true,true,0,1,"Array{Float64,2}","Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,148
+Luxor,#ngon#25,true,true,1,1,"Array{Point,1}","Bool,Bool,typeof(ngon),Float64,Float64,Float64,Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,158
+Luxor,rect,true,true,1,1,Bool,"Float64,Float64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,10
+Luxor,textright,true,true,0,1,Point,"String,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,95
+Luxor,Towards,true,true,0,1,Float64,"Turtle,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,99
+Luxor,Pendown,true,true,0,1,Bool,Turtle,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,113
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#60#66"",typeof(prettypoly),Array{Point,1},Symbol,var""#62#64""{Array{Point,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,mesh,true,false,9,1,Cairo.CairoPattern,"Array{Point,1},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/mesh.jl,87
+Luxor,#poly#53,true,true,6,1,"Array{Point,1}","Bool,Bool,typeof(poly),Array{Point,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,13
+Luxor,set_current_greenvalue,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,63
+Luxor,arc,true,false,0,1,Bool,"Point,Any,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,155
+Luxor,lineartween,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,51
+Luxor,gsave,true,true,0,1,"NTuple{4,Float64}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,468
+Luxor,arc,true,false,0,1,Bool,"Int64,Int64,Any,Float64,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,HueShift,true,true,0,1,"Tuple{Float64,Float64,Float64}","Turtle,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,196
+Luxor,polyarea,true,true,3,1,Float64,"Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1011
+Luxor,polyremainder,true,true,0,1,"Array{Point,1}","Array{Point,1},Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,943
+Luxor,randompointarray,true,false,3,1,"Array{Point,1}","Point,Union{Int64, Point},Union{Int64, Point}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,250
+Luxor,randompointarray,true,false,1,1,"Array{Point,1}","Point,Union{Int64, Point},Union{Int64, Point},Union{Int64, Point},Union{Int64, Point}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,264
+Luxor,bezierfrompoints,true,true,0,1,BezierPathSegment,"Point,Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,398
+Luxor,blendadjust,true,true,0,1,Nothing,"Cairo.CairoPattern,Point,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/blends.jl,145
+Luxor,preview,true,false,4,1,Drawing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,343
+Luxor,ngon,true,true,0,1,"Array{Point,1}","Point,Float64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,201
+Luxor,setcolor,true,true,0,1,"Tuple{Float64,Int64,Int64,Float64}","Float64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,68
+Luxor,setcolor,true,true,0,1,"NTuple{4,Float64}",RGBA{Float64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,62
+Luxor,#BoundingBox#39,true,true,2,1,BoundingBox,"Bool,Type{BoundingBox}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,25
+Luxor,#polysample#79,true,true,7,2,"Array{Point,1}","Bool,typeof(polysample),Array{Point,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,985
+Luxor,#star#35,true,false,0,1,"Array{Point,1}","Bool,Bool,typeof(star),Point,Real,Int64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,254
+Luxor,#ngon#25,true,true,1,1,"Array{Point,1}","Bool,Bool,typeof(ngon),Float64,Float64,Int64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,158
+Luxor,text,true,false,0,1,Point,"String,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,89
+Luxor,#box#24,true,true,3,1,"Array{Point,1}","Bool,typeof(box),Point,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,82
+Luxor,ngon,true,true,0,1,"Array{Point,1}","Int64,Int64,Int64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,158
+Luxor,arrow,false,false,0,1,Any,"Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,56
+Luxor,#makebezierpath#194,true,true,3,1,BezierPath,"Float64,typeof(makebezierpath),Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,151
+Luxor,circle,true,false,1,0,Union{},"Union{Float64, Int64, Point},Union{Float64, Int64, Point},Symbol,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,11
+Luxor,fillstroke,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,198
+Luxor,#settext#146,true,true,1,1,Graphics.BoundingBox,"Base.Iterators.Pairs{Symbol,Any,NTuple{4,Symbol},NamedTuple{(:halign, :valign, :angle, :markup),Tuple{String,String,Int64,Bool}}},typeof(settext),String,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,394
+Luxor,move,true,true,0,1,Nothing,"Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,336
+Luxor,textcentered,true,true,0,1,Point,"String,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,92
+Luxor,#ngon#28,true,true,1,1,"Array{Point,1}","Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:vertices,),Tuple{Bool}}},typeof(ngon),Point,Int64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,201
+Luxor,setcolor,true,true,0,1,"NTuple{4,Float64}","Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,68
+Luxor,move,true,true,0,1,Nothing,"Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,336
+Luxor,circle,true,true,1,1,Bool,"Int64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,11
+Luxor,#settext#147,true,true,1,1,Graphics.BoundingBox,"Base.Iterators.Pairs{Symbol,Any,NTuple{4,Symbol},NamedTuple{(:halign, :valign, :angle, :markup),Tuple{String,String,Int64,Bool}}},typeof(settext),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,397
+Luxor,intersection_line_circle,true,true,5,1,"Tuple{Int64,Point,Point}","Point,Point,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,335
+Luxor,text,true,false,0,1,Point,"Any,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,31
+Luxor,circle,true,true,0,1,Bool,"Point,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,24
+Luxor,placeimage,true,true,0,1,Nothing,"Cairo.CairoSurfaceBase{UInt32},Point,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,69
+Luxor,scale,true,true,0,1,Nothing,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,527
+Luxor,easeoutexpo,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,462
+Luxor,#drawroundedcorner#70,true,false,12,1,"Array{Tuple,1}","Bool,typeof(Luxor.drawroundedcorner),Point,Point,Point,Int64,Array{Tuple,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,359
+Luxor,set_current_redvalue,true,true,0,1,Float64,Float32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,62
+Luxor,#Scene#175,true,true,0,1,Scene,"typeof(easeinoutquint),Nothing,Type{Scene},Movie,typeof(frame3),UnitRange{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,114
+Luxor,#Scene#175,true,true,0,1,Scene,"typeof(easeinoutcubic),Nothing,Type{Scene},Movie,typeof(frame2),UnitRange{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,114
+Luxor,ellipse,true,true,0,1,"Array{Point,1}","Point,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,104
+Luxor,set_current_greenvalue,true,true,0,1,Float64,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,63
+Luxor,#dimension#134,true,true,1,1,"Tuple{Float64,String}","typeof(string),Int64,Tuple{Float64,Float64},Tuple{Float64,Float64},Float64,Float64,Int64,Float64,Float64,Int64,Float64,typeof(dimension),Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,375
+Luxor,arc2r,true,true,1,1,Bool,"Point,Point,Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,189
+Luxor,prettypoly,true,true,0,1,"Union{Nothing, Array{Point,1}}","Array{Point,1},Symbol,Luxor.var""#58#64""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,det3p,true,true,0,1,Float64,"Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,169
+Luxor,prettypoly,true,true,0,1,"Union{Nothing, Array{Point,1}}","Array{Point,1},Symbol,var""#63#65""{Array{Point,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,_b0,true,true,0,1,Float64,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,384
+Luxor,Pencolor,true,true,0,1,"Tuple{Float64,Float64,Float64}","Turtle,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,224
+Luxor,simplexnoise,true,true,18,1,Float64,"Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,235
+Luxor,ellipse,true,false,0,1,Bool,"Float64,Float64,Real,Real,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,80
+Luxor,sethue,true,true,0,1,"Tuple{FixedPointNumbers.Normed{UInt8,8},FixedPointNumbers.Normed{UInt8,8},FixedPointNumbers.Normed{UInt8,8}}","FixedPointNumbers.Normed{UInt8,8},FixedPointNumbers.Normed{UInt8,8},FixedPointNumbers.Normed{UInt8,8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,142
+Luxor,easeinoutbezier,true,true,0,1,Float64,"Float64,Int64,Float64,Int64,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,560
+Luxor,noise,true,true,0,1,Float64,"Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,28
+Luxor,perpendicular,true,true,1,1,Point,"Point,Point,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,173
+Luxor,sector,true,false,1,1,Bool,"Point,Real,Float64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,238
+Luxor,#polyrotate!#84,true,true,3,1,"Array{Point,1}","Point,typeof(polyrotate!),Array{Point,1},Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1194
+Luxor,setcolor,false,false,0,1,"NTuple{4,Any}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,28
+Luxor,blend,true,true,0,1,Cairo.CairoPattern,"Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/blends.jl,15
+Luxor,#arrow#114,false,false,5,1,Any,"Float64,Int64,Float64,Float64,Luxor.var""#116#118"",typeof(arrow),Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,56
+Luxor,rescale,true,true,0,1,Float64,"Float64,Int64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,64
+Luxor,#squircle#89,true,true,6,1,"Array{Point,1}","Float64,Bool,Float64,Bool,typeof(squircle),Point,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,118
+Luxor,simplexnoise,true,true,325,1,Float64,"Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,864
+Luxor,noise,true,true,0,1,Float64,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,22
+Luxor,carc,true,false,0,1,Bool,"Point,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,177
+Luxor,easeinoutquart,true,true,1,2,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,373
+Luxor,#bezierpathtopoly#200,true,true,4,1,"Array{Point,1}","Int64,typeof(bezierpathtopoly),BezierPath",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,268
+Luxor,sector,false,false,0,1,Any,"Real,Real,Float64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,350
+Luxor,#ngon#25,true,true,1,1,"Array{Point,1}","Bool,Bool,typeof(ngon),Float64,Float64,Float64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,158
+Luxor,extrapolate,true,true,0,1,Float64,"Int64,Int64,Int64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,150
+Luxor,curve,true,true,0,1,Nothing,"Int64,Float64,Float64,Float64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,398
+Luxor,sethue,false,false,0,1,"Tuple{Any,Any,Any}","Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,142
+Luxor,boxbottomleft,true,true,0,1,Point,BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,399
+Luxor,#ispointonline#5,true,true,9,10,Bool,"Float64,Bool,typeof(ispointonline),Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,282
+Luxor,#barchart#180,true,true,6,1,"Array{Point,1}","BoundingBox,Int64,Int64,Bool,Bool,Luxor.var""#184#190"",typeof(barfunc2),Luxor.var""#186#192"",typeof(barchart),Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bars.jl,62
+Luxor,fontsize,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,113
+Luxor,#rule#8,true,false,19,1,"Array{Point,1}","BoundingBox,Bool,typeof(rule),Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,397
+Luxor,#box#217,true,false,0,1,"Array{Point,1}","Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(box),Table,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Table.jl,260
+Luxor,carc,true,false,0,1,Bool,"Float64,Float64,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,166
+Luxor,getscale,true,true,0,1,"Tuple{Float64,Float64}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,212
+Luxor,setlinejoin,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,294
+Luxor,_b3,true,true,0,1,Float64,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,387
+Luxor,_solvexy,true,true,0,1,"Tuple{Float64,Float64}","Float64,Float64,Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,376
+Luxor,ngon,false,false,0,1,"Array{_A,1} where _A","Real,Real,Int64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,158
+Luxor,columnlayoutleftover,true,true,0,1,"NTuple{4,Float64}","Array{Float64,1},Float64,Float64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,62
+Luxor,pathtobezierpaths,true,true,0,1,"Array{BezierPath,1}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,327
+Luxor,line,true,false,0,1,Bool,"Point,Point,Union{Point, Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,360
+Luxor,star,true,true,0,1,"Array{Point,1}","Point,Int64,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,254
+Luxor,polyorientation,true,true,3,1,Float64,"Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1072
+Luxor,rect,true,true,0,1,"Array{Point,1}","Point,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,28
+Luxor,blend,true,true,0,1,Cairo.CairoPattern,"Point,Int64,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/blends.jl,67
+Luxor,line,true,true,0,1,Nothing,Point,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,353
+Luxor,#spiral#105,true,false,7,1,"Array{Point,1}","Float64,Float64,Bool,Bool,typeof(spiral),Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,631
+Luxor,current_surface_type,true,true,0,1,Symbol,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,72
+Luxor,#epitrochoid#103,false,false,7,2,"Union{Tuple{Int64,Float64}, Array{Point,1}}","Bool,Float64,Int64,Bool,typeof(epitrochoid),Int64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,581
+Luxor,carc,true,true,0,1,Bool,"Point,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,177
+Luxor,prettypoly,true,true,0,1,"Union{Nothing, Array{Point,1}}","Array{Point,1},Symbol,var""#74#77""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,intersection2circles,true,true,2,3,Float64,"Point,Int64,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,678
+Luxor,cropmarks,false,false,0,1,Any,"Point,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,267
+Luxor,curve,true,true,0,1,Nothing,"Float64,Int64,Float64,Float64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,398
+Luxor,polysample,true,true,0,1,"Array{Point,1}","Array{Point,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,985
+Luxor,@polar,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,394
+Luxor,arc,true,true,0,1,Bool,"Point,Int64,Float64,Irrational{:π},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,155
+Luxor,columnlayoutleftover,true,true,0,1,"NTuple{4,Float64}","Array{Float64,1},Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,62
+Luxor,rescale,true,true,0,1,Float64,"Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,64
+Luxor,#barchart#180,true,true,6,1,"Array{Point,1}","BoundingBox,Int64,Int64,Bool,Bool,Luxor.var""#184#190"",typeof(barfunc2),Luxor.var""#186#192"",typeof(barchart),Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bars.jl,62
+Luxor,#textbox#151,true,false,2,1,Point,"Int64,typeof(identity),Symbol,typeof(textbox),Array{String,1},Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,591
+Luxor,do_action,true,true,13,1,Bool,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,210
+Luxor,#dimension#134,true,true,1,1,"Tuple{Float64,String}","var""#136#139"",Int64,Array{Int64,1},Array{Int64,1},Float64,Float64,Int64,Float64,Float64,Int64,Float64,typeof(dimension),Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,375
+Luxor,buildrow,true,true,3,1,"Array{BoxmapTile,1}","Array{Float64,1},Float64,Float64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,14
+Luxor,ngon,true,true,0,1,"Array{Point,1}","Point,Int64,Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,201
+Luxor,carc2sagitta,true,true,5,1,"Tuple{Point,Float64}","Point,Point,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,862
+Luxor,arc,true,true,0,1,Bool,"Point,Int64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,155
+Luxor,box,true,true,0,1,"Array{Point,1}","Tiler,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/tiles-grids.jl,356
+Luxor,grestore,false,false,0,2,Any,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,484
+Luxor,set_current_alpha,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,65
+Luxor,#noise#226,true,true,0,1,Float64,"Int64,Float64,typeof(noise),Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,25
+Luxor,intersectboundingboxes,true,true,1,2,BoundingBox,"BoundingBox,BoundingBox",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,275
+Luxor,polyremovecollinearpoints,true,true,4,1,"Array{Point,1}","Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1131
+Luxor,setline,true,false,0,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,259
+Luxor,Penwidth,true,true,0,1,Nothing,"Turtle,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,259
+Luxor,gettranslation,true,true,0,1,"Tuple{Float64,Float64}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,228
+Luxor,_precompile_,true,true,46,2,"Union{Nothing, Bool}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/precompile.jl,1
+Luxor,circle,true,true,0,1,Bool,"Union{Float64, Int64, Point},Union{Float64, Int64, Point},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,11
+Luxor,curve,true,true,0,1,Nothing,"Float64,Float64,Int64,Float64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,398
+Luxor,rect,true,false,1,1,Bool,"Any,Any,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,10
+Luxor,rescale,true,true,0,1,Float64,"Float64,Int64,Int64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,64
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#60#66"",typeof(prettypoly),Array{Point,1},Symbol,var""#93#95""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,arc,true,true,0,1,Bool,"Int64,Int64,Float64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,#textcurve#144,true,true,1,1,Nothing,"Base.Iterators.Pairs{Symbol,Integer,Tuple{Symbol,Symbol},NamedTuple{(:clockwise, :letter_spacing),Tuple{Bool,Int64}}},typeof(textcurve),String,Float64,Int64,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,295
+Luxor,randompoint,true,true,0,1,Point,"Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,241
+Luxor,noise,true,true,0,1,Float64,"Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,31
+Luxor,layoutleftover,false,false,1,2,"NTuple{4,Union{Float64, Int64}}","Array{Float64,1},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,70
+Luxor,Forward,false,false,1,2,Any,"Turtle,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,64
+Luxor,background,true,false,0,1,"NTuple{4,Float64}",T<:AbstractString,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,109
+Luxor,setdash,true,true,0,1,Nothing,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,313
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#63#69"",typeof(prettypoly),Array{Point,1},Symbol,var""#47#52""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,#textcurve#143,true,false,9,1,Nothing,"Int64,Int64,Int64,Bool,typeof(textcurve),String,Float64,Int64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,251
+Luxor,midpoint,true,true,0,1,Point,"Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,140
+Luxor,getscale,true,true,0,1,"Tuple{Float64,Float64}","Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,206
+Luxor,drawbezierpath,true,true,0,1,Bool,"BezierPathSegment,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,192
+Luxor,placeimage,true,true,0,1,Nothing,"Cairo.CairoSurfaceBase{UInt32},Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,38
+Luxor,buildcolumn,true,true,3,1,"Array{BoxmapTile,1}","Array{Float64,1},Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,30
+Luxor,do_action,true,false,13,1,Bool,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,210
+Luxor,finish,true,true,3,2,Bool,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,306
+Luxor,intersectionlines,true,true,0,1,"Tuple{Bool,Point}","Point,Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,433
+Luxor,current_height,true,true,0,1,Float64,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,69
+Luxor,easeincubic,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,317
+Luxor,setcolor,true,true,0,1,"NTuple{4,FixedPointNumbers.Normed{UInt8,8}}","FixedPointNumbers.Normed{UInt8,8},FixedPointNumbers.Normed{UInt8,8},FixedPointNumbers.Normed{UInt8,8},FixedPointNumbers.Normed{UInt8,8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,68
+Luxor,Penup,true,true,0,1,Bool,Turtle,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,122
+Luxor,layout,true,true,1,2,"Array{BoxmapTile,1}","Array{Float64,1},Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,46
+Luxor,setlinecap,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,267
+Luxor,setcolor,true,true,0,1,"NTuple{4,FixedPointNumbers.Normed{UInt8,8}}","RGBA{FixedPointNumbers.Normed{UInt8,8}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,62
+Luxor,#polycross#36,true,true,2,1,"Array{Point,1}","Float64,Bool,Bool,typeof(polycross),Point,Int64,Int64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,331
+Luxor,arc2sagitta,true,true,0,1,"Tuple{Point,Float64}","Point,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,834
+Luxor,#star#30,true,true,5,1,"Array{Point,1}","Bool,Bool,typeof(star),Float64,Float64,Float64,Int64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,226
+Luxor,#squircle#89,true,false,6,1,"Array{Point,1}","Float64,Bool,Float64,Bool,typeof(squircle),Point,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,118
+Luxor,sector,false,false,0,1,Any,"Float64,Float64,Float64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,350
+Luxor,box,true,true,0,1,"Array{Point,1}","Point,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,82
+Luxor,#rect#21,true,true,3,1,"Array{Point,1}","Bool,typeof(rect),Point,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,28
+Luxor,layout,true,true,1,2,"Array{BoxmapTile,1}","Array{Float64,1},Float64,Float64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,46
+Luxor,pie,true,true,0,1,Bool,"Float64,Float64,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,359
+Luxor,curve,true,true,0,1,Nothing,"Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,399
+Luxor,blendmatrix,true,false,0,1,Nothing,"Cairo.CairoPattern,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/blends.jl,170
+Luxor,midpoint,true,true,0,1,Point,"Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,147
+Luxor,addstop,true,true,0,1,Nothing,"Cairo.CairoPattern,Int64,Tuple{Int64,Int64,Int64,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/blends.jl,101
+Luxor,readpng,true,true,3,1,Cairo.CairoSurfaceBase{UInt32},String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,17
+Luxor,arc,true,false,0,1,Bool,"Float64,Float64,Any,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,arc,true,true,0,1,Bool,"Point,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,155
+Luxor,bezierfrompoints,true,true,0,1,BezierPathSegment,"Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,416
+Luxor,setcolor,true,true,0,1,"Tuple{Int64,Int64,Float64,Float64}","Tuple{Int64,Int64,Float64,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,177
+Luxor,#box#22,true,true,3,1,"Array{Point,1}","Bool,typeof(box),Point,Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,50
+Luxor,translate,true,false,0,1,Nothing,"Int64,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,542
+Luxor,#arrow#124,false,false,19,1,Any,"Any,Any,Any,Any,Any,Any,Any,Any,typeof(arrow),Point,Point,Point,Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,215
+Luxor,rline,true,true,0,1,Nothing,"Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,371
+Luxor,_smallesttriangle,true,true,1,1,"Array{Point,1}",BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1284
+Luxor,translate,true,true,0,1,Nothing,"Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,542
+Luxor,line,true,true,0,1,Bool,"Union{Point, Symbol},Union{Point, Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,352
+Luxor,#findbeziercontrolpoints#193,true,true,0,1,"Tuple{Point,Point}","Float64,typeof(Luxor.findbeziercontrolpoints),Point,Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,123
+Luxor,current_bufferdata,true,true,0,1,"Array{UInt8,1}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,75
+Luxor,#text#141,true,true,0,1,Point,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(text),String,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,89
+Luxor,easeinoutcubic,true,true,1,2,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,338
+Luxor,#text#140,true,true,0,1,Point,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(text),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,88
+Luxor,rescale,true,true,0,1,Float64,"Float64,Float64,Float64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,64
+Luxor,text,true,true,0,1,Point,"String,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,89
+Luxor,box,true,true,0,1,"Array{Point,1}","Tiler,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/tiles-grids.jl,356
+Luxor,move,true,false,0,1,Nothing,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,336
+Luxor,circletangent2circles,true,true,0,1,"Tuple{Int64,Point,Point}","Int64,Point,Int64,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,821
+Luxor,background,true,true,0,1,"NTuple{4,Float64}","Int64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,113
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#60#66"",typeof(prettypoly),Array{Point,1},Symbol,Luxor.var""#59#65""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,setlinejoin,true,true,2,3,Nothing,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,294
+Luxor,get_current_redvalue,true,true,0,1,Float64,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,57
+Luxor,move,true,true,0,1,Nothing,"Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,336
+Luxor,poly,true,true,0,1,"Array{Point,1}","Array{Point,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,13
+Luxor,#text#139,true,true,4,1,Point,"Symbol,Symbol,Float64,typeof(text),String,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,31
+Luxor,Pencolor,false,false,0,1,"Tuple{Any,Any,Any}","Turtle,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,234
+Luxor,arc,true,true,0,1,Bool,"Float64,Float64,Int64,Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,extrapolate,true,true,0,1,Float64,"Int64,Int64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,144
+Luxor,#box#24,true,false,3,1,"Array{Point,1}","Bool,typeof(box),Point,Real,Real,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,82
+Luxor,#arrow#119,true,true,6,2,Nothing,"Int64,Int64,Float64,Float64,Luxor.var""#121#123"",typeof(arrow),Point,Int64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,130
+Luxor,#insertvertices!#85,true,true,4,1,"Array{Point,1}","Float64,typeof(insertvertices!),Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1228
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#60#66"",typeof(prettypoly),Array{Point,1},Symbol,var""#79#81""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,randompoint,true,true,0,0,Union{},"Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,232
+Luxor,carc,true,false,0,1,Bool,"Point,Real,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,177
+Luxor,circle,true,true,0,1,Bool,"Point,Union{Float64, Int64, Point},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,24
+Luxor,#dimension#134,true,true,1,1,"Tuple{Float64,String}","var""#137#140"",Int64,Array{Int64,1},Array{Int64,1},Float64,Float64,Int64,Float64,Float64,Int64,Float64,typeof(dimension),Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,375
+Luxor,circlecircleoutertangents,true,false,5,2,"NTuple{4,Point}","Point,Int64,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,892
+Luxor,#barchart#180,true,true,6,1,"Array{Point,1}","BoundingBox,Int64,Int64,Bool,Bool,typeof(emptylabelfunction),Luxor.var""#185#191"",Luxor.var""#186#192"",typeof(barchart),Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bars.jl,62
+Luxor,background,true,true,0,1,"NTuple{4,Float64}","RGBA{FixedPointNumbers.Normed{UInt8,8}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,100
+Luxor,curve,true,true,0,1,Nothing,"Int64,Float64,Int64,Float64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,398
+Luxor,sethue,true,true,0,1,"Tuple{Float64,Float64,Float64}","Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,142
+Luxor,arc,true,true,0,1,Bool,"Float64,Float64,Int64,Float64,Irrational{:π},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,easeinquint,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,387
+Luxor,offsetpoly,true,true,10,1,"Array{Point,1}","Array{Point,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,500
+Luxor,translate,true,true,0,1,Nothing,Point,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,543
+Luxor,line,true,true,0,1,Bool,"Point,Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,360
+Luxor,getmatrix,true,true,0,1,"Array{Float64,1}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,73
+Luxor,easeinoutquint,true,false,1,2,Float64,"Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,408
+Luxor,polyportion,true,true,0,1,"Array{Point,1}","Array{Point,1},Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,903
+Luxor,#star#30,true,true,5,1,"Array{Point,1}","Bool,Bool,typeof(star),Float64,Float64,Int64,Int64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,226
+Luxor,polyperimeter,true,true,0,1,Float64,"Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,864
+Luxor,#prettypoly#57,true,true,14,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#60#66"",typeof(prettypoly),Array{Point,1},Symbol,typeof(identity)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,circle,true,false,1,1,Bool,"Float64,Float64,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,11
+Luxor,background,true,true,0,1,"NTuple{4,Float64}","Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,113
+Luxor,label,true,true,0,1,"Union{Nothing, Bool}","String,Symbol,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,426
+Luxor,arc2sagitta,true,true,5,1,"Tuple{Point,Float64}","Point,Point,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,834
+Luxor,#dimension#134,true,true,1,1,"Tuple{Float64,String}","Luxor.var""#136#138"",Float64,Array{Int64,1},Tuple{Float64,Float64},Float64,Float64,Int64,Float64,Float64,Int64,Float64,typeof(dimension),Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,375
+Luxor,textcurve,true,true,0,1,Nothing,"String,Int64,Int64,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,295
+Luxor,#ngon#28,true,true,1,1,"Array{Point,1}","Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:vertices,),Tuple{Bool}}},typeof(ngon),Point,Float64,Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,201
+Luxor,Rectangle,false,false,0,1,Any,"Turtle,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,143
+Luxor,#ngon#25,true,true,1,1,"Array{Point,1}","Bool,Bool,typeof(ngon),Int64,Int64,Int64,Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,158
+Luxor,sethue,false,false,0,1,"Tuple{Any,Any,Any}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,110
+Luxor,carc,true,false,0,1,Bool,"Any,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,166
+Luxor,#animate#176,false,false,48,3,"Union{Bool, Luxor.AnimatedGif}","Bool,Int64,String,String,Bool,typeof(animate),Movie,Array{Scene,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,156
+Luxor,julialogo,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/juliagraphics.jl,59
+Luxor,#setbezierhandles#202,true,true,0,1,BezierPathSegment,"Array{Float64,1},Array{Float64,1},typeof(setbezierhandles),BezierPathSegment",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,484
+Luxor,textcentered,true,true,0,1,Point,"String,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,92
+Luxor,current_buffer,true,true,0,1,"Base.GenericIOBuffer{Array{UInt8,1}}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,74
+Luxor,arc,true,false,0,1,Bool,"Point,Any,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,155
+Luxor,Forward,false,false,1,2,Any,"Turtle,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,64
+Luxor,arc,true,true,0,1,Bool,"Point,Int64,Irrational{:π},Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,155
+Luxor,sector,true,true,0,1,Bool,"Int64,Int64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,261
+Luxor,strokepreserve,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,184
+Luxor,translate,true,true,0,1,Nothing,"Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,542
+Luxor,Circle,false,false,0,1,Any,"Turtle,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,131
+Luxor,circle,true,true,0,1,Bool,"Any,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,11
+Luxor,carc,true,true,0,1,Bool,"Float64,Float64,Float64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,166
+Luxor,carc,true,true,0,1,Bool,"Float64,Float64,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,166
+Luxor,simplexnoise,true,true,18,1,Float64,"Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,235
+Luxor,boxmiddleright,true,true,0,1,Point,BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,387
+Luxor,set_current_bluevalue,true,true,0,1,Float64,"FixedPointNumbers.Normed{UInt8,8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,64
+Luxor,#Scene#174,true,true,0,1,Scene,"typeof(lineartween),Nothing,Type{Scene},Movie,typeof(backdrop)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,111
+Luxor,#placeimage#173,false,false,2,1,Any,"Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:centered,),Tuple{Bool}}},typeof(placeimage),Drawing",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,202
+Luxor,#ngonside#29,true,true,1,1,"Array{Point,1}","Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:vertices,),Tuple{Bool}}},typeof(ngonside),Point,Int64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,210
+Luxor,rowlayoutleftover,false,false,0,1,"Tuple{Float64,Union{Float64, Int64},Float64,Union{Float64, Int64}}","Array{Float64,1},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,54
+Luxor,textextents,true,false,0,1,"Array{Float64,2}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,170
+Luxor,buildboxmap,false,false,6,3,"Union{Array{Any,1}, Array{BoxmapTile,1}}","Array{Float64,1},Float64,Float64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,88
+Luxor,carc,true,false,0,1,Bool,"Any,Any,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,166
+Luxor,fontface,true,true,0,1,Nothing,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,103
+Luxor,#ngon#28,false,false,1,1,"Array{_A,1} where _A","Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:reversepath,),Tuple{Bool}}},typeof(ngon),Point,Any,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,201
+Luxor,buildcolumn,true,true,3,1,"Array{BoxmapTile,1}","Array{Float64,1},Float64,Float64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,30
+Luxor,polysmooth,true,true,0,1,"Union{Nothing, Bool}","Array{Point,1},Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,448
+Luxor,rotate,true,true,0,1,Nothing,Irrational{:π},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,534
+Luxor,Orientation,true,true,0,1,Float64,"Turtle,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,90
+Luxor,background,true,true,0,1,"NTuple{4,Float64}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,109
+Luxor,#textbox#151,true,false,4,1,Point,"Any,Function,Symbol,typeof(textbox),Array{String,1},Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,591
+Luxor,arc,true,false,0,1,Bool,"Point,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,155
+Luxor,rect,true,true,1,1,Bool,"Float64,Float64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,10
+Luxor,easeinoutcubic,true,false,1,2,Float64,"Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,338
+Luxor,#Scene#175,true,true,0,1,Scene,"typeof(easeinsine),Nothing,Type{Scene},Movie,typeof(frame1),UnitRange{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,114
+Luxor,line,true,false,0,1,"Union{Nothing, Bool}",Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,353
+Luxor,translate,true,true,0,1,Nothing,"Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,542
+Luxor,#isinside#56,true,true,28,1,Bool,"Bool,typeof(isinside),Point,Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,185
+Luxor,setgray,true,true,0,1,"Tuple{Float64,Float64,Float64}",Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,199
+Luxor,polysortbydistance,true,true,2,1,"Array{Point,1}","Array{Point,1},Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,107
+Luxor,mesh,true,false,9,1,Cairo.CairoPattern,"BezierPath,Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/mesh.jl,31
+Luxor,polysortbyangle,true,true,3,1,"Array{Point,1}","Array{Point,1},Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,91
+Luxor,setgrey,true,true,0,1,"Tuple{Float64,Float64,Float64}",Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,200
+Luxor,text,true,true,0,1,Point,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,88
+Luxor,box,true,true,0,1,"Array{Point,1}","Table,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Table.jl,260
+Luxor,carc2r,true,true,1,1,Bool,"Point,Point,Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,208
+Luxor,arc,true,false,0,1,Bool,"Any,Any,Any,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,prettypoly,true,true,0,1,"Union{Nothing, Array{Point,1}}","Array{Point,1},Symbol,var""#117#119""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#63#69"",typeof(prettypoly),Array{Point,1},Symbol,var""#48#53""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,easeinoutexpo,true,true,1,2,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,471
+Luxor,rect,true,false,1,1,Bool,"Int64,Any,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,10
+Luxor,_edgesequal,true,true,9,4,Bool,"Luxor.TriEdge,Luxor.TriEdge",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1310
+Luxor,arc,true,false,0,1,Bool,"Float64,Float64,Real,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,boxtopcenter,true,true,0,1,Point,BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,337
+Luxor,#star#35,true,true,0,1,"Array{Point,1}","Bool,Bool,typeof(star),Point,Int64,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,254
+Luxor,getrotation,true,true,0,1,Float64,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,194
+Luxor,nearestindex,false,false,2,1,"Tuple{Union{Nothing, Int64},Any}","Array{Float64,1},Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,876
+Luxor,sethue,false,false,0,1,"Tuple{Any,Any,Any}",AbstractString,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,110
+Luxor,buildrow,true,false,3,1,"Array{BoxmapTile,1}","Array{Float64,1},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,14
+Luxor,ispointinsidetriangle,true,true,9,5,Bool,"Point,Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1102
+Luxor,boxtopright,true,true,0,1,Point,BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,350
+Luxor,carc,true,false,0,1,Bool,"Point,Any,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,177
+Luxor,addstop,true,false,0,1,Nothing,"Cairo.CairoPattern,Float64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/blends.jl,96
+Luxor,easeinexpo,true,true,1,2,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,449
+Luxor,box,true,false,0,1,"Array{Point,1}","Point,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,82
+Luxor,pathtopoly,true,true,13,1,"Array{Array{Point,1},1}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,807
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,var""#153#155"",typeof(prettypoly),Array{Point,1},Symbol,Luxor.var""#62#68""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,Push,true,true,0,1,"Array{Array{Float64,1},1}",Turtle,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,155
+Luxor,textextents,true,true,0,1,"Array{Float64,2}",SubString{String},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,170
+Luxor,#barchart#180,true,true,5,1,"Array{Point,1}","BoundingBox,Int64,Int64,Bool,Bool,typeof(mylabelfunction),Luxor.var""#185#191"",Luxor.var""#186#192"",typeof(barchart),Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bars.jl,62
+Luxor,rowlayoutleftover,true,true,0,1,"Tuple{Float64,Float64,Float64,Int64}","Array{Float64,1},Float64,Float64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,54
+Luxor,#star#35,true,true,0,1,"Array{Point,1}","Bool,Bool,typeof(star),Point,Int64,Int64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,254
+Luxor,columnlayoutleftover,false,false,0,1,"Tuple{Union{Float64, Int64},Float64,Union{Float64, Int64},Float64}","Array{Float64,1},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,62
+Luxor,_b2,true,true,0,1,Float64,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,386
+Luxor,#placeimage#166,true,true,1,1,Nothing,"Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:centered,),Tuple{Bool}}},typeof(placeimage),Cairo.CairoSurfaceBase{UInt32},Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,48
+Luxor,arc,true,true,0,1,Bool,"Int64,Int64,Int64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#63#69"",typeof(prettypoly),Array{Point,1},Symbol,Luxor.var""#62#68""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,#prettypoly#57,true,false,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#60#66"",typeof(prettypoly),Array{Point,1},Symbol,Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,rescale,true,true,0,1,Float64,"Float64,Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,64
+Luxor,set_current_redvalue,true,true,0,1,Float64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,62
+Luxor,easeinsine,true,true,0,1,Float64,"Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,422
+Luxor,pointinverse,true,true,3,1,"Tuple{Bool,Point}","Point,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,506
+Luxor,polymove!,true,true,3,1,"Array{Point,1}","Array{Point,1},Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1151
+Luxor,#text#139,true,true,4,1,Point,"Symbol,Symbol,Int64,typeof(text),String,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,31
+Luxor,text,true,true,0,1,Point,"String,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,31
+Luxor,Turn,true,true,0,1,Float64,"Turtle,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,81
+Luxor,boxbottomcenter,true,true,0,1,Point,BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,411
+Luxor,#text#139,true,false,4,1,Point,"Symbol,Symbol,Float64,typeof(text),Any,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,31
+Luxor,intersectionlinecircle,true,true,0,1,"Tuple{Int64,Point,Point}","Point,Point,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,379
+Luxor,prettypoly,true,true,0,1,"Union{Nothing, Array{Point,1}}","Array{Point,1},Symbol,var""#79#81""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,randomordinate,true,true,1,0,Union{},"Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,220
+Luxor,carc,true,true,0,1,Bool,"Point,Float64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,177
+Luxor,line,true,true,0,1,Bool,"Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,360
+Luxor,getpathflat,true,true,0,1,"Array{Cairo.CairoPathEntry,1}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,591
+Luxor,fillpreserve,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,191
+Luxor,curve,true,true,0,1,Nothing,"Float64,Float64,Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,398
+Luxor,carc,true,true,0,1,Bool,"Int64,Int64,Int64,Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,166
+Luxor,easeoutquart,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,362
+Luxor,rotate,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,534
+Luxor,background,true,true,0,1,"NTuple{4,Float64}","Int64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,113
+Luxor,polar,true,true,0,1,Point,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,411
+Luxor,ngon,false,false,0,1,"Array{_A,1} where _A","Float64,Float64,Real,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,158
+Luxor,randompointarray,true,true,3,1,"Array{Point,1}","Point,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,250
+Luxor,#arrow#119,true,true,6,2,Nothing,"Int64,Int64,Float64,Float64,Luxor.var""#121#123"",typeof(arrow),Point,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,130
+Luxor,set_current_redvalue,false,false,0,1,Any,Number,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,62
+Luxor,move,true,true,0,1,Nothing,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,336
+Luxor,sethue,true,true,0,1,"Tuple{Float32,Float32,Float32}",HSV{Float32},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,127
+Luxor,easeinquart,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,352
+Luxor,placeimage,true,true,0,1,Nothing,"Array{UInt32,2},Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,190
+Luxor,#noise#228,true,true,0,1,Float64,"Int64,Float64,typeof(noise),Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,31
+Luxor,sector,false,false,5,1,Any,"Point,Int64,Int64,Int64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,276
+Luxor,newpath,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,139
+Luxor,set_current_bluevalue,true,true,0,1,Float64,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,64
+Luxor,setcolor,true,true,0,1,"NTuple{4,Float64}",RGB{Float64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,62
+Luxor,circlepointtangent,true,true,4,5,"Tuple{Int64,Point,Point}","Point,Int64,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,772
+Luxor,randompoint,true,false,0,0,Union{},"Point,Union{Int64, Point},Union{Int64, Point},Union{Int64, Point}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,241
+Luxor,line,true,true,0,1,Nothing,"Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,352
+Luxor,#text#140,true,true,1,1,Point,"Base.Iterators.Pairs{Symbol,Symbol,Tuple{Symbol},NamedTuple{(:halign,),Tuple{Symbol}}},typeof(text),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,88
+Luxor,anglethreepoints,false,false,6,3,"Union{Float64, Int64}","Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,576
+Luxor,layout,true,false,1,2,"Array{BoxmapTile,1}","Array{Float64,1},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,46
+Luxor,paint,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,176
+Luxor,#circlepath#90,true,true,2,1,Bool,"Bool,Float64,typeof(circlepath),Point,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,410
+Luxor,box,true,true,0,1,"Array{Point,1}","Point,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,82
+Luxor,#placeimage#171,true,true,0,1,Nothing,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(placeimage),Array{ARGB32,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,199
+Luxor,boxwidth,true,true,0,1,Float64,BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,170
+Luxor,distance,true,true,0,1,Float64,"Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,99
+Luxor,#textwrap#158,true,true,1,1,Point,"Base.Iterators.Pairs{Symbol,Int64,Tuple{Symbol},NamedTuple{(:rightgutter,),Tuple{Int64}}},typeof(textwrap),String,Float64,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,671
+Luxor,sethue,true,true,0,1,"Tuple{Float64,Float64,Float64}",LCHab{Float64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,127
+Luxor,highestaspectratio,true,true,0,1,Float64,"Array{Float64,1},Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,84
+Luxor,setmode,true,true,1,2,Nothing,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,262
+Luxor,star,true,true,0,1,"Array{Point,1}","Float64,Float64,Float64,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,226
+Luxor,randomordinate,true,true,0,0,Union{},"Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,220
+Luxor,ispolyclockwise,true,true,0,1,Bool,"Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1091
+Luxor,polydistances,true,true,0,1,"Array{Float64,1}","Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,844
+Luxor,#_octaves#229,true,true,10,1,Float64,"Int64,Int64,typeof(Luxor._octaves),Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,36
+Luxor,crossproduct,true,true,0,1,Float64,"Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,216
+Luxor,label,true,true,0,1,"Union{Nothing, Bool}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,426
+Luxor,#textwrap#157,true,true,0,1,Point,"Int64,Int64,typeof(textwrap),String,Float64,Point,Luxor.var""#159#160""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,663
+Luxor,clippreserve,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,245
+Luxor,polyfit,true,true,6,1,"Array{Point,1}","Array{Point,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,769
+Luxor,#textlines#150,true,false,13,1,"Array{String,1}","Int64,typeof(textlines),String,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,538
+Luxor,easeoutquad,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,293
+Luxor,#polyremainder#78,true,false,4,4,"Array{Point,1}","Bool,Array{Any,1},typeof(polyremainder),Array{Point,1},Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,943
+Luxor,cairotojuliamatrix,true,true,0,1,"Array{Float64,2}","Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,159
+Luxor,setmatrix,true,true,3,1,Nothing,"Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,83
+Luxor,polysortbyangle,true,true,0,1,"Array{Point,1}","Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,91
+Luxor,carc,true,true,0,1,Bool,"Point,Int64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,177
+Luxor,#textcurve#144,true,true,0,1,Nothing,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(textcurve),String,Int64,Int64,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,295
+Luxor,arc,true,true,0,1,Bool,"Point,Int64,Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,155
+Luxor,intersectionlinecircle,true,false,0,1,"Tuple{Int64,Point,Point}","Point,Point,Point,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,379
+Luxor,randompoint,true,false,0,1,Point,"Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,241
+Luxor,between,true,true,0,1,Point,"Point,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,156
+Luxor,#barchart#180,true,true,6,1,"Array{Point,1}","BoundingBox,Int64,Int64,Bool,Bool,var""#157#159"",var""#156#158"",Luxor.var""#186#192"",typeof(barchart),Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bars.jl,62
+Luxor,rescale,true,true,0,1,Float64,"Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,64
+Luxor,#placeimage#171,true,true,1,1,Nothing,"Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:centered,),Tuple{Bool}}},typeof(placeimage),Base.ReinterpretArray{ARGB32,2,UInt32,Array{UInt32,2}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,199
+Luxor,rescale,true,true,0,1,Float64,"Int64,Int64,Int64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,64
+Luxor,#ngon#28,true,true,0,1,"Array{Point,1}","Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(ngon),Point,Int64,Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,201
+Luxor,setopacity,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,185
+Luxor,#box#24,true,false,3,1,"Array{Point,1}","Bool,typeof(box),Point,Any,Real,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,82
+Luxor,blend,true,true,0,1,Cairo.CairoPattern,"Point,Int64,Point,Int64,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/blends.jl,33
+Luxor,prettypoly,true,true,0,1,"Union{Nothing, Array{Point,1}}","Array{Point,1},Symbol,var""#73#76""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,var""#148#149"",typeof(prettypoly),Array{Point,1},Symbol,Luxor.var""#62#68""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,#polysmooth#71,true,false,12,2,"Union{Nothing, Bool}","Bool,typeof(polysmooth),Array{Point,1},Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,448
+Luxor,set_current_bluevalue,false,false,0,1,Any,Number,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,64
+Luxor,closepath,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,154
+Luxor,curve,true,false,0,1,Nothing,"Any,Any,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,398
+Luxor,circle,true,true,1,1,Bool,"Float64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,11
+Luxor,perpendicular,true,true,1,1,Point,"Point,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,173
+Luxor,setfont,true,true,0,1,Nothing,"String,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,359
+Luxor,#noise#227,true,true,0,1,Float64,"Int64,Float64,typeof(noise),Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,28
+Luxor,#Scene#175,true,true,0,1,Scene,"typeof(easeinoutquint),Int64,Type{Scene},Movie,typeof(frame4),UnitRange{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,114
+Luxor,columnlayoutleftover,true,true,0,1,"Tuple{Float64,Float64,Int64,Float64}","Array{Float64,1},Float64,Float64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,62
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#63#69"",typeof(prettypoly),Array{Point,1},Symbol,var""#116#118""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,layout,true,true,1,2,"Array{BoxmapTile,1}","Array{Float64,1},Float64,Float64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,46
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#60#66"",typeof(prettypoly),Array{Point,1},Symbol,var""#63#65""{Array{Point,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,easeinquad,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,283
+Luxor,boxtopleft,true,true,0,1,Point,BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,324
+Luxor,#ngon#25,true,true,1,1,"Array{Point,1}","Bool,Bool,typeof(ngon),Float64,Float64,Int64,Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,158
+Luxor,arc,true,false,0,1,Bool,"Float64,Float64,Any,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,background,true,true,0,1,"NTuple{4,Float64}","Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,113
+Luxor,text,true,false,0,1,Point,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,88
+Luxor,sethue,true,true,0,1,"Tuple{Int64,Int64,Int64}","Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,142
+Luxor,layoutleftover,true,true,1,2,"NTuple{4,Float64}","Array{Float64,1},Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,70
+Luxor,#ngon#28,false,false,1,1,"Array{_A,1} where _A","Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:vertices,),Tuple{Bool}}},typeof(ngon),Point,Any,Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,201
+Luxor,#ellipse#100,true,true,0,1,"Array{Point,1}","Float64,Bool,Bool,typeof(ellipse),Point,Point,Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,506
+Luxor,#placeimage#167,true,true,1,1,Nothing,"Bool,typeof(placeimage),Cairo.CairoSurfaceBase{UInt32},Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,60
+Luxor,do_action,true,true,13,1,Bool,Point,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,210
+Luxor,setopacity,true,true,0,1,Float64,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,185
+Luxor,intersectioncirclecircle,true,true,7,4,"Tuple{Bool,Point,Point}","Point,Float64,Point,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,730
+Luxor,#ngon#25,false,false,1,1,"Array{_A,1} where _A","Bool,Bool,typeof(ngon),Float64,Float64,Real,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,158
+Luxor,randomordinate,true,true,1,1,Float64,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,220
+Luxor,box,true,true,0,1,"Array{Point,1}","Point,Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,50
+Luxor,#ellipse#99,true,true,4,2,"Array{Point,1}","Float64,Bool,Bool,typeof(ellipse),Point,Point,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,478
+Luxor,ellipse,true,true,0,1,Bool,"Point,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,104
+Luxor,circle,true,true,1,0,Union{},"Float64,Float64,Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,11
+Luxor,#textbox#151,true,false,4,1,Point,"Int64,var""#108#109""{Tiler},Symbol,typeof(textbox),Array{String,1},Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,591
+Luxor,text,true,true,0,1,Point,"String,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,89
+Luxor,#polyscale!#82,true,true,3,1,"Array{Point,1}","Point,typeof(polyscale!),Array{Point,1},Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1165
+Luxor,easeinoutbezier,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,560
+Luxor,blendadjust,true,false,0,1,Nothing,"Cairo.CairoPattern,Point,Any,Any,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/blends.jl,145
+Luxor,carc,true,true,0,1,Bool,"Int64,Int64,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,166
+Luxor,randompoint,true,true,0,1,Point,"Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,232
+Luxor,ispointinsidetriangle,true,true,0,1,Bool,"Point,Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1119
+Luxor,#text#141,true,true,1,1,Point,"Base.Iterators.Pairs{Symbol,Symbol,Tuple{Symbol},NamedTuple{(:halign,),Tuple{Symbol}}},typeof(text),String,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,89
+Luxor,sethue,true,true,0,1,"Tuple{FixedPointNumbers.Normed{UInt8,8},FixedPointNumbers.Normed{UInt8,8},FixedPointNumbers.Normed{UInt8,8}}","RGB{FixedPointNumbers.Normed{UInt8,8}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,127
+Luxor,rect,true,false,1,1,Bool,"Int64,Int64,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,10
+Luxor,text,true,true,0,1,Point,"String,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,89
+Luxor,ellipse,true,false,0,1,Bool,"Point,Real,Real,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,104
+Luxor,background,true,true,0,1,"NTuple{4,Float64}","RGB{FixedPointNumbers.Normed{UInt8,8}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,100
+Luxor,arc,true,false,0,1,Bool,"Point,Real,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,155
+Luxor,sector,false,false,5,1,Any,"Point,Int64,Int64,Float64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,276
+Luxor,drawbezierpath,true,true,0,1,Bool,"BezierPath,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,172
+Luxor,translate,true,false,0,1,Nothing,"Real,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,542
+Luxor,#label#149,true,true,17,1,Point,"Int64,Bool,Array{Float64,1},typeof(label),String,Float64,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,472
+Luxor,easeoutsine,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,431
+Luxor,rescale,true,true,0,1,Float64,"Int64,Tuple{Int64,Int64},Tuple{Int64,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,66
+Luxor,prettypoly,true,true,0,1,"Union{Nothing, Array{Point,1}}","Array{Point,1},Symbol,Luxor.var""#59#65""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,juliacircles,true,true,0,1,"Array{Point,1}",Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/juliagraphics.jl,242
+Luxor,gettranslation,true,true,0,1,"Tuple{Float64,Float64}","Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,224
+Luxor,#polyintersect#86,true,true,16,2,"Array{Point,1}","Bool,typeof(polyintersect),Array{Point,1},Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1258
+Luxor,#squircle#89,true,true,6,1,"Array{Point,1}","Float64,Bool,Float64,Bool,typeof(squircle),Point,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,118
+Luxor,arc,true,false,0,1,Bool,"Any,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,polar,true,false,0,1,Point,"Int64,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,411
+Luxor,rect,true,false,1,1,Bool,"Any,Any,Any,Real,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,10
+Luxor,circlepath,true,true,0,1,Bool,"Point,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,410
+Luxor,#julialogo#161,true,true,22,2,Nothing,"Symbol,Bool,RGB{FixedPointNumbers.Normed{UInt8,8}},Bool,typeof(julialogo)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/juliagraphics.jl,59
+Luxor,poly,true,true,0,1,"Array{Point,1}","Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,13
+Luxor,#box#24,true,true,3,1,"Array{Point,1}","Bool,typeof(box),Point,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,82
+Luxor,polar,true,true,0,1,Point,"Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,411
+Luxor,#polytriangulate#87,true,false,28,1,"Array{Array{Point,1},1}","Float64,typeof(polytriangulate),Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1330
+Luxor,#arrow#124,false,false,18,1,Any,"Int64,Int64,Float64,Bool,Bool,Bool,Float64,Luxor.var""#126#128"",typeof(arrow),Point,Point,Point,Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,215
+Luxor,box,true,false,0,1,Bool,"Int64,Int64,Real,Real,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,100
+Luxor,fontsize,true,true,0,1,Nothing,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,113
+Luxor,rmove,true,true,0,1,Nothing,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,344
+Luxor,#ngon#25,false,false,1,1,"Array{_A,1} where _A","Bool,Bool,typeof(ngon),Float64,Float64,Real,Int64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,158
+Luxor,textextents,true,true,0,1,"Array{Float64,2}",String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,170
+Luxor,sector,false,false,5,1,Any,"Point,Real,Real,Float64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,276
+Luxor,ellipse,true,true,0,1,Bool,"Point,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,104
+Luxor,#arrowhead#113,false,false,0,1,Any,"Any,Any,Any,typeof(arrowhead),Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,20
+Luxor,juliatocairomatrix,false,false,0,1,Any,"Array{T,2} where T",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,168
+Luxor,buildrow,true,true,3,1,"Array{BoxmapTile,1}","Array{Float64,1},Float64,Float64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,14
+Luxor,Message,false,false,0,1,Any,"Turtle,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,182
+Luxor,sector,true,true,1,1,Bool,"Point,Int64,Int64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,238
+Luxor,#text#141,true,true,0,1,Point,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(text),String,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,89
+Luxor,#label#148,true,true,16,2,"Union{Nothing, Bool}","Int64,Bool,Array{Float64,1},typeof(label),String,Symbol,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,426
+Luxor,pie,true,true,0,1,Bool,"Point,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,378
+Luxor,prettypoly,true,false,0,1,"Union{Nothing, Array{Point,1}}","Array{Point,1},Symbol,Function",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,easeoutquint,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,397
+Luxor,polyintersect,true,true,0,1,"Array{Point,1}","Array{Point,1},Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1258
+Luxor,#juliacircles#162,true,true,6,1,"Array{Point,1}","Float64,Float64,Symbol,typeof(juliacircles),Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/juliagraphics.jl,242
+Luxor,#dimension#134,true,true,1,1,"Tuple{Float64,String}","Luxor.var""#136#138"",Int64,Array{Int64,1},Array{Int64,1},Float64,Int64,Int64,Float64,Float64,Int64,Float64,typeof(dimension),Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,375
+Luxor,polytriangulate,true,true,0,1,"Array{Array{Point,1},1}","Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1330
+Luxor,#noise#225,true,true,0,1,Float64,"Int64,Int64,typeof(noise),Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,22
+Luxor,#polydistances#73,true,true,4,1,"Array{Float64,1}","Bool,typeof(polydistances),Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,844
+Luxor,rect,true,true,1,1,Bool,"Int64,Float64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,10
+Luxor,#ngon#25,true,true,1,1,"Array{Point,1}","Bool,Bool,typeof(ngon),Int64,Int64,Int64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,158
+Luxor,prettypoly,true,true,0,1,"Union{Nothing, Array{Point,1}}","Array{Point,1},Symbol,var""#62#64""{Array{Point,1}}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,#textbox#151,true,false,4,1,Point,"Int64,var""#111#113""{Tiler},Symbol,typeof(textbox),Array{SubString{String},1},Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,591
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,var""#58#60"",typeof(prettypoly),Array{Point,1},Symbol,var""#59#61""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,sector,false,false,5,1,Any,"Point,Float64,Float64,Float64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,276
+Luxor,pointlinedistance,true,true,0,1,Float64,"Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,110
+Luxor,get_current_cr,true,true,0,1,Cairo.CairoContext,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,49
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#60#66"",typeof(prettypoly),Array{Point,1},Symbol,var""#73#76""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,prettypoly,true,true,0,1,"Union{Nothing, Array{Point,1}}","Array{Point,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,cropmarks,false,false,0,1,Any,"Point,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,267
+Luxor,carc,true,true,0,1,Bool,"Point,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,177
+Luxor,#textcurve#143,true,false,9,1,Nothing,"Int64,Int64,Int64,Bool,typeof(textcurve),String,Int64,Int64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,251
+Luxor,#textoutlines#142,true,true,10,1,Bool,"Symbol,Symbol,Bool,typeof(textoutlines),String,Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,196
+Luxor,rotate,true,true,0,1,Nothing,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,534
+Luxor,set_current_bluevalue,true,true,0,1,Float64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,64
+Luxor,prettypoly,true,true,0,1,"Union{Nothing, Array{Point,1}}","Array{Point,1},Symbol,var""#70#71""{Array{String,1},Float64,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,#box#112,true,false,3,2,"Array{Point,1}","Bool,typeof(box),Tiler,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/tiles-grids.jl,356
+Luxor,ispolyconvex,true,false,3,1,Bool,"Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,599
+Luxor,mesh,true,true,0,1,Cairo.CairoPattern,"Array{NTuple{4,Point},1},Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/mesh.jl,54
+Luxor,#prettypoly#52,true,true,1,1,"Union{Nothing, Array{Point,1}}","Base.Iterators.Pairs{Symbol,Any,Tuple{Symbol,Symbol},NamedTuple{(:close, :vertexlabels),Tuple{Bool,var""#148#149""}}},typeof(prettypoly),BoundingBox,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,243
+Luxor,#star#30,true,true,5,1,"Array{Point,1}","Bool,Bool,typeof(star),Float64,Float64,Float64,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,226
+Luxor,transform,true,true,0,1,Nothing,"Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,109
+Luxor,_readsvgfile,true,true,5,1,Luxor.SVGimage,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,82
+Luxor,layoutleftover,false,false,1,2,"Union{Tuple{Float64,Float64,Float64,Int64}, NTuple{4,Float64}}","Array{Float64,1},Float64,Float64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,70
+Luxor,addstop,true,true,0,1,Nothing,"Cairo.CairoPattern,Int64,RGBA{Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/blends.jl,91
+Luxor,prettypoly,true,true,0,1,"Union{Nothing, Array{Point,1}}","Array{Point,1},Symbol,var""#17#18""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,set_current_redvalue,true,true,0,1,Float64,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,62
+Luxor,strokepath,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,162
+Luxor,sector,true,true,0,1,Bool,"Int64,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,261
+Luxor,sethue,true,true,0,1,"Tuple{Float64,Float64,Float64}",RGB{Float64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,127
+Luxor,setantialias,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,132
+Luxor,sethue,true,false,0,0,Union{},"NTuple{4,Number}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,163
+Luxor,rect,true,true,1,1,Bool,"Int64,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,10
+Luxor,#polyperimeter#74,true,true,0,1,Float64,"Bool,typeof(polyperimeter),Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,864
+Luxor,boxheight,true,true,0,1,Float64,BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,177
+Luxor,readsvg,true,true,2,3,Luxor.SVGimage,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,149
+Luxor,#placeimage#169,false,false,1,1,Any,"Bool,typeof(placeimage),Luxor.SVGimage,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,170
+Luxor,easingflat,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,274
+Luxor,buildcolumn,true,false,3,1,"Array{BoxmapTile,1}","Array{Float64,1},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64},Union{Float64, Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,30
+Luxor,beziertopoly,true,true,0,1,"Array{Point,1}",BezierPathSegment,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,210
+Luxor,#arrow#124,false,false,18,1,Any,"Int64,Int64,Float64,Bool,Bool,Bool,Float64,var""#132#133""{Float64},typeof(arrow),Point,Point,Point,Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,215
+Luxor,#star#30,true,false,5,1,"Array{Point,1}","Bool,Bool,typeof(star),Float64,Float64,Real,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,226
+Luxor,arc,true,true,0,1,Bool,"Float64,Float64,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,#_octaves#229,true,true,10,1,Float64,"Int64,Float64,typeof(Luxor._octaves),Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,36
+Luxor,#arrow#114,false,false,5,1,Any,"Float64,Int64,Float64,Float64,Luxor.var""#115#117"",typeof(arrow),Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,56
+Luxor,setmesh,true,true,0,1,Nothing,Cairo.CairoPattern,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/mesh.jl,115
+Luxor,pointcircletangent,true,false,5,2,"Tuple{Point,Point}","Point,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,933
+Luxor,easeoutcirc,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,495
+Luxor,ngon,true,true,0,1,"Array{Point,1}","Float64,Float64,Float64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,158
+Luxor,dotproduct,true,true,3,1,Float64,"Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,60
+Luxor,@setcolor_str,true,true,1,0,Union{},"LineNumberNode,Module,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,84
+Luxor,douglas_peucker,true,true,12,1,"Array{Point,1}","Array{Point,1},Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,126
+Luxor,background,true,true,0,1,"NTuple{4,Float64}","Float64,Float64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,113
+Luxor,getnearestpointonline,true,true,0,1,Point,"Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,122
+Luxor,translationmatrix,true,true,0,1,"Array{Float64,2}","Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,137
+Luxor,blend,true,true,0,1,Cairo.CairoPattern,"Point,Point,String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/blends.jl,49
+Luxor,#dimension#134,true,true,1,1,"Tuple{Float64,String}","var""#145#147"",Int64,Tuple{Float64,Float64},Tuple{Float64,Float64},Float64,Int64,Int64,Irrational{:π},Float64,Int64,Float64,typeof(dimension),Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,375
+Luxor,#textwrap#157,true,true,0,1,Point,"Int64,Int64,typeof(textwrap),String,Float64,Point,typeof(identity)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,663
+Luxor,translate,true,true,0,1,Nothing,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,542
+Luxor,textcentered,true,true,0,1,Point,"String,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,93
+Luxor,layoutleftover,false,false,1,2,"Union{Tuple{Float64,Float64,Float64,Int64}, Tuple{Float64,Float64,Int64,Float64}}","Array{Float64,1},Float64,Float64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,70
+Luxor,squircle,true,true,0,1,"Array{Point,1}","Point,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,118
+Luxor,buildboxmap,false,false,6,3,"Union{Array{Any,1}, Array{BoxmapTile,1}}","Array{Float64,1},Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,88
+Luxor,triangleorthocenter,true,true,0,1,Point,"Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/triangles.jl,60
+Luxor,#Scene#175,true,true,0,1,Scene,"typeof(easeinoutquad),Nothing,Type{Scene},Movie,typeof(frame),UnitRange{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,114
+Luxor,#ngon#28,false,false,0,1,"Array{_A,1} where _A","Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(ngon),Point,Any,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,201
+Luxor,carc,true,false,0,1,Bool,"Point,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,177
+Luxor,origin,true,true,0,1,Nothing,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,14
+Luxor,sethue,false,false,0,1,"Tuple{Number,Number,Number}","Tuple{Number,Number,Number}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,156
+Luxor,line,true,false,0,1,Nothing,"Union{Point, Symbol}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,353
+Luxor,placeimage,true,true,0,1,Nothing,"Array{Gray{FixedPointNumbers.Normed{UInt8,8}},2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,200
+Luxor,set_current_alpha,true,true,0,1,Float64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,65
+Luxor,rect,true,false,1,1,Bool,"Any,Any,Real,Real,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,10
+Luxor,rowlayoutleftover,true,true,0,1,"Tuple{Float64,Float64,Float64,Int64}","Array{Float64,1},Float64,Float64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,54
+Luxor,ellipse,true,true,0,1,Bool,"Float64,Float64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,80
+Luxor,current_filename,false,false,0,1,AbstractString,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,67
+Luxor,simplexnoise,true,true,116,1,Float64,"Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,351
+Luxor,simplify,true,true,0,1,"Array{Point,1}","Array{Point,1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,165
+Luxor,arc,true,true,0,1,Bool,"Int64,Int64,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,clip,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,237
+Luxor,#arrow#114,false,false,5,1,Any,"Int64,Int64,Float64,Float64,Luxor.var""#116#118"",typeof(arrow),Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,56
+Luxor,#textlines#150,true,false,13,1,"Array{String,1}","Int64,typeof(textlines),String,Real",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,538
+Luxor,curve,true,true,0,1,Nothing,"Float64,Int64,Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,398
+Luxor,rescale,true,true,0,1,Float64,"Float64,Int64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,64
+Luxor,#spiral#105,true,false,7,1,"Array{Point,1}","Float64,Float64,Bool,Bool,typeof(spiral),Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,631
+Luxor,circle,true,true,0,1,Bool,"Point,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,24
+Luxor,textpath,true,true,0,1,Nothing,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,180
+Luxor,arc,true,true,0,1,Bool,"Point,Float64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,155
+Luxor,polysplit,true,true,13,1,"Tuple{Array{Point,1},Array{Point,1}}","Array{Point,1},Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,239
+Luxor,highestaspectratio,true,true,0,1,Float64,"Array{Float64,1},Float64,Float64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,84
+Luxor,ngon,false,false,0,1,"Array{_A,1} where _A","Point,Any,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,201
+Luxor,#arrow#129,false,false,0,1,Any,"Int64,Int64,Float64,Bool,Bool,Bool,Float64,var""#132#133""{Float64},typeof(arrow),Point,Point,Array{Int64,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,288
+Luxor,boxmiddlecenter,true,true,0,1,Point,BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,375
+Luxor,clipreset,true,true,0,1,Nothing,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,252
+Luxor,sector,false,false,0,1,Any,"Int64,Int64,Int64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,350
+Luxor,randompointarray,true,false,3,1,"Array{Point,1}","Any,Any,Any,Any,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,264
+Luxor,arc,true,true,0,1,Bool,"Float64,Float64,Float64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,makebezierpath,true,true,0,1,BezierPath,"Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,151
+Luxor,star,true,true,0,1,"Array{Point,1}","Float64,Float64,Int64,Int64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,226
+Luxor,juliatocairomatrix,true,true,0,1,"Array{Float64,2}","Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,168
+Luxor,#ellipse#99,true,false,4,2,"Array{Point,1}","Float64,Bool,Bool,typeof(ellipse),Point,Point,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,478
+Luxor,setcolor,false,false,0,1,"NTuple{4,Any}",Colorant,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,62
+Luxor,isinside,true,true,4,3,Bool,"Point,BoundingBox",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,293
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#63#69"",typeof(prettypoly),Array{Point,1},Symbol,var""#46#51""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,addstop,true,false,0,1,Nothing,"Cairo.CairoPattern,Int64,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/blends.jl,96
+Luxor,setdash,true,true,0,1,Nothing,"Array{Float64,1},Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,326
+Luxor,#prettypoly#57,true,true,16,2,"Union{Nothing, Array{Point,1}}","Bool,Bool,Luxor.var""#60#66"",typeof(prettypoly),Array{Point,1},Symbol,var""#92#94""",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,buildboxmap,false,false,6,3,"Union{Array{Any,1}, Array{BoxmapTile,1}}","Array{Float64,1},Float64,Float64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,88
+Luxor,set_current_alpha,true,true,0,1,Float64,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,65
+Luxor,background,true,true,0,1,"NTuple{4,Float64}",RGBA{Float64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,100
+Luxor,Randomize_saturation,true,true,0,1,"Tuple{Float64,Float64,Float64}",Turtle,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,210
+Luxor,#textwrap#157,true,false,0,1,Point,"Int64,Int64,typeof(textwrap),String,Real,Point,var""#108#109""{Tiler}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,663
+Luxor,arc,true,true,0,1,Bool,"Float64,Float64,Int64,Irrational{:π},Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,#text#139,true,true,4,1,Point,"Symbol,Symbol,Float64,typeof(text),SubString{String},Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,31
+Luxor,between,true,false,0,1,Point,"Point,Point,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,156
+Luxor,intersection_line_circle,true,false,5,1,"Tuple{Int64,Point,Point}","Point,Point,Point,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,335
+Luxor,placeimage,true,true,0,1,Nothing,"Cairo.CairoSurfaceBase{UInt32},Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,60
+Luxor,randompointarray,true,true,3,1,"Array{Point,1}","Int64,Int64,Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,264
+Luxor,between,true,true,0,1,Point,"BoundingBox,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,310
+Luxor,easeinsine,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,422
+Luxor,#Scene#175,true,true,0,1,Scene,"typeof(lineartween),Nothing,Type{Scene},Movie,typeof(backdrop),UnitRange{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,114
+Luxor,setcolor,true,true,0,1,"Tuple{Int64,Int64,Int64,Float64}","Int64,Int64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,68
+Luxor,#noise#225,true,true,0,1,Float64,"Int64,Float64,typeof(noise),Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,22
+Luxor,rect,true,true,1,1,Bool,"Int64,Int64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,10
+Luxor,cairotojuliamatrix,true,true,0,1,"Array{Float64,2}","Array{Int64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,159
+Luxor,#text#140,true,false,0,1,Point,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(text),Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,88
+Luxor,randompointarray,true,true,3,1,"Array{Point,1}","Float64,Float64,Float64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,264
+Luxor,easeincirc,true,true,0,1,Float64,"Float64,Int64,Float64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,485
+Luxor,randomordinate,true,true,1,1,Float64,"Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,220
+Luxor,rotationmatrix,true,true,0,1,"Array{Float64,2}",Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,126
+Luxor,#textbox#151,true,false,4,1,Point,"Int64,Luxor.var""#159#160"",Symbol,typeof(textbox),Array{String,1},Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,591
+Luxor,easeinoutbezier,true,true,0,1,Float64,"Float64,Int64,Float64,Int64,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/animate.jl,560
+Luxor,#placeimage#170,true,true,1,1,Nothing,"Bool,typeof(placeimage),Array{UInt32,2},Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,190
+Luxor,set_current_redvalue,false,false,0,1,Any,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,62
+Luxor,placeimage,true,true,0,1,Nothing,"Array{ARGB32,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,199
+Luxor,#arrowhead#113,false,false,0,1,Any,"Float64,Int64,Float64,typeof(arrowhead),Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,20
+Luxor,boxmiddleleft,true,true,0,1,Point,BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,363
+Luxor,trianglecenter,true,true,0,1,Point,"Point,Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/triangles.jl,51
+Luxor,prettypoly,true,true,0,1,"Union{Nothing, Array{Point,1}}","Array{Point,1},Symbol,typeof(identity)",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,306
+Luxor,set_current_alpha,true,true,0,1,Float64,"FixedPointNumbers.Normed{UInt8,8}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,65
+Luxor,sector,false,false,0,1,Any,"Int64,Int64,Float64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,350
+Luxor,#placeimage#165,true,true,1,1,Nothing,"Bool,typeof(placeimage),Cairo.CairoSurfaceBase{UInt32},Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,38
+Luxor,set_current_bluevalue,true,true,0,1,Float64,Float32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,64
+Luxor,#barchart#180,true,true,6,1,"Array{Point,1}","BoundingBox,Int64,Int64,Bool,Bool,Luxor.var""#184#190"",typeof(barfunc1),Luxor.var""#186#192"",typeof(barchart),Array{Float64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bars.jl,62
+Luxor,#ngon#25,false,false,1,1,"Array{_A,1} where _A","Bool,Bool,typeof(ngon),Real,Real,Int64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,158
+Luxor,rline,true,true,0,1,Nothing,Point,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,372
+Luxor,intersectlinepoly,true,true,4,1,"Array{Point,1}","Point,Point,Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,1028
+Luxor,#highlightcells#219,true,true,4,1,Nothing,"RGB{FixedPointNumbers.Normed{UInt8,8}},Int64,typeof(highlightcells),Table,StepRange{Int64,Int64},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Table.jl,290
+Luxor,background,true,false,0,1,"NTuple{4,Float64}",Colorant,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,100
+Luxor,Reposition,true,true,0,1,Float64,"Turtle,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Turtle.jl,247
+Luxor,star,true,false,0,1,"Array{Point,1}","Float64,Float64,Real,Int64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,226
+Luxor,offsetpoly,true,true,10,1,"Array{Point,1}","Array{Point,1},Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,500
+Luxor,#arrow#129,false,false,0,1,Any,"Int64,Int64,Float64,Bool,Bool,Bool,Float64,Function,typeof(arrow),Point,Point,Array{Int64,1},Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,288
+Luxor,#rule#8,true,false,19,1,"Array{Point,1}","BoundingBox,Bool,typeof(rule),Point,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,397
+Luxor,#placeimage#168,true,true,0,1,Nothing,"Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}},typeof(placeimage),Cairo.CairoSurfaceBase{UInt32},Point,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/images.jl,69
+Luxor,set_current_greenvalue,true,true,0,1,Float64,Float32,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,63
+Luxor,boxaspectratio,true,true,0,1,Float64,BoundingBox,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/BoundingBox.jl,191
+Luxor,sethue,true,true,0,1,"Tuple{Float64,Float64,Float64}","Tuple{Float64,Float64,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,156
+Luxor,circle,true,true,1,1,Bool,"Float64,Float64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,11
+Luxor,image_as_matrix,true,false,1,1,"Base.ReinterpretArray{ARGB32,2,UInt32,Array{UInt32,2}}",,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/drawings.jl,689
+Luxor,arc,true,true,0,1,Bool,"Int64,Int64,Float64,Float64,Float64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,polycentroid,true,true,3,1,Point,"Array{Point,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,41
+Luxor,_b1,true,true,0,1,Float64,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/bezierpath.jl,385
+Luxor,intersection2circles,true,true,2,3,Float64,"Point,Int64,Point,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,678
+Luxor,rect,true,true,0,1,"Array{Point,1}","Point,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,28
+Luxor,initnoise,true,true,3,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,204
+Luxor,setmatrix,true,false,3,1,Nothing,"Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,83
+Luxor,textcurve,true,true,0,1,Nothing,"String,Int64,Int64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,251
+Luxor,slope,true,true,0,1,Float64,"Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,331
+Luxor,noise,true,true,0,1,Float64,"Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,25
+Luxor,setcolor,true,true,0,1,"NTuple{4,Float64}","Tuple{Float64,Float64,Float64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,170
+Luxor,setopacity,true,true,0,1,Int64,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,185
+Luxor,box,true,true,0,1,Bool,"Point,Int64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,109
+Luxor,perpendicular,true,true,0,1,Point,Point,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,207
+Luxor,circle,true,true,0,1,Bool,"Point,Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,32
+Luxor,#polyportion#77,true,false,7,5,"Array{Point,1}","Bool,Array{Any,1},typeof(polyportion),Array{Point,1},Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,903
+Luxor,circlecircleinnertangents,true,true,3,4,"Union{Nothing, NTuple{4,Point}}","Point,Int64,Point,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,966
+Luxor,scale,true,true,0,1,Nothing,Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,527
+Luxor,rescale,true,true,0,1,Float64,"Float64,Int64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,64
+Luxor,scalingmatrix,false,false,0,1,Any,"Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,148
+Luxor,arc,true,false,0,1,Bool,"Float64,Float64,Any,Any,Any,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,144
+Luxor,translationmatrix,true,true,0,1,"Array{Float64,2}","Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/matrix.jl,137
+Luxor,#ngon#28,true,true,1,1,"Array{Point,1}","Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:vertices,),Tuple{Bool}}},typeof(ngon),Point,Float64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,201
+Luxor,between,true,true,0,1,Point,"Point,Point,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,156
+Luxor,#dimension#134,true,true,1,1,"Tuple{Float64,String}","var""#138#141"",Int64,Array{Int64,1},Array{Int64,1},Float64,Int64,Int64,Float64,Float64,Int64,Float64,typeof(dimension),Point,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/arrows.jl,375
+Luxor,getproportionpoint,true,true,0,1,Point,"Point,Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/polygons.jl,354
+Luxor,carc,true,false,0,1,Bool,"Float64,Float64,Any,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,166
+Luxor,#textwrap#158,true,false,1,1,Point,"Base.Iterators.Pairs{Symbol,Int64,Tuple{Symbol},NamedTuple{(:rightgutter,),Tuple{Int64}}},typeof(textwrap),String,Real,Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,671
+Luxor,scale,true,true,0,1,Nothing,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,520
+Luxor,@layer,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,500
+Luxor,blendmatrix,true,true,0,1,Nothing,"Cairo.CairoPattern,Array{Float64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/blends.jl,170
+Luxor,#ngon#28,true,true,1,1,"Array{Point,1}","Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:reversepath,),Tuple{Bool}}},typeof(ngon),Point,Float64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/shapes.jl,201
+Luxor,#textbox#151,true,false,4,1,Point,"Int64,Luxor.var""#153#155"",Symbol,typeof(textbox),Array{String,1},Point",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,591
+Luxor,polar,true,true,0,1,Point,"Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,411
+Luxor,nextgridpoint,true,true,4,1,Point,GridHex,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/tiles-grids.jl,225
+Luxor,#hypotrochoid#101,false,false,7,2,"Union{Tuple{Int64,Float64}, Array{Point,1}}","Bool,Float64,Float64,Bool,typeof(hypotrochoid),Int64,Int64,Int64,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,537
+Luxor,#text#141,true,true,1,1,Point,"Base.Iterators.Pairs{Symbol,Symbol,Tuple{Symbol},NamedTuple{(:halign,),Tuple{Symbol}}},typeof(text),String,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,89
+Luxor,carc,true,false,0,1,Bool,"Any,Any,Any,Any,Any,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,166
+Luxor,setcolor,true,true,0,1,"Tuple{Int64,Int64,Int64,Float64}","Int64,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/colors_styles.jl,68
+Luxor,setline,true,true,0,1,Nothing,Float64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/basics.jl,259
+Luxor,intersectionlinecircle,true,true,0,1,"Tuple{Int64,Point,Point}","Point,Point,Point,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/point.jl,379
+Luxor,ellipse,true,true,0,1,"Array{Point,1}","Point,Point,Point,Symbol",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/curves.jl,506
+Luxor,boxmap,false,false,1,1,"Union{Array{Any,1}, Array{BoxmapTile,1}}","Array{Int64,1},Point,Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/Boxmaptile.jl,139
+Luxor,extrapolate,true,true,0,1,Float64,"Int64,Int64,Int64,Int64,Float64,Float64,Float64,Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/noise.jl,157
+Luxor,get_fontsize,true,true,0,1,Float64,,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Luxor/depot/packages/Luxor/LqBTI/src/text.jl,124

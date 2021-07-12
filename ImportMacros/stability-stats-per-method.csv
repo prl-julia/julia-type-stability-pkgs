@@ -1,0 +1,6 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+ImportMacros,@import,2,1.0,1.0,1,0,0,108,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,39
+ImportMacros,get_names,4,0.25,0.25,3,0,0,330,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,92
+ImportMacros,@import,1,1.0,0.0,1,0,0,708,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,47
+ImportMacros,@using,2,1.0,1.0,1,0,0,108,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,63
+ImportMacros,create_expression,2,1.0,0.5,1,0,0,661,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/ImportMacros/depot/packages/ImportMacros/MYaGu/src/ImportMacros.jl,72

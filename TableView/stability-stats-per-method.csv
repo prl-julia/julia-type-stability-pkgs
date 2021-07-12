@@ -1,0 +1,12 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+TableView,showtable,3,1.0,1.0,1,0,0,70,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TableView/depot/packages/TableView/CT3WZ/src/TableView.jl,63
+TableView,_showtable_sync!,3,1.0,1.0,1,0,0,169,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TableView/depot/packages/TableView/CT3WZ/src/TableView.jl,199
+TableView,showtable,1,1.0,1.0,1,0,0,67,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TableView/depot/packages/TableView/CT3WZ/src/TableView.jl,47
+TableView,to_css_size,1,1.0,1.0,1,0,0,37,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TableView/depot/packages/TableView/CT3WZ/src/TableView.jl,20
+TableView,#showtable#2,3,1.0,0.0,1,0,0,3551,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TableView/depot/packages/TableView/CT3WZ/src/TableView.jl,63
+TableView,#showtable#1,1,1.0,1.0,1,0,0,126,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TableView/depot/packages/TableView/CT3WZ/src/TableView.jl,47
+TableView,#table2json#9,4,1.0,0.75,1,0,0,628,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TableView/depot/packages/TableView/CT3WZ/src/TableView.jl,253
+TableView,__init__,1,1.0,1.0,1,0,0,298,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TableView/depot/packages/TableView/CT3WZ/src/TableView.jl,11
+TableView,showtable,3,1.0,1.0,1,0,0,64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TableView/depot/packages/TableView/CT3WZ/src/TableView.jl,63
+TableView,table2json,4,1.0,1.0,1,0,0,61,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TableView/depot/packages/TableView/CT3WZ/src/TableView.jl,253
+TableView,to_css_size,1,1.0,1.0,1,0,0,46,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/TableView/depot/packages/TableView/CT3WZ/src/TableView.jl,21

@@ -1,0 +1,6 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[DICOM]]
+git-tree-sha1 = "5a9fe064a12373344e97af84967277204904b4a7"
+uuid = "a26e6606-dd52-5f6a-a97f-4f611373d757"
+version = "0.8.0"

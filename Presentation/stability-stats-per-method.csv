@@ -1,0 +1,17 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+Presentation,render,2,1.0,1.0,1,0,0,67,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/renderer.jl,292
+Presentation,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/Presentation.jl,1
+Presentation,cmove_bottom,1,1.0,1.0,1,0,0,59,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/utils.jl,152
+Presentation,__init__,1,1.0,1.0,1,0,0,149,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/Presentation.jl,35
+Presentation,cmove,1,1.0,1.0,1,0,0,72,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/utils.jl,166
+Presentation,render,1,1.0,0.0,1,0,0,385,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/renderer.jl,267
+Presentation,render,1,1.0,1.0,1,0,0,88,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/renderer.jl,278
+Presentation,clear,1,1.0,0.0,1,0,0,124,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/utils.jl,167
+Presentation,canvassize,1,0.0,0.0,1,0,0,44,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/utils.jl,142
+Presentation,cmove,2,1.0,0.0,1,0,0,55,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/utils.jl,150
+Presentation,getH,1,0.0,0.0,1,0,0,52,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/utils.jl,149
+Presentation,render,1,1.0,1.0,1,0,0,111,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/renderer.jl,283
+Presentation,size,1,0.0,0.0,1,0,0,59,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/utils.jl,120
+Presentation,render,1,1.0,1.0,1,0,0,96,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/renderer.jl,290
+Presentation,clear,1,1.0,1.0,1,0,0,45,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/utils.jl,151
+Presentation,current_slide,1,1.0,1.0,1,0,0,69,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Presentation/depot/packages/Presentation/AQ2MQ/src/slideshow.jl,33

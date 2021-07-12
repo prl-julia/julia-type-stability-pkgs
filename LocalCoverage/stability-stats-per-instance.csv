@@ -1,0 +1,7 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+LocalCoverage,coverage_summary_string,true,false,0,1,String,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LocalCoverage/depot/packages/LocalCoverage/AoAgo/src/LocalCoverage.jl,64
+LocalCoverage,pkgdir,true,true,0,1,String,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LocalCoverage/depot/packages/LocalCoverage/AoAgo/src/LocalCoverage.jl,23
+LocalCoverage,#generate_coverage#2,false,false,8,1,Any,"Bool,Bool,Bool,typeof(generate_coverage),String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LocalCoverage/depot/packages/LocalCoverage/AoAgo/src/LocalCoverage.jl,107
+LocalCoverage,generate_xml,true,true,0,1,Nothing,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LocalCoverage/depot/packages/LocalCoverage/AoAgo/src/LocalCoverage.jl,82
+LocalCoverage,generate_xml,true,false,4,1,Nothing,"String,String",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LocalCoverage/depot/packages/LocalCoverage/AoAgo/src/LocalCoverage.jl,82
+LocalCoverage,coverage_summary,true,false,4,1,Nothing,Any,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/LocalCoverage/depot/packages/LocalCoverage/AoAgo/src/LocalCoverage.jl,72

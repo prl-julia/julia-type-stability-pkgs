@@ -1,0 +1,6 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Sherlock,include,false,false,0,1,Any,String,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Sherlock/depot/packages/Sherlock/VE0HI/src/Sherlock.jl,1
+Sherlock,nothing_is_val,true,true,0,1,Int64,"Nothing,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Sherlock/depot/packages/Sherlock/VE0HI/src/Utilities.jl,8
+Sherlock,ismacro,true,true,0,1,Bool,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Sherlock/depot/packages/Sherlock/VE0HI/src/Types.jl,106
+Sherlock,nothing_is_val,true,true,1,1,Int64,"Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Sherlock/depot/packages/Sherlock/VE0HI/src/Utilities.jl,8
+Sherlock,trim_type,true,false,1,1,Symbol,Symbol,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Sherlock/depot/packages/Sherlock/VE0HI/src/Utilities.jl,16

@@ -1,0 +1,7 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Suppressor,@capture_err,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Suppressor/depot/packages/Suppressor/nTjgZ/src/Suppressor.jl,148
+Suppressor,@suppress,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Suppressor/depot/packages/Suppressor/nTjgZ/src/Suppressor.jl,14
+Suppressor,@suppress_err,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Suppressor/depot/packages/Suppressor/nTjgZ/src/Suppressor.jl,81
+Suppressor,@color_output,true,false,0,1,Expr,"LineNumberNode,Module,Bool,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Suppressor/depot/packages/Suppressor/nTjgZ/src/Suppressor.jl,200
+Suppressor,@suppress_out,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Suppressor/depot/packages/Suppressor/nTjgZ/src/Suppressor.jl,57
+Suppressor,@capture_out,true,false,0,1,Expr,"LineNumberNode,Module,Any",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Suppressor/depot/packages/Suppressor/nTjgZ/src/Suppressor.jl,118

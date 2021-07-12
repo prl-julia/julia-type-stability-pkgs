@@ -1,0 +1,59 @@
+modl,funcname,stable,grounded,gotos,returns,rettype,intypes,file,line
+Missings,skipmissings,false,false,4,1,Tuple,"Array{Union{Missing, Int64},1},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,261
+Missings,passmissing,false,false,0,1,Missings.PassMissing{_A} where _A,Function,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,235
+Missings,disallowmissing,true,true,0,1,"Array{Int64,1}","Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,50
+Missings,allowmissing,true,true,0,1,"Array{Any,2}","Array{Any,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,37
+Missings,replace,true,true,0,1,"Missings.EachReplaceMissing{Array{Union{Missing, Int64},2},Int64}","Array{Union{Missing, Int64},2},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,83
+Missings,disallowmissing,true,true,0,1,"Array{Int64,1}","Array{Union{Missing, Int64},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,50
+Missings,fail,true,true,0,1,"Missings.EachFailMissing{Array{Int64,1}}","Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,144
+Missings,_anymissingindex,true,true,4,2,Bool,"Tuple{Array{Union{Missing, Int64},1}},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,287
+Missings,allowmissing,true,true,0,1,"Array{Missing,1}","Array{Missing,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,37
+Missings,passmissing,true,true,0,1,Missings.PassMissing{CubeRooter},CubeRooter,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,235
+Missings,skipmissings,false,false,4,1,Tuple,"Array{Missing,2},Vararg{Any,N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,261
+Missings,missings,true,true,0,1,"Array{Union{Missing, Int64},1}","Type{Int64},Tuple{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,23
+Missings,disallowmissing,true,true,0,1,"Array{Int64,2}","Array{Int64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,50
+Missings,_anymissingindex,true,false,4,2,Bool,"Tuple{Array{Union{Missing, String},1},Array{Union{Missing, Float64},1}},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,287
+Missings,allowmissing,true,true,0,1,"Array{Union{Missing, Int64},1}","Array{Union{Missing, Int64},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,37
+Missings,missings,true,true,0,1,"Array{Union{Missing, Int64},2}","Type{Union{Missing, Int64}},Int64,Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,25
+Missings,fail,true,true,0,1,"Missings.EachFailMissing{Array{Int64,2}}","Array{Int64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,144
+Missings,disallowmissing,true,true,0,1,"Array{Any,2}","Array{Any,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,50
+Missings,missings,true,true,0,1,"Array{Union{Missing, Int64},2}","Type{Int64},Tuple{Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,23
+Missings,allowmissing,true,true,0,1,"Array{Union{Missing, Int64},2}","Array{Union{Missing, Int64},2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,37
+Missings,allowmissing,true,true,0,1,"Array{Union{Missing, Int64},1}","Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,37
+DataAPI,levels,true,true,5,1,"Array{Union{},1}","Array{Missing,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/DataAPI/o4TFz/src/DataAPI.jl,119
+DataAPI,levels,true,true,5,1,"Array{Complex{Int64},1}","Array{Union{Missing, Complex{Int64}},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/DataAPI/o4TFz/src/DataAPI.jl,119
+DataAPI,levels,true,true,5,1,"Array{Int64,1}","Array{Int64,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/DataAPI/o4TFz/src/DataAPI.jl,119
+Missings,#s15#1,true,false,1,2,"Union{Missing, Expr}","Any,Any,Any",none,0
+Missings,disallowmissing,true,true,0,1,"Array{Any,1}","Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,50
+Missings,fail,true,true,0,1,"Missings.EachFailMissing{Array{Union{Missing, Int64},1}}","Array{Union{Missing, Int64},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,144
+Missings,missings,true,true,0,1,"Array{Missing,2}","Tuple{Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,21
+Missings,#s15#2,true,false,4,2,"Union{Missing, Expr}","Any,Any,Any",none,0
+DataAPI,levels,true,true,5,1,"Array{Int64,1}",UnitRange{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/DataAPI/o4TFz/src/DataAPI.jl,119
+Missings,skipmissings,false,false,4,1,Tuple,"Array{Union{Missing, Int64},2},Vararg{Array{Union{Missing, Int64},2},N} where N",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,261
+DataAPI,levels,true,true,5,1,"Array{Int64,1}","SparseVector{Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/DataAPI/o4TFz/src/DataAPI.jl,119
+Missings,replace,true,true,0,1,"Missings.EachReplaceMissing{Base.Generator{Array{Union{Missing, Int64},1},typeof(identity)},Int64}","Base.Generator{Array{Union{Missing, Int64},1},typeof(identity)},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,83
+Missings,missings,true,true,0,1,"Array{Missing,1}",Tuple{Int64},/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,21
+DataAPI,levels,true,true,5,1,"Array{Int64,1}","SparseMatrixCSC{Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/DataAPI/o4TFz/src/DataAPI.jl,119
+Missings,allowmissing,true,true,0,1,"Array{Union{Missing, Int64},2}","Array{Int64,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,37
+Missings,disallowmissing,true,true,0,1,"Array{Int64,2}","Array{Union{Missing, Int64},2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,50
+DataAPI,levels,true,true,5,1,"Array{Int64,1}","Array{Union{Missing, Int64},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/DataAPI/o4TFz/src/DataAPI.jl,119
+Missings,missings,true,true,0,1,"Array{Missing,1}",Int64,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,24
+Missings,disallowmissing,true,true,0,1,"Array{Union{},1}","Array{Missing,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,50
+Missings,missings,true,true,0,1,"Array{Union{Missing, Int64},2}","Type{Union{Missing, Int64}},Tuple{Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,22
+Missings,_anymissingindex,true,true,4,2,Bool,"Tuple{Array{Union{Missing, Int64},2}},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,287
+Missings,replace,true,true,0,1,"Missings.EachReplaceMissing{Array{Union{Missing, Int64},1},Int64}","Array{Union{Missing, Int64},1},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,83
+Missings,allowmissing,true,true,0,1,"Array{Any,1}","Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,37
+DataAPI,levels,true,true,5,1,"Array{String,1}","Array{Union{Missing, String},1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/DataAPI/o4TFz/src/DataAPI.jl,119
+Missings,replace,true,true,0,1,"Missings.EachReplaceMissing{Array{Union{Missing, Int64},1},Int64}","Array{Union{Missing, Int64},1},Float64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,83
+DataAPI,levels,false,false,5,1,Any,"Array{Any,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/DataAPI/o4TFz/src/DataAPI.jl,119
+Missings,passmissing,false,false,0,1,Missings.PassMissing{_A} where _A,Type{T} where T,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,235
+DataAPI,levels,true,true,5,1,"Array{Int64,1}","StepRange{Int64,Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/DataAPI/o4TFz/src/DataAPI.jl,119
+Missings,missings,true,true,0,1,"Array{Any,1}","Type{Any},Tuple{Int64}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,22
+Missings,_anymissingindex,true,true,4,2,Bool,"Tuple{Array{Union{Missing, String},1}},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,287
+Missings,T,false,false,0,1,Type,Type{T} where T,deprecated.jl,45
+Missings,missings,true,true,0,1,"Array{Any,1}","Type{Any},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,25
+Missings,allowmissing,true,true,0,1,"Array{Missing,2}","Array{Missing,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,37
+Missings,missings,true,true,0,1,"Array{Union{Missing, Int64},1}","Type{Int64},Int64",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,25
+Missings,fail,true,true,0,1,"Missings.EachFailMissing{Base.Generator{Array{Int64,1},typeof(identity)}}","Base.Generator{Array{Int64,1},typeof(identity)}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,144
+DataAPI,levels,true,true,5,1,"Array{String,1}","Array{String,1}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/DataAPI/o4TFz/src/DataAPI.jl,119
+Missings,disallowmissing,true,true,0,1,"Array{Union{},2}","Array{Missing,2}",/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/Missings/depot/packages/Missings/hn4Ye/src/Missings.jl,50

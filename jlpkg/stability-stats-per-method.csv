@@ -1,0 +1,4 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+jlpkg,#install#1,1,1.0,0.0,1,0,0,2452,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/jlpkg/depot/packages/jlpkg/7dlwg/src/jlpkg.jl,26
+jlpkg,#install_completion#6,1,1.0,0.0,1,0,0,2771,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/jlpkg/depot/packages/jlpkg/7dlwg/src/jlpkg.jl,94
+jlpkg,install_completion,1,1.0,1.0,1,0,0,88,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/jlpkg/depot/packages/jlpkg/7dlwg/src/jlpkg.jl,94

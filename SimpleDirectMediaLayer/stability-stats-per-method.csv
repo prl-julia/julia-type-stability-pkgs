@@ -1,0 +1,4 @@
+modl,funcname,occurs,stable,grounded,rettypes,nospec,vararg,size,file,line
+SimpleDirectMediaLayer,Init,1,1.0,1.0,1,0,0,85,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SimpleDirectMediaLayer/depot/packages/SimpleDirectMediaLayer/WmGZl/src/lib/SDL.jl,3868
+SimpleDirectMediaLayer,Quit,1,1.0,1.0,1,0,0,56,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SimpleDirectMediaLayer/depot/packages/SimpleDirectMediaLayer/WmGZl/src/lib/SDL.jl,3884
+SimpleDirectMediaLayer,include,1,0.0,0.0,1,0,0,48,/data/artem/stability/repo/Stability/pkgs/fresh6-10pkgs-ver/SimpleDirectMediaLayer/depot/packages/SimpleDirectMediaLayer/WmGZl/src/SimpleDirectMediaLayer.jl,2
